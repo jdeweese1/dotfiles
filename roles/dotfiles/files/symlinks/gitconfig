@@ -3,8 +3,8 @@
     status = auto
     branch = auto
 [user]
-	name = Brent O'Connor
-	email = epicserve@gmail.com
+	name = Jarod DeWeese
+	email = 'jaroddeweese@gmail.com'
 [core]
     editor = code --wait
     excludesfile = ~/.gitignore

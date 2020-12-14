@@ -23,6 +23,12 @@
     - pyenv
     - zsh
     - zlib
+    - youtube-dl
+    - ffmpeg
+    - autojump
+    - wget
+    - hub
+    - autopep8
 
 - name: Install Casks
   community.general.homebrew_cask:
@@ -34,17 +40,19 @@
     upgrade_all: yes
   with_items:
     - 1password
-    - aerial
     - bartender
     - dropbox
     - firefox
-    - fork
-    - google-backup-and-sync
     - iterm2
-    - messenger
     - microsoft-teams
     - pycharm
     - slack
     - spectacle
     - spotify
     - zoomus
+    - mark-text
+    - bettertouchtool
+    - sublime-text
+    - sublime-merge
+    - dozer
+    - bunch
