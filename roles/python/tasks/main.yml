@@ -25,9 +25,9 @@
 #  environment:
 #    LDFLAGS: -L/usr/local/opt/zlib/lib
 #    CPPFLAGS: -I/usr/local/opt/zlib/include
-
-- name: Set Default Pyenv
-  command: pyenv global 3.9.0
+#
+#- name: Set Default Pyenv
+#  command: pyenv global 3.9.0
 
 - name: Install Global Python Requirements
   environment:
