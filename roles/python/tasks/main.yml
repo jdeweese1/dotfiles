@@ -29,9 +29,9 @@
 #- name: Set Default Pyenv
 #  command: pyenv global 3.9.0
 
-- name: Install Global Python Requirements
-  environment:
-    PIP_REQUIRE_VIRTUALENV: false
-  pip:
-    executable: "{{ ansible_env.HOME }}/.pyenv/shims/pip"
-    name: ['virtualenvwrapper', 'awscli']
+#- name: Install Global Python Requirements
+#  environment:
+#    PIP_REQUIRE_VIRTUALENV: false
+#  pip:
+#    executable: "{{ ansible_env.HOME }}/.pyenv/shims/pip"
+#    name: ['virtualenvwrapper', 'awscli']
