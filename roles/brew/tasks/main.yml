@@ -14,26 +14,31 @@
     update_homebrew: yes
     upgrade_all: yes
   with_items:
+    - autojump
+    - autopep8
     - chamber
     - direnv
+    - ffmpeg
     - git
     - git-extras
+    - htop
+    - hub
+    - ipython
+    - jfrog-cli
+    - jq
+    - m-cli
+    - minikube
+    - ncdu
     - node
-    - pyenv
     - pipenv
-    - zsh
-    - zlib
-    - youtube-dl
-    - ffmpeg
-    - autojump
+    - pipx
+    - pyenv
+    - tfenv
     - thefuck
     - wget
-    - hub
-    - autopep8
-    - pipx
-    - ncdu
-    - m-cli
-    - htop
+    - youtube-dl
+    - zlib
+    - zsh
 
 - name: Install Casks
   community.general.homebrew_cask:
@@ -45,18 +50,20 @@
     upgrade_all: yes
   with_items:
     - 1password
+    - alfred
+    - bettertouchtool
+    - bunch
+    - dozer
     - firefox
     - iterm2
-    - pycharm
-    - slack
-    - rectangle
-    - spotify
-    - zoomus
     - mark-text
-    - bettertouchtool
-    - sublime-text
+    - numi
+    - postman
+    - pycharm
+    - rectangle
+    - slack
+    - spotify
     - sublime-merge
-    - dozer
-    - bunch
+    - sublime-text
     - https://raw.githubusercontent.com/Mortennn/FiScript/master/fiscript.rb 
 
