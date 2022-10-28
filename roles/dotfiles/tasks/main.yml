@@ -30,7 +30,7 @@
   tags: dotfiles
 
 - name: Copy epicserve zsh-theme
-  copy: src=epicserve.zsh-theme dest={{ ansible_env.HOME }}/.oh-my-zsh/themes/epicserve.zsh-theme
+  copy: src=jdeweese.zsh-theme dest={{ ansible_env.HOME }}/.oh-my-zsh/themes/jdeweese.zsh-theme
   tags: dotfiles
 
 - name: Symlink dotfiles

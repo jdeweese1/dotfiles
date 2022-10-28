@@ -30,14 +30,10 @@ export SPACESHIP_NODE_SHOW=false
 plugins=(
   aws
   brew
-  django
   docker
   docker-compose
-  fabric
   git
   git-extras
-  heroku
-  npm
   pip
   vagrant
 )
@@ -52,7 +48,7 @@ export PATH="/usr/local/bin:/usr/local/sbin:/usr/local/scripts:/usr/local/share/
 # export LDFLAGS="-L$(brew --prefix openssl)/lib -L$(brew --prefix zlib)/lib -L$(brew --prefix sqlite3)/lib"
 
 # Set default editor
-export EDITOR='charm'
+export EDITOR='nano'
 
 # LOAD Virtualenvwrapper
 export WORKON_HOME=$HOME/.virtualenvs
@@ -127,5 +123,77 @@ ssh-add -K ~/.ssh/id_rsa &> /dev/null
 export COMPOSE_DOCKER_CLI_BUILD=1
 export DOCKER_BUILDKIT=1
 
+# Begin Jarod custom
+
+alias galias='alias | grep $1'
+# Grep history
+alias ghistory='history | grep $1'
+
+alias p='python'
+
+# autopep8
+alias ap8='autopep8 -r  --in-place'
+
+#brew
+alias brewup='brew update; brew upgrade; brew prune; brew cleanup; brew doctor'
+
+
+## git shortcuts
+alias gst='git status'
+alias gp='git push'
+alias gpom='git push origin main'
+alias ga='git add .'
+alias gcom='gco master'
+alias gcob='gco -b'
+
+alias mute='setvol 0'
+function mvt()
+{
+	mv "$1" ~/.Trash
+}
+
+##Change directories
+alias ch='cd ~'
+alias cdic='cd ~/Library/Mobile\ Documents/com~apple~CloudDocs'
+alias cdde='cd ~/Desktop'
+alias cddoc='cd ~/Documents'
+alias cddow='cd ~/Downloads'
+alias cdpp='cd ~/Projects/Python'
+alias cdp='cd ~/Projects'
+alias cdh='cd ~'
+function mkcdir ()
+{
+    mkdir -p -- "$1" &&
+      cd -P -- "$1"
+}
+
+##ls ing
+alias ls='ls -G'
+alias ll='ls -l'
+alias la='ls -a'
+alias gls='la | grep $1' # grep alias
+
+## shell management
+alias ee='exit'
+alias sbp='source ~/.bash_profile && echo "sourced"'
+alias sublzrc='subl ~/.zshrc'
+
+## shortcuts
+alias pbsay='pbpaste | say'
+alias pingg='ping google.com'
+alias getExternalIP='curl ifconfig.me'
+alias batt='pmset -g batt'
+alias subl='open -a Sublime\ Text.app'
+
+
+
 # Initialize direnv
 eval "$(direnv hook zsh)"
+
+eval $(thefuck --alias f)
+[ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
+
+[ -z "$PS1" ] && return # make the following only bind in interactive mode ie prompt
+function cd {
+    builtin cd "$@" && ls -F
+    }
