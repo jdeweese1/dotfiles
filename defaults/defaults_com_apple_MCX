@@ -1,4 +1,80 @@
 {
+    ".GlobalPreferences" =     {
+    };
+    "com.airwatch.DiskEncryption" =     {
+    };
+    "com.airwatch.Firewall" =     {
+    };
+    "com.apple.DiscRecording" =     {
+    };
+    "com.apple.MCX" =     {
+    };
+    "com.apple.MCX.FileVault2" =     {
+    };
+    "com.apple.NetworkBrowser" =     {
+    };
+    "com.apple.SetupAssistant.managed" =     {
+    };
+    "com.apple.ShareKitHelper" =     {
+    };
+    "com.apple.SubmitDiagInfo" =     {
+    };
+    "com.apple.TCC.configuration-profile-policy" =     {
+    };
     "com.apple.applicationaccess" =     {
+    };
+    "com.apple.applicationaccess.new" =     {
+    };
+    "com.apple.appstore" =     {
+    };
+    "com.apple.coremediaio.support" =     {
+    };
+    "com.apple.dashboard" =     {
+    };
+    "com.apple.desktop" =     {
+    };
+    "com.apple.extensiblesso" =     {
+    };
+    "com.apple.finder" =     {
+    };
+    "com.apple.font" =     {
+    };
+    "com.apple.gamed" =     {
+    };
+    "com.apple.loginitems.managed" =     {
+    };
+    "com.apple.loginwindow" =     {
+    };
+    "com.apple.notificationsettings" =     {
+    };
+    "com.apple.preferences.users" =     {
+    };
+    "com.apple.screensaver" =     {
+    };
+    "com.apple.security.FDERecoveryKeyEscrow" =     {
+    };
+    "com.apple.security.FDERecoveryRedirect" =     {
+    };
+    "com.apple.syspolicy.kernel-extension-policy" =     {
+    };
+    "com.apple.system-extension-policy" =     {
+    };
+    "com.apple.systempolicy.control" =     {
+    };
+    "com.apple.systempolicy.managed" =     {
+    };
+    "com.apple.systempreferences" =     {
+    };
+    "com.apple.systemuiserver" =     {
+    };
+    "com.apple.vpn.managed.applayer" =     {
+    };
+    "com.apple.webcontent-filter" =     {
+    };
+    "com.google.Chrome" =     {
+    };
+    "com.paloaltonetworks.GlobalProtect.client" =     {
+    };
+    "com.vmware.lookup" =     {
     };
 }

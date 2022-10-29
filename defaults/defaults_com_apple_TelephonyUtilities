@@ -1,18 +1,9 @@
 {
     CachedVCCaps = 17592188010496;
-    GEOUsageSessionID = {length = 21, bytes = 0x08a4e0d9f1818e90a78f0110acf9eec6a2f083bc13};
-    GEOUsageSessionIDGenerationTime = "546297677.63436";
-    GondolaGeneratedIdentifier = "6E0F74A8-AA4C-41F5-92B7-A50E82590C3D";
-    GondolaLatestVersion = 8;
-    GondolaSyncedVersion = 0;
-    activeConversationsListKey =     (
-    );
-    lastKnownOutgoingCallerID = "+16203884831";
+    kLastIDSFirewallVersionDefaultsKey = 1;
     registeredProviders =     (
         {length = 132, bytes = 0x0a3b636f 6d2e6170 706c652e 74656c65 ... 48006803 68027801 },
         {length = 83, bytes = 0x0a17636f 6d2e6170 706c652e 636f7265 ... 08021204 23393131 }
     );
     registeredProvidersVersion = 1;
-    thumperCallingCapabilitiesStates =     (
-    );
 }

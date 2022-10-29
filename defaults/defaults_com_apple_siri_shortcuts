@@ -1,6 +1,3 @@
 {
-    LegacyShortcutsZoneSubscriptionUnsubscribed = 1;
-    WFDefaultShortcutsVersion = 2;
-    WFDidUnconflictShortcuts = 1;
-    WFLastSyncedFlagsHash = 3735928557;
+    ShareSheetShortcutsPresent = 0;
 }

@@ -1,0 +1,61 @@
+{
+    InstalledAssets =     {
+        "com.apple.MobileAsset.ComfortSoundsAssets" =         (
+        );
+        "com.apple.MobileAsset.ImageCaptionModel" =         (
+        );
+        "com.apple.MobileAsset.MacinTalkVoiceAssets" =         (
+        );
+        "com.apple.MobileAsset.TTSAXResourceModelAssets" =         (
+                        {
+                AssetID = 5fd923cfd4676f4af44618de4f15fcc9496ee64c;
+                AssetType = "com.apple.MobileAsset.TTSAXResourceModelAssets";
+                CompatibilityVersion = 1;
+                ContentVersion = 4;
+                DownloadSize = 68803988;
+                FormatVersion = 1;
+                UnarchivedSize = 90176512;
+                UserInfo =                 {
+                    Build = 10M1320;
+                    Sample = 1;
+                    "_CompatibilityVersion" = 1;
+                    "_CompressionAlgorithm" = zip;
+                    "_ContentVersion" = 4;
+                    "_DownloadSize" = 68803988;
+                    "_IsZipStreamable" = 1;
+                    "_MasteredVersion" = 1320;
+                    "_Measurement" = {length = 20, bytes = 0x2185327b37786e3cf8146bd513c15b4f71d206fd};
+                    "_MeasurementAlgorithm" = "SHA-1";
+                    "_UnarchivedSize" = 90176512;
+                    "__AssetDefaultGarbageCollectionBehavior" = NeverCollected;
+                    "__BaseURL" = "https://updates.cdn-apple.com/2022/mobileassets/012-35363/B664215C-867D-4AB1-9F12-37FAA5B5175D/";
+                    "__CanUseLocalCacheServer" = 1;
+                    "__RelativePath" = "com_apple_MobileAsset_TTSAXResourceModelAssets/5fd923cfd4676f4af44618de4f15fcc9496ee64c.zip";
+                };
+            }
+        );
+        "com.apple.MobileAsset.VoiceServices.CombinedVocalizerVoices" =         (
+        );
+    };
+    RefreshEvents =     {
+        "com.apple.MobileAsset.ImageCaptionModel" =         (
+            "2022-10-29 17:55:19 +0000"
+        );
+    };
+    UserInfo =     {
+        "com.apple.MobileAsset.ImageCaptionModel" =         {
+            "UpdateAsset_RestorationState" =             {
+                Date = "2022-10-29 17:55:19 +0000";
+                LastExitStatus = Success;
+                Phase = Idle;
+            };
+        };
+        "com.apple.MobileAsset.TTSAXResourceModelAssets" =         {
+            ComponentChangeTaskSuccessful = "2022-10-29 18:06:56 +0000";
+            RefreshSSEVoicesForBundlePrefixTaskSuccessful = "2022-10-28 20:48:19 +0000";
+            SystemBootTime = "2022-10-28 20:24:47 +0000";
+            UpdateResourcesTaskSuccessful = "2022-10-29 18:06:57 +0000";
+            UpdateSiriVoicesTaskSuccessful = "2022-10-29 17:51:52 +0000";
+        };
+    };
+}

@@ -1,12 +1,7 @@
 {
-    FLUploadHeaders =     {
-        userId = "4B36EFAA-614B-49BB-A5CF-2CE1F69715AE";
-    };
-    GEOUsageSessionID = {length = 20, bytes = 0x089ab3c494fadbe1a10510b1bbc6b993f0bad90a};
-    GEOUsageSessionIDGenerationTime = "544977023.7251379";
     PARDefaultsVersion = 4;
-    PARTestSeed = 80;
-    PARTestSeedExpiration = "2022-10-29 19:39:47 +0000";
+    PARTestSeed = 100;
+    PARTestSeedExpiration = "2022-10-29 20:45:06 +0000";
     "download_resources" =     {
         "autofill_tld_whitelist_url" =         {
             url = "https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url?version=d82910c408523dcb3cfb020124f6e8b9";
@@ -27,7 +22,7 @@
             url = "https://api.smoot.apple.com/static/installed_app_whitelist_url?version=d952ed940d15e278436dce7b92f002bd";
         };
         "qi_features_url" =         {
-            url = "https://cdn.smoot.apple.com/static/qi_features_url?locale=en_US&version=00000000000000000000000000000014";
+            url = "https://api.smoot.apple.com/static/qi_features_url?locale=en_US&version=00000000000000000000000000000014";
         };
         "silhouette_config" =         {
             url = "https://cdn.smoot.apple.com/static/silhouette_config/5/silhouette_config?version=5";
@@ -41,12 +36,6 @@
         "spotlight_model_resources" =         {
             url = "https://cdn.smoot.apple.com/static/spotlight_model_resources/2/spotlight_ml.mpak?version=2";
         };
-        "spotlight_model_resources_experimental" =         {
-            url = "https://api-glb-chi.smoot.apple.com/spotlight_model_resources/1/spotlight_ml.mpak?version=1";
-        };
-        "spotlight_model_resources_shadow" =         {
-            url = "https://api-glb-chi.smoot.apple.com/spotlight_model_resources_shadow/1/spotlight_ml_shadow.mpak?version=1";
-        };
         "spotlight_phrase_dictionary.map" =         {
             url = "https://cdn.smoot.apple.com/static/spotlight_suggestions_phrase_dictionary/4/phrase-dictionary-en-US.map?version=4";
         };
@@ -54,5 +43,4 @@
             url = "https://cdn.smoot.apple.com/static/spotlight_suggestions_stopwords/4/stopwords-en.map?version=4";
         };
     };
-    "max_feedback_files" = 100;
 }

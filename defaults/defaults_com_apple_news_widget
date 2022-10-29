@@ -1,11 +1,5 @@
 {
-    CKPerBootTasks =     (
-        CKAcccountInfoCacheReset
-    );
-    CKStartupTime = 1636309883;
-    FCAppConfigurationBundleShortVersionKey = "7.3.2";
-    "first_widget_refresh_date" = "2021-02-04 14:37:28 +0000";
-    "first_widget_refresh_date_0-(null)-1" = "2022-07-09 20:10:36 +0000";
-    "fy-fetchdate-com.apple.news.public-production-143441-1" = "2021-11-24 17:38:55 +0000";
+    FCAppConfigurationBundleShortVersionKey = "8.1";
+    "first_widget_refresh_date" = "2022-10-28 20:48:16 +0000";
     marker = 0;
 }

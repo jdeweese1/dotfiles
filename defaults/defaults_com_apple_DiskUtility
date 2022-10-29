@@ -1,9 +1,7 @@
 {
-    NSNavLastRootDirectory = "/Volumes/Users/jarod/Desktop";
-    NSNavPanelExpandedSizeForOpenMode = "{712, 448}";
     "NSSplitView Subview Frames SUMainWindow" =     (
-        "0.000000, 0.000000, 345.000000, 633.000000, NO, NO",
-        "346.000000, 0.000000, 919.000000, 633.000000, NO, NO"
+        "0.000000, 0.000000, 256.000000, 522.000000, NO, NO",
+        "257.000000, 0.000000, 845.000000, 522.000000, NO, NO"
     );
     "NSToolbar Configuration kMainToolbarIdentifier" =     {
         "TB Display Mode" = 1;
@@ -11,8 +9,5 @@
         "TB Is Shown" = 1;
         "TB Size Mode" = 1;
     };
-    "NSWindow Frame MainWindow" = "293 0 1265 633 0 0 1680 1025 ";
-    "NSWindow Frame OperationProgress" = "183 617 475 360 0 0 1680 1025 ";
-    "OperationProgress DetailsVisible" = 1;
-    SidebarShowAllDevices = 1;
+    "NSWindow Frame MainWindow" = "313 277 1102 522 0 0 1728 1079 ";
 }

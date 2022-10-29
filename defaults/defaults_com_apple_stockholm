@@ -1,5 +1,3 @@
 {
-    MaxPaymentCards = 16;
-    PKWalletShouldAutomaticallyRegisterKey = 0;
     RemoteAdminV2 = 1;
 }

@@ -2,7 +2,7 @@
     absentCircleWithNoReason = 0;
     applicationDate = "0001-01-01 00:00:00 +0000";
     lastCircleStatus = "-1";
-    lastWritten = "2022-10-10 15:34:19 +0000";
+    lastWritten = "2022-10-29 04:59:09 +0000";
     pendingApplicationReminder = "4001-01-01 00:00:00 +0000";
     pendingApplicationReminderInterval = 86400;
 }

@@ -1,19 +1,8 @@
 {
     CKPerBootTasks =     (
-        CKAcccountInfoCacheReset
+        CKAcccountInfoCacheReset,
+        CKAccountInfoCacheReset
     );
-    CKStartupTime = 1665416020;
-    CloudKitAccountInfoCache =     {
-        e73f1a69bd500653ddea8bc2c3b850aacedffc2ea6e124d96ce052bf3eb55df0 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
-    };
+    CKStartupTime = 1666988687;
     IMChatVocabularyUpdaterDidPerformInitialUpdateKey = 1;
-    "Setting.BlockCameraAvail" = 1;
-    "Setting.BlockMicAvail" = 1;
-    "Setting.EnableReadReceipts" = 0;
-    "Setting.GlobalReadReceiptsVersionID" = 2;
-    "Setting.OfflineAtQuit" = 1;
-    "archivedMessagesChangeToken-syncStoreVersion" = 1;
-    "attachmentZoneChangeToken-syncStoreVersion" = 1;
-    "changeToken-syncStoreVersion" = 1;
-    "messagesChangeToken-syncStoreVersion" = 1;
 }

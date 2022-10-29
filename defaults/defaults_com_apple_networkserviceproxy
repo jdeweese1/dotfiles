@@ -1,6 +1,7 @@
 {
-    NSPConfiguration = {length = 8983, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00002249 };
-    NSPProxyAgentManagerPreferences = {length = 32046, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00007c30 };
-    NSPServiceStatusManagerInfo = {length = 1398, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000045e };
+    NSPConfiguration = {length = 9656, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000024d8 };
+    NSPLastGeohash = 9yut;
+    NSPProxyAgentManagerPreferences = {length = 31998, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00007c02 };
+    NSPServiceStatusManagerInfo = {length = 1217, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000003e1 };
     NSPSignatureInfo = {length = 2535, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000981 };
 }

@@ -1,24 +1,4 @@
 {
-    CSUI32BitLastAlertDate = "2019-10-04 18:31:17 +0000";
-    CSUIHasSafariBeenLaunched = 1;
     CSUIHaveCenteredGatekeeperProgressWindow = 1;
-    "CSUILast32BitPromptDate_v2 for com.Google.GoogleEarthPro" = "2018-11-29 19:12:24 +0000";
-    "CSUILast32BitPromptDate_v2 for com.cisco.Cisco-AnyConnect-Secure-Mobility-Client" = "2019-08-20 18:27:56 +0000";
-    "CSUILast32BitPromptDate_v2 for com.valvesoftware.steam" = "2019-09-16 21:15:15 +0000";
-    "CSUILast32BitPromptDate_v2 for com.yourcompany.vpndownloader" = "2019-08-20 18:28:16 +0000";
-    "CSUILast32BitPromptDate_v2 for fpsaud" = "2019-09-24 02:04:50 +0000";
-    "CSUILast32BitPromptDate_v2 for hl2_osx" = "2019-10-04 18:31:15 +0000";
-    "CSUILast32BitPromptDate_v2 for mono-sgen32" = "2019-05-18 02:26:47 +0000";
-    "CSUILast32BitPromptDate_v2 for org.inkscape.Inkscape" = "2019-03-04 02:30:16 +0000";
-    "CSUILast32BitPromptDate_v2 for org.python.IDLE" = "2019-01-13 17:04:25 +0000";
-    "CSUILast32BitPromptDate_v2 for portal2_osx" = "2019-10-07 01:11:23 +0000";
-    "CSUILast32BitPromptDate_v2 for run.x86-darwin" = "2019-09-29 23:47:04 +0000";
-    "CSUILast32BitPromptDate_v2 for vpnagentd" = "2019-07-22 00:00:41 +0000";
-    CSUILastOSVersionWhereSafariRecommendationWasMade = "12.1";
-    CSUIRecommendSafariBackOffInterval = 259200;
-    CSUIRecommendSafariNextNotificationDate = "2022-01-28 03:35:29 +0000";
-    NSNavLastRootDirectory = "/Applications";
-    NSNavPanelExpandedSizeForOpenMode = "{799, 448}";
-    "NSWindow Frame CSUIGatekeeperProgressWindow" = "657 517 400 70 0 0 1680 1025 ";
-    "NSWindow Frame NSNavPanelAutosaveName" = "440 434 799 387 0 0 1680 1027 ";
+    "NSWindow Frame CSUIGatekeeperProgressWindow" = "637 756 400 70 0 0 1728 1079 ";
 }

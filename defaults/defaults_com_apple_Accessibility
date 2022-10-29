@@ -1,8 +1,6 @@
 {
-    AXHearingAidPaired = 0;
     AXSClassicInvertColorsPreference = 0;
-    AccessibilityEnabled = 1;
-    ApplicationAccessibilityEnabled = 1;
+    ApplicationAccessibilityEnabled = 0;
     AutomationEnabled = 0;
     BrailleInputDeviceConnected = 0;
     CommandAndControlEnabled = 0;
@@ -18,7 +16,6 @@
     KeyRepeatEnabled = 1;
     KeyRepeatInterval = "0.083333333";
     ReduceMotionEnabled = 0;
-    SpeakThisEnabled = 1;
+    SpeakThisEnabled = 0;
     VoiceOverTouchEnabled = 0;
-    ZoomTouchEnabled = 0;
 }

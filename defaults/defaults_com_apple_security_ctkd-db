@@ -1,7 +1,5 @@
 {
     classes =     {
-        "com.apple.pivtoken" = "BC20E1BA-38F0-4029-BA16-AEF8FE9A02FE";
-    };
-    tokens =     {
+        "com.apple.pivtoken" = "3994E47F-1A07-4BA6-A466-7B0E47924652";
     };
 }

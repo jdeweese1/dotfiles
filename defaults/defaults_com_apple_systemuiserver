@@ -1,28 +1,4 @@
 {
-    "NSStatusItem Preferred Position Item-0" = 23;
-    "NSStatusItem Preferred Position Siri" = 76;
-    "NSStatusItem Preferred Position com.apple.menuextra.TimeMachine" = 5558;
-    "NSStatusItem Preferred Position com.apple.menuextra.airplay" = 20078;
-    "NSStatusItem Preferred Position com.apple.menuextra.airport" = 571;
-    "NSStatusItem Preferred Position com.apple.menuextra.appleuser" = "154.5";
-    "NSStatusItem Preferred Position com.apple.menuextra.battery" = "321.5";
-    "NSStatusItem Preferred Position com.apple.menuextra.bluetooth" = 76;
-    "NSStatusItem Preferred Position com.apple.menuextra.clock" = 249;
-    "NSStatusItem Preferred Position com.apple.menuextra.textinput" = 664;
-    "NSStatusItem Preferred Position com.apple.menuextra.volume" = 517;
-    "NSStatusItem Visible Item-1" = 0;
-    "NSStatusItem Visible com.apple.menuextra.TimeMachine" = 1;
-    "NSStatusItem Visible com.apple.menuextra.airplay" = 1;
-    "NSStatusItem Visible com.apple.menuextra.airport" = 1;
-    "NSStatusItem Visible com.apple.menuextra.appleuser" = 1;
-    "NSStatusItem Visible com.apple.menuextra.battery" = 1;
-    "NSStatusItem Visible com.apple.menuextra.bluetooth" = 1;
-    "NSStatusItem Visible com.apple.menuextra.clock" = 1;
-    "NSStatusItem Visible com.apple.menuextra.volume" = 1;
     "__NSEnableTSMDocumentWindowLevel" = 1;
-    "last-analytics-stamp" = "688247342.444607";
-    "last-messagetrace-stamp" = "613880429.179993";
-    menuExtras =     (
-        "/System/Library/CoreServices/Menu Extras/TimeMachine.menu"
-    );
+    "last-analytics-stamp" = "688682888.451259";
 }

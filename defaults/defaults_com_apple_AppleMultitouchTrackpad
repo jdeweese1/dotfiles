@@ -1,6 +1,5 @@
 {
     ActuateDetents = 1;
-    ActuationStrength = 0;
     Clicking = 1;
     DragLock = 0;
     Dragging = 0;

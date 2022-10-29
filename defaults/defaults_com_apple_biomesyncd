@@ -1,0 +1,10 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset,
+        CKAccountInfoCacheReset
+    );
+    CKStartupTime = 1666988687;
+    CloudKitAccountInfoCache =     {
+        79e019dfbe89eb3d10888163bfb298953ba917b53e4cce7766e9f96759e5b23e = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+    };
+}

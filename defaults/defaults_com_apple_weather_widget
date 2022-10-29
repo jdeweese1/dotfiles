@@ -1,6 +1,6 @@
 {
+    wdsAuthToken = "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJBcHBsZSIsImlhdCI6MTY2Njk5MDA5MywibmJmIjoxNjY2OTkwMDkzLCJpc3MiOiJBcHBsZSIsImV4cCI6MTY2OTU4MjA5M30.ty4lYf5KCbksW2ys7mnMxbtSDWwD4I_xOlbxc-JoGgRxgvZHApg4wWVQGlk51oRoohXCEOrhJwRsW-TzzyOPJg";
     wdsCacheCleanupState =     {
         "com.apple.weather.widget" = 1;
     };
-    widgetDiskCacheCleanupState = 1;
 }

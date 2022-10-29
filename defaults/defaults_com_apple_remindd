@@ -1,34 +1,13 @@
 {
-    CKPerBootTasks =     (
-        CKAcccountInfoCacheReset
-    );
-    CKStartupTime = 1665416028;
     CloudConfigurationPath = "/System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/Resources/CloudConfigurations/Normal.plist";
-    CloudKitAccountInfoCache =     {
-        fe2638514300aadbdb1c50766b84bcc42a168710690fbdf32839fce6c6b9bf20 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
-    };
-    CloudKitAccountStatus = 1;
-    CloudKitLastSyncSinceInternetReachable = "688613086.282232";
-    CloudKitZonesNeedingFetchChanges =     (
-    );
-    SubscriptionIDs =     (
-        "DatabaseSubscription-Shared",
-        "DatabaseSubscription-Private"
-    );
-    SubscriptionIDsLastModifiedDate = "688536270.069461";
-    ThrottlingPolicyCurrentBatchCount = 0;
-    ThrottlingPolicyCurrentLevelIndex = 0;
-    ThrottlingPolicyStartTime = "688703771.795728";
-    cloudKitSchemaCatchUpSyncLastSuccessBuildVersion = 21C52;
-    cloudKitSchemaCatchUpSyncLastSuccessDate = "2022-01-27 00:29:35 +0000";
+    CloudKitLastSyncSinceInternetReachable = "688753581.786785";
     isDatabaseMigrated = 1;
-    lastCloudConfigurationDownload = "2022-10-29 17:21:30 +0000";
-    lastDatabaseMigrationSystemBuildVersion = 19A583;
-    lastExtraneousAlarmsProcessedDate = "2022-10-29 17:21:45 +0000";
-    lastSuggestedAttributesAutoTrainingToken = {length = 820, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000278 };
-    lastSyncPoll = "2020-01-16 16:31:00 +0000";
-    preferredDefaultListID = "x-apple-reminderkit://REMCDList/66994FBC-7C96-45EF-8A41-A65C013F173E";
+    lastDatabaseMigrationSystemBuildVersion = 22A380;
+    lastExtraneousAlarmsProcessedDate = "2022-10-29 16:37:37 +0000";
+    lastSuggestedAttributesAutoTrainingToken = {length = 710, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000226 };
+    lastSyncPoll = "2022-10-28 20:47:47 +0000";
+    preferredDefaultListID = "x-apple-reminderkit://REMCDList/3C8C2A71-84BF-4C87-8EFD-BB4827650D15";
+    preferredDefaultListObjectIDUrl = "x-coredata://28B53809-85BB-491A-89D9-08CE8C39B257/REMCDList/p2";
     spotlightIndexVersion = 6;
-    staledFileAttachmentCleanupLastExecutionDate = "2022-10-28 12:31:55 +0000";
     useExtraneousAlarmBackOffThrottleInterval = 1;
 }

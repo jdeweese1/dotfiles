@@ -1,35 +1,4 @@
 {
-    "KSCKDidSetupRecordZoneProd-TextReplacements" = 1;
-    KSCKPreviousChangeToken = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050614 ... 00000000 000000df };
-    "KSCKSubscriptionProd-TextReplacements" = 1;
-    KSCloudKitMigrationDidComplete = 1;
-    KSDidMigrateToCloudKitOnCloud = 1;
-    "KSDidPushAllLocalRecordsOnce-2" = 1;
     "KSDidPushMigrationStatusOnce-2" = 1;
-    KSLastKnownUserID = "_b564d75f8277d7ad34e67d928a500bf3";
-    "KSLastKnownUserID-TextReplacements" = "_b564d75f8277d7ad34e67d928a500bf3";
     "KSSampleShortcutWasImported_CK" = 1;
-    TRCKSyncCountHalflifeInHours = 10;
-    TRCKSyncMaxCountThreshold = 200;
-    "_KSCKMigrationPreviousCheckDate" = "2017-11-10 15:28:47 +0000";
-    "_KSTRCloudKitMigratable" = 1;
-    configPullTime = "2019-10-07 04:43:39 +0000";
-    gmMigrationPercent = 0;
-    gmMigrationPercent1 = 999;
-    iOSMajorVersForCloudKitSync = 11;
-    iOSMinorVersForCloudKitSync = 0;
-    internalMigrationPercent = 0;
-    internalMigrationPercent1 = 999;
-    kDidInsertSampleShortcutForPeer = "jaroddeweese~2F95BD4B-B544-5018-BEB1-9F947B041766-AB9A5872-9E0E-420D-8510-E7B1CD01E1D6";
-    kTRCKLastSyncTime = "2022-10-29 17:14:20 +0000";
-    kTRCKSyncCount = 1;
-    osxMajorVersForCloudKitSync = 10;
-    osxMinorSubversionForCloudKitSync = 0;
-    osxMinorVersForCloudKitSync = 13;
-    seedMigrationPercent = 0;
-    seedMigrationPercent1 = 999;
-    userDidFallInMigrationAllowBatch = 1;
-    whitelistedMigrationAccounts =     (
-        "_25c1c71d1223953f6ffbbfa4e219254d"
-    );
 }

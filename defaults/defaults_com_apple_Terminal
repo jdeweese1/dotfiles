@@ -1,66 +1,23 @@
 {
-    CommandHistory =     (
-        ls
-    );
     "Default Window Settings" = Basic;
     DefaultProfilesVersion = 1;
     HasMigratedDefaults = 1;
-    "Man Page Window Settings" = "Man Page";
-    NSColorPanelMode = 3;
-    NSColorPickerPreferredRGBEntryMode = 2;
-    NSColorPickerSlidersDefaults = 3;
-    NSNavLastRootDirectory = "~/Desktop";
-    NSNavPanelExpandedSizeForOpenMode = "{712, 459}";
-    NSNavPanelExpandedSizeForSaveMode = "{712, 448}";
-    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
-        "0.000000, 0.000000, 255.000000, 391.000000, NO, NO",
-        "0.000000, 392.000000, 255.000000, 43.000000, NO, NO"
-    );
-    "NSToolbar Configuration com.apple.NSColorPanel" =     {
-        "TB Is Shown" = 1;
-    };
-    "NSWindow Frame NSColorPanel" = "617 156 255 248 0 0 1280 777 ";
-    "NSWindow Frame NSFontPanel" = "769 110 445 107 0 0 1280 777 ";
-    "NSWindow Frame TTAppPreferences" = "-830 709 667 533 -1920 421 1920 1057 ";
-    "NSWindow Frame TTWindow" = "1058 491 570 371 0 0 1680 1025 ";
-    "NSWindow Frame TTWindow Basic" = "1058 491 570 371 0 0 1680 1025 ";
-    "NSWindow Frame TTWindow Homebrew" = "989 473 570 371 0 0 1680 1025 ";
-    "NSWindow Frame TTWindow Man Page" = "0 326 570 701 0 0 1680 1027 ";
-    "NSWindow Frame TTWindow Novel" = "220 217 570 365 0 0 1280 777 ";
-    "NSWindow Frame TTWindow Ocean" = "220 217 570 365 0 0 1280 777 ";
-    "NSWindow Frame TTWindow Pro" = "90 204 490 365 0 0 1280 777 ";
-    NewWindowWorkingDirectoryBehavior = 2;
-    PermanentServers =     (
-        "linux.cs.ksu.edu"
-    );
-    PreviousCommands =     (
-        "ssh jdeweese1@linux.cs.ksu.edu",
-        "ssh jaroddeweese@linux.cs.ksu.edu",
-        "ssh -p 22 JarodMacBookPro.local.",
-        "192.168.1.1"
-    );
+    "NSWindow Frame TTAppPreferences" = "531 734 667 554 0 0 1728 1079 ";
+    "NSWindow Frame TTWindow" = "127 253 717 707 0 0 1728 1079 ";
+    "NSWindow Frame TTWindow Basic" = "127 309 717 651 0 0 1728 1079 ";
     ProfileCurrentVersion = "2.07";
-    SecureKeyboardEntry = 1;
-    Shell = "/bin/bash";
-    ShowTabBar = 1;
-    "Startup Window Settings" = Homebrew;
-    "TTAppPreferences Selected Tab" = 1;
-    "TTInspector Selected Pane" = Info;
+    SecureKeyboardEntry = 0;
+    Shell = "";
+    "Startup Window Settings" = Basic;
+    "TTAppPreferences Selected Tab" = 0;
     "Window Settings" =     {
         Basic =         {
-            BackgroundAlphaInactive = "0.5043578395953757";
-            BackgroundBlur = "0.1982613830380357";
-            BackgroundBlurInactive = "0.08225704479768786";
-            BackgroundColor = {length = 3687, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000de9 };
-            BackgroundSettingsForInactiveWindows = 0;
-            Font = {length = 266, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ce };
+            Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
             FontAntialias = 1;
             FontWidthSpacing = "1.004032258064516";
             ProfileCurrentVersion = "2.07";
             name = Basic;
-            shellExitAction = 1;
             type = "Window Settings";
-            warnOnShellCloseAction = 1;
         };
         Grass =         {
             BackgroundColor = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d2 };
@@ -73,12 +30,10 @@
             TextBoldColor = {length = 258, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000c9 };
             TextColor = {length = 259, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ca };
             name = Grass;
-            shellExitAction = 1;
             type = "Window Settings";
         };
         Homebrew =         {
-            BackgroundColor = {length = 254, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000c5 };
-            BackgroundSettingsForInactiveWindows = 0;
+            BackgroundColor = {length = 248, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000bf };
             CursorBlink = 1;
             CursorColor = {length = 268, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d3 };
             CursorType = 0;
@@ -93,7 +48,7 @@
         };
         "Man Page" =         {
             BackgroundColor = {length = 273, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d8 };
-            Font = {length = 266, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ce };
+            Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
             FontAntialias = 1;
             FontWidthSpacing = "1.004032258064516";
             ProfileCurrentVersion = "2.07";
@@ -119,7 +74,7 @@
         };
         Ocean =         {
             BackgroundColor = {length = 268, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d3 };
-            Font = {length = 266, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ce };
+            Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
             FontAntialias = 1;
             FontWidthSpacing = "0.9959677419354839";
             ProfileCurrentVersion = "2.07";
@@ -150,7 +105,7 @@
             BackgroundColor = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000de };
             CursorColor = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b4 };
             CursorType = 1;
-            Font = {length = 266, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ce };
+            Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
             FontAntialias = 1;
             FontWidthSpacing = "1.004032258064516";
             ProfileCurrentVersion = "2.07";
@@ -168,7 +123,7 @@
             BackgroundColor = {length = 363, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000105 };
             BackgroundSettingsForInactiveWindows = 1;
             CursorColor = {length = 240, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b7 };
-            Font = {length = 266, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ce };
+            Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
             FontAntialias = 1;
             FontWidthSpacing = "1.004032258064516";
             ProfileCurrentVersion = "2.07";
@@ -182,7 +137,7 @@
             BackgroundColor = {length = 322, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ff };
             BackgroundImageBookmark = {length = 746, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000029a };
             CursorColor = {length = 360, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000102 };
-            Font = {length = 266, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ce };
+            Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
             FontAntialias = 1;
             FontWidthSpacing = "1.004032258064516";
             ProfileCurrentVersion = "2.07";

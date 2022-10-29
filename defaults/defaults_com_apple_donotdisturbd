@@ -1,10 +1,10 @@
 {
     CKPerBootTasks =     (
-        CKAcccountInfoCacheReset
+        CKAcccountInfoCacheReset,
+        CKAccountInfoCacheReset
     );
-    CKStartupTime = 1665416020;
+    CKStartupTime = 1666988687;
     CloudKitAccountInfoCache =     {
-        03bde6b29fccba99e4d9b27fc07d029a8dbda7db80e8c4dbe36dfa5b9466fd5b = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+        18f5d3ba32b2866f1c46c07f297ce6604257fe698160758052188b7bf3abe3a9 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
     };
-    DNDSModeConfigurationsContactHistoryToken = {length = 622, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001f0 };
 }

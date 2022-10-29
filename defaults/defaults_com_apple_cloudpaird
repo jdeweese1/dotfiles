@@ -1,68 +1,12 @@
 {
-    AddressMapping =     {
-        "0436BABE-7BFD-4A22-8950-F0EEEC7976C3" = "50:1F:C6:38:66:73";
-        "14C6A7FF-D598-4916-BDB7-51E075799A58" = "14:7D:DA:9D:8C:6B";
-        "182B813B-0776-4C37-88C8-FFF91ABFEC78" = "34:08:BC:EE:A7:EB";
-        "34C00D42-5E1E-43A1-A6FA-931680761202" = "34:7C:25:B1:AB:63";
-        "55F2197E-8876-4D16-9B20-D3E6A062E2F5" = "00:8A:76:A5:27:43";
-        "61EFB98F-F467-47A2-8F93-E6A34536862B" = "60:06:E3:66:F8:DC";
-        "750B7475-C74D-41DB-90BE-5347353B5837" = "00:8A:76:A5:27:43";
-        "7664E582-BA3B-48B7-921F-1D75847DA4EA" = "34:7C:25:B1:AB:63";
-        "82D84F2D-B747-447C-8F42-C6FA4E97EF7A" = "34:08:BC:EE:A7:EB";
-        "9033DBB2-9B4F-4A11-90A4-293F3F07CBF3" = "14:7d:da:9d:8c:6b";
-        "B48E10C5-86BC-4063-A2A8-DF76CB5BEA2A" = "14:7d:da:9d:8c:6b";
-        "C45E8CF9-1353-4D76-AEF0-9092D38D6899" = "F8:C3:CC:AD:24:E2";
-        "D3BC6705-1D52-4383-A9F8-F7C0F614F035" = "94:EA:32:97:82:A7";
-        "DE31C527-CBFE-483A-B2CC-E028AEB1AC14" = "30:10:E4:C3:12:79";
-        "F0C86055-A8F8-4029-A11A-B1DC9AE5BED9" = "98:01:a7:a9:ac:be";
-        "FE15C826-8DD7-4EE3-8D66-8FB08E44AB9F" = "50:1F:C6:38:66:73";
-    };
     CKPerBootTasks =     (
-        CKAcccountInfoCacheReset
+        CKAcccountInfoCacheReset,
+        CKAccountInfoCacheReset
     );
-    CKStartupTime = 1665416020;
+    CKStartupTime = 1666988687;
     CloudKitAccountInfoCache =     {
-        93cedf8dc5e2da24722a5fd62a3f32f2eac5f17d773a719a16bee77f72b9f5a3 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
-        b0c03395fcf5253a819962ed0f9115aae914afac3fbe9ba7e6becdc98ea8e11b = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
-        ce3ec7a8c9de87a3b2bc149d0ac8c1ae183151c03f527f2631402a9e95fa9c8c = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+        159ad115ecc491b7c51451eafd298f00223fcb92718c045ce82c9e2f837391c4 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        36264e2b62df0f6dfffb6c2a1c6af1b933065c9acb12f6b9949d41ed6b7cd5b6 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        d5573f6d8ba2b8040237f83349f23d3772f1f08b27ce84a049cf2bf143367102 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
     };
-    MagicCloudPairingAccessoryEncryptionPreferences = 1;
-    MagicCloudPairingAccessorySubscriptionID = "863B7804-B9AE-420B-B6F0-CAC4CCD9B5E3";
-    MagicCloudPairingMasterEncryptionPreferences = 1;
-    MagicCloudPairingMasterSubscriptionID = "D2635853-C2AF-48DE-9B2A-7FCF724346B9";
-    MagicCloudPairingProtectedAccessorySubscription = 1;
-    PairingState =     (
-                {
-            DeviceUUID = "61EFB98F-F467-47A2-8F93-E6A34536862B";
-            PairingState = 5;
-        },
-                {
-            DeviceUUID = "9033DBB2-9B4F-4A11-90A4-293F3F07CBF3";
-            PairingState = 0;
-        },
-                {
-            DeviceUUID = "0436BABE-7BFD-4A22-8950-F0EEEC7976C3";
-            PairingState = 0;
-        },
-                {
-            DeviceUUID = "F0C86055-A8F8-4029-A11A-B1DC9AE5BED9";
-            PairingState = 0;
-        },
-                {
-            DeviceUUID = "DE31C527-CBFE-483A-B2CC-E028AEB1AC14";
-            PairingState = 0;
-        },
-                {
-            DeviceUUID = "82D84F2D-B747-447C-8F42-C6FA4E97EF7A";
-            PairingState = 0;
-        },
-                {
-            DeviceUUID = "C45E8CF9-1353-4D76-AEF0-9092D38D6899";
-            PairingState = 0;
-        }
-    );
-    PreviousToken = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050614 ... 00000000 000000df };
-    SecuredAccessoryZoneSubscription = 1;
-    SecuredZoneSubscription = 1;
-    UploadedHSA2KeysForLocalDevice = "6E0F74A8-AA4C-41F5-92B7-A50E82590C3D";
 }

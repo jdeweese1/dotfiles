@@ -1,0 +1,16 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset,
+        CKAccountInfoCacheReset
+    );
+    CKStartupTime = 1666988687;
+    CloudKitAccountInfoCache =     {
+        6fc1c455bd7aebf018e99fe5620c993378713334b8a50bcf6b1a5f23c4934d82 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+    };
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/app/mediaUsageActivityDate" = "2022-10-29 05:03:28 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/app/webUsageActivityDate" = "2022-10-29 05:12:35 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/notification/usageActivityDate" = "2022-10-29 18:21:43 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertLocalEventsNotification:/app/mediaUsageActivityDate" = "2022-10-29 05:03:28 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertLocalEventsNotification:/app/webUsageActivityDate" = "2022-10-29 05:12:35 +0000";
+    "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertLocalEventsNotification:/notification/usageActivityDate" = "2022-10-29 18:21:43 +0000";
+}

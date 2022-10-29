@@ -1,11 +1,8 @@
 {
-    GEOUsageSessionID = {length = 21, bytes = 0x0897e4b2f78495dfa167108fb5fdf29dfeee87e401};
-    GEOUsageSessionIDGenerationTime = "546855854.736406";
     PHAPhotoLibraryList =     {
         "/Users/jaroddeweese/Pictures/Photos Library.photoslibrary" =         {
             path = "/Users/jaroddeweese/Pictures/Photos Library.photoslibrary";
             version = 1;
         };
     };
-    lastWeeklyReportingTimestamp = "664746034.479192";
 }

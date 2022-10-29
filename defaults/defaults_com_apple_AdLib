@@ -1,15 +1,7 @@
 {
-    CKDPIDSyncState = 0;
-    CKSubscribedAccounts =     (
-        "B4C68073-ABAC-4934-B3CE-C937E50F99C3",
-        "B4C68073-ABAC-4934-B3CE-C937E50F99C3-secure"
-    );
-    StocksEnabled = 1;
     adprivacydMaxSegmentSendInterval = 259200;
-    adprivacydSegmentInterval = 91842;
-    allowApplePersonalizedAdvertising = 0;
+    adprivacydSegmentInterval = 93545;
+    allowApplePersonalizedAdvertising = 1;
     allowIdentifierForAdvertising = 1;
-    forceLimitAdTracking = 1;
-    "partiality-segment" = "https://partiality.itunes.apple.com/WebObjects/MZPartiality.woa/wa/IAD/segment";
     personalizedAdsMigrated = 1;
 }

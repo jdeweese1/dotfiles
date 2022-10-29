@@ -1,0 +1,38 @@
+{
+    MTAlarmModifiedDate = "2022-10-29 05:00:00 +0000";
+    MTAlarmStorageVersion = "3.1";
+    MTAlarms =     {
+        MTAlarms =         (
+        );
+        MTSleepAlarms =         (
+        );
+    };
+    MTTimerDefaultDuration = 900;
+    MTTimerModifiedDate = "2022-10-28 20:47:45 +0000";
+    MTTimerStorageVersion = 2;
+    MTTimers =     {
+        MTTimers =         (
+                        {
+                "$MTTimer" =                 {
+                    MTTimerDataVersion = "1.6";
+                    MTTimerDuration = 900;
+                    MTTimerFireTime =                     {
+                        "$MTTimerTimeInterval" =                         {
+                            MTTimerTimeInterval = 900;
+                        };
+                    };
+                    MTTimerFireTimerClass = MTTimerTimeInterval;
+                    MTTimerID = "0EB3DCF0-9D7E-483F-A16A-EDAA038D3486";
+                    MTTimerSound =                     {
+                        "$MTSound" =                         {
+                            MTSoundToneID = "system:Default Timer";
+                            MTSoundType = 2;
+                        };
+                    };
+                    MTTimerState = 1;
+                    MTTimerTitle = "CURRENT_TIMER";
+                };
+            }
+        );
+    };
+}

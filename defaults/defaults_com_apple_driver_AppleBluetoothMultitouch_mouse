@@ -1,12 +1,11 @@
 {
     MouseButtonDivision = 55;
-    MouseButtonMode = TwoButton;
+    MouseButtonMode = OneButton;
     MouseHorizontalScroll = 1;
     MouseMomentumScroll = 1;
-    MouseOneFingerDoubleTapGesture = 1;
+    MouseOneFingerDoubleTapGesture = 0;
     MouseTwoFingerDoubleTapGesture = 3;
     MouseTwoFingerHorizSwipeGesture = 2;
     MouseVerticalScroll = 1;
     UserPreferences = 1;
-    "save.MouseButtonMode.v1" = 1;
 }

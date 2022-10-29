@@ -1,6 +1,4 @@
 {
     ICDDefaultsKeyKnowAccountDSIDs =     (
-        1996309056
     );
-    ICDDefaultsKeyKnownActiveAccountDSID = 1996309056;
 }

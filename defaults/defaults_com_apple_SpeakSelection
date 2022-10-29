@@ -1,0 +1,6 @@
+{
+    AllCachedAvailableResourcesKey = {length = 159515, bytes = 0x62706c69 73743030 d4000100 02000300 ... 00000000 0001b943 };
+    TTSCachedIsMigrationCompleteKey = {length = 139, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000005e };
+    TTSResourceCacheVersionKey = 3;
+    TTSSynthesisProviderCachedComponentsKey = {length = 36851, bytes = 0x62706c69 73743030 d4000100 02000300 ... 00000000 00007269 };
+}

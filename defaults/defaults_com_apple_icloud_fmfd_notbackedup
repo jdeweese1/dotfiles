@@ -1,4 +1,3 @@
 {
-    kFMFDStoredDataKey = {length = 6234, bytes = 0x62706c69 73743030 d4000100 02000300 ... 00000000 000013ec };
     kKeychainUtilMigrationVersionKey = 1;
 }

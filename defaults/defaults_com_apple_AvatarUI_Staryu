@@ -1,9 +1,4 @@
 {
-    AVTAvatarHasDisplayedAnimojiSplashScreen = 1;
-    AVTAvatarHasDisplayedCameraEffectsSplashScreen = 1;
-    AVTAvatarHasDisplayedPaddleView = 1;
-    AVTAvatarHasDisplayedSplashScreen = 1;
-    AVTAvatarUILastCacheVersion = 312500;
-    AVTSyncImportDate = "2022-10-29 17:19:55 +0000";
+    AVTAvatarUILastCacheVersion = 325101000;
     AVTUIGlobalPreferencesFlushStickersCache = 1;
 }

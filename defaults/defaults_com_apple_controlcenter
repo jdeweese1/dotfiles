@@ -1,34 +1,10 @@
 {
-    "NSStatusItem Preferred Position Battery" = 5283;
-    "NSStatusItem Preferred Position BentoBox" = 96;
-    "NSStatusItem Preferred Position Bluetooth" = 5337;
-    "NSStatusItem Preferred Position Clock" = 107;
-    "NSStatusItem Preferred Position Display" = 5683;
-    "NSStatusItem Preferred Position DoNotDisturb" = 5997;
-    "NSStatusItem Preferred Position FocusModes" = 5592;
-    "NSStatusItem Preferred Position NowPlaying" = 5570;
-    "NSStatusItem Preferred Position ScreenMirroring" = 5657;
-    "NSStatusItem Preferred Position Sound" = 5359;
-    "NSStatusItem Preferred Position UserSwitcher" = 5182;
     "NSStatusItem Visible Battery" = 1;
     "NSStatusItem Visible BentoBox" = 1;
-    "NSStatusItem Visible Bluetooth" = 1;
     "NSStatusItem Visible Clock" = 1;
-    "NSStatusItem Visible Display" = 0;
-    "NSStatusItem Visible DoNotDisturb" = 1;
-    "NSStatusItem Visible FocusModes" = 1;
     "NSStatusItem Visible Item-0" = 0;
     "NSStatusItem Visible Item-1" = 0;
     "NSStatusItem Visible Item-2" = 0;
     "NSStatusItem Visible Item-3" = 0;
-    "NSStatusItem Visible Item-4" = 0;
-    "NSStatusItem Visible Item-5" = 0;
-    "NSStatusItem Visible Item-6" = 0;
-    "NSStatusItem Visible Item-7" = 0;
-    "NSStatusItem Visible Item-8" = 0;
-    "NSStatusItem Visible Item-9" = 0;
-    "NSStatusItem Visible NowPlaying" = 1;
-    "NSStatusItem Visible ScreenMirroring" = 0;
-    "NSStatusItem Visible Sound" = 1;
-    "NSStatusItem Visible UserSwitcher" = 1;
+    "NSStatusItem Visible WiFi" = 1;
 }

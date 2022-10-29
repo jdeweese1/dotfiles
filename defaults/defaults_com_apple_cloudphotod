@@ -2,27 +2,5 @@
     CKPerBootTasks =     (
         CKAcccountInfoCacheReset
     );
-    CKStartupTime = 1665416020;
-    "CPLEngineParameters-SystemLibrary" =     {
-        clientLibraryBasePath = "/Users/jaroddeweese/Pictures/Photos Library.photoslibrary/resources/cpl/cloudsync.noindex";
-        cloudLibraryResourceStoragePath = "/Users/jaroddeweese/Pictures/Photos Library.photoslibrary/resources/cpl/cloudsync.noindex/storage";
-        cloudLibraryStateStoragePath = "/Users/jaroddeweese/Pictures/Photos Library.photoslibrary/resources/cpl/cloudsync.noindex/storage";
-        libraryIdentifier = SystemLibrary;
-        options = 1;
-    };
-    CloudKitAccountInfoCache =     {
-        545a8ae14a5a36fe11b82043acc98a06cd84f50cc77848d294c41d87ac3c955b = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
-        d3c1041b244408dda39bdc2ac16bb9a6c09d7d7182bcbe9c788a30fc1702a788 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
-    };
-    "_CPLUpgradeHistory-SystemLibrary" =     {
-        lastCPLUpgradeDate = "2022-08-25 20:52:03 +0000";
-        lastDBUpgradeDate = "2022-01-25 03:26:07 +0000";
-        lastOSBuildUpgradeDate = "2022-10-10 15:34:30 +0000";
-        lastSeenCPLVersion = "CloudPhotoLibrary-460.0.120";
-        lastSeenDBVersion = 68;
-        lastSeenOSBuildVersion = 21G115;
-        previousCPLVersion = "CloudPhotoLibrary-450.0.160";
-        previousDBVersion = 67;
-        previousOSBuildVersion = 21G72;
-    };
+    CKStartupTime = 1666988687;
 }

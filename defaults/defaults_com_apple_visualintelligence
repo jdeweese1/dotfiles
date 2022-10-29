@@ -16,4 +16,5 @@
     initialized = 1;
     sendLocationInfo = 1;
     sendOCRText = 1;
+    verboseLogging = 0;
 }

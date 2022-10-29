@@ -1,8 +1,8 @@
 {
     Button1 = 1;
-    Button2 = 2;
-    Button3 = 3;
-    Button4 = 4;
+    Button2 = 1;
+    Button3 = 0;
+    Button4 = 0;
     Button4Click = 0;
     Button4Force = 0;
     ButtonDominance = 1;
