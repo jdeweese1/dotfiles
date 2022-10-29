@@ -1,0 +1,8 @@
+{
+    displayOrder =     (
+        "com.Mortennn.FiScript.Finder-Extension",
+        "com.setapp.DesktopClient.SetappAgent.FinderSyncExt",
+        "com.microsoft.OneDrive.FinderSync"
+    );
+    userHasOrdered = 1;
+}

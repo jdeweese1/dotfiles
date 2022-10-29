@@ -1,0 +1,11 @@
+{
+    CPNewDocumentSelectRowForTab0 = 0;
+    CPNewDocumentSelectRowForTab1 = 0;
+    "CPWindowSaveName:Inspector" = "{0, 728}";
+    "NSToolbar Configuration CPDocumentToolbarIdientifier" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+}

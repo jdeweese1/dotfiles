@@ -1,0 +1,30 @@
+{
+    "Cloud Sync Enabled" = 1;
+    "Cloud Sync Enabled Modification Date" = "2017-10-19 17:28:41 +0000";
+    "Cloud Sync User ID" = "_d0c08bf5c09f8723b3057f88f8c913b0";
+    "Modification Dates" =     {
+        "Logging User Identifier" = "2022-03-11 16:45:22 +0000";
+        "MultiUser VoiceIdentification Enabled" = "2022-04-08 17:43:46 +0000";
+        "Output Voice" = "2022-05-23 08:14:25 +0000";
+        "User Identifier" = "2022-03-11 16:45:22 +0000";
+    };
+    "MultiUser VoiceIdentification Enabled" = 1;
+    "Output Voice" =     {
+        Custom = 1;
+        Footprint = 0;
+        Gender = 2;
+        Language = "en-US";
+    };
+    "Output Voice v3" =     {
+        Custom = 1;
+        Footprint = 0;
+        Gender = 2;
+        Language = "en-US";
+    };
+    "PHS Language Manifest V2" =     {
+        "en-US" =         (
+            "iPhone10,2"
+        );
+    };
+    "Session Language" = "en-US";
+}

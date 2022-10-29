@@ -1,0 +1,29 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1657216647;
+    FCAppleAccountUbiquityIdentityTokenKey = {length = 20, bytes = 0xbc7e705d34033f9178d7d10b5486e202f939875b};
+    FCSubscriptionControllerNotificationChannelsLastUpdateDateKey = "2022-07-08 01:17:16 +0000";
+    "NSWindow Frame MainSceneWindow" = "0 0 960 670 0 0 1680 1027 ";
+    "NSWindow Frame stocks-window-frame" = "2128 194 1024 768 1680 0 1920 1055 ";
+    PurchaseModelCacheDate = "2022-07-08 01:17:16 +0000";
+    articlesWithNoSoftPaywallCount = 0;
+    configuration = {length = 24668, bytes = 0x7b226465 6c657465 4c656761 63795761 ... 6f223a30 2e32357d };
+    lastKnownSegmentSetIDs =     (
+        2830,
+        3126,
+        3994
+    );
+    lastKnownTreatmentIDs =     (
+        1629226515329
+    );
+    "newsfeed.scaling.enabled" = 1;
+    restoredSidebarWidthFractionKey = "0.322265625";
+    stateRestoreLastBackgroundDate = "2022-07-08 01:17:16 +0000";
+    "stocks.applaunch.launch_presentation_app_launch_count" = 3;
+    "stocks.applaunch.launch_presentation_config_version" = 0;
+    "stocks.chart_date_range" = oneWeek;
+    "stocks.welcome.version.latest_completed" = 1;
+    "stocksui.features.unscaled" = 1;
+}

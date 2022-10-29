@@ -1,0 +1,12 @@
+{
+    CSProfsUtilsGroupBy = 0;
+    CSUtilitiesContentSize = "{600, 441}";
+    CSUtilitiesSelectedIdentifier = "com.apple.ColorSyncUtility.Filters";
+    "NSOutlineView Items ovAutosaveProfiles" =     (
+        "/System/Library/ColorSync/Profiles"
+    );
+    "NSSplitView Subview Frames devices" =     (
+        "0.000000, 0.000000, 268.000000, 442.000000, NO, NO",
+        "277.000000, 0.000000, 373.000000, 442.000000, NO, NO"
+    );
+}

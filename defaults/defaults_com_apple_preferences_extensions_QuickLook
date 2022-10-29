@@ -1,0 +1,6 @@
+{
+    displayOrder =     (
+        "com.microsoft.rdc.macos.qlx"
+    );
+    userHasOrdered = 1;
+}

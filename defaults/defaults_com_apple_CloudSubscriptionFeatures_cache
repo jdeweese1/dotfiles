@@ -1,0 +1,6 @@
+{
+    "mail.custom-domains.transfer" = {length = 868, bytes = 0x62706c69 73743030 d4010203 04051011 ... 00000000 00000320 };
+    "mail.hide-my-email.create" = {length = 861, bytes = 0x62706c69 73743030 d4010203 04051011 ... 00000000 00000319 };
+    "networking.privacy.attestation" = {length = 873, bytes = 0x62706c69 73743030 d4010203 04051011 ... 00000000 00000325 };
+    "networking.privacy.subscriber" = {length = 870, bytes = 0x62706c69 73743030 d4010203 04051011 ... 00000000 00000322 };
+}

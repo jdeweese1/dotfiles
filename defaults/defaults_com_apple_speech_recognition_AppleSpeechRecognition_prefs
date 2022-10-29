@@ -1,0 +1,535 @@
+{
+    CustomizedDictationHotKey =     {
+        keyChar = 32;
+        modifiers = 1048576;
+        virtualKey = 49;
+    };
+    DictationIMCommandsWindowIsOpen = 0;
+    DictationIMCorrectionCount = 0;
+    DictationIMIntroMessagePresented = 1;
+    DictationIMLastCommandRecognizedMessageTrace = "531101205.077666";
+    DictationIMLastDictationDate = "532570751.343226";
+    DictationIMMainWindowRect = "{{1038, 61}, {110, 121}}";
+    DictationIMMessageTracesSinceLastReport = 5;
+    DictationIMMicrophoneIdentifier = "AppleHDAEngineInput:1B,0,1,0:1";
+    DictationIMMicrophoneName = "Internal Microphone";
+    DictationIMPresentedOfflineUpgradeSuggestion = 1;
+    DictationIMTargetApplications =     (
+                {
+            TargetAppIdentifier = "com.agilebits.onepassword4";
+            TargetAppLaunchDate = "530126928.119102";
+            TargetAppName = "1Password 6";
+            TargetAppPath = "/Applications/1Password 6.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.ActivityMonitor";
+            TargetAppLaunchDate = "531504750.555799";
+            TargetAppName = "Activity Monitor";
+            TargetAppPath = "/Applications/Utilities/Activity Monitor.app";
+        },
+                {
+            TargetAppIdentifier = "it.bloop.airmail2";
+            TargetAppLaunchDate = "531394399.232518";
+            TargetAppName = "Airmail 3";
+            TargetAppPath = "/Applications/Airmail 3.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.airport.airportutility";
+            TargetAppName = "AirPort Utility";
+            TargetAppPath = "/Applications/Utilities/AirPort Utility.app";
+        },
+                {
+            TargetAppIdentifier = "com.if.Amphetamine";
+            TargetAppLaunchDate = "532548527.562978";
+            TargetAppName = Amphetamine;
+            TargetAppPath = "/Applications/Amphetamine.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.appstore";
+            TargetAppName = "App Store";
+            TargetAppPath = "/Applications/App Store.app";
+        },
+                {
+            TargetAppIdentifier = "net.sourceforge.audacity";
+            TargetAppName = Audacity;
+            TargetAppPath = "/Applications/Audacity/Audacity.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.audio.AudioMIDISetup";
+            TargetAppName = "Audio MIDI Setup";
+            TargetAppPath = "/Applications/Utilities/Audio MIDI Setup.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Automator";
+            TargetAppLaunchDate = "526521808.705868";
+            TargetAppName = Automator;
+            TargetAppPath = "/Applications/Automator.app";
+        },
+                {
+            TargetAppIdentifier = "com.hegenberg.BetterTouchTool";
+            TargetAppLaunchDate = "532548527.539803";
+            TargetAppName = BetterTouchTool;
+            TargetAppPath = "/Applications/BetterTouchTool.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.BluetoothFileExchange";
+            TargetAppName = "Bluetooth File Exchange";
+            TargetAppPath = "/Applications/Utilities/Bluetooth File Exchange.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.bootcampassistant";
+            TargetAppName = "Boot Camp Assistant";
+            TargetAppPath = "/Applications/Utilities/Boot Camp Assistant.app";
+        },
+                {
+            TargetAppIdentifier = "com.electron.brave";
+            TargetAppLaunchDate = "530631820.208477";
+            TargetAppName = Brave;
+            TargetAppPath = "/Applications/Brave.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.calculator";
+            TargetAppName = Calculator;
+            TargetAppPath = "/Applications/Calculator.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.iCal";
+            TargetAppLaunchDate = "526313202.258498";
+            TargetAppName = Calendar;
+            TargetAppPath = "/Applications/Calendar.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Chess";
+            TargetAppName = Chess;
+            TargetAppPath = "/Applications/Chess.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.ColorSyncUtility";
+            TargetAppName = "ColorSync Utility";
+            TargetAppPath = "/Applications/Utilities/ColorSync Utility.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Console";
+            TargetAppName = Console;
+            TargetAppPath = "/Applications/Utilities/Console.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.AddressBook";
+            TargetAppName = Contacts;
+            TargetAppPath = "/Applications/Contacts.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.controlstrip";
+            TargetAppLaunchDate = "529110993.885258";
+            TargetAppName = "Control Strip";
+            TargetAppPath = "/System/Library/CoreServices/ControlStrip.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.dashboardlauncher";
+            TargetAppName = Dashboard;
+            TargetAppPath = "/Applications/Dashboard.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Dictionary";
+            TargetAppName = Dictionary;
+            TargetAppPath = "/Applications/Dictionary.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.DigitalColorMeter";
+            TargetAppName = "Digital Color Meter";
+            TargetAppPath = "/Applications/Utilities/Digital Color Meter.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Disk-Utility";
+            TargetAppName = "Disk Utility";
+            TargetAppPath = "/Applications/Utilities/Disk Utility.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.DVDPlayer";
+            TargetAppName = "DVD Player";
+            TargetAppPath = "/Applications/DVD Player.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.FaceTime";
+            TargetAppName = FaceTime;
+            TargetAppPath = "/Applications/FaceTime.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.finder";
+            TargetAppLaunchDate = "532548527.522316";
+            TargetAppName = Finder;
+            TargetAppPath = "/System/Library/CoreServices/Finder.app";
+        },
+                {
+            TargetAppIdentifier = "com.phoenixviewer.firestorm.viewer-oss";
+            TargetAppLaunchDate = "524703437.623132";
+            TargetAppName = Firestorm;
+            TargetAppPath = "/Applications/FirestormOS-Releasex64.app";
+        },
+                {
+            TargetAppIdentifier = "org.herf.Flux";
+            TargetAppLaunchDate = "532191975.973575";
+            TargetAppName = Flux;
+            TargetAppPath = "/Applications/Flux.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.FolderActionsDispatcher";
+            TargetAppLaunchDate = "532548527.564735";
+            TargetAppName = FolderActionsDispatcher;
+            TargetAppPath = "/System/Library/CoreServices/FolderActionsDispatcher.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.FontBook";
+            TargetAppName = "Font Book";
+            TargetAppPath = "/Applications/Font Book.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.garageband10";
+            TargetAppName = GarageBand;
+            TargetAppPath = "/Applications/GarageBand.app";
+        },
+                {
+            TargetAppIdentifier = "org.gnome.gimp";
+            TargetAppName = GIMP;
+            TargetAppPath = "/Applications/GIMP.app";
+        },
+                {
+            TargetAppIdentifier = "com.github.GitHubClient";
+            TargetAppLaunchDate = "529634062.187833";
+            TargetAppName = "GitHub Desktop";
+            TargetAppPath = "/Applications/GitHub Desktop.app";
+        },
+                {
+            TargetAppIdentifier = "com.google.Chrome";
+            TargetAppLaunchDate = "531609587.058069";
+            TargetAppName = "Google Chrome";
+            TargetAppPath = "/Applications/Google Chrome.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Grab";
+            TargetAppName = Grab;
+            TargetAppPath = "/Applications/Utilities/Grab.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.grapher";
+            TargetAppName = Grapher;
+            TargetAppPath = "/Applications/Utilities/Grapher.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.iBooksX";
+            TargetAppLaunchDate = "531609587.067143";
+            TargetAppName = iBooks;
+            TargetAppPath = "/Applications/iBooks.app";
+        },
+                {
+            TargetAppIdentifier = "org.python.IDLE";
+            TargetAppLaunchDate = "531394399.233021";
+            TargetAppName = IDLE;
+            TargetAppPath = "/Applications/Python 3.6/IDLE.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Image_Capture";
+            TargetAppName = "Image Capture";
+            TargetAppPath = "/Applications/Image Capture.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.iMovieApp";
+            TargetAppLaunchDate = "524183431.522917";
+            TargetAppName = iMovie;
+            TargetAppPath = "/Applications/iMovie.app";
+        },
+                {
+            TargetAppIdentifier = "org.inkscape.Inkscape";
+            TargetAppLaunchDate = "531394399.223409";
+            TargetAppName = Inkscape;
+            TargetAppPath = "/Applications/Inkscape.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.iTunes";
+            TargetAppLaunchDate = "531609587.062837";
+            TargetAppName = iTunes;
+            TargetAppPath = "/Applications/iTunes.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.iTunesHelper";
+            TargetAppLaunchDate = "532191976.000836";
+            TargetAppName = "iTunes Helper";
+            TargetAppPath = "/Applications/iTunes.app/Contents/MacOS/iTunesHelper.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.keychainaccess";
+            TargetAppLaunchDate = "526521808.705819";
+            TargetAppName = "Keychain Access";
+            TargetAppPath = "/Applications/Utilities/Keychain Access.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.iWork.Keynote";
+            TargetAppLaunchDate = "518924726.351726";
+            TargetAppName = Keynote;
+            TargetAppPath = "/Applications/Keynote.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.mail";
+            TargetAppLaunchDate = "526313202.258553";
+            TargetAppName = Mail;
+            TargetAppPath = "/Applications/Mail.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Maps";
+            TargetAppName = Maps;
+            TargetAppPath = "/Applications/Maps.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.iChat";
+            TargetAppLaunchDate = "531394399.225264";
+            TargetAppName = Messages;
+            TargetAppPath = "/Applications/Messages.app";
+        },
+                {
+            TargetAppIdentifier = "com.microsoft.Excel";
+            TargetAppName = "Microsoft Excel";
+            TargetAppPath = "/Applications/Microsoft Excel.app";
+        },
+                {
+            TargetAppIdentifier = "com.microsoft.onenote.mac";
+            TargetAppName = "Microsoft OneNote";
+            TargetAppPath = "/Applications/Microsoft OneNote.app";
+        },
+                {
+            TargetAppIdentifier = "com.microsoft.Outlook";
+            TargetAppName = "Microsoft Outlook";
+            TargetAppPath = "/Applications/Microsoft Outlook.app";
+        },
+                {
+            TargetAppIdentifier = "com.microsoft.Powerpoint";
+            TargetAppLaunchDate = "524098804.490975";
+            TargetAppName = "Microsoft PowerPoint";
+            TargetAppPath = "/Applications/Microsoft PowerPoint.app";
+        },
+                {
+            TargetAppIdentifier = "com.microsoft.rdc.mac";
+            TargetAppName = "Microsoft Remote Desktop";
+            TargetAppPath = "/Applications/Microsoft Remote Desktop.app";
+        },
+                {
+            TargetAppIdentifier = "com.microsoft.Word";
+            TargetAppLaunchDate = "520474127.603831";
+            TargetAppName = "Microsoft Word";
+            TargetAppPath = "/Applications/Microsoft Word.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.MigrateAssistant";
+            TargetAppName = "Migration Assistant";
+            TargetAppPath = "/Applications/Utilities/Migration Assistant.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.exposelauncher";
+            TargetAppName = "Mission Control";
+            TargetAppPath = "/Applications/Mission Control.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Notes";
+            TargetAppLaunchDate = "514697909.864293";
+            TargetAppName = Notes;
+            TargetAppPath = "/Applications/Notes.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.iWork.Numbers";
+            TargetAppLaunchDate = "511919710.368821";
+            TargetAppName = Numbers;
+            TargetAppPath = "/Applications/Numbers.app";
+        },
+                {
+            TargetAppIdentifier = "com.microsoft.Office365ServiceV2";
+            TargetAppLaunchDate = "514827614.916998";
+            TargetAppName = Office365ServiceV2;
+            TargetAppPath = "/Applications/Microsoft Word.app/Contents/SharedSupport/Office365ServiceV2.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.iWork.Pages";
+            TargetAppLaunchDate = "530461462.186619";
+            TargetAppName = Pages;
+            TargetAppPath = "/Applications/Pages.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.automator.pdfSplitter";
+            TargetAppName = pdfSplitter;
+            TargetAppPath = "/Users/jaroddeweese/Applications/pdfSplitter.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.PhotoBooth";
+            TargetAppName = "Photo Booth";
+            TargetAppPath = "/Applications/Photo Booth.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Photos";
+            TargetAppName = Photos;
+            TargetAppPath = "/Applications/Photos.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Preview";
+            TargetAppLaunchDate = "531609587.058694";
+            TargetAppName = Preview;
+            TargetAppPath = "/Applications/Preview.app";
+        },
+                {
+            TargetAppIdentifier = "org.python.PythonLauncher";
+            TargetAppName = "Python Launcher";
+            TargetAppPath = "/Applications/Python 3.5/Python Launcher.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.quicklook.ui.helper";
+            TargetAppLaunchDate = "532191976.04814";
+            TargetAppName = "Quick Look UI Helper";
+            TargetAppPath = "/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/Resources/QuickLookUIHelper.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.QuickTimePlayerX";
+            TargetAppLaunchDate = "524183431.522626";
+            TargetAppName = "QuickTime Player";
+            TargetAppPath = "/Applications/QuickTime Player.app";
+        },
+                {
+            TargetAppIdentifier = "com.marcoarment.quitter";
+            TargetAppLaunchDate = "532191975.974582";
+            TargetAppName = Quitter;
+            TargetAppPath = "/Applications/Quitter.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.reminders";
+            TargetAppName = Reminders;
+            TargetAppPath = "/Applications/Reminders.app";
+        },
+                {
+            TargetAppIdentifier = "com.rescuetime.RescueTime";
+            TargetAppLaunchDate = "524703437.620878";
+            TargetAppName = RescueTime;
+            TargetAppPath = "/Applications/RescueTime.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Safari";
+            TargetAppLaunchDate = "531609587.066604";
+            TargetAppName = Safari;
+            TargetAppPath = "/Applications/Safari.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.ScriptEditor2";
+            TargetAppName = "Script Editor";
+            TargetAppPath = "/Applications/Utilities/Script Editor.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.iphonesimulator";
+            TargetAppLaunchDate = "531504750.554815";
+            TargetAppName = Simulator;
+            TargetAppPath = "/Applications/Xcode.app/Contents/Developer/Applications/Simulator.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.siri.launcher";
+            TargetAppName = Siri;
+            TargetAppPath = "/Applications/Siri.app";
+        },
+                {
+            TargetAppIdentifier = "com.torusknot.SourceTreeNotMAS";
+            TargetAppLaunchDate = "529634062.191114";
+            TargetAppName = Sourcetree;
+            TargetAppPath = "/Users/jaroddeweese/Applications/Sourcetree.app";
+        },
+                {
+            TargetAppIdentifier = "com.valvesoftware.steam";
+            TargetAppLaunchDate = "524098804.492869";
+            TargetAppName = Steam;
+            TargetAppPath = "/Users/jaroddeweese/Library/Application Support/Steam/Steam.AppBundle/Steam";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Stickies";
+            TargetAppName = Stickies;
+            TargetAppPath = "/Applications/Stickies.app";
+        },
+                {
+            TargetAppIdentifier = "com.sublimetext.3";
+            TargetAppLaunchDate = "532191976.048704";
+            TargetAppName = "Sublime Text";
+            TargetAppPath = "/Applications/Sublime Text.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.SystemProfiler";
+            TargetAppLaunchDate = "524703437.62287";
+            TargetAppName = "System Information";
+            TargetAppPath = "/Applications/Utilities/System Information.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.systempreferences";
+            TargetAppLaunchDate = "530893244.623794";
+            TargetAppName = "System Preferences";
+            TargetAppPath = "/Applications/System Preferences.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.Terminal";
+            TargetAppLaunchDate = "531609587.06601";
+            TargetAppName = Terminal;
+            TargetAppPath = "/Applications/Utilities/Terminal.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.TextEdit";
+            TargetAppLaunchDate = "530893244.625616";
+            TargetAppName = TextEdit;
+            TargetAppPath = "/Applications/TextEdit.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.backup.launcher";
+            TargetAppName = "Time Machine";
+            TargetAppPath = "/Applications/Time Machine.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.VoiceOverUtility";
+            TargetAppName = "VoiceOver Utility";
+            TargetAppPath = "/Applications/Utilities/VoiceOver Utility.app";
+        },
+                {
+            TargetAppIdentifier = "com.wunderkinder.wunderlistdesktop";
+            TargetAppLaunchDate = "531394399.232019";
+            TargetAppName = Wunderlist;
+            TargetAppPath = "/Applications/Wunderlist.app";
+        },
+                {
+            TargetAppIdentifier = "com.xamarin.profiler";
+            TargetAppName = "Xamarin Profiler";
+            TargetAppPath = "/Applications/Xamarin Profiler.app";
+        },
+                {
+            TargetAppIdentifier = "com.xamarin.xamarinstudio";
+            TargetAppName = "Xamarin Studio";
+            TargetAppPath = "/Applications/Xamarin Studio.app";
+        },
+                {
+            TargetAppIdentifier = "com.xamarin.Inspector";
+            TargetAppName = "Xamarin Workbooks";
+            TargetAppPath = "/Applications/Xamarin Workbooks.app";
+        },
+                {
+            TargetAppIdentifier = "com.apple.dt.Xcode";
+            TargetAppLaunchDate = "531504750.546063";
+            TargetAppName = Xcode;
+            TargetAppPath = "/Applications/Xcode.app";
+        },
+                {
+            TargetAppIdentifier = "org.macosforge.xquartz.X11";
+            TargetAppLaunchDate = "531394399.275833";
+            TargetAppName = XQuartz;
+            TargetAppPath = "/Applications/Utilities/XQuartz.app";
+        }
+    );
+    "DictationIMUpgradedTo10_15" = 1;
+    DictationIMUseOnlyOfflineDictation = 0;
+    "KeywordText.en_US" = "Hey Siri";
+    SRCLastTrainingDate = "532571214.533849";
+    SpeechDataInstallationLog =     {
+        "SRCLANGID:com.apple.speech.SpeechRecognitionCoreLanguage.en_US_2" =         {
+            BundleIdentifier = "en_US";
+            LastInitiator = SpeechDataDownloadInitiatorUnknown;
+            LastUserAttemptDate = "509835978.959276";
+            SuccessfulDate = "509835978.959276";
+            UserAttempts = 1;
+        };
+    };
+}

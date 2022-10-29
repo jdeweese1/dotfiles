@@ -1,0 +1,21 @@
+{
+    PreviousAppleIDs =     {
+        "Williams-Mac-Pro.local." = "jaroddeweese@gmail.com";
+    };
+    PreviouslySelectedShares =     {
+        "Jarod-Ubuntu" =         (
+            Assets
+        );
+        "Seshat._smb._tcp.local" =         (
+            "Video-Encrypted"
+        );
+        "Seshat.local." =         (
+            NetBackup,
+            "Time Machine",
+            "Video-Encrypted"
+        );
+        "engg.ksu.edu" =         (
+            NETLOGON
+        );
+    };
+}

@@ -1,0 +1,9 @@
+{
+    FMFMacDetailedHandleIdentifier = "+19134064767";
+    FMFMacDetailedHandleMapSnapshot =     {
+        "+19134064767" = {length = 764626, bytes = 0x4d4d002a 000b9a08 2b2d2fff 2b2d2fff ... 00000000 00000000 };
+    };
+    GEOUsageSessionID = {length = 20, bytes = 0x08a79c9fed9ca5d3a14b10b1cdd5f4d28cd8be4b};
+    GEOUsageSessionIDGenerationTime = "544466668.0230221";
+    "NCWidgetListViewController Show All" = 1;
+}

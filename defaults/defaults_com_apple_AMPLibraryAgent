@@ -1,0 +1,23 @@
+{
+    ITUserPrefsMigrated = 1;
+    "books-migrated" = 1;
+    "books-persistent-id" = 5471360998116301587;
+    debugAssertCategoriesEnabled = 0;
+    debugAssertCategoriesVersion = 3;
+    "devices-persistent-id" = 2335714841744454401;
+    "have-shown-cloud-UI" = 1;
+    "iTunes-media-folder-bookmark" = {length = 960, bytes = 0x626f6f6b c0030000 00000410 30000000 ... d4010000 00000000 };
+    "iTunes-media-folder-url" = "file:///Users/jaroddeweese/Music/iTunes/iTunes%20Media/";
+    "imported-media-domains" = 15;
+    "imported-media-domains-modification-date" = "Tue, 08 Oct 2019 04:54:15 GMT";
+    persistentUserID = 6220316530033337323;
+    "podcasts-migrated" = 1;
+    "podcasts-persistent-id" = "-1316703872503360332";
+    "show-home-sharing-turned-on-in-iTunes-warning" = 0;
+    storeMediaTypeFlags = 3422;
+    storeSupportsCloudPurchases = 1;
+    storeSupportsPasswordSettings = 1;
+    storeSupportsPreviousPurchases = 1;
+    storeSupportsUPP = 1;
+    updateLevel = 43;
+}

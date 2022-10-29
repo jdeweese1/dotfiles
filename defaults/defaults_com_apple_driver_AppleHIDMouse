@@ -1,0 +1,13 @@
+{
+    Button1 = 1;
+    Button2 = 2;
+    Button3 = 3;
+    Button4 = 4;
+    Button4Click = 0;
+    Button4Force = 0;
+    ButtonDominance = 1;
+    ScrollH = 1;
+    ScrollS = 4;
+    ScrollSSize = 30;
+    ScrollV = 1;
+}

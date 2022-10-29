@@ -1,0 +1,443 @@
+{
+    networkbrowser =     {
+        Controller = CustomListItems;
+        CustomListItems =         (
+        );
+        CustomListProperties =         {
+            "com.apple.NetworkBrowser.bonjourEnabled" = 0;
+            "com.apple.NetworkBrowser.connectedEnabled" = 1;
+        };
+    };
+    systemitems =     {
+        Controller = VolumesList;
+        CustomListProperties =         {
+            "com.apple.LSSharedFileList.VolumesListMigrated" = 1;
+        };
+        ShowEjectables = 0;
+        ShowHardDisks = 1;
+        ShowRemovable = 0;
+        ShowServers = 1;
+        VolumesList =         (
+                        {
+                EntryType = 16;
+                Name = Computer;
+                SpecialID = 1919905652;
+                Visibility = AlwaysVisible;
+            },
+                        {
+                Alias = {length = 136, bytes = 0x00000000 00880003 00010000 d3a62b6d ... 00012f00 ffff0000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.SeenAsBootVolume" = 1;
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935821166;
+                };
+                EntryType = 261;
+                Name = "Macintosh HD";
+                Visibility = NeverVisible;
+            },
+                        {
+                Alias = {length = 134, bytes = 0x00000000 00860003 00010000 d3a62b6d ... 00012f00 ffff0000 };
+                EntryType = 16;
+                Name = Network;
+                SpecialID = 1735288180;
+                Visibility = NeverVisible;
+            },
+                        {
+                EntryType = 1024;
+                Name = "Remote Disc";
+                SpecialID = 1919185771;
+            },
+                        {
+                Bookmark = {length = 1904, bytes = 0x626f6f6b 70070000 00000410 30000000 ... a0050000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 1027;
+                Name = "Adobe Flash Player Installer";
+            },
+                        {
+                Bookmark = {length = 1804, bytes = 0x626f6f6b 0c070000 00000410 30000000 ... 4c050000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 1027;
+                Name = "Google Chrome";
+            },
+                        {
+                Bookmark = {length = 1812, bytes = 0x626f6f6b 14070000 00000410 30000000 ... 54050000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 1027;
+                Name = "XQuartz-2.7.11";
+            },
+                        {
+                Bookmark = {length = 1824, bytes = 0x626f6f6b 20070000 00000410 30000000 ... 64050000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 1027;
+                Name = Inkscape;
+            },
+                        {
+                Bookmark = {length = 1028, bytes = 0x626f6f6b 04040000 00000410 30000000 ... 6c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = Untitled;
+            },
+                        {
+                Bookmark = {length = 1036, bytes = 0x626f6f6b 0c040000 00000410 30000000 ... 74020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = "Untitled 1";
+            },
+                        {
+                Bookmark = {length = 1036, bytes = 0x626f6f6b 0c040000 00000410 30000000 ... 74020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = "Untitled 2";
+            },
+                        {
+                Bookmark = {length = 1020, bytes = 0x626f6f6b fc030000 00000410 30000000 ... 64020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = "ESD-USB";
+            },
+                        {
+                Bookmark = {length = 988, bytes = 0x626f6f6b dc030000 00000410 30000000 ... 50020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 1029;
+                Name = "New Volume";
+            },
+                        {
+                Bookmark = {length = 1132, bytes = 0x626f6f6b 6c040000 00000410 30000000 ... b4020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = "Jarod-Time-Machine";
+            },
+                        {
+                Bookmark = {length = 1104, bytes = 0x626f6f6b 50040000 00000410 30000000 ... a0020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = Untitled;
+            },
+                        {
+                Bookmark = {length = 1144, bytes = 0x626f6f6b 78040000 00000410 30000000 ... bc020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = "Jarod-External-Drive";
+            },
+                        {
+                Bookmark = {length = 1144, bytes = 0x626f6f6b 78040000 00000410 30000000 ... bc020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = "Jarod-External-Drive";
+            },
+                        {
+                Bookmark = {length = 1096, bytes = 0x626f6f6b 48040000 00000410 30000000 ... 98020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = Untitled;
+            },
+                        {
+                Bookmark = {length = 1096, bytes = 0x626f6f6b 48040000 00000410 30000000 ... 98020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = Untitled;
+            },
+                        {
+                Bookmark = {length = 1096, bytes = 0x626f6f6b 48040000 00000410 30000000 ... 98020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = Untitled;
+            },
+                        {
+                Bookmark = {length = 1096, bytes = 0x626f6f6b 48040000 00000410 30000000 ... 98020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = Untitled;
+            },
+                        {
+                Bookmark = {length = 1104, bytes = 0x626f6f6b 50040000 00000410 30000000 ... 9c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = "Jarod-Drive";
+            },
+                        {
+                Bookmark = {length = 1120, bytes = 0x626f6f6b 60040000 00000410 30000000 ... ac020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = "Jarod-Backup";
+            },
+                        {
+                Bookmark = {length = 1104, bytes = 0x626f6f6b 50040000 00000410 30000000 ... 9c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = "Jarod-Drive";
+            },
+                        {
+                Bookmark = {length = 1096, bytes = 0x626f6f6b 48040000 00000410 30000000 ... 98020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = Untitled;
+            },
+                        {
+                Bookmark = {length = 1008, bytes = 0x626f6f6b f0030000 00000410 30000000 ... 5c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935823684;
+                };
+                EntryType = 8;
+                Name = Users;
+            },
+                        {
+                Bookmark = {length = 988, bytes = 0x626f6f6b dc030000 00000410 30000000 ... 4c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935823684;
+                };
+                EntryType = 8;
+                Name = E;
+            },
+                        {
+                Bookmark = {length = 1008, bytes = 0x626f6f6b f0030000 00000410 30000000 ... 5c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935823684;
+                };
+                EntryType = 8;
+                Name = Users;
+            },
+                        {
+                Bookmark = {length = 1032, bytes = 0x626f6f6b 08040000 00000410 30000000 ... 70020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = JAROD32GB;
+            },
+                        {
+                Bookmark = {length = 1024, bytes = 0x626f6f6b 00040000 00000410 30000000 ... 68020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = "NO NAME";
+            },
+                        {
+                Bookmark = {length = 992, bytes = 0x626f6f6b e0030000 00000410 30000000 ... 50020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 1029;
+                Name = "My Passport";
+            },
+                        {
+                Bookmark = {length = 1100, bytes = 0x626f6f6b 4c040000 00000410 30000000 ... 9c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = MacBackup;
+            },
+                        {
+                Bookmark = {length = 1084, bytes = 0x626f6f6b 3c040000 00000410 30000000 ... 90020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = Stuff;
+            },
+                        {
+                Alias = {length = 136, bytes = 0x00000000 00880003 00010000 00000000 ... 33324742 ffff0000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = JAROD32GB;
+            },
+                        {
+                Bookmark = {length = 1820, bytes = 0x626f6f6b 1c070000 00000410 30000000 ... 60050000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 1027;
+                Name = VirtualBox;
+            },
+                        {
+                Bookmark = {length = 1084, bytes = 0x626f6f6b 3c040000 00000410 30000000 ... 90020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = MacOSs;
+            },
+                        {
+                Bookmark = {length = 1088, bytes = 0x626f6f6b 40040000 00000410 30000000 ... 90020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = VMStuff;
+            },
+                        {
+                Bookmark = {length = 1920, bytes = 0x626f6f6b 80070000 00000410 30000000 ... ac050000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 1027;
+                Name = "macOS Public Beta Access Utility";
+            },
+                        {
+                Bookmark = {length = 1044, bytes = 0x626f6f6b 14040000 00000410 30000000 ... 7c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935823684;
+                };
+                EntryType = 8;
+                Name = jdeweese1;
+            },
+                        {
+                Bookmark = {length = 1044, bytes = 0x626f6f6b 14040000 00000410 30000000 ... 7c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935823684;
+                };
+                EntryType = 8;
+                Name = jdeweese1;
+            },
+                        {
+                Bookmark = {length = 1044, bytes = 0x626f6f6b 14040000 00000410 30000000 ... 7c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935823684;
+                };
+                EntryType = 8;
+                Name = jdeweese1;
+            },
+                        {
+                Bookmark = {length = 1024, bytes = 0x626f6f6b 00040000 00000410 30000000 ... 68020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = "NO NAME";
+            },
+                        {
+                Bookmark = {length = 1112, bytes = 0x626f6f6b 58040000 00000410 30000000 ... a4020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = "Jarod-Backup";
+            },
+                        {
+                Bookmark = {length = 1032, bytes = 0x626f6f6b 08040000 00000410 30000000 ... 70020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = 32GBFat32;
+            },
+                        {
+                Bookmark = {length = 1032, bytes = 0x626f6f6b 08040000 00000410 30000000 ... 70020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = 32GBFAT32;
+            },
+                        {
+                Bookmark = {length = 1044, bytes = 0x626f6f6b 14040000 00000410 30000000 ... 7c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935823684;
+                };
+                EntryType = 8;
+                Name = jdeweese1;
+            },
+                        {
+                Bookmark = {length = 1100, bytes = 0x626f6f6b 4c040000 00000410 30000000 ... 9c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 517;
+                Name = MacBackup;
+            },
+                        {
+                Bookmark = {length = 1024, bytes = 0x626f6f6b 00040000 00000410 30000000 ... 68020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = "NO NAME";
+            },
+                        {
+                Bookmark = {length = 1020, bytes = 0x626f6f6b fc030000 00000410 30000000 ... 64020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = "VDI&ISO";
+            },
+                        {
+                Bookmark = {length = 1100, bytes = 0x626f6f6b 4c040000 00000410 30000000 ... 9c020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = JAROD16GB;
+            },
+                        {
+                Bookmark = {length = 1116, bytes = 0x626f6f6b 5c040000 00000410 30000000 ... a8020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = WindowsInstall;
+            },
+                        {
+                Bookmark = {length = 1032, bytes = 0x626f6f6b 08040000 00000410 30000000 ... 70020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = 32GBFAT32;
+            },
+                        {
+                Bookmark = {length = 1024, bytes = 0x626f6f6b 00040000 00000410 30000000 ... 68020000 00000000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.TemplateSystemSelector" = 1935820100;
+                };
+                EntryType = 515;
+                Name = "NO NAME";
+            }
+        );
+    };
+}

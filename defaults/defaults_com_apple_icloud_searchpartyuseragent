@@ -1,0 +1,21 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1665416020;
+    CloudKitAccountInfoCache =     {
+        735269583d17ab2e320cf345ae844309ffeb41510e15aa942159935bbeeb3e55 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+    };
+    "CloudKitCoalescer.executeDate" = "2022-10-29 17:57:36 +0000";
+    "CloudKitCoalescer.requestDate" = "2022-10-29 17:57:36 +0000";
+    "FMIPStateManager.fmipState" = 1;
+    LabelledLocationFetchStatus = 1;
+    LastOSLaunchVersion = 21G115;
+    PayloadCacheMarkedPurgeable = 1;
+    PersistenceLayerVersion = 24;
+    "baseDate.LocalBeaconingManager" = "2019-10-08 04:34:02 +0000";
+    lastLaunchBootSessionUUID = "E9CA9BAF-4B12-4F1F-91A3-2EB017393EBC";
+    lastLaunchLocale = en;
+    lastProductInfoRefreshAttempt = "2022-10-28 01:56:21 +0000";
+    "lastPruneDate.BeaconManagerService" = "2021-02-04 01:03:11 +0000";
+}

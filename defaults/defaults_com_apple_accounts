@@ -1,0 +1,4 @@
+{
+    ACOneTimeLDAPFixAccountSync = 1;
+    ACOneTimeSMTPFixAccountSync = 1;
+}

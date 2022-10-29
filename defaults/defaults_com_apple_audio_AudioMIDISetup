@@ -1,0 +1,11 @@
+{
+    "AMS_UserPreference_DefaultSortStyle" = 1;
+    "NSWindow Frame AMSAudioPanelFrame" = "154 50 990 668 0 0 1680 1027 ";
+    "NSWindow Frame speakerConfig" = "445 351 551 518 0 0 1680 1027 ";
+    "audioDevice.selected" = "BlackHole_UID";
+    "audioDevice.speakerConfigurationMode" = 1;
+    reopenAudioWindowPref = 0;
+    reopenMIDIWindowPref = 0;
+    reopenNetworkWindowPref = 0;
+    showiOSDeviceWindowPref = 0;
+}

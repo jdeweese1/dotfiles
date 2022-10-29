@@ -1,0 +1,206 @@
+{
+    KNAnimDiagnostics = 0;
+    KNDidUpgradePreferencesFromKeynote09 = 1;
+    KNMacPresenterDisplayActiveConfigurationSet = "1E534BF7-7E53-4B63-BF93-D67258EB3053";
+    KNMacPresenterDisplayConfigurationSets =     (
+                {
+            ConfigurationSetConfigurationData =             (
+                                {
+                    PresenterNotesDarkModeEnabled = 0;
+                    PresenterNotesTextScaleFactor = 1;
+                    Version = 1;
+                    VisibleElementIdentifiers =                     (
+                        KNMacPresenterDisplayCurrentSlideElementIdentifier,
+                        KNMacPresenterDisplayNextSlideElementIdentifier,
+                        KNMacPresenterDisplayClockElementIdentifier,
+                        KNMacPresenterDisplayReadyToAdvanceIndicatorIdentifier
+                    );
+                }
+            );
+            ConfigurationSetFunctionKey = 0;
+            ConfigurationSetLocked = 0;
+            ConfigurationSetUUID = "1E534BF7-7E53-4B63-BF93-D67258EB3053";
+            ConfigurationSetVersion = 1;
+        }
+    );
+    KNRemotePairedDevicesVersion = 3;
+    NSColorPanelMode = 0;
+    NSColorPickerPreferredRGBEntryMode = 2;
+    "NSToolbar Configuration 2DE7BAB3-DC72-4888-A0E7-D0BD5DF5D45C" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame NSColorPanel" = "387 238 228 349 0 0 1280 800 ";
+    "NSWindow Frame NSFontPanel" = "767 110 445 237 0 0 1280 800 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "282 247 712 448 0 0 1280 778 ";
+    "NSWindow Frame TMAFindReplaceWindow" = "380 674 520 78 0 0 1280 778 ";
+    "NSWindow Frame TMATemplateManagerWindow" = "187 86 906 628 0 0 1280 778 ";
+    "NSWindowTabbingShoudShowTabBarKey-KNMacDocumentWindow-KNMacDocumentWindowController-KNMacDocumentWindowController-VT-FS" = 1;
+    PlaybackDisplayAllocations =     {
+        ShowPlayback =         (
+                        {
+                Playback = 69732928;
+                PresenterDisplays =                 (
+                );
+            },
+                        {
+                Playback = 686391682;
+                PresenterDisplays =                 (
+                );
+            },
+                        {
+                Playback = 457179202;
+                PresenterDisplays =                 (
+                );
+            },
+                        {
+                Playback = 686310722;
+                PresenterDisplays =                 (
+                );
+            }
+        );
+    };
+    PlaybackScreenConfigurationVersion = 1;
+    PresenterDisplayConfigurations =     (
+                {
+            PresenterNotesTextScaleFactor = 1;
+            Version = 1;
+            VisibleElementIdentifiers =             (
+                KNMacPresenterDisplayCurrentSlideElementIdentifier,
+                KNMacPresenterDisplayNextSlideElementIdentifier,
+                KNMacPresenterDisplayClockElementIdentifier,
+                KNMacPresenterDisplayReadyToAdvanceIndicatorIdentifier
+            );
+        }
+    );
+    RecentlyUsedLanguages =     (
+        "en_US"
+    );
+    ReplaceMode = 0;
+    TMADidMigrateIWork09Templates = 1;
+    TMAFirstLaunchCoachingTipShownKey = 1;
+    TMAFirstLaunchVersion = 65545;
+    TMATemplateManagerWindowLastShownKey = "2017-06-12 01:42:58 +0000";
+    TMAWasMigratingIWork09Templates = 0;
+    TSAICloudAuthorNameKey = "Jarod DeWeese";
+    TSAICloudAuthorPrivateIDKey = "9A01B51B-5F7B-4681-96D3-62AB50EE76F8";
+    TSDImageResamplingVersion = "2.0.24";
+    TSDTargetPointSize = "42.54883";
+    TSURemoteDefaults =     {
+        DownloadableContentURL = "https://www.icloud.com/iwork/st/content";
+        OSXSharingInfo =         {
+            MinimumApplicationVersionRequired =             {
+                "com.apple.iWork.Keynote" = "6.6";
+                "com.apple.iWork.Numbers" = "3.6";
+                "com.apple.iWork.Pages" = "5.6";
+            };
+        };
+        OSXUpdateInfo =         {
+            ApplicationVersion =             {
+                "com.apple.iWork.Keynote" = "7.2";
+                "com.apple.iWork.Numbers" = "4.2";
+                "com.apple.iWork.Pages" = "6.2";
+            };
+            MinimumOSVersion = "10.12.0";
+            UnsupportedModels =             (
+                "iMac7,1",
+                "iMac8,1",
+                "iMac9,1",
+                "MacBook4,1",
+                "MacBook5,1",
+                "MacBook5,2",
+                "MacBookAir2,1",
+                "MacBookPro3,1",
+                "MacBookPro4,1",
+                "MacBookPro5,1",
+                "MacBookPro5,2",
+                "MacBookPro5,3",
+                "MacBookPro5,4",
+                "MacBookPro5,5",
+                "Macmini3,1",
+                "MacPro3,1",
+                "MacPro4,1",
+                "Xserve3,1"
+            );
+        };
+        SharingURLFormat = "https://www.icloud.com/%@/%@#%@";
+        TSUIsGilliganMigratedToICloudDrive = YES;
+        TSUIsUnity15Available = YES;
+        iOSCollaborationInfo =         {
+            MinimumApplicationVersionRequired =             {
+                "com.apple.Keynote" = "3.2";
+                "com.apple.Numbers" = "3.2";
+                "com.apple.Pages" = "3.2";
+            };
+        };
+        iOSSharingInfo =         {
+            MinimumApplicationVersionRequired =             {
+                "com.apple.Keynote" = "2.6";
+                "com.apple.Numbers" = "2.6";
+                "com.apple.Pages" = "2.6";
+            };
+        };
+        iOSUpdateInfo =         {
+            ApplicationVersion =             {
+                "com.apple.Keynote" = "3.2";
+                "com.apple.Numbers" = "3.2";
+                "com.apple.Pages" = "3.2";
+            };
+            MinimumOSVersion = "10.0.0";
+            UnsupportedDevices =             (
+                "iPad2,1",
+                "iPad2,2",
+                "iPad2,3",
+                "iPad2,4",
+                "iPad2,5",
+                "iPad2,6",
+                "iPad2,7",
+                "iPad3,1",
+                "iPad3,2",
+                "iPad3,3",
+                "iPhone3,1",
+                "iPhone3,2",
+                "iPhone3,3",
+                "iPhone4,1",
+                "iPod5,1"
+            );
+        };
+        macOSCollaborationInfo =         {
+            MinimumApplicationVersionRequired =             {
+                "com.apple.iWork.Keynote" = "7.2";
+                "com.apple.iWork.Numbers" = "4.2";
+                "com.apple.iWork.Pages" = "6.2";
+            };
+        };
+    };
+    TSURemoteDefaultsETag = "\\"d41-551f3e900b3b5\\"";
+    TSURemoteDefaultsNextUpdate = "2017-08-10 01:11:14 +0000";
+    TSWPAutomaticDashSubstitution = 1;
+    TSWPAutomaticQuoteSubstitution = 1;
+    TSWPAutomaticSpellingCorrection = 1;
+    TSWPAutomaticTextReplacement = 1;
+    TSWPAutomaticallyDetectLinks = 1;
+    TSWPAutomaticallyDetectLists = 1;
+    TSWPGrammarChecking = 0;
+    TSWPIgnoredWordsDictionary =     {
+    };
+    TSWPInvisiblesColorSafe = {length = 274, bytes = 0x62706c69 73743030 d4010203 04050615 ... 00000000 000000d9 };
+    TSWPSpellCheckingEnabled = 1;
+    TSWPSuperscriptNumericalSuffixes = 0;
+    TSWPTextReplacementsDictionary =     {
+        "(c)" = "\\U00a9";
+        "(p)" = "\\U2117";
+        "(r)" = "\\U00ae";
+        TM = "\\U2122";
+        "c/o" = "\\U2105";
+    };
+    TSWPUnderlineLinks = 1;
+    TWSPAutomaticallyDetectLinks = 1;
+    TWSPAutomaticallyDetectLists = 1;
+    TWSPSuperscriptNumericalSuffixes = 0;
+}

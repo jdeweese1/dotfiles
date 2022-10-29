@@ -1,0 +1,30 @@
+{
+    "IK_Accessory_selectedTag" = 1000;
+    "IK_CreateSingleDocument" = 0;
+    "IK_DetectSeparateItemsScanMode" = 1;
+    "IK_DocFeederEvenPageOrientation" = 1;
+    "IK_DocFeederOddPageOrientation" = 1;
+    "IK_DocumentKind_-1" = 2;
+    "IK_DocumentKind_3" = 2;
+    "IK_FileFormatTag" = 0;
+    "IK_FlatbedOrientation" = 1;
+    "IK_MeasurementUnit" = 0;
+    "IK_ScanBitDepth" = 8;
+    "IK_ScanResolution" = 75;
+    "IK_ScannerDocumentType" = 1;
+    "IK_Scanner_PostProcessApplication" = "/Applications/Preview.app";
+    "IK_Scanner_downloadURL" = "~/Pictures";
+    "IK_Scanner_preferPostPostProcessApp" = 0;
+    "IK_Scanner_selectedPathType" = 2;
+    "IK_Scanner_selectedTag" = 1001;
+    "IK_UseCustomScanSize" = 1;
+    "IK_documentName" = Scan;
+    "IK_lastUsedDeviceIsRemote" = 1;
+    "IK_lastUsedDeviceName" = "HP DeskJet 3700 series [ED92A7]";
+    "IK_lastUsedDeviceUUID" = "D3C74FCE-AFB4-7DC6-D19F-8915EF65740B";
+    "IK_prefsVersion" = "10.112";
+    "IK_scannerDisplayMode" = 1;
+    "IK_selectedFunctionalUnitType" = 3;
+    "NSWindow Frame ImageCaptureMainWindow" = "2420 499 1046 627 1680 416 1920 1057 ";
+    "NSWindow Frame ScanResults" = "201 276 574 208 0 0 1280 777 ";
+}

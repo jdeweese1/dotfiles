@@ -1,0 +1,10 @@
+{
+    SharedWithYouApps =     {
+        "com.apple.Photos" = 1;
+        "com.apple.Safari" = 1;
+        "com.apple.TV" = 1;
+        "com.apple.news" = 1;
+        "com.apple.podcasts" = 1;
+    };
+    SharedWithYouEnabled = 1;
+}

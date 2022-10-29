@@ -1,0 +1,245 @@
+{
+    LastClientIDFromSpeakingHotkey = "com.monosnap.monosnap";
+    SelectedVoiceCreator = 1886745202;
+    SelectedVoiceID = 184844493;
+    SelectedVoiceName = Samantha;
+    SpeechDataInstallationLog =     {
+        "VOICEID:com.apple.speech.synthesis.voice.Alex.compact_1" =         {
+            RemovalDate = "628548411.783728";
+        };
+        "VOICEID:com.apple.speech.synthesis.voice.Alex_2" =         {
+            BundleIdentifier = "com.apple.speech.synthesis.voice.Alex";
+            LastInitiator = SpeechDataDownloadInitiatorUser;
+            LastUserAttemptDate = "503689406.291656";
+            RemovalDate = "628548411.783193";
+            SuccessfulDate = "503689406.291656";
+            UserAttempts = 1;
+        };
+        "VOICEID:com.apple.speech.synthesis.voice.custom.aaron.premium_2" =         {
+            BundleIdentifier = "com.apple.speech.synthesis.voice.custom.aaron.premium";
+            LastErrorCode = "-1";
+            LastErrorDescription = "The operation couldn\\U2019t be completed. Downloads prevented by user.";
+            LastInitiator = SpeechDataDownloadInitiatorSiri;
+            RemovalDate = "628548441.7881351";
+            SuccessfulDate = "506664526.99457";
+        };
+        "VOICEID:com.apple.speech.synthesis.voice.custom.nicky.premium_2" =         {
+            BundleIdentifier = "com.apple.speech.synthesis.voice.custom.nicky.premium";
+            LastInitiator = SpeechDataDownloadInitiatorSiri;
+            RemovalDate = "628548441.786252";
+            SuccessfulDate = "500680662.983863";
+        };
+        "VOICEID:com.apple.speech.synthesis.voice.custom.siri.nora.premium" =         {
+            BundleIdentifier = "com.apple.speech.synthesis.voice.custom.siri.nora.premium";
+            LastInitiator = SpeechDataDownloadInitiatorSiri;
+            SuccessfulDate = "664824336.378474";
+        };
+        "VOICEID:com.apple.speech.synthesis.voice.custom.siri.nora.premium_1" =         {
+            BundleIdentifier = "com.apple.speech.synthesis.voice.custom.siri.nora.premium";
+            LastErrorCode = 102;
+            LastErrorDescription = NoMatchingProduct;
+            LastInitiator = SpeechDataDownloadInitiatorSiri;
+            RemovalDate = "628548441.787382";
+            SuccessfulDate = "530677571.764268";
+        };
+        "VOICEID:com.apple.speech.synthesis.voice.samantha.premium_6" =         {
+            BundleIdentifier = "com.apple.speech.synthesis.voice.samantha.premium";
+            LastInitiator = SpeechDataDownloadInitiatorUser;
+            LastUserAttemptDate = "503688167.024061";
+            SuccessfulDate = "503688167.024061";
+            UserAttempts = 1;
+        };
+    };
+    SpeechDataPurgeList =     {
+    };
+    VisibleIdentifiers =     {
+        "com.apple.speech.synthesis.voice.Agnes" = 2;
+        "com.apple.speech.synthesis.voice.Albert" = 2;
+        "com.apple.speech.synthesis.voice.Alex" = 0;
+        "com.apple.speech.synthesis.voice.BadNews" = 0;
+        "com.apple.speech.synthesis.voice.Bahh" = 2;
+        "com.apple.speech.synthesis.voice.Bells" = 2;
+        "com.apple.speech.synthesis.voice.Boing" = 2;
+        "com.apple.speech.synthesis.voice.Bruce" = 0;
+        "com.apple.speech.synthesis.voice.Bubbles" = 2;
+        "com.apple.speech.synthesis.voice.Cellos" = 2;
+        "com.apple.speech.synthesis.voice.Deranged" = 2;
+        "com.apple.speech.synthesis.voice.Fred" = 0;
+        "com.apple.speech.synthesis.voice.GoodNews" = 2;
+        "com.apple.speech.synthesis.voice.Hysterical" = 2;
+        "com.apple.speech.synthesis.voice.Junior" = 2;
+        "com.apple.speech.synthesis.voice.Kathy" = 0;
+        "com.apple.speech.synthesis.voice.Organ" = 2;
+        "com.apple.speech.synthesis.voice.Princess" = 2;
+        "com.apple.speech.synthesis.voice.Ralph" = 2;
+        "com.apple.speech.synthesis.voice.Trinoids" = 2;
+        "com.apple.speech.synthesis.voice.Vicki" = 0;
+        "com.apple.speech.synthesis.voice.Victoria" = 0;
+        "com.apple.speech.synthesis.voice.Whisper" = 2;
+        "com.apple.speech.synthesis.voice.Zarvox" = 2;
+        "com.apple.speech.synthesis.voice.alice.premium" = 2;
+        "com.apple.speech.synthesis.voice.allison.premium" = 2;
+        "com.apple.speech.synthesis.voice.alva.premium" = 2;
+        "com.apple.speech.synthesis.voice.amelie.premium" = 2;
+        "com.apple.speech.synthesis.voice.angelica.premium" = 2;
+        "com.apple.speech.synthesis.voice.anna.premium" = 2;
+        "com.apple.speech.synthesis.voice.audrey.premium" = 2;
+        "com.apple.speech.synthesis.voice.aurelie.premium" = 2;
+        "com.apple.speech.synthesis.voice.ava.premium" = 0;
+        "com.apple.speech.synthesis.voice.carlos.premium" = 2;
+        "com.apple.speech.synthesis.voice.carmit.premium" = 2;
+        "com.apple.speech.synthesis.voice.catarina.premium" = 2;
+        "com.apple.speech.synthesis.voice.cem.premium" = 2;
+        "com.apple.speech.synthesis.voice.chantal.premium" = 2;
+        "com.apple.speech.synthesis.voice.claire.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.nicky.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.aaron.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.aidan.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.akash.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.aleksei.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.angel.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.arthur.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.axel.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.carmen.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.catherine.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.chenghan.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.daniel.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.else.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.francesca.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.gordon.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.hattori.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.helena.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.hoyin.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.ingrid.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.jens.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.kayan.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.klaar.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.leona.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.li-mu.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.linfei.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.luisa.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.maeve.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.marie.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.marius.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.martha.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.martin.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.nando.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.nicky" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.nora.premium" = 0;
+        "com.apple.speech.synthesis.voice.custom.siri.o-ren.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.paolo.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.pierre.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.pieter.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.riya.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.sandra.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.shufen.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.sophie.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.tilde.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.vincent.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.xander.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.yelena.premium" = 2;
+        "com.apple.speech.synthesis.voice.custom.siri.yu-shu.premium" = 2;
+        "com.apple.speech.synthesis.voice.damayanti.premium" = 2;
+        "com.apple.speech.synthesis.voice.daniel.premium" = 2;
+        "com.apple.speech.synthesis.voice.diego.premium" = 2;
+        "com.apple.speech.synthesis.voice.ellen.premium" = 2;
+        "com.apple.speech.synthesis.voice.ewa.premium" = 2;
+        "com.apple.speech.synthesis.voice.federica.premium" = 2;
+        "com.apple.speech.synthesis.voice.felipe.premium" = 2;
+        "com.apple.speech.synthesis.voice.fiona.premium" = 2;
+        "com.apple.speech.synthesis.voice.henrik.premium" = 2;
+        "com.apple.speech.synthesis.voice.ioana.premium" = 2;
+        "com.apple.speech.synthesis.voice.iveta.premium" = 2;
+        "com.apple.speech.synthesis.voice.joana.premium" = 2;
+        "com.apple.speech.synthesis.voice.jorge.premium" = 2;
+        "com.apple.speech.synthesis.voice.juan.premium" = 2;
+        "com.apple.speech.synthesis.voice.kanya.premium" = 2;
+        "com.apple.speech.synthesis.voice.karen.premium" = 2;
+        "com.apple.speech.synthesis.voice.kate.premium" = 2;
+        "com.apple.speech.synthesis.voice.katya.premium" = 2;
+        "com.apple.speech.synthesis.voice.klara.premium" = 2;
+        "com.apple.speech.synthesis.voice.kyoko.premium" = 2;
+        "com.apple.speech.synthesis.voice.laila.premium" = 2;
+        "com.apple.speech.synthesis.voice.laura.premium" = 2;
+        "com.apple.speech.synthesis.voice.lee.premium" = 2;
+        "com.apple.speech.synthesis.voice.lekha.premium" = 2;
+        "com.apple.speech.synthesis.voice.luca.premium" = 2;
+        "com.apple.speech.synthesis.voice.luciana.premium" = 2;
+        "com.apple.speech.synthesis.voice.maged.premium" = 2;
+        "com.apple.speech.synthesis.voice.magnus.premium" = 2;
+        "com.apple.speech.synthesis.voice.mariska.premium" = 2;
+        "com.apple.speech.synthesis.voice.markus.premium" = 2;
+        "com.apple.speech.synthesis.voice.mei-jia.premium" = 2;
+        "com.apple.speech.synthesis.voice.melina.premium" = 2;
+        "com.apple.speech.synthesis.voice.milena.premium" = 2;
+        "com.apple.speech.synthesis.voice.moira.premium" = 2;
+        "com.apple.speech.synthesis.voice.monica.premium" = 2;
+        "com.apple.speech.synthesis.voice.neel.premium" = 2;
+        "com.apple.speech.synthesis.voice.nicolas.premium" = 2;
+        "com.apple.speech.synthesis.voice.nikos.premium" = 2;
+        "com.apple.speech.synthesis.voice.nora.premium" = 2;
+        "com.apple.speech.synthesis.voice.oliver.premium" = 2;
+        "com.apple.speech.synthesis.voice.oskar.premium" = 2;
+        "com.apple.speech.synthesis.voice.otoya.premium" = 2;
+        "com.apple.speech.synthesis.voice.paola.premium" = 2;
+        "com.apple.speech.synthesis.voice.paulina.premium" = 2;
+        "com.apple.speech.synthesis.voice.petra.premium" = 2;
+        "com.apple.speech.synthesis.voice.rishi" = 2;
+        "com.apple.speech.synthesis.voice.samantha.premium" = 2;
+        "com.apple.speech.synthesis.voice.sara.premium" = 2;
+        "com.apple.speech.synthesis.voice.satu.premium" = 2;
+        "com.apple.speech.synthesis.voice.serena.premium" = 2;
+        "com.apple.speech.synthesis.voice.sin-ji.premium" = 2;
+        "com.apple.speech.synthesis.voice.soledad.premium" = 2;
+        "com.apple.speech.synthesis.voice.susan.premium" = 2;
+        "com.apple.speech.synthesis.voice.tarik.premium" = 2;
+        "com.apple.speech.synthesis.voice.tessa.premium" = 2;
+        "com.apple.speech.synthesis.voice.thomas.premium" = 2;
+        "com.apple.speech.synthesis.voice.ting-ting.premium" = 2;
+        "com.apple.speech.synthesis.voice.tom.premium" = 2;
+        "com.apple.speech.synthesis.voice.veena.premium" = 2;
+        "com.apple.speech.synthesis.voice.xander.premium" = 2;
+        "com.apple.speech.synthesis.voice.yannick.premium" = 2;
+        "com.apple.speech.synthesis.voice.yelda.premium" = 2;
+        "com.apple.speech.synthesis.voice.yuna.premium" = 2;
+        "com.apple.speech.synthesis.voice.yuri.premium" = 2;
+        "com.apple.speech.synthesis.voice.zosia.premium" = 2;
+        "com.apple.speech.synthesis.voice.zuzana.premium" = 2;
+    };
+    VoiceRateDataArray =     (
+                (
+            1886745202,
+            184844493,
+            172
+        )
+    );
+    VoiceStatistics =     {
+        LastMessageTracerTimeStamp = "684040421.086562";
+        PerVoiceTable =         {
+            "com.apple.speech.synthesis.voice.Alex" =             {
+                LastUseTimeStamp = "589775838.980162";
+                UsageCount = 2;
+            };
+            "com.apple.speech.synthesis.voice.custom.aaron.premium" =             {
+                LastUseTimeStamp = "529433449.743362";
+                UsageCount = 21;
+            };
+            "com.apple.speech.synthesis.voice.custom.nicky.compact" =             {
+                LastUseTimeStamp = "529780268.716068";
+                UsageCount = 9;
+            };
+            "com.apple.speech.synthesis.voice.custom.siri.nora.premium" =             {
+                LastUseTimeStamp = "662620375.119555";
+                UsageCount = 45;
+            };
+            "com.apple.speech.synthesis.voice.diego.compact" =             {
+                LastUseTimeStamp = "516041652.98507";
+                UsageCount = 1;
+            };
+            "com.apple.speech.synthesis.voice.samantha.premium" =             {
+                LastUseTimeStamp = "684041792.753293";
+                UsageCount = 211;
+            };
+        };
+    };
+}

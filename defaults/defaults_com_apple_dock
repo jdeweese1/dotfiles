@@ -1,0 +1,134 @@
+{
+    autohide = 1;
+    largesize = 128;
+    "last-analytics-stamp" =     (
+        "688320045.256348"
+    );
+    "last-messagetrace-stamp" = "633819403.291797";
+    lastShowIndicatorTime = "688756828.42875";
+    launchanim = 1;
+    loc = "en_US:US";
+    magnification = 0;
+    mineffect = suck;
+    "minimize-to-application" = 0;
+    "mod-count" = 11054;
+    "mru-spaces" = 0;
+    orientation = right;
+    "persistent-apps" =     (
+                {
+            GUID = 1017901586;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.jetbrains.pycharm";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/PyCharm.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = PyCharm;
+                "file-mod-date" = 135123408965154;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 180546994460303;
+            };
+            "tile-type" = "file-tile";
+        }
+    );
+    "persistent-others" =     (
+                {
+            GUID = 4264662127;
+            "tile-data" =             {
+                arrangement = 1;
+                book = {length = 672, bytes = 0x626f6f6b a0020000 00000410 30000000 ... 04000000 00000000 };
+                displayas = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/jaroddeweese/Downloads/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Downloads;
+                "file-mod-date" = 184041947000;
+                "file-type" = 2;
+                "is-beta" = 0;
+                "parent-mod-date" = 263456947198831;
+                preferreditemsize = "-1";
+                showas = 0;
+            };
+            "tile-type" = "directory-tile";
+        }
+    );
+    "recent-apps" =     (
+                {
+            GUID = 778892842;
+            "tile-data" =             {
+                book = {length = 564, bytes = 0x626f6f6b 34020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.sublimemerge";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Sublime%20Merge.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "Sublime Merge";
+                "file-mod-date" = 247484048394061;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 104139526828224;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 778892846;
+            "tile-data" =             {
+                book = {length = 628, bytes = 0x626f6f6b 74020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.DiskUtility";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Utilities/Disk%20Utility.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "Disk Utility";
+                "file-mod-date" = 3744176379;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 3744176379;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 778892847;
+            "tile-data" =             {
+                book = {length = 592, bytes = 0x626f6f6b 50020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.systempreferences";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/System%20Preferences.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "System Preferences";
+                "file-mod-date" = 3744176379;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 3744176379;
+            };
+            "tile-type" = "file-tile";
+        }
+    );
+    region = US;
+    "scroll-to-open" = 0;
+    "show-process-indicators" = 1;
+    showAppExposeGestureEnabled = 1;
+    showDesktopGestureEnabled = 1;
+    showLaunchpadGestureEnabled = 1;
+    showMissionControlGestureEnabled = 1;
+    showhidden = 1;
+    tilesize = 45;
+    "trash-full" = 1;
+    version = 1;
+    "wvous-bl-corner" = 14;
+    "wvous-bl-modifier" = 0;
+    "wvous-br-corner" = 12;
+    "wvous-br-modifier" = 0;
+    "wvous-tl-corner" = 13;
+    "wvous-tl-modifier" = 0;
+    "wvous-tr-corner" = 12;
+    "wvous-tr-modifier" = 1048576;
+}

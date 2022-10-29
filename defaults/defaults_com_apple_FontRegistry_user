@@ -1,0 +1,8 @@
+{
+    DisabledFonts =     (
+        "file:///Library/Fonts/Impacted.ttf#postscript-name=Impact",
+        "file:///Library/Fonts/unicode.impact.ttf#postscript-name=Impact"
+    );
+    LastUpdated = "2022-10-10 13:43:10 +0000";
+    Version = 21G115;
+}

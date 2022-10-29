@@ -1,0 +1,172 @@
+{
+    CurrentDeviceUDID = "91609CA0-9309-410A-9904-1C532EEB3288";
+    DevicePreferences =     {
+        "15AD2696-ABEB-4F9A-8649-4EB0C49CF549" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{640.0, 436.0}";
+            SimulatorWindowLastScale = 1;
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "25C7903E-E336-4593-8DA0-110CAE1DB18C" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowGeometry =             {
+                "D30C6012-E3D2-4DDE-B78A-37BB32FBD945" =                 {
+                    WindowCenter = "{1340, 523}";
+                    WindowScale = 1;
+                };
+            };
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = "-0";
+        };
+        "261F47D2-F694-4767-9D4E-3E918F25C15E" =         {
+            ChromeTint = "";
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{423.5, 462.0}";
+            SimulatorWindowLastScale = "0.5";
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "2DC390C7-B2FD-4F9C-8D3E-5000788D61E7" =         {
+            ChromeTint = "";
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{562.5, 401.0}";
+            SimulatorWindowLastScale = "0.9013333333333334";
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "4B6B5439-6A64-4F9E-A440-B6F42E8578C0" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowGeometry =             {
+                "D30C6012-E3D2-4DDE-B78A-37BB32FBD945" =                 {
+                    WindowCenter = "{975, 525}";
+                    WindowScale = 1;
+                };
+            };
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "5D4CCC58-696D-44F8-9F08-6506973A923B" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowGeometry =             {
+                "D30C6012-E3D2-4DDE-B78A-37BB32FBD945" =                 {
+                    WindowCenter = "{840, 544}";
+                    WindowScale = 1;
+                };
+            };
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "5D6FFE06-B941-4B42-A1B7-EE7EB0B211AE" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowGeometry =             {
+                "D30C6012-E3D2-4DDE-B78A-37BB32FBD945" =                 {
+                    WindowCenter = "{1454.5, 518}";
+                    WindowScale = "0.984";
+                };
+            };
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "666FF8DF-E297-4C65-B26E-77A4D2ED1626" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{640.0, 394.0}";
+            SimulatorWindowLastScale = 1;
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "67B3EAC5-8CD2-4091-8C44-A2CEFCBCA201" =         {
+            ChromeTint = "";
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{603.5, 344.5}";
+            SimulatorWindowLastScale = 1;
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "73084709-B4B3-4D99-AD15-2483D9E611B1" =         {
+            ChromeTint = "";
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{652.0, 309.0}";
+            SimulatorWindowLastScale = 1;
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "7B56D95A-158B-47B1-BB23-687E2EF57ED1" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{481.5, 431.5}";
+            SimulatorWindowLastScale = "1.005333333333333";
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "86872A38-3A5F-47CD-94BF-2DD51C1AF1C3" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowGeometry =             {
+                "D30C6012-E3D2-4DDE-B78A-37BB32FBD945" =                 {
+                    WindowCenter = "{598, 552}";
+                    WindowScale = 1;
+                };
+            };
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "91609CA0-9309-410A-9904-1C532EEB3288" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowGeometry =             {
+                "D30C6012-E3D2-4DDE-B78A-37BB32FBD945" =                 {
+                    WindowCenter = "{1402.5, 544.5}";
+                    WindowScale = 1;
+                };
+            };
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "C49B1752-42B2-4F6F-BB90-945A8E3BD167" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{864.5, 389.0}";
+            SimulatorWindowLastScale = "3.878205128205128";
+        };
+        "C60A2B9A-346C-4ABB-85F9-05700081E100" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{650.0, 414.5}";
+            SimulatorWindowLastScale = "1.056";
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "C951D1C7-FD68-4831-A0FF-B578B8FBBC98" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{876.0, 399.0}";
+            SimulatorWindowLastScale = 1;
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "E6F51061-88E1-4742-8D24-769455B681D2" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{800.5, 337.0}";
+            SimulatorWindowLastScale = "1.133333333333333";
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+        "F635C519-C3D0-4693-B736-6798A88AAD5F" =         {
+            SimulatorExternalDisplay = 2114;
+            SimulatorWindowCenter = "{688.5, 433.5}";
+            SimulatorWindowLastScale = 1;
+            SimulatorWindowOrientation = Portrait;
+            SimulatorWindowRotationAngle = 0;
+        };
+    };
+    GraphicsQualityOverride = 0;
+    LocationMode = 3102;
+    "NSWindow Frame Apple TV Remote Window" = "944 263 155 515 0 0 1280 778 ";
+    "NSWindow Frame DeviceWindow" = "530 187 320 590 0 0 1280 777 ";
+    "NSWindow Frame iPhoneSimulatorTVOutWindow" = "106 131 0 22 0 0 1280 777 ";
+    PasteboardAutomaticSync = 1;
+    ScreenConfigurations =     {
+        "D30C6012-E3D2-4DDE-B78A-37BB32FBD945" =         (
+            "{{0, 0}, {1680, 1050}}"
+        );
+    };
+    ShowChrome = 0;
+    SimulatorTvOutWindowLastMode = 2114;
+    "SimulatorWindowLastScale-com.apple.CoreSimulator.SimDeviceType.iPhone-6" = "0.75";
+    "SimulatorWindowLastScale-com.apple.CoreSimulator.SimDeviceType.iPhone-7-Plus" = "0.5";
+}

@@ -1,0 +1,4 @@
+{
+    AllowOnlyContacts = 0;
+    BlockAllInviters = 0;
+}

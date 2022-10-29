@@ -1,0 +1,88 @@
+{
+    AutoplayPolicyWhitelistConfigurationUpdateDate = "2017-10-10 22:05:31 +0000";
+    AutoplayQuirksWhitelistConfigurationUpdateDate = "2017-10-10 22:05:31 +0000";
+    DidDisableIndividualExtensionsAfterRemovingOnOffSwitchIfNecessary = 1;
+    DidMigrateDisabledPlugInsInfoToAllPlugInsInfo = 1;
+    DidMigrateNewBookmarkSheetToReadingListDefault = 1;
+    DidMigrateStartPageDefaultSidebarVisibility = 1;
+    DidMigrateTabsToLinksForReaderKey = 1;
+    DidMigrateToMoreRestrictiveFileURLPolicy = 1;
+    DidMigrateWebKit1Preferences = 1;
+    DidReportHistorySettings = 1;
+    DidUnsubscribeFromRSSFeeds = 1;
+    ExtensionsEnabled = 1;
+    FaviconDatabaseDidEraseLegacyDatabase = 1;
+    GEOUsageSessionID = {length = 20, bytes = 0x08b9cee5f8e8ae9fa76d10bea9d7b9e686d7d368};
+    GEOUsageSessionIDGenerationTime = "529365931.234707";
+    LastApplicationCacheMessageTraceTime = "529365927.813048";
+    LastCloudHistoryConfigurationUpdateTime = "2017-10-10 22:05:26 +0000";
+    LastExtensionMessageTraceTime = "529365925.371864";
+    LastOSVersionSafariWasLaunchedOn = "10.12.6";
+    LastSharedLinksMessageTraceTime = "529366226.369255";
+    LocalFileRestrictionsEnabled = 1;
+    ManagedPlugInPolicies =     {
+        "com.macromedia.Flash Player.plugin" =         {
+            PlugInDisallowPromptBeforeUseDialog = 1;
+            PlugInFirstVisitPolicy = PlugInPolicyBlock;
+        };
+        "com.oracle.java.JavaAppletPlugin" =         {
+            PlugInFirstVisitPolicy = PlugInPolicyBlock;
+        };
+        "us.zoom.plugin" =         {
+            PlugInFirstVisitPolicy = PlugInPolicyAsk;
+        };
+    };
+    "NSToolbar Configuration BrowserToolbarIdentifier-v2" =     {
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSWindow Frame BrowserWindowFrame" = "0 0 1275 778 0 0 1280 778 ";
+    NewestLaunchedSafariVersion = "605.1.8";
+    NewestLaunchedWebKitVersion = "12605.1.8";
+    OpenWindows =     (
+    );
+    PlugInInfo =     {
+        "com.macromedia.Flash Player.plugin" =         {
+            plugInCurrentState = 0;
+            plugInStateModifiedDate = "2017-01-24 20:07:55 +0000";
+            plugInStateModifiedVersionString = "24.0.0.194";
+        };
+        "com.oracle.java.JavaAppletPlugin" =         {
+            plugInCurrentState = 0;
+            plugInStateModifiedDate = "2017-01-24 20:07:55 +0000";
+            plugInStateModifiedVersionString = "1.8.101.13";
+        };
+        "us.zoom.plugin" =         {
+            plugInCurrentState = 1;
+            plugInStateModifiedVersionString = "4.0.29656.0413";
+        };
+    };
+    RecentWebSearches =     (
+                {
+            Date = "2017-01-24 21:06:25 +0000";
+            SearchString = "dvorak course";
+        }
+    );
+    SearchProviderIdentifierMigratedToSystemPreference = 1;
+    SearchProvidersNotAllowedToPromptToBeMadeDefault =     {
+    };
+    ShowSidebarInTopSites = 0;
+    SkipLoadingExtensionsAtLaunch = 1;
+    SuccessfulLaunchTimestamp = "529365925.170194";
+    TechnologyPreviewSafariSyncEnabled = 1;
+    UniversalSearchFeatureNotificationHasBeenDisplayed = 1;
+    UserStyleSheetEnabled = 0;
+    WebKitDeveloperExtrasEnabledPreferenceKey = 1;
+    WebKitRespectStandardStyleKeyEquivalents = 1;
+    WebsitesKnownToUsePluginsConfigurationUpdateDateKey = "2017-10-10 22:05:26 +0000";
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2AllowsPictureInPictureMediaPlayback" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2ApplePayEnabled" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2HiddenPageDOMTimerThrottlingAutoIncreases" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2InvisibleAutoplayNotPermitted" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2MediaDevicesEnabled" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2NeedsStorageAccessFromFileURLsQuirk" = 0;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2ShouldSuppressKeyboardInputDuringProvisionalNavigation" = 1;
+}

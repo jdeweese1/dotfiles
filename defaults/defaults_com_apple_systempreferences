@@ -1,0 +1,80 @@
+{
+    DSKDesktopPrefPane =     {
+        UserFolderPaths =         (
+            "/Users/jaroddeweese/Desktop",
+            "/Users/jaroddeweese/Downloads",
+            "/Users/jaroddeweese/Desktop/foo",
+            "/Users/jaroddeweese/Pictures/travel/2019/6_st_louis/21/jpeged"
+        );
+    };
+    DefaultExposeTab = ExposeTab;
+    DidShowPrefBundleIDs =     (
+        "com.apple.preferences.softwareupdate"
+    );
+    DisableAutoLoginButtonIsHidden = 1;
+    HiddenPreferencePanes =     (
+        "com.apple.preference.ink",
+        "com.oracle.java.JavaControlPanel",
+        "com.apple.preferences.configurationprofiles",
+        "com.apple.preferences.parentalcontrols",
+        "com.apple.preference.sidecar"
+    );
+    "ICQ_iCloudFirstRunNotificationShown" = "000160-08-e015d576-3483-4f1e-90c7-2fc7710718a2";
+    NSColorPanelMode = 1;
+    NSColorPickerPreferredRGBEntryMode = 2;
+    NSColorPickerSlidersDefaults = 1;
+    NSFullScreenMenuItemEverywhere = 0;
+    NSNavLastRootDirectory = "/Volumes/Time Machine";
+    NSNavPanelExpandedSizeForOpenMode = "{799, 448}";
+    "NSOutlineView Items DSKSourceOfPicturesOutlineView" =     (
+        DSKAppleRootSource,
+        DSKUserFoldersRootSource
+    );
+    NSQuitAlwaysKeepsWindows = 0;
+    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
+        "0.000000, 0.000000, 224.000000, 264.000000, NO, NO",
+        "0.000000, 265.000000, 224.000000, 43.000000, NO, NO"
+    );
+    "NSSplitView Subview Frames keyboard.shortcuts.splitview" =     (
+        "0.000000, 0.000000, 211.000000, 239.000000, NO, NO",
+        "220.000000, 0.000000, 365.000000, 239.000000, NO, NO"
+    );
+    "NSTableView Columns v2 LoginItemsColumn" = {length = 645, bytes = 0x62706c69 73743030 d4010203 04050650 ... 00000000 000001bd };
+    "NSTableView Columns v2 LoginItemsColumn2" = {length = 645, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001bd };
+    "NSTableView Sort Ordering v2 LoginItemsColumn" = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050614 ... 00000000 000000b5 };
+    "NSTableView Sort Ordering v2 LoginItemsColumn2" = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b5 };
+    "NSTableView Supports v2 LoginItemsColumn" = 1;
+    "NSTableView Supports v2 LoginItemsColumn2" = 1;
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame DestinationSheet" = "802 436 450 339 0 0 1680 1025 ";
+    "NSWindow Frame Identity Picker" = "296 325 357 288 0 0 1680 1025 ";
+    "NSWindow Frame Main Window Frame SystemPreferencesApp 8.0" = "916 501 668 524 0 0 1680 1025 ";
+    "NSWindow Frame NSColorPanel" = "677 771 224 284 0 0 1920 1055 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "749 353 799 476 0 0 1680 1025 ";
+    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "2372 377 425 137 -1259 1050 1920 1055 ";
+    SecurityPrefTab = Privacy;
+    ShowAllMode = 0;
+    SoundTab = output;
+    ThirdPartyCount = 2;
+    "com.adobe.preferences.flashplayer" =     {
+        IndexOfSelectedTab = 4;
+    };
+    "com.apple.PreferenceSync.ExcludeSyncKeys" =     (
+        "Main Window Frame SystemPreferencesApp 8.0",
+        "com.apple.preference.keyboard.lastselectedtab"
+    );
+    "com.apple.SecurityPref.Privacy.LastSourceSelected" = 12;
+    "com.apple.TimeMachine.OpenPanelDirectory" = "/Library";
+    "com.apple.datetimepref.lastselectedtab" = ClockPref;
+    "com.apple.dtandsspref.lastselectedtab" = "com.apple.preference.desktopscreeneffect.screeneffects";
+    "com.apple.preference.keyboard.lastselectedtab" = hotkeysTabIdentifier;
+    "com.apple.preferences.accounts.outline.groupparent" = 0;
+    "com.apple.preferences.accounts.outline.usersparent" = 1;
+    "com.apple.preferences.keyboard.text.sortDescriptors" = {length = 136, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 70617265 3a868686 };
+    "com.apple.preferences.sharing.selectedservice" = 1;
+    kAOSUIProfilePictureCropRect = "{{0, 0}, {1500, 1500}}";
+    "mouse.lastselectedtab" = 1;
+    "trackpad.lastselectedtab" = 2;
+}

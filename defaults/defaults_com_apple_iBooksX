@@ -1,0 +1,1985 @@
+{
+    1289800463 =     {
+        NotesInMarginShowing = 0;
+        NotesViewVisible = 0;
+        ViewingTwoPages = 0;
+    };
+    565956630 =     {
+        NotesInMarginShowing = 0;
+        NotesViewVisible = 0;
+        ViewingTwoPages = 0;
+    };
+    AllowAutoDownloadsForPurchasesFromOtherDevices = 0;
+    BCCacheManagerNextDiskPruneDate = "689219730.474627";
+    BCSyncICloudDrive = 0;
+    BCSyncPreferencesItunesSignedOut = 0;
+    BCSyncSettingsDisabled = 0;
+    BKAlreadyCheckedAudiobookAutomigration = 1;
+    BKAlreadyDisplayedGDPRWelcomeExperience = 1;
+    BKAlreadyDisplayedUbiquity = 1;
+    BKAlreadyDisplayedWelcomeExperience = 1;
+    BKApplicationDidEnterBackgroundTimeKey = "2022-06-19 02:36:01 +0000";
+    "BKBookViewerPlugInInstanceDescriptor.0DA0442F8B95E74FC7AD528097420BC4" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "0 0 1280 778 0 0 1280 778 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.1289800463" =     {
+        "saved-window-frame" = "133 0 1014 778 0 0 1280 778 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.1481631175" =     {
+        BookInTwoUp = 0;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "840 0 840 1025 0 0 1680 1025 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.395546675" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "99 0 1078 777 0 0 1280 777 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.3B0CB65B86EBCF19C76F45114EA67D49" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "0 0 1280 778 0 0 1280 778 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.408528854" =     {
+        BookInTwoUp = 0;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "317 56 646 720 0 0 1280 777 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.415325265" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "0 0 1280 778 0 0 1280 778 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.464132434" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "0 0 1078 778 0 0 1280 778 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.565956630" =     {
+        "saved-window-frame" = "0 0 1280 778 0 0 1280 778 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.701C2229C07BBDFBF00DF4EE3EA5CEB7" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "101 0 1078 778 0 0 1280 778 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.731076045" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "-1499 1111 1078 785 -1920 976 1920 1055 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.7456AD046930D46F4A0BC698E595AAC8" =     {
+        BookInTwoUp = 0;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "326 38 624 700 0 0 1280 777 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.881256329" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "0 0 1680 1027 0 0 1680 1027 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.A075465F48126A958154071228FE9870" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "0 0 1280 778 0 0 1280 778 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.A3BF7FED2DF3170BF80A49946BB0A767" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "101 0 1078 778 0 0 1280 778 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.D393D24CD6D88BD4810A137E2E8DF2C0" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "301 121 1078 785 0 0 1680 1027 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.D5C287B815F23F24D38AEDD8464151F4" =     {
+        BookInTwoUp = 0;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "521 -754 638 778 0 0 1280 778 ";
+    };
+    "BKBookViewerPlugInInstanceDescriptor.DB66681D29EE578383541AEA7D517E48" =     {
+        BookInTwoUp = 1;
+        NotesPanelVisible = 0;
+        "saved-window-frame" = "101 77 1078 700 0 0 1280 777 ";
+    };
+    "BKBookletMigration.infos" =     {
+        1996309056 =         {
+            stage = 400;
+            version = 1;
+        };
+    };
+    "BKBookshelfCategoryManager~0123" = 1;
+    "BKBookshelfCategoryManager~012384" = 0;
+    "BKBookshelfCategoryManager~0123894" = 0;
+    BKBookshelfCollectionsCategoryTableViewControllerSelectedCollection = "CA7C6982-F508-41EB-9E88-D63A81B69DE6";
+    BKBookshelfSidebarControllerSelectedCell = "AudioBooks_Collection_ID";
+    BKBookshelfViewControllerFilterAction = 7;
+    BKBookshelfViewControllerSortAction = 2;
+    "BKCumulus.LastDsid" = 1996309056;
+    "BKCumulus.LastDsidText" = "jaroddeweese@gmail.com";
+    BKDidPerformSilentMachineAuthorization = 1;
+    BKEPubViewerColorTheme = 1;
+    BKMainSidebarDidInitialExpand = 1;
+    BKOptedInUbiquity = 0;
+    BKPreviousUserId = 1996309056;
+    BKPreviouslyOpenedBookIDs =     (
+    );
+    "BKStyleManagerLastFont-" = "Iowan Old Style";
+    BKStyleManagerLastIndexStyle = 5;
+    BKSuccessfullyOpenedBookForAssetIDMappings =     {
+    };
+    BKUbiquitousWelcomeReminderTrigger = 4;
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1665416028;
+    CloudKitAccountInfoCache =     {
+        ca4a26e44de3a0e4d0050a19ff627ceb7de5576558e4f700e52e5f08b2aab212 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+    };
+    "EngagementCollector.TimeSinceLastPurgeAll" = "2022-06-18 21:49:53 +0000";
+    "IMPlugInInstanceDescriptor.7" =     {
+        "saved-window-frame" = "-1600 1115 1280 778 -1920 976 1920 1055 ";
+    };
+    "IMPlugInInstanceDescriptor.8" =     {
+        "saved-window-frame" = "200 283 1280 744 0 0 1680 1027 ";
+    };
+    LibraryCountDate = "2021-11-14 20:23:33 +0000";
+    "MZBookKeeper.LastDsid" = 1996309056;
+    "MZBookKeeper.LastDsidText" = "jaroddeweese@gmail.com";
+    "NSOutlineView Items BKMainSidebarViewController" =     (
+        "BKBookstore-book-BKBookstoreSidebarHeader",
+        "BKBookstore-audiobook-BKBookstoreSidebarHeader",
+        "BKBookshelf-Header_ID",
+        "BKBookshelf-User_Collections_Header_ID"
+    );
+    NSPreferencesContentSize = "{558, 176}";
+    NSPreferencesSelectedIndex = 2;
+    "NSSplitView Subview Frames BKMainViewController" =     (
+        "0.000000, 0.000000, 239.000000, 778.000000, NO, NO",
+        "240.000000, 0.000000, 1040.000000, 778.000000, NO, NO"
+    );
+    "NSTableView Columns v2 BKBookshelfCategoryListContentViewController" = {length = 2520, bytes = 0x62706c69 73743030 d4000100 02000300 ... 00000000 00000722 };
+    "NSTableView Sort Ordering v2 BKBookshelfCategoryListContentViewController" = {length = 438, bytes = 0x62706c69 73743030 d4010203 0405062f ... 00000000 00000130 };
+    "NSTableView Supports v2 BKBookshelfCategoryListContentViewController" = 1;
+    "NSToolbar Configuration NSPreferences" =     {
+        "TB Default Item Identifiers" =         (
+            General,
+            Store,
+            Advanced
+        );
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Item Identifiers" =         (
+            NSToolbarFlexibleSpaceItem,
+            General,
+            Store,
+            Advanced,
+            NSToolbarFlexibleSpaceItem
+        );
+        "TB Size Mode" = 1;
+    };
+    "NSViewControllerSupports10_10Features" = 1;
+    "NSWindow Frame NSNavPanelAutosaveName" = "282 318 712 426 0 0 1280 778 ";
+    "NSWindow Frame Preferences" = "-1167 1590 558 244 -1920 976 1920 1055 ";
+    "ReadingHistory.CurrentStreak" = 0;
+    ScriptingLocalStorage =     {
+        "ENABLE_SWOOSH_ITEM_INFO_UI_SEARCH" = 0;
+        "ENABLE_SWOOSH_ITEM_INFO_UI_STORE" = 0;
+        "ODP_CACHE_KEY_PROFILE" =         {
+            meta =             {
+                metrics =                 {
+                    "reco_algoId" = MLRV1;
+                    "reco_displayType" = ondevice;
+                    "reco_eligible" = 1;
+                    "reco_id" = "7ec7c581-14d7-4166-8ed5-000bb4392f2f";
+                    "reco_timeStamp" = 1666922130532;
+                };
+            };
+            results =             {
+                rankers =                 (
+                                        {
+                        id = "od_10_stock2";
+                        kindId = 3;
+                        rankerStatement = "34:4:1:0.3009|23:3:1:0.5118|24:3:1:0.1873";
+                        rankerWeight = "1.0";
+                        sourceId = 1;
+                    },
+                                        {
+                        id = "pwl_model_1234";
+                        kindId = 17;
+                        rankerStatement = "34:4:1:0.8245|23:3:1:0.9514|24:3:1:0.4702";
+                        rankerWeight = "0.7125";
+                        sourceId = 2;
+                    }
+                );
+                tasteProfiles =                 (
+                                        {
+                        createdTimeStampInSeconds = 0;
+                        features =                         (
+                                                        {
+                                affinityValues =                                 {
+                                };
+                                id = 5006;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    10094 = "0.036144577";
+                                    10114 = "0.036144577";
+                                    11165 = "0.2811245";
+                                    11177 = "0.25301206";
+                                    11178 = "0.09638554000000001";
+                                    11190 = "0.032128513";
+                                    11196 = "0.06425702599999999";
+                                    9019 = "0.08032127999999999";
+                                    9025 = "0.04016064";
+                                    9031 = "0.04016064";
+                                    9032 = "0.04016064";
+                                };
+                                id = 36;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                };
+                                id = 5005;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    1146101828 = "0.014925373";
+                                    1174647036 = "0.014925373";
+                                    128538939 = "0.014925373";
+                                    13611875 = "0.014925373";
+                                    157846683 = "0.014925373";
+                                    190184746 = "0.014925373";
+                                    2023824 = "0.014925373";
+                                    2023870 = "0.014925373";
+                                    2037023 = "0.014925373";
+                                    2124237 = "0.04477612";
+                                    252548473 = "0.014925373";
+                                    2671774 = "0.029850746";
+                                    2683453 = "0.014925373";
+                                    270511427 = "0.014925373";
+                                    2762652 = "0.014925373";
+                                    2765327 = "0.014925373";
+                                    2789700 = "0.014925373";
+                                    335692739 = "0.014925373";
+                                    365474643 = "0.08955224000000001";
+                                    365796988 = "0.014925373";
+                                    366239484 = "0.014925373";
+                                    378949168 = "0.014925373";
+                                    403364943 = "0.014925373";
+                                    405307759 = "0.13432837";
+                                    417552527 = "0.029850746";
+                                    433804682 = "0.014925373";
+                                    445180141 = "0.014925373";
+                                    447552120 = "0.014925373";
+                                    450538634 = "0.014925373";
+                                    462428445 = "0.014925373";
+                                    465247118 = "0.014925373";
+                                    480526428 = "0.014925373";
+                                    513196726 = "0.014925373";
+                                    534222994 = "0.014925373";
+                                    546189032 = "0.014925373";
+                                    562715207 = "0.014925373";
+                                    573358038 = "0.014925373";
+                                    596677356 = "0.014925373";
+                                    603376776 = "0.014925373";
+                                    620053203 = "0.014925373";
+                                    621109398 = "0.014925373";
+                                    675311889 = "0.029850746";
+                                    704241258 = "0.014925373";
+                                    724203479 = "0.014925373";
+                                    781333 = "0.014925373";
+                                    851849161 = "0.014925373";
+                                    909754694 = "0.014925373";
+                                    937906681 = "0.014925373";
+                                    952227016 = "0.014925373";
+                                };
+                                id = 34;
+                                valueClassification = WeightedLongMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    10017 = "0.06885999";
+                                    10023 = "0.020657996";
+                                    10042 = "0.034429993";
+                                    10044 = "0.061973985";
+                                    10048 = "0.0068859984";
+                                    10057 = "0.0068859984";
+                                    10063 = "0.027543994";
+                                    10064 = "0.020657996";
+                                    10093 = "0.0068859984";
+                                    10094 = "0.0068859984";
+                                    10114 = "0.0068859984";
+                                    10119 = "0.0068859984";
+                                    11002 = "0.012241775";
+                                    11003 = "0.0061208876";
+                                    11004 = "0.012241775";
+                                    11006 = "0.012241775";
+                                    11007 = "0.0061208876";
+                                    11086 = "0.0153022185";
+                                    11112 = "0.013771997";
+                                    11115 = "0.0061208876";
+                                    11119 = "0.0061208876";
+                                    11165 = "0.084162205";
+                                    11177 = "0.075745985";
+                                    11178 = "0.030604437";
+                                    11183 = "0.012241775";
+                                    11190 = "0.0061208876";
+                                    11196 = "0.012241775";
+                                    9003 = "0.0076511092";
+                                    9008 = "0.0076511092";
+                                    9015 = "0.0153022185";
+                                    9019 = "0.0153022185";
+                                    9020 = "0.15302218";
+                                    9025 = "0.0153022185";
+                                    9027 = "0.099464424";
+                                    9031 = "0.07651109";
+                                    9032 = "0.022953328";
+                                };
+                                id = 35;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    11165 = "0.5833333000000001";
+                                    9019 = "0.16666667";
+                                    9025 = "0.08333333599999999";
+                                    9031 = "0.08333333599999999";
+                                    9032 = "0.08333333599999999";
+                                };
+                                id = 46;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    10017 = "0.11476571";
+                                    10023 = "0.022868112";
+                                    10042 = "0.03811352";
+                                    10044 = "0.030490816";
+                                    10048 = "0.007622704";
+                                    10057 = "0.007622704";
+                                    10063 = "0.030490816";
+                                    10093 = "0.007622704";
+                                    10094 = "0.042789243";
+                                    10114 = "0.061524987";
+                                    10119 = "0.007622704";
+                                    11002 = "0.015245408";
+                                    11003 = "0.007622704";
+                                    11004 = "0.018756604";
+                                    11006 = "0.015245408";
+                                    11007 = "0.007622704";
+                                    11115 = "0.007622704";
+                                    11119 = "0.007622704";
+                                    11177 = "0.007622704";
+                                    11178 = "0.15146513";
+                                    11183 = "0.015245408";
+                                    11190 = "0.04527306";
+                                    11196 = "0.090988554";
+                                    9008 = "0.007622704";
+                                    9015 = "0.015245408";
+                                    9019 = "0.018279646";
+                                    9020 = "0.030490816";
+                                    9031 = "0.07677034000000001";
+                                    9032 = "0.089723974";
+                                };
+                                id = 5003;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 (
+                                                                        {
+                                        adamId = 1463362260;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1606861306000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 538887149;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1398901311000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 499965324;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1397049994000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 493896992;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1496976220000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 940337834;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1416961896000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 724203460;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1452578210000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 943067689;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1416961843000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 533098628;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1440258689000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1481631175;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1613430810000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 985786488;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1507765032000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 411519197;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1440258677000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 508328555;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1452577830000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 392612594;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1397756098000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 357659419;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1638503447000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 416072787;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1416961774000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 917482340;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1431822856000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1035374126;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1451680523000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 754780178;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1416961915000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 408528854;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1481210475000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 638580290;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1398901461000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 671844264;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1452577679000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 430914727;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1431828050000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 585246511;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1379950303000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 357657709;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1638315482000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 542562920;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1399175160000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 624718415;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1399418240000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 443149881;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1452577647000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 729469576;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1431828031000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 434215319;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1380036556000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 942230549;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1440258751000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 418648091;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1425916009000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 704239726;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1399174993000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 436047462;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1380658096000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 415325265;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1538329912000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 642678883;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1397049911000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 357660254;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1638423664000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 395546675;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1379950353000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 365801515;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1399175206000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1025267980;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1452577907000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 621107993;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1452577895000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 851848906;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1398901403000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 709634245;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1379950255000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 952220899;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1461350202000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1567104665;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1639064127000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 396135731;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1440258656000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 881256329;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1452577766000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1051154951;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1653188745000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 889699931;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1416961750000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 474588837;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1452578203000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 589541072;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1653188796000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 395540967;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1440258666000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 395544690;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1379950318000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1035373510;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1451680520000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1587655925;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1665097783000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 777152160;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1431827973000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1136992967;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1574938962000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 731076045;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1635963925000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 888894773;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1452577777000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 709872498;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1380036449000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 357310813;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1638247444000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 987677100;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1452577864000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 573357912;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1452578256000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 357298696;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1638291645000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 622963231;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1463010520000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 818853349;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1463010539000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 586669685;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1399418203000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 357646444;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1638477979000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    }
+                                );
+                                id = 51;
+                                valueClassification = PurchasedListFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    10017 = "0.14925373";
+                                    10023 = "0.04477612";
+                                    10042 = "0.07462686";
+                                    10044 = "0.05970149";
+                                    10048 = "0.014925373";
+                                    10057 = "0.014925373";
+                                    10063 = "0.05970149";
+                                    10093 = "0.014925373";
+                                    10094 = "0.014925373";
+                                    10114 = "0.014925373";
+                                    10119 = "0.014925373";
+                                    11002 = "0.029850746";
+                                    11003 = "0.014925373";
+                                    11004 = "0.029850746";
+                                    11006 = "0.029850746";
+                                    11007 = "0.014925373";
+                                    11115 = "0.014925373";
+                                    11119 = "0.014925373";
+                                    11177 = "0.014925373";
+                                    11178 = "0.07462686";
+                                    11183 = "0.029850746";
+                                    11190 = "0.014925373";
+                                    11196 = "0.029850746";
+                                    9008 = "0.014925373";
+                                    9015 = "0.029850746";
+                                    9019 = "0.014925373";
+                                    9020 = "0.05970149";
+                                    9031 = "0.04477612";
+                                    9032 = "0.04477612";
+                                };
+                                id = 23;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    10017 = "0.08695652";
+                                    10023 = "0.026086956";
+                                    10042 = "0.04347826";
+                                    10044 = "0.034782607";
+                                    10048 = "0.008695652";
+                                    10057 = "0.008695652";
+                                    10063 = "0.034782607";
+                                    10093 = "0.008695652";
+                                    10094 = "0.04347826";
+                                    10114 = "0.04347826";
+                                    10119 = "0.008695652";
+                                    11002 = "0.017391304";
+                                    11003 = "0.008695652";
+                                    11004 = "0.017391304";
+                                    11006 = "0.017391304";
+                                    11007 = "0.008695652";
+                                    11115 = "0.008695652";
+                                    11119 = "0.008695652";
+                                    11177 = "0.04347826";
+                                    11178 = "0.14782609";
+                                    11183 = "0.017391304";
+                                    11190 = "0.04347826";
+                                    11196 = "0.08695652";
+                                    9008 = "0.008695652";
+                                    9015 = "0.017391304";
+                                    9019 = "0.04347826";
+                                    9020 = "0.034782607";
+                                    9031 = "0.060869563";
+                                    9032 = "0.060869563";
+                                };
+                                id = 59;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    11086 = "0.029850746";
+                                    11165 = "0.1641791";
+                                    9003 = "0.014925373";
+                                    9008 = "0.014925373";
+                                    9015 = "0.029850746";
+                                    9019 = "0.029850746";
+                                    9020 = "0.29850745";
+                                    9025 = "0.029850746";
+                                    9027 = "0.19402985";
+                                    9031 = "0.14925373";
+                                    9032 = "0.04477612";
+                                };
+                                id = 45;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                };
+                                id = 5004;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    10094 = "0.08333333599999999";
+                                    10114 = "0.08333333599999999";
+                                    11177 = "0.08333333599999999";
+                                    11178 = "0.25";
+                                    11190 = "0.08333333599999999";
+                                    11196 = "0.16666667";
+                                    9019 = "0.08333333599999999";
+                                    9031 = "0.08333333599999999";
+                                    9032 = "0.08333333599999999";
+                                };
+                                id = 24;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    13611875 = "0.08333333599999999";
+                                    2762652 = "0.08333333599999999";
+                                    335692739 = "0.08333333599999999";
+                                    365474643 = "0.5";
+                                    480526428 = "0.08333333599999999";
+                                    513196726 = "0.08333333599999999";
+                                    546189032 = "0.08333333599999999";
+                                };
+                                id = 62;
+                                valueClassification = WeightedLongMapFeature;
+                            }
+                        );
+                        kindId = 3;
+                        lastModifiedTimestampInMillis = "-1";
+                        sourceId = 1;
+                    },
+                                        {
+                        createdTimeStampInSeconds = 0;
+                        features =                         (
+                                                        {
+                                affinityValues =                                 {
+                                    50000040 = "0.23688811";
+                                    50000041 = "0.0017482517";
+                                    50000042 = "0.01486014";
+                                    50000043 = "0.008741258999999999";
+                                    50000044 = "0.16171329";
+                                    50000045 = "0.26835665";
+                                    50000047 = "0.01048951";
+                                    50000049 = "0.006118881";
+                                    50000050 = "0.0017482517";
+                                    50000051 = "0.111013986";
+                                    50000052 = "0.018356644";
+                                    50000053 = "0.0017482517";
+                                    50000054 = "0.009615385000000001";
+                                    50000055 = "0.14423077";
+                                    50000069 = "0.00087412586";
+                                    50000092 = "0.00087412586";
+                                    75 = "0.0026223776";
+                                };
+                                id = 59;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    "-1" = "0.0018852159";
+                                    1011414157 = "0.00071446167";
+                                    1012653201 = "0.0017421603";
+                                    1015555267 = "0.00097560976";
+                                    1015599905 = "0.0002710027";
+                                    1022432307 = "0.00059780007";
+                                    1029126804 = "0.0002622607";
+                                    1032628410 = "0.0001213445";
+                                    1035181584 = "0.00018618506";
+                                    1035482541 = "0.00035868006";
+                                    1036136469 = "0.00047824008";
+                                    1066098492 = "0.0005420054000000001";
+                                    1066981711 = "0.0001213445";
+                                    1069013332 = "0.0009854644000000001";
+                                    1093485600 = "0.000886918";
+                                    1093491143 = "0.000443459";
+                                    1094869268 = "0.00078678207";
+                                    1104445999 = "0.0006543229";
+                                    1106056996 = "0.00029385835";
+                                    1107755208 = "0.0001213445";
+                                    1108276357 = "0.00037237012";
+                                    1108963933 = "0.00038714672";
+                                    1109068881 = "0.0001213445";
+                                    1111024592 = "0.024390243";
+                                    1112662429 = "0.0010760402";
+                                    1116772931 = "0.024390243";
+                                    1121393980 = "0.00038714672";
+                                    1123114484 = "0.00023009664";
+                                    1123296797 = "0.00023009664";
+                                    1123483104 = "0.0005420054000000001";
+                                    1128503967 = "0.0019512195";
+                                    1129440013 = "0.00072092906";
+                                    1133706312 = "0.00077429344";
+                                    1137623484 = "0.00029385835";
+                                    116020368 = "0.00038714672";
+                                    1160456086 = "0.024390243";
+                                    1165903494 = "0.00023912004";
+                                    1177669041 = "0.00029385835";
+                                    1178828838 = "0.0002710027";
+                                    1193138696 = "0.0001213445";
+                                    119562438 = "0.0021856192";
+                                    1201219483 = "0.00059780007";
+                                    1211513608 = "0.0002710027";
+                                    1212467859 = "0.0004601933";
+                                    121484808 = "0.0007173601";
+                                    1217565248 = "0.00035144115";
+                                    1217935701 = "0.00035868006";
+                                    1219455190 = "0.00023912004";
+                                    1226730331 = "0.0001213445";
+                                    123678545 = "0.0004923573";
+                                    124179771 = "0.00018618506";
+                                    1244218705 = "0.0006209407599999999";
+                                    1254414838 = "0.00035144115";
+                                    1271805809 = "0.00035868006";
+                                    1277099371 = "0.00037237012";
+                                    1278605244 = "0.00030752955";
+                                    128740365 = "0.048780486";
+                                    1295950102 = "0.0001213445";
+                                    1302278029 = "0.0001213445";
+                                    1310777487 = "0.00041520287";
+                                    1312927 = "0.00023912004";
+                                    1318755154 = "0.0004253051";
+                                    1320111902 = "0.00018618506";
+                                    1327385592 = "0.0010897303";
+                                    1332648992 = "0.00041520287";
+                                    133486291 = "0.0002622607";
+                                    1349321323 = "0.0002622607";
+                                    1349821997 = "0.0029048962";
+                                    13502096 = "0.00029385835";
+                                    1351815429 = "0.00018618506";
+                                    1356334119 = "0.0005420054000000001";
+                                    1356405260 = "0.00023912004";
+                                    1358213435 = "0.0002622607";
+                                    1358480144 = "0.000242689";
+                                    1358768731 = "0.024390243";
+                                    1363637619 = "0.000242689";
+                                    137058261 = "0.00023009664";
+                                    1377011433 = "0.00047824008";
+                                    1382764360 = "0.00037237012";
+                                    1382860730 = "0.0039277794";
+                                    1391441539 = "0.00023912004";
+                                    1395452 = "0.000443459";
+                                    1396511066 = "0.0012524269";
+                                    1396546042 = "0.0005815378";
+                                    1399337053 = "0.0121951215";
+                                    1399919256 = "0.00018618506";
+                                    1402194660 = "0.00029385835";
+                                    1405176586 = "0.0002710027";
+                                    1410850890 = "0.00083040574";
+                                    1411144034 = "0.0005013807";
+                                    1411761630 = "0.00035868006";
+                                    1411924664 = "0.00037237012";
+                                    1412393039 = "0.000443459";
+                                    1412524829 = "0.00035868006";
+                                    1414925744 = "0.00082683674";
+                                    1415441249 = "0.00018618506";
+                                    1415442563 = "0.00023009664";
+                                    1420713237 = "0.0001213445";
+                                    1424843158 = "0.0001213445";
+                                    1425000291 = "0.000523955";
+                                    1425002045 = "0.0006494074";
+                                    1434144678 = "0.0002622607";
+                                    1434321209 = "0.00023912004";
+                                    1434795530 = "0.00029385835";
+                                    1435023603 = "0.0001213445";
+                                    1438399028 = "0.000523955";
+                                    1438552362 = "0.00035868006";
+                                    1439050749 = "0.00023912004";
+                                    1439052464 = "0.0002622607";
+                                    1440011524 = "0.00023009664";
+                                    1440392532 = "0.0002710027";
+                                    144655881 = "0.00018618506";
+                                    1446647118 = "0.00018618506";
+                                    1447927299 = "0.0001213445";
+                                    1449360068 = "0.00023912004";
+                                    1450666333 = "0.0001213445";
+                                    1450683315 = "0.00023912004";
+                                    1450683967 = "0.0002710027";
+                                    1451770988 = "0.0004601933";
+                                    1451854625 = "0.00023912004";
+                                    1451857896 = "0.00023009664";
+                                    1453233414 = "0.0002710027";
+                                    1454128309 = "0.00023912004";
+                                    1455302598 = "0.00029385835";
+                                    1455900451 = "0.00035868006";
+                                    1455903096 = "0.0008130081";
+                                    1455907581 = "0.0005332634";
+                                    1458836226 = "0.024390243";
+                                    1459769505 = "0.00035868006";
+                                    1460333784 = "0.0001213445";
+                                    1460379880 = "0.0001213445";
+                                    1462984745 = "0.0017008537";
+                                    1463122837 = "0.0010162601";
+                                    1465883943 = "0.00030752955";
+                                    1466820531 = "0.0004923573";
+                                    1467938017 = "0.00018618506";
+                                    1468105373 = "0.0006735556";
+                                    1468374671 = "0.000443459";
+                                    1468968939 = "0.00097560976";
+                                    1470212610 = "0.0001213445";
+                                    1471986454 = "0.00023009664";
+                                    1472076262 = "0.00047824008";
+                                    1475954609 = "0.00097560976";
+                                    1475961103 = "0.0007173601";
+                                    1476699602 = "0.0002710027";
+                                    1477256678 = "0.00023009664";
+                                    1477733149 = "0.00018618506";
+                                    1478126881 = "0.0004601933";
+                                    1478347430 = "0.00023912004";
+                                    1479305130 = "0.0001213445";
+                                    14849763 = "0.0005877167";
+                                    1485396455 = "0.00018618506";
+                                    1485398018 = "0.0001213445";
+                                    1485467239 = "0.0003640335";
+                                    1485954749 = "0.00037237012";
+                                    1485958361 = "0.0002622607";
+                                    1486036753 = "0.00038714672";
+                                    1486037510 = "0.0001213445";
+                                    1488028679 = "0.004878049";
+                                    1495039404 = "0.00029385835";
+                                    1498800082 = "0.00029385835";
+                                    1503587278 = "0.0001213445";
+                                    1504045427 = "0.00060246675";
+                                    1504536071 = "0.024390243";
+                                    1508839445 = "0.0007173601";
+                                    1521760688 = "0.00023009664";
+                                    1522145293 = "0.0001213445";
+                                    1525077473 = "0.00029385835";
+                                    1525805114 = "0.008316265999999999";
+                                    1527931194 = "0.00038714672";
+                                    1530832320 = "0.00029385835";
+                                    1532275759 = "0.0029268293";
+                                    1533429276 = "0.00018618506";
+                                    1541270780 = "0.0001213445";
+                                    1547447695 = "0.0001213445";
+                                    1556300518 = "0.00018618506";
+                                    1557249430 = "0.00059780007";
+                                    155915893 = "0.00023912004";
+                                    1561299964 = "0.00023912004";
+                                    1561301151 = "0.0002710027";
+                                    1565236433 = "0.0017421603";
+                                    1566826505 = "0.00018618506";
+                                    1568266726 = "0.0002622607";
+                                    1578599088 = "0.0002710027";
+                                    1580508695 = "0.00097560976";
+                                    1581546546 = "0.00029385835";
+                                    1581734761 = "0.0002622607";
+                                    1581929588 = "0.00035868006";
+                                    1582610621 = "0.00018618506";
+                                    1582611845 = "0.0121951215";
+                                    1583244382 = "0.0001213445";
+                                    15863332 = "0.0005905612";
+                                    1597331156 = "0.00018618506";
+                                    1600534584 = "0.0002710027";
+                                    1600706545 = "0.00018618506";
+                                    1601904781 = "0.0001213445";
+                                    1606253583 = "0.00023912004";
+                                    1606456618 = "0.024390243";
+                                    1606806499 = "0.00023009664";
+                                    160702042 = "0.000443459";
+                                    1609099777 = "0.0014824659";
+                                    1613619457 = "0.0016491654";
+                                    161445774 = "0.00038714672";
+                                    1617703791 = "0.00023912004";
+                                    1617794750 = "0.00029385835";
+                                    1622627895 = "0.0002710027";
+                                    1623337017 = "0.00063146726";
+                                    1625636918 = "0.00018618506";
+                                    1625656211 = "0.0002710027";
+                                    1625686203 = "0.00023009664";
+                                    1625687681 = "0.000443459";
+                                    1626562327 = "0.0002622607";
+                                    1627702768 = "0.00035868006";
+                                    1630976035 = "0.0002710027";
+                                    1635999944 = "0.0006209407599999999";
+                                    1639068178 = "0.0001213445";
+                                    164312860 = "0.00038714672";
+                                    17262490 = "0.00077429344";
+                                    17262529 = "0.0054136296";
+                                    173242376 = "0.0020325202";
+                                    17622506 = "0.0009302548";
+                                    178989 = "0.0017421603";
+                                    182615424 = "0.00029385835";
+                                    185868501 = "0.00018618506";
+                                    187499758 = "0.0016108251";
+                                    19070343 = "0.048780486";
+                                    192521881 = "0.0008130081";
+                                    19339123 = "0.0014894805";
+                                    19344615 = "0.0005245214";
+                                    195102317 = "0.0015243902";
+                                    197345461 = "0.0008369201";
+                                    20094173 = "0.0005585552";
+                                    20195052 = "0.0021269443";
+                                    2021616 = "0.0007949001";
+                                    2022984 = "0.0020944192";
+                                    2023828 = "0.0034374301";
+                                    2023874 = "0.0010695257";
+                                    2023913 = "0.0019357336";
+                                    2024238 = "0.0030757333";
+                                    2024600 = "0.000443459";
+                                    2027661 = "0.0004601933";
+                                    2028422 = "0.00038714672";
+                                    2028461 = "0.000886918";
+                                    2028482 = "0.0018358248";
+                                    2032107 = "0.018405229";
+                                    2033475 = "0.00018618506";
+                                    2035069 = "0.00095648016";
+                                    2036579 = "0.001773836";
+                                    2036792 = "0.0005420054000000001";
+                                    2037898 = "0.0015485869";
+                                    2038080 = "0.049941927";
+                                    2038122 = "0.001330377";
+                                    2038151 = "0.0011004371";
+                                    2038190 = "0.006968641";
+                                    2038219 = "0.0004601933";
+                                    2038244 = "0.0008815751";
+                                    2038331 = "0.00023912004";
+                                    204357124 = "0.000443459";
+                                    2046948 = "0.00097560976";
+                                    2049040 = "0.00035868006";
+                                    2063386 = "0.005226481";
+                                    2063649 = "0.0005877167";
+                                    2063763 = "0.00093297893";
+                                    2063829 = "0.0015243902";
+                                    2063893 = "0.0025676938";
+                                    2065398 = "0.0012184208";
+                                    2066190 = "0.0005877167";
+                                    2066217 = "0.00097560976";
+                                    2066348 = "0.00090756017";
+                                    2071271 = "0.0005245214";
+                                    2072615 = "0.0015906363";
+                                    207503648 = "0.00035868006";
+                                    2082351 = "0.004185137";
+                                    2087450 = "0.007355788";
+                                    2087909 = "0.0004601933";
+                                    209114137 = "0.0004253051";
+                                    209129521 = "0.00023009664";
+                                    209170967 = "0.000242689";
+                                    209555633 = "0.0010027614";
+                                    210897810 = "0.0002710027";
+                                    211865544 = "0.00029385835";
+                                    2120791 = "0.00037237012";
+                                    217457859 = "0.00077429344";
+                                    217904368 = "0.0007998869";
+                                    2223237 = "0.00053654733";
+                                    250861068 = "0.0006633499";
+                                    252751106 = "0.00038714672";
+                                    253634400 = "0.024390243";
+                                    254067209 = "0.0013113035";
+                                    257137932 = "0.00047824008";
+                                    259145234 = "0.0002710027";
+                                    259420365 = "0.0007173601";
+                                    259420391 = "0.0010490428";
+                                    262300172 = "0.00038714672";
+                                    2623129 = "0.0002710027";
+                                    262882636 = "0.00077429344";
+                                    264323721 = "0.0002710027";
+                                    265092914 = "0.000242689";
+                                    266837525 = "0.0008130081";
+                                    2685816 = "0.0011170146";
+                                    268591195 = "0.000728067";
+                                    269440097 = "0.000242689";
+                                    271307949 = "0.0001213445";
+                                    271478522 = "0.0007173601";
+                                    271805040 = "0.0002622607";
+                                    271847409 = "0.000242689";
+                                    272174066 = "0.000485378";
+                                    272253185 = "0.000242689";
+                                    272265026 = "0.00049371464";
+                                    275231486 = "0.0001213445";
+                                    275860726 = "0.0001213445";
+                                    2765849 = "0.000242689";
+                                    2768188 = "0.0020480359";
+                                    276860681 = "0.00018618506";
+                                    278227432 = "0.00041520287";
+                                    278410982 = "0.0001213445";
+                                    2794827 = "0.0007173601";
+                                    279740049 = "0.0009203866";
+                                    2798803 = "0.0008506102";
+                                    279979824 = "0.0015243902";
+                                    280309577 = "0.0034843206";
+                                    281007440 = "0.0010490428";
+                                    281535541 = "0.000242689";
+                                    282273009 = "0.0030487804";
+                                    2828212 = "0.000242689";
+                                    283546995 = "0.0015485869";
+                                    283822337 = "0.0002710027";
+                                    285003711 = "0.0005420054000000001";
+                                    285032445 = "0.00065253844";
+                                    2851450 = "0.000242689";
+                                    28582197 = "0.00018618506";
+                                    286391135 = "0.0032788771";
+                                    286444113 = "0.00038714672";
+                                    286626269 = "0.00035868006";
+                                    286740607 = "0.0006494074";
+                                    288917741 = "0.00023912004";
+                                    292735091 = "0.0001213445";
+                                    293834853 = "0.00097560976";
+                                    294328729 = "0.000443459";
+                                    299667114 = "0.0010162601";
+                                    301071868 = "0.00037237012";
+                                    3015588 = "0.00093092537";
+                                    302415003 = "0.00029385835";
+                                    302701772 = "0.000242689";
+                                    304271536 = "0.00063146726";
+                                    305196639 = "0.00023912004";
+                                    308752183 = "0.0001213445";
+                                    310292362 = "0.0002710027";
+                                    314314410 = "0.003969167";
+                                    315032167 = "0.0005420054000000001";
+                                    315103325 = "0.0015243902";
+                                    317389424 = "0.0005585552";
+                                    324356745 = "0.00029385835";
+                                    325855403 = "0.00023009664";
+                                    3260249 = "0.0002710027";
+                                    330925518 = "0.0002622607";
+                                    331389966 = "0.0002622607";
+                                    332331012 = "0.0001213445";
+                                    334396959 = "0.0001213445";
+                                    334781829 = "0.00029385835";
+                                    336317317 = "0.0007173601";
+                                    337286714 = "0.000242689";
+                                    3413144 = "0.00023009664";
+                                    341330512 = "0.0030487804";
+                                    342375871 = "0.00023912004";
+                                    347222320 = "0.0001213445";
+                                    348573004 = "0.0001213445";
+                                    3495565 = "0.0005013807";
+                                    352633980 = "0.00023912004";
+                                    353417957 = "0.0003640335";
+                                    355822062 = "0.0002622607";
+                                    3564714 = "0.00097560976";
+                                    3604960 = "0.0010840108";
+                                    361977053 = "0.009146341000000001";
+                                    365925469 = "0.0005877167";
+                                    3696128 = "0.0003640335";
+                                    370301011 = "0.00029385835";
+                                    371388379 = "0.00038714672";
+                                    371809115 = "0.0002710027";
+                                    373584290 = "0.0001213445";
+                                    375026861 = "0.000443459";
+                                    378008146 = "0.09756097";
+                                    379175355 = "0.0001213445";
+                                    380404645 = "0.00029385835";
+                                    384284515 = "0.0037367407";
+                                    384382307 = "0.0001213445";
+                                    384957456 = "0.0010162601";
+                                    386088247 = "0.00023009664";
+                                    387332 = "0.000242689";
+                                    391451737 = "0.00035868006";
+                                    395631724 = "0.00089194346";
+                                    396258117 = "0.0002622607";
+                                    403576318 = "0.0017012204";
+                                    404705202 = "0.00018618506";
+                                    405640574 = "0.0002710027";
+                                    407216941 = "0.00038714672";
+                                    407412987 = "0.0001213445";
+                                    412283538 = "0.0008130081";
+                                    4141165 = "0.0007422852";
+                                    414763563 = "0.00018618506";
+                                    418438757 = "0.00018618506";
+                                    420557848 = "0.00023912004";
+                                    421063646 = "0.00018618506";
+                                    422169791 = "0.0001213445";
+                                    422884093 = "0.006968641";
+                                    42289125 = "0.00073858787";
+                                    423836882 = "0.000242689";
+                                    425814266 = "0.00023009664";
+                                    42938267 = "0.0032788771";
+                                    431770927 = "0.0001213445";
+                                    432717289 = "0.0002622607";
+                                    434540982 = "0.0008815751";
+                                    439294113 = "0.008130081000000001";
+                                    439375690 = "0.00035868006";
+                                    440071577 = "0.00029385835";
+                                    440902461 = "0.00088852743";
+                                    442063276 = "0.000242689";
+                                    442063471 = "0.001897019";
+                                    443760197 = "0.00037237012";
+                                    451765517 = "0.0014701907";
+                                    452653821 = "0.00047824008";
+                                    454329393 = "0.004878049";
+                                    456108714 = "0.0011617949";
+                                    4611988 = "0.001786651";
+                                    461381965 = "0.0007173601";
+                                    462002041 = "0.00023912004";
+                                    479054575 = "0.0001213445";
+                                    488415881 = "0.0029268293";
+                                    48997199 = "0.0015915382";
+                                    492457246 = "0.0002710027";
+                                    494170245 = "0.00023009664";
+                                    495876191 = "0.0010162601";
+                                    499400751 = "0.004878049";
+                                    49950147 = "0.0011504831";
+                                    505393371 = "0.0005013807";
+                                    508497726 = "0.000485378";
+                                    518020479 = "0.00023009664";
+                                    523333246 = "0.024390243";
+                                    524116690 = "0.0017421603";
+                                    526988749 = "0.0005013807";
+                                    527666807 = "0.0002710027";
+                                    529697261 = "0.00023912004";
+                                    530028543 = "0.0021335084";
+                                    533655845 = "0.0002710027";
+                                    5351423 = "0.0014692917";
+                                    539771303 = "0.024390243";
+                                    540439567 = "0.00029385835";
+                                    540705091 = "0.0010969542";
+                                    5411588 = "0.001132563";
+                                    546124203 = "0.0002710027";
+                                    551754545 = "0.0005245214";
+                                    553308796 = "0.0002710027";
+                                    556549881 = "0.0005013807";
+                                    556731747 = "0.024390243";
+                                    558679 = "0.00038714672";
+                                    559847795 = "0.0034843206";
+                                    560846338 = "0.0005420054000000001";
+                                    566553823 = "0.0008815751";
+                                    566561309 = "0.0008130081";
+                                    573035067 = "0.00059780007";
+                                    577327498 = "0.0001213445";
+                                    58087027 = "0.0005877167";
+                                    586845114 = "0.0007173601";
+                                    591101217 = "0.0015243902";
+                                    591553578 = "0.0002710027";
+                                    593302876 = "0.0001213445";
+                                    595160355 = "0.00023912004";
+                                    5952910 = "0.0002622607";
+                                    596608792 = "0.0001213445";
+                                    598651305 = "0.00018618506";
+                                    6039660 = "0.0006137018";
+                                    6058246 = "0.003007786";
+                                    6151428 = "0.0005585552";
+                                    61550365 = "0.0001213445";
+                                    622964460 = "0.00029385835";
+                                    622972567 = "0.00097560976";
+                                    624370574 = "0.0001213445";
+                                    6252996 = "0.0009203866";
+                                    6292239 = "0.0001213445";
+                                    63827004 = "0.0010162601";
+                                    64166976 = "0.000242689";
+                                    643551636 = "0.0005877167";
+                                    64411228 = "0.0001213445";
+                                    64857185 = "0.0013614416";
+                                    64905524 = "0.0005877167";
+                                    65066099 = "0.000523955";
+                                    6542874 = "0.0005420054000000001";
+                                    65623393 = "0.00038714672";
+                                    663543143 = "0.00018618506";
+                                    667528787 = "0.00029385835";
+                                    669286761 = "0.024390243";
+                                    672983753 = "0.00035144115";
+                                    674322890 = "0.0001213445";
+                                    6840435 = "0.0006067225";
+                                    689043596 = "0.0001213445";
+                                    689416591 = "0.00018618506";
+                                    704828339 = "0.00029385835";
+                                    723840419 = "0.0002622607";
+                                    72901668 = "0.016260162";
+                                    730704788 = "0.000242689";
+                                    73092645 = "0.00035868006";
+                                    73608036 = "0.00023009664";
+                                    751693359 = "0.0001213445";
+                                    78578254 = "0.00029385835";
+                                    785924906 = "0.00097560976";
+                                    793877626 = "0.0001213445";
+                                    795117070 = "0.0015243902";
+                                    79900486 = "0.0007173601";
+                                    79904039 = "0.000242689";
+                                    80229707 = "0.0001213445";
+                                    804304073 = "0.000443459";
+                                    80625338 = "0.0005877167";
+                                    80627088 = "0.011599192";
+                                    80839428 = "0.000443459";
+                                    808985702 = "0.00038714672";
+                                    81282769 = "0.00023009664";
+                                    81501560 = "0.00023009664";
+                                    81572876 = "0.000443459";
+                                    81851669 = "0.00018618506";
+                                    82062842 = "0.00097560976";
+                                    829809309 = "0.0002622607";
+                                    839375433 = "0.0007173601";
+                                    849213480 = "0.0034843206";
+                                    883840195 = "0.0011614402";
+                                    890514901 = "0.00038714672";
+                                    895186179 = "0.0002710027";
+                                    89889974 = "0.0002710027";
+                                    899634338 = "0.00023912004";
+                                    899800 = "0.0005815378";
+                                    904083289 = "0.0016358612";
+                                    910338165 = "0.0010162601";
+                                    919476572 = "0.0001213445";
+                                    927562828 = "0.0009883240000000001";
+                                    932519719 = "0.00029385835";
+                                    932521203 = "0.0005585552";
+                                    937928069 = "0.0001213445";
+                                    938482330 = "0.0002710027";
+                                    939508018 = "0.0013537754";
+                                    950406106 = "0.0007759524";
+                                    951985027 = "0.0004923573";
+                                    959052511 = "0.00035868006";
+                                    960431314 = "0.00018618506";
+                                    975722808 = "0.00035144115";
+                                    976326384 = "0.00035868006";
+                                    984572454 = "0.0001213445";
+                                    991167648 = "0.0019512195";
+                                };
+                                id = 5100;
+                                valueClassification = WeightedLongMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    50000043 = "0.5";
+                                    50000052 = "0.25";
+                                    50000054 = "0.25";
+                                };
+                                id = 24;
+                                valueClassification = WeightedIntMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    1006525253 = "0.024390243";
+                                    1023940129 = "0.0008130081";
+                                    105027883 = "0.0002622607";
+                                    1093485597 = "0.000443459";
+                                    1101413775 = "0.0002710027";
+                                    1133706307 = "0.00038714672";
+                                    1187475409 = "0.0055833086";
+                                    1215646845 = "0.0017421603";
+                                    13611875 = "0.015679443";
+                                    1396535164 = "0.011295227";
+                                    1396839549 = "0.0002710027";
+                                    1396935874 = "0.0015774209";
+                                    1398386072 = "0.0116731115";
+                                    1411432614 = "0.017081656";
+                                    1411453063 = "0.0017421603";
+                                    1411788235 = "0.00596206";
+                                    1412421004 = "0.006651885";
+                                    1415411599 = "0.0005585552";
+                                    1416230921 = "0.000242689";
+                                    1417612527 = "0.00082422676";
+                                    1418252317 = "0.0017421603";
+                                    1418410127 = "0.000886918";
+                                    1424692217 = "0.0027153692";
+                                    1425151644 = "0.000443459";
+                                    1425185973 = "0.001897019";
+                                    1425386826 = "0.0015272829";
+                                    1425445267 = "0.000443459";
+                                    1425708965 = "0.0014057646";
+                                    1426155615 = "0.000886918";
+                                    1429274311 = "0.000242689";
+                                    1434150440 = "0.0034843206";
+                                    1434227600 = "0.00074474025";
+                                    1434455831 = "0.0005815378";
+                                    1434493384 = "0.0010991808";
+                                    1435078192 = "0.00093297893";
+                                    1435078693 = "0.00018618506";
+                                    1437524799 = "0.0005420054000000001";
+                                    1439727795 = "0.00074474025";
+                                    1440042493 = "0.0005420054000000001";
+                                    1441199485 = "0.0002622607";
+                                    1446580243 = "0.0002710027";
+                                    1448510949 = "0.000443459";
+                                    1458836226 = "0.024390243";
+                                    1459444582 = "0.0002710027";
+                                    1464404896 = "0.00023912004";
+                                    1470114030 = "0.00059413014";
+                                    1470345898 = "0.0010543234";
+                                    1472689701 = "0.00018618506";
+                                    1479199453 = "0.000443459";
+                                    1485455483 = "0.0002710027";
+                                    1530832600 = "0.00029385835";
+                                    1531750114 = "0.024390243";
+                                    1547447695 = "0.0001213445";
+                                    1566473146 = "0.048780486";
+                                    1633231761 = "0.00029385835";
+                                    190184746 = "0.013279133";
+                                    2023824 = "0.03413393";
+                                    2023870 = "0.012048192";
+                                    2037023 = "0.024390243";
+                                    2038240 = "0.0008815751";
+                                    2066213 = "0.024390243";
+                                    2087446 = "0.024390243";
+                                    2124237 = "0.044815723";
+                                    24331295 = "0.0014692917";
+                                    2671774 = "0.028270978";
+                                    2683453 = "0.024390243";
+                                    273477616 = "0.024390243";
+                                    2765327 = "0.024390243";
+                                    2789700 = "0.024003098";
+                                    285900887 = "0.0002622607";
+                                    324356742 = "0.003232442";
+                                    335692739 = "0.024390243";
+                                    357921814 = "0.00029385835";
+                                    365474643 = "0.09756097";
+                                    366239484 = "0.004878049";
+                                    411554265 = "0.024390243";
+                                    417552527 = "0.048780486";
+                                    453263299 = "0.019512195";
+                                    464121776 = "0.0002622607";
+                                    480526428 = "0.040650405";
+                                    492832943 = "0.0001213445";
+                                    513196726 = "0.024390243";
+                                    53576956 = "0.024390243";
+                                    546189032 = "0.024390243";
+                                    569800237 = "0.00029385835";
+                                    603376776 = "0.024390243";
+                                    609402061 = "0.024390243";
+                                    668883825 = "0.0057813055";
+                                    704241258 = "0.024390243";
+                                    755398784 = "0.00018618506";
+                                    781333 = "0.013747228";
+                                    823985629 = "0.008130081000000001";
+                                    913551211 = "0.00074474025";
+                                    937906681 = "0.024390243";
+                                };
+                                id = 34;
+                                valueClassification = WeightedLongMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    1458836226 = "0.25";
+                                    1566473146 = "0.25";
+                                    411554265 = "0.25";
+                                    480526428 = "0.25";
+                                };
+                                id = 62;
+                                valueClassification = WeightedLongMapFeature;
+                            },
+                                                        {
+                                affinityValues =                                 (
+                                                                        {
+                                        adamId = 1510038900;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = "-1";
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1505095767;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = "-1";
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 694905718;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1653188810000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1552824769;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1635963886000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1508316915;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1666573123000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1424079294;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = "-1";
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1597726022;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = "-1";
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 929652697;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = "-1";
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1590600575;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1660505154000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    },
+                                                                        {
+                                        adamId = 1505096132;
+                                        currencyId = 0;
+                                        isPreorder = 0;
+                                        purchaseDate = 1606861355000;
+                                        purchasePrice = 0;
+                                        purchaseTimestamp = 0;
+                                        storeFrontId = 0;
+                                    }
+                                );
+                                id = 51;
+                                valueClassification = PurchasedListFeature;
+                            },
+                                                        {
+                                affinityValues =                                 {
+                                    50000040 = "0.12662609";
+                                    50000041 = "0.00035144115";
+                                    50000042 = "0.04229965";
+                                    50000043 = "0.048780486";
+                                    50000044 = "0.24530023";
+                                    50000045 = "0.10100596";
+                                    50000047 = "0.006261126";
+                                    50000049 = "0.0049953056";
+                                    50000050 = "0.00035144115";
+                                    50000051 = "0.09540542";
+                                    50000052 = "0.059995472";
+                                    50000053 = "0.004999393";
+                                    50000054 = "0.08189861499999999";
+                                    50000055 = "0.18074329";
+                                    50000069 = "0.00023009664";
+                                    50000092 = "0.0002622607";
+                                    75 = "0.00049371464";
+                                };
+                                id = 23;
+                                valueClassification = WeightedIntMapFeature;
+                            }
+                        );
+                        kindId = 17;
+                        lastModifiedTimestampInMillis = "-1";
+                        sourceId = 2;
+                    }
+                );
+            };
+        };
+        "loc_last_successful_language" = "en-us";
+        "loc_last_successful_path" = "https://apps.mzstatic.com/content/ios-books-app-v4/resources/localization/a2c77497b6dfa8db3a979d2769e98468/en-us.json";
+        "loc_last_successful_version" = "2230.75.0-v4";
+    };
+    SeriesMigrationVersion = 1;
+    TSWPAutomaticDashSubstitution = 1;
+    TSWPAutomaticQuoteSubstitution = 1;
+    TSWPAutomaticSpellingCorrection = 1;
+    TSWPAutomaticTextReplacement = 1;
+    TSWPGrammarChecking = 0;
+    TSWPInvisiblesColor = {length = 3634, bytes = 0x62706c69 73743030 d4010203 0405061e ... 00000000 00000dc2 };
+    TSWPSpellCheckingEnabled = 1;
+    TWSPAutomaticallyDetectLinks = 1;
+    TWSPAutomaticallyDetectLists = 1;
+    TWSPSuperscriptNumericalSuffixes = 0;
+    WebKitDeveloperExtras = 1;
+    "__uniquePageGroupID-3.WebKit2BackspaceKeyNavigationEnabled" = 0;
+    "__uniquePageGroupID-3.WebKit2LargeImageAsyncDecodingEnabled" = 0;
+    "__uniquePageGroupID-3.WebKit2SuppressesIncrementalRendering" = 1;
+    "__uniquePageGroupID-5.WebKit2BackspaceKeyNavigationEnabled" = 0;
+    "__uniquePageGroupID-5.WebKit2LargeImageAsyncDecodingEnabled" = 0;
+    "__uniquePageGroupID-5.WebKit2SuppressesIncrementalRendering" = 1;
+    "com.apple.iBooksX.WebKit2DeveloperExtrasEnabled" = 1;
+    "com.apple.iBooksX.WebKit2ShowsToolTipOverTruncatedText" = 1;
+    "com.apple.iBooksX.WebKit2SuppressesIncrementalRendering" = 1;
+    "com.apple.iBooksX.WebKit2UserInterfaceDirectionPolicy" = 1;
+    kBAlastAnalyticsURL = {length = 302, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000f4 };
+    kBKLibraryCleanupOperation = 1;
+    liverpoolIdentityToken = 996D42D8E987C3621BA813AB95A5CE79;
+    nonNilLiverpoolIdentityToken = 996D42D8E987C3621BA813AB95A5CE79;
+    nonNilUbiquityIdentityToken = {length = 20, bytes = 0xe398e653b7120d9683059c23bc9cebc5330049d7};
+}

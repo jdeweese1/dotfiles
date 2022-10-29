@@ -1,0 +1,8 @@
+{
+    "System.Find" =     {
+        Enabled = 0;
+    };
+    "System.StartCommandSearch" =     {
+        Enabled = 0;
+    };
+}

@@ -1,0 +1,449 @@
+{
+    SHKRecentServices =     (
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Jarod Zoom"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Jarod Zoom"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 476, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000164 };
+                };
+            };
+            recipients =             (
+                "Jarod Zoom"
+            );
+            subtitle = "Jarod Zoom";
+            timestamp = "672071238.359254";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Jon Ator",
+                    "Miles Mclenon",
+                    "Emily Davich"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Jon Ator",
+                    "Miles Mclenon",
+                    "Emily Davich"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 625, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001d5 };
+                };
+            };
+            recipients =             (
+                "Jon Ator",
+                "Miles Mclenon",
+                "Emily Davich"
+            );
+            subtitle = "Jon Ator +2 others";
+            timestamp = "602563492.482123";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Jon Ator",
+                    "Emily Davich"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Jon Ator",
+                    "Emily Davich"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 565, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001ab };
+                };
+            };
+            recipients =             (
+                "Jon Ator",
+                "Emily Davich"
+            );
+            subtitle = "Jon Ator +1 other";
+            timestamp = "601790045.132672";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Emily Davich"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Emily Davich"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 505, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000181 };
+                };
+            };
+            recipients =             (
+                "Emily Davich"
+            );
+            subtitle = "Emily Davich";
+            timestamp = "597572476.388045";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Henry Basile"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Henry Basile"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 505, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000181 };
+                };
+            };
+            recipients =             (
+                "Henry Basile"
+            );
+            subtitle = "Henry Basile";
+            timestamp = "595819307.4605449";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Gerit Wagner"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Gerit Wagner"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 505, bytes = 0x62706c69 73743030 d4010203 04050628 ... 00000000 00000181 };
+                };
+            };
+            recipients =             (
+                "Gerit Wagner"
+            );
+            subtitle = "Gerit Wagner";
+            timestamp = "584914521.466151";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Miles Mclenon"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Miles Mclenon"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 505, bytes = 0x62706c69 73743030 d4010203 04050628 ... 00000000 00000181 };
+                };
+            };
+            recipients =             (
+                "Miles Mclenon"
+            );
+            subtitle = "Miles Mclenon";
+            timestamp = "582170930.243083";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Danniel Christensen"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Danniel Christensen"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 476, bytes = 0x62706c69 73743030 d4010203 04050628 ... 00000000 00000164 };
+                };
+            };
+            recipients =             (
+                "Danniel Christensen"
+            );
+            subtitle = "Danniel Christensen";
+            timestamp = "570654194.674669";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Julie Zitlow"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Julie Zitlow"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 476, bytes = 0x62706c69 73743030 d4010203 04050628 ... 00000000 00000164 };
+                };
+            };
+            recipients =             (
+                "Julie Zitlow"
+            );
+            subtitle = "Julie Zitlow";
+            timestamp = "566328031.504326";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Jarod DeWeese"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Jarod DeWeese"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 517, bytes = 0x62706c69 73743030 d4010203 04050628 ... 00000000 0000018d };
+                };
+            };
+            recipients =             (
+                "Jarod DeWeese"
+            );
+            subtitle = "Jarod DeWeese";
+            timestamp = "551476510.030779";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Jessica DeWeese"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Jessica DeWeese"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 505, bytes = 0x62706c69 73743030 d4010203 04050628 ... 00000000 00000181 };
+                };
+            };
+            recipients =             (
+                "Jessica DeWeese"
+            );
+            subtitle = "Jessica DeWeese";
+            timestamp = "550721167.933019";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Victor Valdez"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Victor Valdez"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 505, bytes = 0x62706c69 73743030 d4010203 04050628 ... 00000000 00000181 };
+                };
+            };
+            recipients =             (
+                "Victor Valdez"
+            );
+            subtitle = "Victor Valdez";
+            timestamp = "546136408.238022";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "David Ronning"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "David Ronning"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 505, bytes = 0x62706c69 73743030 d4010203 04050628 ... 00000000 00000181 };
+                };
+            };
+            recipients =             (
+                "David Ronning"
+            );
+            subtitle = "David Ronning";
+            timestamp = "545190024.210838";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Zach St. Clair",
+                    "David Ronning"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Zach St. Clair",
+                    "David Ronning"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 565, bytes = 0x62706c69 73743030 d4010203 04050631 ... 00000000 000001ab };
+                };
+            };
+            recipients =             (
+                "Zach St. Clair",
+                "David Ronning"
+            );
+            subtitle = "Zach St. Clair +1 other";
+            timestamp = "541138671.238894";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Anita Gmail Deweese"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Anita Gmail Deweese"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 505, bytes = 0x62706c69 73743030 d4010203 04050628 ... 00000000 00000181 };
+                };
+            };
+            recipients =             (
+                "Anita Gmail Deweese"
+            );
+            subtitle = "Anita Gmail Deweese";
+            timestamp = "538514600.162995";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.share.Mail.compose";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Anita Gmail Deweese <anitadeweese@gmail.com>"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Anita Gmail Deweese <anitadeweese@gmail.com>"
+                );
+            };
+            recipients =             (
+                "Anita Gmail Deweese <anitadeweese@gmail.com>"
+            );
+            subtitle = "Anita Gmail Deweese";
+            timestamp = "527391898.722058";
+            title = Mail;
+        },
+                {
+            identifier = "com.apple.messages.ShareExtension";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Nicholas Meyers"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Nicholas Meyers"
+                );
+                NSSharingServiceRecentPayload =                 {
+                    recipientHandles = {length = 476, bytes = 0x62706c69 73743030 d4010203 04050628 ... 00000000 00000164 };
+                };
+            };
+            recipients =             (
+                "Nicholas Meyers"
+            );
+            subtitle = "Nicholas Meyers";
+            timestamp = "526621871.158967";
+            title = Messages;
+        },
+                {
+            identifier = "com.apple.share.Mail.compose";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Jerry <jddeweese1@gmail.com>"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Jerry <jddeweese1@gmail.com>"
+                );
+            };
+            recipients =             (
+                "Jerry <jddeweese1@gmail.com>"
+            );
+            subtitle = Jerry;
+            timestamp = "521655631.114763";
+            title = Mail;
+        },
+                {
+            identifier = "com.apple.share.Mail.compose";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Anita Gmail Deweese <anitadeweese@gmail.com>",
+                    "Jerry <jddeweese1@gmail.com>"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Anita Gmail Deweese <anitadeweese@gmail.com>",
+                    "Jerry <jddeweese1@gmail.com>"
+                );
+            };
+            recipients =             (
+                "Anita Gmail Deweese <anitadeweese@gmail.com>",
+                "Jerry <jddeweese1@gmail.com>"
+            );
+            subtitle = "Anita Gmail Deweese +1 other";
+            timestamp = "518456646.60017";
+            title = Mail;
+        },
+                {
+            identifier = "com.apple.share.Mail.compose";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "Jerry DeWeese <jddeweese@yahoo.com>",
+                    "Anita Gmail Deweese <anitadeweese@gmail.com>"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "Jerry DeWeese <jddeweese@yahoo.com>",
+                    "Anita Gmail Deweese <anitadeweese@gmail.com>"
+                );
+            };
+            recipients =             (
+                "Jerry DeWeese <jddeweese@yahoo.com>",
+                "Anita Gmail Deweese <anitadeweese@gmail.com>"
+            );
+            subtitle = "Jerry DeWeese +1 other";
+            timestamp = "506621062.52869";
+            title = Mail;
+        },
+                {
+            identifier = "com.apple.share.Mail.compose";
+            parameters =             {
+                NSSharingServiceParametersDefaultRecipientsKey =                 (
+                    "saraeubank31@gmail.com"
+                );
+                NSSharingServiceParametersRecipientsKey =                 (
+                    "saraeubank31@gmail.com"
+                );
+            };
+            recipients =             (
+                "saraeubank31@gmail.com"
+            );
+            subtitle = "saraeubank31@gmail.com";
+            timestamp = "505846706.484401";
+            title = Mail;
+        }
+    );
+    displayOrder =     (
+        "com.apple.share.System.add-to-safari-reading-list",
+        "com.apple.share.Mail.compose",
+        "com.apple.messages.ShareExtension",
+        "com.apple.share.AirDrop.send",
+        "com.apple.Notes.SharingExtension",
+        "com.apple.share.System.add-to-iphoto",
+        "com.apple.share.CloudSharing.invite",
+        "com.apple.reminders.sharingextension",
+        "com.apple.iphonesimulator.ShareExtension",
+        "com.wunderkinder.wunderlistdesktop.sharingextension",
+        "com.apple.share.CopyLink.invite",
+        "com.apple.news.openinnews",
+        "com.microsoft.onenote.mac.shareextension",
+        "com.todoist.mac.Todoist.TodoistShare",
+        "com.apple.iBooksX.SharingExtension",
+        "de.holtwick.mac.receipts-setapp.shareextension",
+        "com.rafifyalda.flume-mac-setapp.shareextension",
+        "at.EternalStorms.Yoink-setapp.YoinkWebURLShareExtension",
+        "com.macpaw.Encrypto.EncryptoSharingExtension"
+    );
+    userHasOrdered = 1;
+}

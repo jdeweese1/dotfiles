@@ -1,0 +1,5 @@
+{
+    bluetoothPrefsMenuLongPressAction = 0;
+    bluetoothPrefsShareDoublePressSystemGestureMode = "-1";
+    bluetoothPrefsShareLongPressSystemGestureMode = "-1";
+}

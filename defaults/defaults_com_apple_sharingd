@@ -1,0 +1,45 @@
+{
+    AUIconTransferStore =     {
+        "7664E582-BA3B-48B7-921F-1D75847DA4EA" =         {
+            "<3c926c4df1ad21e57817c2a274a6e5f28792f663565c50b637dd8480003ee63b>" = "System Preferences";
+            "<3c9ad8381239e45a17cd285d1a8a3f164ef8d4390f905d9107bba73f93b00515>" = Finder;
+            "<987575e9d2f9c92a1d805691c2fbd36df751472c2df75cd7f0c6d62a0fee344c>" = "Keychain Access";
+            "<d7628a3f7131ec1580f7ea2c66128864ed397998020a9e8af0a3df640afcf8e5>" = Installer;
+            "<fafbfa4c7e90e320b018982ab24c149f3676a7f0358ae0fecb05cb39088b8647>" = Safari;
+        };
+    };
+    AirDropRandomHashUUIDKey1 = "8E9CEB5E-C0A1-40C0-9C65-91183CDE299D";
+    AirDropRandomHashUUIDKey2 = "D4CEE8C0-7F91-4A95-B1B5-4B2B8B23F200";
+    AirDropRandomHashUUIDKey3 = "5D3A0AF3-3DD9-47F5-A282-5142D937FD6F";
+    AirDropRandomHashUUIDKey4 = "C41FFADB-C6CE-42BF-8846-91255EFA30F1";
+    AutoUnlockDevicesMissingSessionKey =     (
+    );
+    AutoUnlockLastSeenWatchDate = "2022-07-07 18:32:16 +0000";
+    AutoUnlockPeerRetries =     {
+        "61EFB98F-F467-47A2-8F93-E6A34536862B" =         {
+            AutoUnlockRetryDate = "2022-01-22 22:34:08 +0000";
+            AutoUnlockRetryMultiplier = 4096;
+        };
+        "7664E582-BA3B-48B7-921F-1D75847DA4EA" =         {
+            AutoUnlockRetryDate = "2017-10-12 18:31:03 +0000";
+            AutoUnlockRetryMultiplier = 2;
+        };
+    };
+    AutoUnlockPresentedBluetoothError = 0;
+    AutoUnlockPresentedWiFiError = 0;
+    AutoUnlockSetupRetryVersion = 1;
+    AutoUnlockSuggestedPeers =     (
+        "7664E582-BA3B-48B7-921F-1D75847DA4EA"
+    );
+    AutoUnlockWatchCurrentlyInList = 1;
+    AutoUnlockWatchExistedInUnlockList = 1;
+    DiscoverableMode = Everyone;
+    "HashManager-LastConsumedHistoryTokenKey" = {length = 622, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001f0 };
+    "HashManager-LastRebuiltDateKey" = "2022-10-24 11:30:20 +0000";
+    "HashManager-LastUpdatedDateKey" = "2022-10-29 18:09:15 +0000";
+    "HashManager-StoredDatabaseVersionKey" = 3;
+    LegacyModeEnabled = 0;
+    OneTimeAirDropReset = 1;
+    OneTimeAirDropReset2 = 1;
+    OneTimeReset = 1;
+}

@@ -1,0 +1,42 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1665416020;
+    CloudKitAccountInfoCache =     {
+        e31ff936c76d25a6ae4de637f78db12705bbf9082c63f76793656b4d08672a3c = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+    };
+    LastAssetContentVersionDownloaded = 11;
+    LastAssetUpdateDate = "2022-10-29 17:18:24 +0000";
+    "LastLaunchDate.routined" = "2022-10-10 15:34:10 +0000";
+    LastSuccessfulAssetUpdateDate = "2019-10-16 11:30:33 +0000";
+    LearnedLocationEngineTrainVisitsLastAttemptDate = "2022-10-29 17:14:21 +0000";
+    RTDefaultsABTestDeviceSeed = "01639B5E-6802-4B7D-A0EA-F70F3E989CC7";
+    RTDefaultsLearnedLocationEngineLocationOfInterestMetricsSubmitted = 1;
+    RTDefaultsPersistenceMirroringManagerBackgroundLastExportDate = "2022-10-29 17:23:22 +0000";
+    RTDefaultsPersistenceMirroringManagerBackgroundLastImportDate = "2022-10-18 12:37:16 +0000";
+    RTDefaultsPersistenceMirroringManagerLastTombstoningDate = "2020-06-17 23:44:51 +0000";
+    RTDefaultsPersistenceMirroringManagerMirroringAttemptsByBuildMap =     {
+        21G115 = 0;
+    };
+    "XPCActivityLastAttemptDate.com.apple.routined.assets" = "2022-10-29 17:18:24 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.learnedLocationEngine.train" = "2022-10-29 17:14:20 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.locationAwareness.heartbeat" = "2022-10-29 17:57:36 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.metrics.daily" = "2022-10-29 17:25:11 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.persistence.mirroring.background" = "2022-10-18 12:37:02 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.persistence.mirroring.backup" = "2022-10-16 18:53:09 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.persistence.mirroring.backup.user-requested" = "2019-11-01 17:17:26 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.persistence.mirroring.post-install" = "2022-10-16 17:28:42 +0000";
+    "XPCActivityLastAttemptDate.com.apple.routined.purge" = "2022-10-18 20:54:36 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.assets" = "2022-10-29 17:18:24 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.learnedLocationEngine.train" = "2022-10-29 17:14:34 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.locationAwareness.heartbeat" = "2022-10-29 17:57:36 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.metrics.daily" = "2022-10-29 17:25:11 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.persistence.mirroring.background" = "2022-10-18 12:37:21 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.persistence.mirroring.backup" = "2022-10-16 18:53:10 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.persistence.mirroring.backup.user-requested" = "2019-11-01 17:17:30 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.persistence.mirroring.post-install" = "2022-10-16 17:29:03 +0000";
+    "XPCActivityLastCompleteDate.com.apple.routined.purge" = "2022-10-18 20:54:38 +0000";
+    learnedLocationEngineTrainLocationsOfInterestLastCompleteionDate = "2022-01-25 02:52:37 +0000";
+    learnedLocationEngineTrainLocationsOfInterestLastCompletionDate = "2022-10-29 17:14:33 +0000";
+}

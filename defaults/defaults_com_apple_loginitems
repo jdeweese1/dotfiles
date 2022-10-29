@@ -1,0 +1,67 @@
+{
+    SessionItems =     {
+        Controller = CustomListItems;
+        CustomListItems =         (
+                        {
+                Alias = {length = 186, bytes = 0x00000000 00ba0003 00010000 d3a62b6d ... 00012f00 ffff0000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.Binding" = {length = 139, bytes = 0x646e6962 00000000 02000000 00000000 ... 02000000 3ee2e91e };
+                    "com.apple.loginitem.HideOnLaunch" = 0;
+                };
+                Name = "Plantronics Hub";
+            },
+                        {
+                Alias = {length = 154, bytes = 0x00000000 009a0003 00010000 d3a62b6d ... 00012f00 ffff0000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.Binding" = {length = 107, bytes = 0x646e6962 00000000 02000000 00000000 ... 02000000 384f621d };
+                };
+                Name = Flux;
+            },
+                        {
+                Alias = {length = 216, bytes = 0x00000000 00d80003 00010000 d3a62b6d ... 00012f00 ffff0000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.Binding" = {length = 150, bytes = 0x646e6962 00000000 02000000 00000000 ... 02000000 5a0a9c1c };
+                    "com.apple.LSSharedFileList.ItemIsHidden" = 1;
+                };
+                Flags = 1;
+                Name = iTunesHelper;
+            },
+                        {
+                Alias = {length = 162, bytes = 0x00000000 00a20003 00010000 d3a62b6d ... 00012f00 ffff0000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.Binding" = {length = 120, bytes = 0x646e6962 00000000 02000000 00000000 ... 02000000 328ae71c };
+                    "com.apple.loginitem.HideOnLaunch" = 1;
+                };
+                Name = Quitter;
+            },
+                        {
+                Alias = {length = 198, bytes = 0x00000000 00c60003 00010000 d3a62b6d ... 00020013 ffff0000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.Binding" = {length = 125, bytes = 0x646e6962 00000000 02000000 00000000 ... 02000000 9636ef1d };
+                    "com.apple.loginitem.HideOnLaunch" = 0;
+                };
+                Name = "RescueTime.app";
+            },
+                        {
+                Alias = {length = 186, bytes = 0x00000000 00ba0003 00010000 d3a62b6d ... 00012f00 ffff0000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.Binding" = {length = 134, bytes = 0x646e6962 00000000 02000000 00000000 ... 02000000 3a6b631e };
+                    "com.apple.LSSharedFileList.ItemIsHidden" = 0;
+                    "com.apple.loginitem.HideOnLaunch" = 1;
+                };
+                Name = "BetterTouchTool.app";
+            },
+                        {
+                Alias = {length = 192, bytes = 0x00000000 00c00003 00010000 d3a62b6d ... 00020013 ffff0000 };
+                CustomItemProperties =                 {
+                    "com.apple.LSSharedFileList.Binding" = {length = 131, bytes = 0x646e6962 00000000 02000000 00000000 ... 02000000 8157641e };
+                };
+                Name = "Alfred 3";
+            },
+                        {
+                Bookmark = {length = 732, bytes = 0x626f6f6b dc020000 00000410 30000000 ... 44010000 00000000 };
+                Name = Amphetamine;
+            }
+        );
+    };
+}

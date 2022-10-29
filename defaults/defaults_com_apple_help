@@ -1,0 +1,16 @@
+{
+    RegisteredBooks =     {
+        "com.apple.coreservices.uiagent*369" =         (
+                        {
+                appBundleUrl = "file:///System/Library/CoreServices/CoreServicesUIAgent.app/";
+                appVersion = 369;
+                id = "com.apple.coreservices.uiagent";
+                url = "/System/Library/CoreServices/CoreServicesUIAgent.app";
+                version = 369;
+            }
+        );
+    };
+    RegistrationOrder =     (
+        "com.apple.coreservices.uiagent*369"
+    );
+}

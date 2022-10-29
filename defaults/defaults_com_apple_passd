@@ -1,0 +1,17 @@
+{
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1665416020;
+    CloudKitAccountInfoCache =     {
+        452c17c6297a814f998da682b85c3a9285ec8372e520366e4cbe8569e5d032fb = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+        487b961eaffa7672aee4b3bc01b69c10b98d8b6bc65051b2ff51ef9d3721a307 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+        52e929331b4fec47aba391a1186b852b82e6756bcb2f8b236e880b232b3948ef = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+    };
+    PDLastLogDate = "2022-10-10 14:08:33 +0000";
+    PDLastPaymentPassInsertionOrRemovalDate = "2020-05-22 04:43:18 +0000";
+    PDPaymentWebServicePushTopicsNeedingUpdate =     (
+    );
+    PDUpgradeTasksRetryCount = 0;
+    PDUpgradeTasksVersion = 1;
+}

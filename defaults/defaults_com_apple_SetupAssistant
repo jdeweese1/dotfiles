@@ -1,0 +1,45 @@
+{
+    DidSeeAccessibility = 0;
+    DidSeeActivationLock = 1;
+    DidSeeAppStore = 0;
+    DidSeeAppearanceSetup = 1;
+    DidSeeApplePaySetup = 1;
+    DidSeeAvatarSetup = 0;
+    DidSeeCloudDiagnostics = 0;
+    DidSeeCloudSetup = 1;
+    DidSeePrivacy = 1;
+    DidSeeScreenTime = 1;
+    DidSeeSiriSetup = 1;
+    DidSeeSyncSetup = 1;
+    DidSeeSyncSetup2 = 1;
+    DidSeeTouchIDSetup = 1;
+    DidSeeTrueTone = 1;
+    DidSeeTrueTonePrivacy = 1;
+    DidSeeiCloudLoginForStorageServices = 1;
+    DidSeeiCloudSecuritySetup = 1;
+    FDECSLVUUIDs =     (
+        "B6B43F0B-57C7-4DA0-80CC-BDAA499066D5",
+        "80393E68-BCCB-4E31-BB98-6B510B1B3357"
+    );
+    LastCacheCleanupProductVersion = "10.12";
+    LastCacheCleanupStillRunning = 0;
+    LastPreLoginTasksPerformedBuild = 19C57;
+    LastPreLoginTasksPerformedVersion = "10.15.2";
+    LastPrivacyBundleVersion = 2;
+    LastSeenBuddyBuildVersion = 15G31;
+    LastSeenCloudProductVersion = "10.14.3";
+    LastSeenDiagnosticsProductVersion = "10.15";
+    LastSeenSiriProductVersion = "10.15.2";
+    LastSeenSyncProductVersion = "10.14.3";
+    LastSeeniCloudStorageServicesProductVersion = "10.12";
+    MiniBuddyLaunchReason = 0;
+    MiniBuddyLaunchedPostMigration = 0;
+    MiniBuddyShouldLaunchToResumeSetup = 0;
+    NSAddServicesToContextMenus = 0;
+    PreviousBuildVersion = 21G72;
+    PreviousSystemVersion = "12.5";
+    RunNonInteractive = 0;
+    ShowKeychainSyncBuddyAtLogin = 0;
+    SkipExpressSettingsUpdating = 0;
+    SkipFirstLoginOptimization = 0;
+}

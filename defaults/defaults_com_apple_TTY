@@ -1,0 +1,19 @@
+{
+    IncomingCallsTTYPreference =     {
+        RTTWildcardContext = 0;
+    };
+    RTTContinuityRTTIsSupportedPreference = 1;
+    RTTSettingsVersionPreference = 2;
+    TTYHardwareEnabledPreference =     {
+        RTTWildcardContext = 0;
+    };
+    TTYShouldBeRealtimePreference =     {
+        RTTWildcardContext = 1;
+    };
+    TTYSoftwareEnabledPreference =     {
+        RTTWildcardContext = 0;
+    };
+    TUIsRelayCallingEnabledPreference = 1;
+    TUSupportsRelayCallingPreference = 1;
+    lastCallCountReset = "590950849.50228";
+}

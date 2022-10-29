@@ -1,0 +1,14 @@
+{
+    "BookDataStore.ConnectionDate" = "2022-10-28 18:42:35 +0000";
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1665416020;
+    CloudKitAccountInfoCache =     {
+        4fa649e44dde31ca253982500066fc5f58f6b473f2c988e4fd41d598bf60ce2f = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+        ca4a26e44de3a0e4d0050a19ff627ceb7de5576558e4f700e52e5f08b2aab212 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+    };
+    kJaliscoDAAPClientLastSuccessfulFullUpdateDateDictionary =     {
+        1996309056 = "2022-10-28 18:42:33 +0000";
+    };
+}

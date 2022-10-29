@@ -1,0 +1,1799 @@
+{
+    NSServices =     {
+        CFPrincipalLocalizations =         (
+            English,
+            en
+        );
+        CFVendedServices =         (
+                        {
+                NSBundlePath = "/Users/jaroddeweese/Library/Services/pdfSplitter.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = pdfSplitter;
+                };
+                NSMessage = runWorkflowAsService;
+                NSSendFileTypes =                 (
+                    "com.adobe.pdf"
+                );
+                NSUUID = {length = 20, bytes = 0x826f8892a21c3b58d81977ce0d1c1b22ac9c6388};
+            },
+                        {
+                NSBundlePath = "/Users/jaroddeweese/Library/Services/wordCount.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = wordCount;
+                };
+                NSMessage = runWorkflowAsService;
+                NSUUID = {length = 20, bytes = 0xc95c96be61f121779a33224b7b0a7b4fdf15e5a7};
+            },
+                        {
+                NSBundlePath = "/Users/jaroddeweese/Library/Services/pdf2Images.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = pdf2Images;
+                };
+                NSMessage = runWorkflowAsService;
+                NSSendFileTypes =                 (
+                    "com.adobe.pdf"
+                );
+                NSUUID = {length = 20, bytes = 0x7877e02a8cda6a7b9da82e0d5baf30c3ffdae3f7};
+            },
+                        {
+                NSBundlePath = "/Users/jaroddeweese/Library/Services/image2PDF.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = image2PDF;
+                };
+                NSMessage = runWorkflowAsService;
+                NSSendFileTypes =                 (
+                    "public.image"
+                );
+                NSUUID = {length = 20, bytes = 0x43e35c9f80a1c83207566257681c05da09f06405};
+            },
+                        {
+                NSBundlePath = "/Users/jaroddeweese/Library/Services/PDF2JPG.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = PDF2JPG;
+                };
+                NSMessage = runWorkflowAsService;
+                NSUUID = {length = 20, bytes = 0x17feeb3c71ef8ff979491bf712718013b024f9b8};
+            },
+                        {
+                NSBundlePath = "/Users/jaroddeweese/Library/Services/extractFromPDF.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = extractFromPDF;
+                };
+                NSMessage = runWorkflowAsService;
+                NSSendFileTypes =                 (
+                    "com.adobe.pdf"
+                );
+                NSUUID = {length = 20, bytes = 0x8cd993addad6248721e51edd5adcdae820d5ad07};
+            },
+                        {
+                NSBundlePath = "/Users/jaroddeweese/Library/Services/JoinPDFService.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = JoinPDFService;
+                };
+                NSMessage = runWorkflowAsService;
+                NSRequiredContext =                 {
+                    NSApplicationIdentifier = "com.apple.finder";
+                };
+                NSSendFileTypes =                 (
+                    "com.adobe.pdf"
+                );
+                NSUUID = {length = 20, bytes = 0x334190a54ddb5bc06fd88f57f07d948e0c773257};
+            },
+                        {
+                NSBundlePath = "/Users/jaroddeweese/Library/Services/OpenInTerminal.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = OpenInTerminal;
+                };
+                NSMessage = runWorkflowAsService;
+                NSSendFileTypes =                 (
+                    "public.item"
+                );
+                NSUUID = {length = 20, bytes = 0xd4b538a3f836e8edb46504732281d71a07ec7933};
+            },
+                        {
+                NSBundlePath = "/Users/jaroddeweese/Library/Services/test.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = test;
+                };
+                NSMessage = runWorkflowAsService;
+                NSRequiredContext =                 {
+                    NSApplicationIdentifier = "com.apple.finder";
+                };
+                NSSendFileTypes =                 (
+                    "public.item"
+                );
+                NSUUID = {length = 20, bytes = 0x291cf5ef66894ecb2c9d6f57ebf40f67e60496ad};
+            },
+                        {
+                NSBundlePath = "/Users/jaroddeweese/Library/Services/joinPDFS.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = joinPDFS;
+                };
+                NSMessage = runWorkflowAsService;
+                NSSendTypes =                 (
+                    "public.utf8-plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0xf09885fb3f8e5205695e5a5a560da5868c28a873};
+            },
+                        {
+                NSBundlePath = "/Users/jaroddeweese/Library/Services/pdfJoin.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = pdfJoin;
+                };
+                NSMessage = runWorkflowAsService;
+                NSSendFileTypes =                 (
+                    "com.adobe.pdf"
+                );
+                NSUUID = {length = 20, bytes = 0x9bde6b34ce91407c3efbcd672b36fc43e6858143};
+            },
+                        {
+                NSBundleIdentifier = "at.EternalStorms.Yoink-setapp";
+                NSBundlePath = "/Applications/Setapp/Yoink.app";
+                NSKeyEquivalent =                 {
+                    default = "^~@X";
+                };
+                NSMenuItem =                 {
+                    English = "Add Selected Files to Yoink";
+                    default = "Add selected files to Yoink";
+                    en = "Add Selected Files to Yoink";
+                };
+                NSMessage = appServiceAddFile;
+                NSPortName = Yoink;
+                NSRequiredContext =                 {
+                };
+                NSReturnTypes =                 (
+                );
+                NSSendFileTypes =                 (
+                    "com.apple.alias-file",
+                    "public.directory",
+                    "public.folder",
+                    "public.file-url"
+                );
+                NSSendTypes =                 (
+                    "com.apple.alias-file",
+                    "public.directory",
+                    "public.folder",
+                    "public.file-url"
+                );
+                NSUUID = {length = 20, bytes = 0x25474f1fa2d562469d9477e4caeab465873b4f1b};
+            },
+                        {
+                NSBundleIdentifier = "at.EternalStorms.Yoink-setapp";
+                NSBundlePath = "/Applications/Setapp/Yoink.app";
+                NSKeyEquivalent =                 {
+                    default = "^~@y";
+                };
+                NSMenuItem =                 {
+                    English = "Add Selected Text to Yoink";
+                    default = "Add Selected Text to Yoink";
+                    en = "Add Selected Text to Yoink";
+                };
+                NSMessage = appServiceAddText;
+                NSPortName = Yoink;
+                NSRequiredContext =                 {
+                };
+                NSReturnTypes =                 (
+                );
+                NSSendFileTypes =                 (
+                    "public.plain-text",
+                    "com.apple.rtf",
+                    "com.apple.rtfd",
+                    "com.apple.flat-rtfd",
+                    NSStringPboardType,
+                    NSRTFPboardType,
+                    NSRTFDPboardType
+                );
+                NSSendTypes =                 (
+                    "public.plain-text",
+                    "com.apple.rtf",
+                    "com.apple.rtfd",
+                    "com.apple.flat-rtfd",
+                    NSStringPboardType,
+                    NSRTFPboardType,
+                    NSRTFDPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x6db1e4bd1586e63b0fb6496daee02796df85eb72};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.AppleSpell";
+                NSBundlePath = "/System/Library/Services/AppleSpell.service";
+                NSKeyEquivalent =                 {
+                };
+                NSLanguages =                 (
+                    ar,
+                    ars,
+                    cs,
+                    da,
+                    de,
+                    el,
+                    en,
+                    "en_AU",
+                    "en_CA",
+                    "en_GB",
+                    "en_IN",
+                    "en_JP",
+                    "en_SG",
+                    es,
+                    fi,
+                    fr,
+                    ga,
+                    hi,
+                    hu,
+                    it,
+                    ko,
+                    nb,
+                    nl,
+                    nn,
+                    pa,
+                    pl,
+                    "pt_BR",
+                    "pt_PT",
+                    ro,
+                    ru,
+                    sv,
+                    te,
+                    tr,
+                    vi,
+                    Multilingual
+                );
+                NSMenuItem =                 {
+                };
+                NSMessage = Apple;
+                NSPortName = AppleSpell;
+                NSSpellChecker = Apple;
+                NSUUID = {length = 20, bytes = 0xf9b7d32729915c2357f94758bc16caef0be6cbb5};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.Automator";
+                NSBundlePath = "/System/Applications/Automator.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Create Service";
+                    default = "Create Service";
+                    en = "Create Service";
+                };
+                NSMessage = makeNewServiceWithPasteboard;
+                NSPortName = Automator;
+                NSSendTypes =                 (
+                    NSStringPboardType,
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x29baf38c28c73822e01cc04b272d39760c217276};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.Automator";
+                NSBundlePath = "/System/Applications/Automator.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Create Workflow";
+                    default = "Create Workflow";
+                    en = "Create Workflow";
+                };
+                NSMessage = makeNewWorkflowServiceWithPasteboard;
+                NSPortName = Automator;
+                NSSendTypes =                 (
+                    NSStringPboardType,
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x3559f61417ac5620d7ca6af3f0a6493a2ba35de0};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.BluetoothFileExchange";
+                NSBundlePath = "/System/Applications/Utilities/Bluetooth File Exchange.app";
+                NSKeyEquivalent =                 {
+                    default = B;
+                };
+                NSMenuItem =                 {
+                    English = "Send File To Bluetooth Device";
+                    default = "Send File To Bluetooth Device";
+                    en = "Send File To Bluetooth Device";
+                };
+                NSMessage = sendFileUsingBluetoothOBEXService;
+                NSPortName = BluetoothFileExchange;
+                NSRequiredContext =                 {
+                    NSTextContent = FilePath;
+                };
+                NSRestricted = 1;
+                NSSendTypes =                 (
+                    "public.plain-text",
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x1a773aa7515ed2fb772673862e55ddb063b2ea8a};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.ChineseTextConverterService";
+                NSBundlePath = "/System/Library/Services/ChineseTextConverterService.app";
+                NSKeyEquivalent =                 {
+                    English = "$^@C";
+                    default = "$^@C";
+                    en = "$^@C";
+                };
+                NSMenuItem =                 {
+                    English = "Convert Text to Traditional Chinese";
+                    default = "Convert Text from Simplified to Traditional Chinese";
+                    en = "Convert Text to Traditional Chinese";
+                };
+                NSMessage = convertTextToTraditionalChinese;
+                NSPortName = ChineseTextConverterService;
+                NSRequiredContext =                 {
+                    NSTextTransformation = "Simplified-Traditional";
+                };
+                NSReturnTypes =                 (
+                    "public.rtf",
+                    "public.utf8-plain-text"
+                );
+                NSSendTypes =                 (
+                    "public.rtf",
+                    "public.utf8-plain-text"
+                );
+                NSTimeout = 600000;
+                NSUUID = {length = 20, bytes = 0xb09d1859dd65c7931e62c0b6b533c00681999609};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.ChineseTextConverterService";
+                NSBundlePath = "/System/Library/Services/ChineseTextConverterService.app";
+                NSKeyEquivalent =                 {
+                    English = "$^~@C";
+                    default = "$^~@C";
+                    en = "$^~@C";
+                };
+                NSMenuItem =                 {
+                    English = "Convert Text to Simplified Chinese";
+                    default = "Convert Text from Traditional to Simplified Chinese";
+                    en = "Convert Text to Simplified Chinese";
+                };
+                NSMessage = convertTextToSimplifiedChinese;
+                NSPortName = ChineseTextConverterService;
+                NSRequiredContext =                 {
+                    NSTextTransformation = "Traditional-Simplified";
+                };
+                NSReturnTypes =                 (
+                    "public.rtf",
+                    "public.utf8-plain-text"
+                );
+                NSSendTypes =                 (
+                    "public.rtf",
+                    "public.utf8-plain-text"
+                );
+                NSTimeout = 600000;
+                NSUUID = {length = 20, bytes = 0x977ff30bed13f68b41883b0441a15feeff6bdddd};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.ChineseTextConverterService";
+                NSBundlePath = "/System/Library/Services/ChineseTextConverterService.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Convert Text to Full Width";
+                    default = "Convert Text to Full Width";
+                    en = "Convert Text to Full Width";
+                };
+                NSMessage = convertTextToFullWidth;
+                NSPortName = ChineseTextConverterService;
+                NSReturnTypes =                 (
+                    "public.rtf",
+                    "public.utf8-plain-text"
+                );
+                NSSendTypes =                 (
+                    "public.rtf",
+                    "public.utf8-plain-text"
+                );
+                NSTimeout = 600000;
+                NSUUID = {length = 20, bytes = 0x365d7066439424d4a1e6ccd4d75d0b88c81fa2d5};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.ChineseTextConverterService";
+                NSBundlePath = "/System/Library/Services/ChineseTextConverterService.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Convert Text to Half Width";
+                    default = "Convert Text to Half Width";
+                    en = "Convert Text to Half Width";
+                };
+                NSMessage = convertTextToHalfWidth;
+                NSPortName = ChineseTextConverterService;
+                NSReturnTypes =                 (
+                    "public.rtf",
+                    "public.utf8-plain-text"
+                );
+                NSSendTypes =                 (
+                    "public.rtf",
+                    "public.utf8-plain-text"
+                );
+                NSTimeout = 600000;
+                NSUUID = {length = 20, bytes = 0xc151a5fd7a43241de48ca3ccd7aab2fac2615085};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.Dictionary";
+                NSBundlePath = "/System/Applications/Dictionary.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Look Up in Dictionary";
+                    default = "Look Up in Dictionary";
+                    en = "Look Up in Dictionary";
+                };
+                NSMessage = doLookupService;
+                NSPortName = Dictionary;
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x6a948d3b92636f879bae3bb1efee1716a87418ef};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.FileMerge";
+                NSBundlePath = "/Applications/Xcode.app/Contents/Applications/FileMerge.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "FileMerge/Compare Files";
+                };
+                NSMessage = diffFilesService;
+                NSPortName = FileMerge;
+                NSReturnTypes =                 (
+                );
+                NSSendTypes =                 (
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xb224c69b7965be8d21b7ce23502552422d74efa1};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.FileMerge";
+                NSBundlePath = "/Applications/Xcode.app/Contents/Applications/FileMerge.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "FileMerge/Compare To Master";
+                };
+                NSMessage = diffVersusMasterService;
+                NSPortName = FileMerge;
+                NSReturnTypes =                 (
+                );
+                NSSendTypes =                 (
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xf687ed3a268958dd0c67814a8e2f201b3e79860a};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.FolderActionsSetup";
+                NSBundlePath = "/System/Library/CoreServices/Applications/Folder Actions Setup.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Folder Actions Setup\\U2026";
+                    default = "Folder Actions Setup";
+                    en = "Folder Actions Setup\\U2026";
+                };
+                NSMessage = openFilesFromPasteboard;
+                NSPortName = "Folder Actions Setup";
+                NSRestricted = 1;
+                NSSendTypes =                 (
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x3fb49a3f78098c0fa83296f3f3d50a1411c9ec99};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.FontBook";
+                NSBundlePath = "/System/Applications/Font Book.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Font Book/Create Font Library From Text";
+                    default = "Font Book/Create Font Library From Text";
+                    en = "Font Book/Create Font Library From Text";
+                };
+                NSMessage = createLibraryFromText;
+                NSPortName = "Font Book";
+                NSSendTypes =                 (
+                    NSRTFPboardType,
+                    NSRTFDPboardType,
+                    NSHTMLPboardType,
+                    NSURLPboardType,
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xbd0512c8061aef7f94b8edc0b40b2ab0d8cf784d};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.FontBook";
+                NSBundlePath = "/System/Applications/Font Book.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Font Book/Create Collection From Text";
+                    default = "Font Book/Create Collection From Text";
+                    en = "Font Book/Create Collection From Text";
+                };
+                NSMessage = createCollectionFromText;
+                NSPortName = "Font Book";
+                NSSendTypes =                 (
+                    NSRTFPboardType,
+                    NSRTFDPboardType,
+                    NSHTMLPboardType,
+                    NSURLPboardType,
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x45acad9ad4c829e5603464f3701d7a60b5179523};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.FontBook";
+                NSBundlePath = "/System/Applications/Font Book.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Font Book/Display Font Information";
+                    default = "Font Book/Display Font Information";
+                    en = "Font Book/Display Font Information";
+                };
+                NSMessage = displayFontInformation;
+                NSPortName = "Font Book";
+                NSRestricted = 1;
+                NSSendTypes =                 (
+                    NSRTFPboardType,
+                    NSRTFDPboardType,
+                    NSHTMLPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xad94dff0057c776a08acb3b36df80f4f748a2ce1};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.OpenSpell";
+                NSBundlePath = "/System/Library/Services/OpenSpell.service";
+                NSKeyEquivalent =                 {
+                };
+                NSLanguages =                 (
+                    "*"
+                );
+                NSMenuItem =                 {
+                };
+                NSMessage = Open;
+                NSPortName = OpenSpell;
+                NSSpellChecker = Open;
+                NSUUID = {length = 20, bytes = 0x40a820e68fca955116ee02f9d0fa23542f4ac7d8};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.Preview";
+                NSBundlePath = "/System/Applications/Preview.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Preview/Open images";
+                    default = "Preview/Open images";
+                    en = "Preview/Open images";
+                };
+                NSMessage = serviceOpenImage;
+                NSPortName = Preview;
+                NSSendTypes =                 (
+                    NSPasteboardTypeTIFF
+                );
+                NSUUID = {length = 20, bytes = 0xa69d62ac80352904987ea1739412eb01cc10e0c1};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.QuickTime.service.encodeSelectedAudioFiles";
+                NSBundlePath = "/System/Library/Services/Encode Selected Audio Files.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Encode Selected Audio Files";
+                    default = "Encode Selected Audio Files";
+                    en = "Encode Selected Audio Files";
+                };
+                NSMessage = runWorkflowAsService;
+                NSRequiredContext =                 {
+                    NSApplicationIdentifier = "com.apple.finder";
+                };
+                NSSendFileTypes =                 (
+                    "public.audio"
+                );
+                NSUUID = {length = 20, bytes = 0xd07e59ea72ce9eb79fb210dbed3da047cd7a76e0};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.Safari";
+                NSBundlePath = "/Applications/Safari.app";
+                NSKeyEquivalent =                 {
+                    default = L;
+                };
+                NSMenuItem =                 {
+                    English = "Search With %WebSearchProvider@";
+                    default = "Search With %WebSearchProvider@";
+                    en = "Search With %WebSearchProvider@";
+                };
+                NSMessage = searchWithWebSearchProvider;
+                NSPortName = Safari;
+                NSSendTypes =                 (
+                    "public.utf8-plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0x4542ef48931888ff63abbe2126bba6958f71764d};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.Safari";
+                NSBundlePath = "/Applications/Safari.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Add to Reading List";
+                    default = "Add to Reading List";
+                    en = "Add to Reading List";
+                };
+                NSMessage = addToReadingList;
+                NSPortName = Safari;
+                NSRequiredContext =                 (
+                                        {
+                        NSTextContent = URL;
+                    },
+                                        {
+                        NSLinkSchemes =                         (
+                            http,
+                            https
+                        );
+                    }
+                );
+                NSSendTypes =                 (
+                    "public.rtf",
+                    "public.utf8-plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0xcf5e7eeec4c427aed793b68e8195bd2d29879c16};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.ScriptEditor2";
+                NSBundlePath = "/System/Applications/Utilities/Script Editor.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Script Editor/Make New AppleScript";
+                    default = "Script Editor/Make New AppleScript";
+                    en = "Script Editor/Make New AppleScript";
+                };
+                NSMessage = makeNewAppleScript;
+                NSPortName = "Script Editor";
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xc050f2fb4e7677ba648fc58904e3a41cee12b19b};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.ScriptEditor2";
+                NSBundlePath = "/System/Applications/Utilities/Script Editor.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Script Editor/Run as AppleScript";
+                    default = "Script Editor/Run as AppleScript";
+                    en = "Script Editor/Run as AppleScript";
+                };
+                NSMessage = runAsAppleScript;
+                NSPortName = "Script Editor";
+                NSRestricted = 1;
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x61931036ffbc5b35de5cd83232eccf73ef644c9e};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.ScriptEditor2";
+                NSBundlePath = "/System/Applications/Utilities/Script Editor.app";
+                NSKeyEquivalent =                 {
+                    English = "*";
+                    default = "*";
+                    en = "*";
+                };
+                NSMenuItem =                 {
+                    English = "Script Editor/Get Result of AppleScript";
+                    default = "Script Editor/Get Result of AppleScript";
+                    en = "Script Editor/Get Result of AppleScript";
+                };
+                NSMessage = runAsAppleScript;
+                NSPortName = "Script Editor";
+                NSRestricted = 1;
+                NSReturnTypes =                 (
+                    NSRTFDPboardType,
+                    NSRTFPboardType,
+                    NSStringPboardType
+                );
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xc6d98b51947fd8be3813ac9e4d09e7c7390d10ae};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.SpotlightService";
+                NSBundlePath = "/System/Library/Services/Spotlight.service";
+                NSKeyEquivalent =                 {
+                    default = F;
+                };
+                NSMenuItem =                 {
+                    English = Spotlight;
+                    default = "SEARCH_WITH_SPOTLIGHT";
+                    en = Spotlight;
+                };
+                NSMessage = doSearchWithSpotlight;
+                NSPortName = SpotlightService;
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xefd17d4625cf3842c6773451ee162733f6ef4136};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.Stickies";
+                NSBundlePath = "/System/Applications/Stickies.app";
+                NSKeyEquivalent =                 {
+                    English = Y;
+                    default = Y;
+                    en = Y;
+                };
+                NSMenuItem =                 {
+                    English = "Make New Sticky Note";
+                    default = "Make Sticky";
+                    en = "Make New Sticky Note";
+                };
+                NSMessage = makeStickyFromTextService;
+                NSPortName = Stickies;
+                NSSendTypes =                 (
+                    "public.plain-text",
+                    "public.rtf",
+                    "com.apple.flat-rtfd"
+                );
+                NSUUID = {length = 20, bytes = 0x512acb785c325905349105e6af8db1a2306309f1};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.SummaryService";
+                NSBundlePath = "/System/Library/Services/SummaryService.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = Summarize;
+                    default = Summarize;
+                    en = Summarize;
+                };
+                NSMessage = doSummarization;
+                NSPortName = SummaryService;
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xae51c058b8ccab9cd99f4f6f04902114a826b4a7};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.Terminal";
+                NSBundlePath = "/System/Applications/Utilities/Terminal.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "New Terminal at Folder";
+                    default = "New Terminal at Folder";
+                    en = "New Terminal at Folder";
+                };
+                NSMessage = newTerminalAtFolder;
+                NSPortName = Terminal;
+                NSRequiredContext =                 {
+                    NSTextContent = FilePath;
+                };
+                NSSendFileTypes =                 (
+                    "public.directory",
+                    "com.apple.resolvable"
+                );
+                NSSendTypes =                 (
+                    "public.plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0xbd4221ff3ce56611c8dcd05d7b030de19a3ca7dc};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.Terminal";
+                NSBundlePath = "/System/Applications/Utilities/Terminal.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "New Terminal Tab at Folder";
+                    default = "New Terminal Tab at Folder";
+                    en = "New Terminal Tab at Folder";
+                };
+                NSMessage = newTerminalAtFolder;
+                NSPortName = Terminal;
+                NSRequiredContext =                 {
+                    NSTextContent = FilePath;
+                };
+                NSSendFileTypes =                 (
+                    "public.directory",
+                    "com.apple.resolvable"
+                );
+                NSSendTypes =                 (
+                    "public.plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0x1d3eca09c8455ab819a8b81724474aae9881f9fd};
+                NSUserData = "New Tab";
+            },
+                        {
+                NSBundleIdentifier = "com.apple.Terminal";
+                NSBundlePath = "/System/Applications/Utilities/Terminal.app";
+                NSKeyEquivalent =                 {
+                    default = M;
+                };
+                NSMenuItem =                 {
+                    English = "Open man Page in Terminal";
+                    default = "Open man Page in Terminal";
+                    en = "Open man Page in Terminal";
+                };
+                NSMessage = openManPage;
+                NSPortName = Terminal;
+                NSRequiredContext =                 {
+                    NSWordLimit = 20;
+                };
+                NSSendTypes =                 (
+                    "public.plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0x55dfaad7ca5d764072c3db0a09246864631f460e};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.Terminal";
+                NSBundlePath = "/System/Applications/Utilities/Terminal.app";
+                NSKeyEquivalent =                 {
+                    default = A;
+                };
+                NSMenuItem =                 {
+                    English = "Search man Page Index in Terminal";
+                    default = "Search man Page Index in Terminal";
+                    en = "Search man Page Index in Terminal";
+                };
+                NSMessage = searchManPages;
+                NSPortName = Terminal;
+                NSRequiredContext =                 {
+                    NSWordLimit = 20;
+                };
+                NSSendTypes =                 (
+                    "public.plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0x2193fb4567cef246b2817c6b474cf6bf62c04523};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.TextEdit";
+                NSBundlePath = "/System/Applications/TextEdit.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "New TextEdit Window Containing Selection";
+                    default = "New TextEdit Window Containing Selection";
+                    en = "New TextEdit Window Containing Selection";
+                };
+                NSMessage = openSelection;
+                NSPortName = TextEdit;
+                NSSendTypes =                 (
+                    "com.apple.flat-rtfd",
+                    "public.rtf",
+                    "public.plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0x7e281e2c8632130621c2a21729afae218dad17d3};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.TextEdit";
+                NSBundlePath = "/System/Applications/TextEdit.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Open Selected File in TextEdit";
+                    default = "Open Selected File in TextEdit";
+                    en = "Open Selected File in TextEdit";
+                };
+                NSMessage = openFile;
+                NSPortName = TextEdit;
+                NSRequiredContext =                 {
+                    NSTextContent = FilePath;
+                };
+                NSSendTypes =                 (
+                    "public.plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0xa04c6e983615da28682c1d114f8217acc79fa0a6};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.dt.Instruments";
+                NSBundlePath = "/Applications/Xcode.app/Contents/Applications/Instruments.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "System Trace";
+                };
+                NSMessage = targetFrontAppWithTemplate;
+                NSRequiredContext =                 {
+                    NSServiceCategory = "public.source-code";
+                };
+                NSUUID = {length = 20, bytes = 0x12e9673b38c072444224fb19bf02c166a586220a};
+                NSUserData = "System Trace.tracetemplate";
+            },
+                        {
+                NSBundleIdentifier = "com.apple.dt.Instruments";
+                NSBundlePath = "/Applications/Xcode.app/Contents/Applications/Instruments.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Activity Monitor";
+                };
+                NSMessage = targetFrontAppWithTemplate;
+                NSRequiredContext =                 {
+                    NSServiceCategory = "public.source-code";
+                };
+                NSUUID = {length = 20, bytes = 0x95d6f603a621e547ec75050dababee9e9242828f};
+                NSUserData = "Activity Monitor.tracetemplate";
+            },
+                        {
+                NSBundleIdentifier = "com.apple.dt.Instruments";
+                NSBundlePath = "/Applications/Xcode.app/Contents/Applications/Instruments.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Allocations & Leaks";
+                };
+                NSMessage = targetFrontAppWithTemplate;
+                NSRequiredContext =                 {
+                    NSServiceCategory = "public.source-code";
+                };
+                NSUUID = {length = 20, bytes = 0x40eb038b95f9ba86af82f7c3bdd4235be50a560b};
+                NSUserData = "Leaks.tracetemplate";
+            },
+                        {
+                NSBundleIdentifier = "com.apple.dt.Instruments";
+                NSBundlePath = "/Applications/Xcode.app/Contents/Applications/Instruments.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "File Activity";
+                };
+                NSMessage = targetFrontAppWithTemplate;
+                NSRequiredContext =                 {
+                    NSServiceCategory = "public.source-code";
+                };
+                NSUUID = {length = 20, bytes = 0xa559adcacba33987e0101dd1caf020227a5d9941};
+                NSUserData = "File Activity.tracetemplate";
+            },
+                        {
+                NSBundleIdentifier = "com.apple.dt.Xcode";
+                NSBundlePath = "/Applications/Xcode.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Open Quickly in Xcode";
+                };
+                NSMessage = openQuickly;
+                NSPortName = Xcode;
+                NSRestricted = 0;
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x182fdd8d726fb256d9a1cdb6469e121dbb06aed2};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.dt.Xcode";
+                NSBundlePath = "/Applications/Xcode.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Find in Xcode";
+                };
+                NSMessage = batchFind;
+                NSPortName = Xcode;
+                NSRestricted = 0;
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x67af8b5231b40cdeb6aad783a71a00800308b15a};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.dt.instruments.backgroundinstruments";
+                NSBundlePath = "/Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/Helpers/backgroundinstruments.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Time Profile Active Application";
+                };
+                NSMessage = timeProfileFrontMost;
+                NSRequiredContext =                 {
+                    NSServiceCategory = "public.source-code";
+                };
+                NSUUID = {length = 20, bytes = 0x306caaccfdedbb479b1bf2ead5c85df11ad56db6};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.dt.instruments.backgroundinstruments";
+                NSBundlePath = "/Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/Helpers/backgroundinstruments.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Time Profile Entire System";
+                };
+                NSMessage = timeProfileSystem;
+                NSRequiredContext =                 {
+                    NSServiceCategory = "public.source-code";
+                };
+                NSUUID = {length = 20, bytes = 0xc2a175ddfbc7ea84d8d7f6966b3166ea61f00625};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.dt.instruments.backgroundinstruments";
+                NSBundlePath = "/Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/Helpers/backgroundinstruments.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Time Profile App Under Mouse";
+                };
+                NSMessage = timeProfileUnderMouse;
+                NSRequiredContext =                 {
+                    NSServiceCategory = "public.source-code";
+                };
+                NSUUID = {length = 20, bytes = 0xa878dc34bce6e06ff60982947a513df5446f124e};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.dt.instruments.backgroundinstruments";
+                NSBundlePath = "/Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/Helpers/backgroundinstruments.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Toggle Instruments Recording";
+                };
+                NSMessage = toggleRecordingState;
+                NSRequiredContext =                 {
+                    NSServiceCategory = "public.source-code";
+                };
+                NSUUID = {length = 20, bytes = 0x8b0daf73d22c80a10111697e41db80bbc8c1485b};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.finder";
+                NSBundlePath = "/System/Library/CoreServices/Finder.app";
+                NSForbiddenContext =                 {
+                    NSApplicationIdentifier = "com.apple.finder";
+                };
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Finder/Open";
+                    default = "Finder/Open";
+                    en = "Finder/Open";
+                };
+                NSMessage = open;
+                NSPortName = Finder;
+                NSRestricted = 1;
+                NSSendTypes =                 (
+                    NSStringPboardType,
+                    NSFilenamesPboardType,
+                    NSURLPboardType,
+                    NSMultipleTextSelectionPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x1970a62585935e838debf45d1a78a88413f38bb3};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.finder";
+                NSBundlePath = "/System/Library/CoreServices/Finder.app";
+                NSForbiddenContext =                 {
+                    NSApplicationIdentifier = "com.apple.finder";
+                };
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Finder/Show in Finder";
+                    default = "Finder/Reveal";
+                    en = "Finder/Show in Finder";
+                };
+                NSMessage = reveal;
+                NSPortName = Finder;
+                NSRestricted = 0;
+                NSSendTypes =                 (
+                    NSStringPboardType,
+                    NSFilenamesPboardType,
+                    NSURLPboardType,
+                    NSMultipleTextSelectionPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x7aad25fd065d7c2ccc98ad540cdbcd5027755da9};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.finder";
+                NSBundlePath = "/System/Library/CoreServices/Finder.app";
+                NSForbiddenContext =                 {
+                    NSApplicationIdentifier = "com.apple.finder";
+                };
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Finder/Show Info in Finder";
+                    default = "Finder/Show Info";
+                    en = "Finder/Show Info in Finder";
+                };
+                NSMessage = showInfo;
+                NSPortName = Finder;
+                NSRestricted = 0;
+                NSSendTypes =                 (
+                    NSStringPboardType,
+                    NSFilenamesPboardType,
+                    NSURLPboardType,
+                    NSMultipleTextSelectionPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x34c73473eeb0e6833b581be5d8facc54522cb60c};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.mail";
+                NSBundlePath = "/System/Applications/Mail.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Mail/New Email With Selection";
+                    default = "Mail/New Email With Selection";
+                    en = "Mail/New Email With Selection";
+                };
+                NSMessage = mailSelection;
+                NSPortName = Mail;
+                NSSendTypes =                 (
+                    NSPasteboardTypeRTFD,
+                    NSPasteboardTypeRTF,
+                    NSPasteboardTypeString,
+                    "Apple Web Archive pasteboard type"
+                );
+                NSUUID = {length = 20, bytes = 0xd762f60a7f172262477243e85b145ac24fe22875};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.mail";
+                NSBundlePath = "/System/Applications/Mail.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Mail/New Email To Address";
+                    default = "Mail/New Email To Address";
+                    en = "Mail/New Email To Address";
+                };
+                NSMessage = mailTo;
+                NSPortName = Mail;
+                NSSendTypes =                 (
+                    NSPasteboardTypeString
+                );
+                NSUUID = {length = 20, bytes = 0xbcc9267728beb02d377a0ae366fda4d57e99bf64};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.services.addToiTunesAsSpokenTrack";
+                NSBundlePath = "/System/Library/Services/Add to Music as a Spoken Track.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Add to Music as a Spoken Track";
+                    default = "Add to Music as a Spoken Track";
+                    en = "Add to Music as a Spoken Track";
+                };
+                NSMessage = runWorkflowAsService;
+                NSRestricted = 1;
+                NSSendTypes =                 (
+                    "public.utf8-plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0x23ed2186e073899913c0c12cd00f6a7681c4f43d};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.services.encodeSelectedVideoFiles";
+                NSBundlePath = "/System/Library/Services/Encode Selected Video Files.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Encode Selected Video Files";
+                    default = "Encode Selected Video Files";
+                    en = "Encode Selected Video Files";
+                };
+                NSMessage = runWorkflowAsService;
+                NSRequiredContext =                 {
+                    NSApplicationIdentifier = "com.apple.finder";
+                };
+                NSSendFileTypes =                 (
+                    "public.movie"
+                );
+                NSUUID = {length = 20, bytes = 0x768eb5f5c562e846a5560e9e63f20e03e3e24517};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.services.setDesktopPicture";
+                NSBundlePath = "/System/Library/Services/Set Desktop Picture.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Set Desktop Picture";
+                    default = "Set Desktop Picture";
+                    en = "Set Desktop Picture";
+                };
+                NSMessage = runWorkflowAsService;
+                NSSendFileTypes =                 (
+                    "public.image"
+                );
+                NSUUID = {length = 20, bytes = 0x0669c136d5d48079bdc6cbbabb9e9d27bc0c1b51};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.services.showMap";
+                NSBundlePath = "/System/Library/Services/Show Map.workflow";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Show Map";
+                    default = "Show Map";
+                    en = "Show Map";
+                };
+                NSMessage = runWorkflowAsService;
+                NSRequiredContext =                 {
+                    NSTextContent = Address;
+                };
+                NSRestricted = 1;
+                NSSendTypes =                 (
+                    "public.utf8-plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0x3309d4f88979c51eed170b7beef6c043d51690c5};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.speech.SpeechService";
+                NSBundlePath = "/System/Library/Services/SpeechService.service";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Speech/Start Speaking Text";
+                    default = "Speech/Start Speaking Text";
+                    en = "Speech/Start Speaking Text";
+                };
+                NSMessage = doSpeakSelectedText;
+                NSPortName = ComAppleSpeechSpeechService;
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x6fd6c15b4ab810ac1959d4e13b754310e6e3d62a};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.speech.SpeechService";
+                NSBundlePath = "/System/Library/Services/SpeechService.service";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Speech/Stop Speaking";
+                    default = "Speech/Stop Speaking";
+                    en = "Speech/Stop Speaking";
+                };
+                NSMessage = doStopSpeaking;
+                NSPortName = ComAppleSpeechSpeechService;
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x1498140e95d9c9722d6b75f7792b8729508088bf};
+            },
+                        {
+                NSBundleIdentifier = "com.apple.systemuiserver";
+                NSBundlePath = "/System/Library/CoreServices/SystemUIServer.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Open URL";
+                    default = "Open URL";
+                    en = "Open URL";
+                };
+                NSMessage = openURL;
+                NSPortName = SystemUIServer;
+                NSRestricted = 1;
+                NSSendTypes =                 (
+                    NSURLPboardType,
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xb2f07f415fa9a00c9ef0d5bd7e275ea20487fcf0};
+            },
+                        {
+                NSBundleIdentifier = "com.aptonic.Dropzone-setapp";
+                NSBundlePath = "/Applications/Setapp/Dropzone.app";
+                NSKeyEquivalent =                 {
+                    default = "^~@D";
+                };
+                NSMenuItem =                 {
+                    default = "Run Dropzone Action";
+                };
+                NSMessage = runAction;
+                NSPortName = "Dropzone 4";
+                NSRequiredContext =                 {
+                };
+                NSSendFileTypes =                 (
+                    "com.apple.alias-file",
+                    "public.directory",
+                    "public.folder",
+                    "public.file-url",
+                    "public.text"
+                );
+                NSSendTypes =                 (
+                    "com.apple.alias-file",
+                    "public.directory",
+                    "public.folder",
+                    "public.file-url",
+                    "public.text"
+                );
+                NSUUID = {length = 20, bytes = 0x797653127204dc0f25066252f352c31fac45d0da};
+            },
+                        {
+                NSBundleIdentifier = "com.aptonic.Dropzone-setapp";
+                NSBundlePath = "/Applications/Setapp/Dropzone.app";
+                NSKeyEquivalent =                 {
+                    default = "^~@S";
+                };
+                NSMenuItem =                 {
+                    default = "Shorten URL";
+                };
+                NSMessage = shortenURL;
+                NSPortName = "Dropzone 4";
+                NSRequiredContext =                 {
+                };
+                NSSendFileTypes =                 (
+                    "public.text"
+                );
+                NSSendTypes =                 (
+                    "public.text"
+                );
+                NSUUID = {length = 20, bytes = 0x4ad14706ae378cb1f568fdeb3b39bfd05a4d91f0};
+            },
+                        {
+                NSBundleIdentifier = "com.binarynights.forklift-setapp";
+                NSBundlePath = "/Applications/Setapp/ForkLift.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Reveal in ForkLift";
+                };
+                NSMessage = revealInForkLift;
+                NSPortName = "ForkLift 3";
+                NSRequiredContext =                 (
+                );
+                NSSendTypes =                 (
+                    NSURLPboardType,
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x7658ab2b6273713979dcc5bf8c91f013edf89021};
+            },
+                        {
+                NSBundleIdentifier = "com.charliemonroe.Downie-setapp";
+                NSBundlePath = "/Applications/Setapp/Downie.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Open URL with Downie";
+                };
+                NSMessage = dropURLsOnDockIcon;
+                NSPortName = Downie;
+                NSRequiredContext =                 (
+                                        {
+                        NSTextContent = URL;
+                    },
+                                        {
+                        NSLinkSchemes =                         (
+                            http,
+                            https
+                        );
+                    }
+                );
+                NSSendTypes =                 (
+                    "public.rtf",
+                    "public.utf8-plain-text",
+                    "public.url"
+                );
+                NSUUID = {length = 20, bytes = 0xd3b2716b5da3514ca6ae503ce7f91c8750da5a1e};
+            },
+                        {
+                NSBundleIdentifier = "com.charliemonroe.Downie-setapp";
+                NSBundlePath = "/Applications/Setapp/Downie.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Open URLs with Downie";
+                };
+                NSMessage = dropStringOnDockIcon;
+                NSPortName = Downie;
+                NSSendFileTypes =                 (
+                    "public.plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0x97ab3911b4e243ed674972aa0a35931b65e74955};
+            },
+                        {
+                NSBundleIdentifier = "com.charliemonroe.Permute-setapp";
+                NSBundlePath = "/Applications/Setapp/Permute.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Add Selected File to Permute";
+                };
+                NSMessage = processFilesFromService;
+                NSPortName = "Permute 3";
+                NSRequiredContext =                 {
+                    NSTextContent = FilePath;
+                };
+                NSSendTypes =                 (
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xfbd1333d99e8cb389acf0b465eba9797df07c57d};
+            },
+                        {
+                NSBundleIdentifier = "com.colliderli.iina";
+                NSBundlePath = "/Applications/IINA.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "IINA: Open URL";
+                };
+                NSMessage = droppedText;
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x9ebedb10939f419850c5c95bbb8a025e0982b642};
+            },
+                        {
+                NSBundleIdentifier = "com.googlecode.iterm2";
+                NSBundlePath = "/Users/jaroddeweese/Applications/iTerm.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "New iTerm2 Tab Here";
+                };
+                NSMessage = openTab;
+                NSRequiredContext =                 {
+                    NSTextContent = FilePath;
+                };
+                NSSendTypes =                 (
+                    NSFilenamesPboardType,
+                    "public.plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0xe05a9d6b21051d7b2352ee388b7a00b7da8a6968};
+            },
+                        {
+                NSBundleIdentifier = "com.googlecode.iterm2";
+                NSBundlePath = "/Users/jaroddeweese/Applications/iTerm.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "New iTerm2 Window Here";
+                };
+                NSMessage = openWindow;
+                NSRequiredContext =                 {
+                    NSTextContent = FilePath;
+                };
+                NSSendTypes =                 (
+                    NSFilenamesPboardType,
+                    "public.plain-text"
+                );
+                NSUUID = {length = 20, bytes = 0xe04304558382de633c567ceff7a264cfe246da65};
+            },
+                        {
+                NSBundleIdentifier = "com.hegenberg.BetterTouchTool";
+                NSBundlePath = "/Users/jaroddeweese/Applications/BetterTouchTool.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Add to BTT Clipboard";
+                };
+                NSMessage = clip;
+                NSSendTypes =                 (
+                    "public.data",
+                    NSStringPboardType,
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x13d2466c121958e169f4d9fe86251b2ea1ece7bc};
+            },
+                        {
+                NSBundleIdentifier = "com.hegenberg.bettertouchtool-setapp";
+                NSBundlePath = "/Applications/Setapp/BetterTouchTool.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Add to BTT Clipboard";
+                };
+                NSMessage = openService;
+                NSSendTypes =                 (
+                    "public.data",
+                    NSStringPboardType,
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x75ff16938f3490e72405c99d37765e85d3c2a4bc};
+            },
+                        {
+                NSBundleIdentifier = "com.kapeli.dash-setapp";
+                NSBundlePath = "/Applications/Setapp/Dash.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Create Snippet in Dash";
+                };
+                NSMessage = createSnippetService;
+                NSPortName = Dash;
+                NSRequiredContext =                 {
+                    NSServiceCategory = "public.text";
+                };
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xb926fba8d1a9282b533c2ba71521c18b882573e2};
+            },
+                        {
+                NSBundleIdentifier = "com.kapeli.dash-setapp";
+                NSBundlePath = "/Applications/Setapp/Dash.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Look Up in Dash";
+                };
+                NSMessage = lookupService;
+                NSPortName = Dash;
+                NSRequiredContext =                 {
+                    NSServiceCategory = Searching;
+                };
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x67047bb915be9e4bd9dd87e61dcc2a31b1ee0c94};
+            },
+                        {
+                NSBundleIdentifier = "com.macpaw.CleanMyMac-setapp";
+                NSBundlePath = "/Applications/Setapp/CleanMyMac X.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Uninstall with CleanMyMac X";
+                    default = "Services_MenuItem_Uninstall";
+                    en = "Uninstall with CleanMyMac X";
+                };
+                NSMessage = uninstallApplication;
+                NSPortName = "CleanMyMac X Service";
+                NSRequiredContext =                 {
+                };
+                NSSendFileTypes =                 (
+                    "com.apple.application-bundle"
+                );
+                NSUUID = {length = 20, bytes = 0x4653e75fd81d897ad266d037e52b66e06f12fa8d};
+            },
+                        {
+                NSBundleIdentifier = "com.macpaw.CleanMyMac-setapp";
+                NSBundlePath = "/Applications/Setapp/CleanMyMac X.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Check for Updates with CleanMyMac X";
+                    default = "Services_MenuItem_Updater";
+                    en = "Check for Updates with CleanMyMac X";
+                };
+                NSMessage = checkForUpdates;
+                NSPortName = "CleanMyMac X Service";
+                NSRequiredContext =                 {
+                };
+                NSSendFileTypes =                 (
+                    "com.apple.application-bundle"
+                );
+                NSUUID = {length = 20, bytes = 0xb9705c21fb4437306be41d93c55833968a176692};
+            },
+                        {
+                NSBundleIdentifier = "com.macpaw.Encrypto";
+                NSBundlePath = "/Applications/Encrypto.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Encrypt or Decrypt with Encrypto";
+                };
+                NSMessage = encryptFiles;
+                NSPortName = "Ecnrypto Service";
+                NSRequiredContext =                 {
+                    NSTextContent = FilePath;
+                };
+                NSSendFileTypes =                 (
+                    "public.item"
+                );
+                NSUUID = {length = 20, bytes = 0xaa2b7584676f94210ff76314e85513c0900c4152};
+            },
+                        {
+                NSBundleIdentifier = "com.macpaw.site.theunarchiver";
+                NSBundlePath = "/Applications/The Unarchiver.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "The Unarchiver/Unarchive to Current Folder";
+                    default = "The Unarchiver/Unarchive To Current Folder";
+                    en = "The Unarchiver/Unarchive to Current Folder";
+                };
+                NSMessage = unarchiveToCurrentFolderWithPasteboard;
+                NSPortName = "The Unarchiver";
+                NSSendTypes =                 (
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xa5941e63573328f9c2713d6418550839c21363f7};
+            },
+                        {
+                NSBundleIdentifier = "com.macpaw.site.theunarchiver";
+                NSBundlePath = "/Applications/The Unarchiver.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "The Unarchiver/Unarchive to Desktop";
+                    default = "The Unarchiver/Unarchive To Desktop";
+                    en = "The Unarchiver/Unarchive to Desktop";
+                };
+                NSMessage = unarchiveToDesktopWithPasteboard;
+                NSPortName = "The Unarchiver";
+                NSSendTypes =                 (
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x8ac5f442fa5d396d25108e69ffbd442ebdabd968};
+            },
+                        {
+                NSBundleIdentifier = "com.macpaw.site.theunarchiver";
+                NSBundlePath = "/Applications/The Unarchiver.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "The Unarchiver/Unarchive to...";
+                    default = "The Unarchiver/Unarchive To...";
+                    en = "The Unarchiver/Unarchive to...";
+                };
+                NSMessage = unarchiveToWithPasteboard;
+                NSPortName = "The Unarchiver";
+                NSSendTypes =                 (
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x3036bf88cd8c8c7d56a3e8f3c34db48a151e56ea};
+            },
+                        {
+                NSBundleIdentifier = "com.monosnap.monosnap";
+                NSBundlePath = "/Applications/Monosnap.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Open with Monosnap";
+                };
+                NSMessage = openWithMonosnap;
+                NSPortName = Monosnap;
+                NSRequiredContext =                 {
+                };
+                NSSendFileTypes =                 (
+                    "public.image",
+                    "public.tiff",
+                    "public.png",
+                    "public.jpg",
+                    "public.mpeg-4",
+                    "com.apple.quicktime-movie",
+                    "public.movie"
+                );
+                NSSendTypes =                 (
+                    NSTIFFPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xdbf16b479fb201dda12c558a4f8fdb98b9606d52};
+                NSUserData = open;
+            },
+                        {
+                NSBundleIdentifier = "com.monosnap.monosnap";
+                NSBundlePath = "/Applications/Monosnap.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Upload with Monosnap";
+                };
+                NSMessage = uploadWithMonosnap;
+                NSPortName = Monosnap;
+                NSRequiredContext =                 {
+                };
+                NSSendFileTypes =                 (
+                    "public.data"
+                );
+                NSSendTypes =                 (
+                    NSFileContentsPboardType,
+                    NSFilenamesPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xd96198ef10b81d55f3e09a84db359e9ea6de2373};
+                NSUserData = upload;
+            },
+                        {
+                NSBundleIdentifier = "com.monosnap.monosnap";
+                NSBundlePath = "/Applications/Monosnap.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "";
+                };
+                NSMessage = "";
+                NSUUID = {length = 20, bytes = 0xde6bef58d993fc8b980be220f0b63182c3fdc99e};
+            },
+                        {
+                NSBundleIdentifier = "com.okatbest.boop";
+                NSBundlePath = "/Applications/Boop.app";
+                NSKeyEquivalent =                 {
+                    default = "~@^B";
+                };
+                NSMenuItem =                 {
+                    default = "Send to Boop";
+                };
+                NSMessage = textServiceHandler;
+                NSPortName = Boop;
+                NSRequiredContext =                 {
+                };
+                NSSendTypes =                 (
+                    NSStringPboardType
+                );
+                NSUUID = {length = 20, bytes = 0xf88343bbdf9749b295485398753a766ef381b315};
+            },
+                        {
+                NSBundleIdentifier = "com.rafifyalda.flume-mac-setapp";
+                NSBundlePath = "/Applications/Setapp/Flume.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Upload with Flume";
+                };
+                NSMessage = uploadWithFlume;
+                NSPortName = Flume;
+                NSRequiredContext =                 {
+                };
+                NSSendTypes =                 (
+                    NSFilenamesPboardType,
+                    NSURLPboardType
+                );
+                NSTimeout = 120000;
+                NSUUID = {length = 20, bytes = 0x5963d2c3f8d5ebe2cec9be5c6b70b8fa01d8cda3};
+            },
+                        {
+                NSBundleIdentifier = "com.sequelpro.SequelPro";
+                NSBundlePath = "/Applications/Sequel Pro.app";
+                NSKeyEquivalent =                 {
+                    default = M;
+                };
+                NSMenuItem =                 {
+                    default = "Sequel Pro/Perform selection as MySQL query";
+                };
+                NSMessage = doPerformQueryService;
+                NSPortName = "Sequel Pro";
+                NSSendTypes =                 (
+                    NSStringPboardType,
+                    NSURLPboardType
+                );
+                NSUUID = {length = 20, bytes = 0x38f0637781618eb4d1566f32ec989aed5dff1445};
+            },
+                        {
+                NSBundleIdentifier = "com.wunderkinder.wunderlistdesktop";
+                NSBundlePath = "/Applications/Wunderlist.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    English = "Add to Wunderlist";
+                    default = "Add to Wunderlist";
+                    en = "Add to Wunderlist";
+                };
+                NSMessage = addToWunderist;
+                NSPortName = Wunderlist;
+                NSRequiredContext =                 {
+                };
+                NSSendTypes =                 (
+                    NSFilenamesPboardType,
+                    NSURLPboardType,
+                    NSRTFDPboardType,
+                    NSRTFPboardType,
+                    NSStringPboardType
+                );
+                NSTimeout = 120000;
+                NSUUID = {length = 20, bytes = 0x9aaf2b471967cb9671666be32f825f9a0c8aa8eb};
+            },
+                        {
+                NSBundleIdentifier = "de.holtwick.mac.receipts-setapp";
+                NSBundlePath = "/Applications/Setapp/Receipts.app";
+                NSKeyEquivalent =                 {
+                };
+                NSMenuItem =                 {
+                    default = "Open in Receipts";
+                };
+                NSMessage = openService;
+                NSSendTypes =                 (
+                    "public.data"
+                );
+                NSUUID = {length = 20, bytes = 0x5c0b5c65a08031919c9a45d0e9fc2c081bbd02b3};
+            }
+        );
+        CFVersion = 2;
+    };
+}

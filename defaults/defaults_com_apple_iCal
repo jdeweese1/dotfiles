@@ -1,0 +1,137 @@
+{
+    AccountDisplayOrder =     (
+        "1B41CFA2-3ABF-4060-99F5-E15267D127C0",
+        "FE72E1FE-DCC8-4B4B-A709-6004B2A0533F",
+        "7502271F-2BE7-402C-B9A6-867A9F9E2232"
+    );
+    AllDayAreaHeight = 0;
+    BirthdayEventsGenerationAttemptsToResetKey = 0;
+    BirthdayEventsGenerationLastLocale = "en_US";
+    BirthdayEventsGenerationVersion = 10;
+    "CalAgentNS_Preference_DefaultReminderCalendar" = "F03FAE02-D7F5-4697-B528-D2CF4CA2D14E";
+    CalDefaultCalendar = UseLastSelectedAsDefaultCalendar;
+    CalFirstVisibleDate = "2022-10-17 05:30:00 +0000";
+    CalForceTruthFileRestoreHashKey = 16A1;
+    CalUICanvasOccurrenceFontSize = 13;
+    CalendarListMiniMonthVisibleMonths = 1;
+    CalendarSidebarShown = 1;
+    CalendarSidebarView = 1;
+    CalendarSidebarWidth = 165;
+    CollapsedTopLevelNodes =     {
+        MainWindow =         (
+        );
+    };
+    DelegatesInSeparateWindows =     {
+        iCal =         {
+        };
+    };
+    DisabledCalendars =     {
+        MainWindow =         (
+            "E722EB97-FED7-4987-B430-FEF03924A6ED",
+            "AE255E8E-A9C6-46AD-9E26-47FBF2401FA1",
+            "40D31A81-65BE-48B2-BE76-67161E9F9B33",
+            "F6250DB4-B6ED-4A73-9860-D9B86A655C5F",
+            "455933E9-4EB0-472A-A425-E588742B26E9",
+            "646D1F35-D11E-430F-8B67-55158C8D9491",
+            "9B6391F2-681E-4F77-A03E-09044FFFDF85",
+            "2EE13C7C-A1A0-49CD-8619-7A360E1BF8EB"
+        );
+    };
+    GEOUsageSessionID = {length = 21, bytes = 0x08ffaca6a8b6bce1a3111095b3829ceeffbef8b001};
+    GEOUsageSessionIDGenerationTime = "545101672.428634";
+    LastCheckForIgnoredPseudoEvents = "688757079.967203";
+    LastReminderMigrationCleanupVersion = 1;
+    LastSaveDate = "2022-10-28 02:32:32 +0000";
+    NSDontMakeMainWindowKey = NO;
+    NSEventConcurrentProcessingEnabled = YES;
+    NSNavLastRootDirectory = "~/Projects/bash";
+    NSNavPanelExpandedSizeForOpenMode = "{799, 448}";
+    NSNavPanelExpandedSizeForSaveMode = "{712, 448}";
+    "NSSplitView Subview Frames CalendarSplitView" =     (
+        "0.000000, 0.000000, 180.000000, 1025.000000, NO, NO",
+        "181.000000, 0.000000, 1040.000000, 1025.000000, NO, NO",
+        "1440.000000, 0.000000, 240.000000, 1025.000000, YES, NO"
+    );
+    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
+        "0.000000, 0.000000, 224.000000, 263.000000, NO, NO",
+        "0.000000, 264.000000, 224.000000, 43.000000, NO, NO"
+    );
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame 07C64BBE-0F95-462B-AE07-8B609C8B1C37" = "17 60 314 699 0 0 1280 777 ";
+    "NSWindow Frame 0F30B412-22CC-410A-8482-DC902764961A" = "18 478 314 281 0 0 1280 777 ";
+    "NSWindow Frame 127D8C30-C437-436A-BCCA-E1EED81EEC85" = "-456 1013 315 245 -1920 421 1920 1057 ";
+    "NSWindow Frame 20180820T000000Z/311416F7-0C63-4E91-B23D-404103C27CB8" = "485 99 315 415 0 0 1280 778 ";
+    "NSWindow Frame 20180820T220000Z/BFB3E854-C698-4913-82D6-FD95296B4E1A" = "520 152 315 437 0 0 1280 778 ";
+    "NSWindow Frame 20180829T224500Z/286CAFCD-9ABF-48FC-86BB-6790DFC8C8A0" = "18 435 315 325 0 0 1280 778 ";
+    "NSWindow Frame 20181010T173000Z/3A8EB3D3-A000-4C90-8C73-7391D973E07F" = "18 353 315 407 0 0 1280 778 ";
+    "NSWindow Frame 20181210T200000Z/A85D8FC5-E7B5-4E01-8A12-DF8418C28D2F" = "18 457 315 303 0 0 1280 778 ";
+    "NSWindow Frame 20181216T234500Z/443C2C11-F674-486F-8E53-CBD514600AF8" = "18 314 315 446 0 0 1280 778 ";
+    "NSWindow Frame 20181220T230000Z/BFB3E854-C698-4913-82D6-FD95296B4E1A" = "346 440 315 320 0 0 1280 778 ";
+    "NSWindow Frame 20190208T000000Z/local_C201BB46-4BA2-4BA2-A263-E49C928FEE74" = "647 419 315 272 0 0 1280 778 ";
+    "NSWindow Frame 20200824T203000Z/941879A6-2671-4E07-B4D7-B0242B604EED" = "18 246 315 278 0 0 1680 1027 ";
+    "NSWindow Frame 20200826T203000Z/941879A6-2671-4E07-B4D7-B0242B604EED" = "18 1062 315 294 -1920 317 1920 1057 ";
+    "NSWindow Frame 272E76CF-716C-40C2-AE50-1D9D7EE76563" = "18 364 315 396 0 0 1280 778 ";
+    "NSWindow Frame 60BA2936-CB12-4289-BCB7-806A9F52067B" = "622 322 315 378 0 0 1280 778 ";
+    "NSWindow Frame 715832DB-12F7-4561-B733-85C7E72BA6C4" = "18 736 315 273 0 0 1680 1027 ";
+    "NSWindow Frame 76CE888A-7FB1-40D9-BACC-49CBC0A32AE5" = "18 732 315 277 0 0 1680 1027 ";
+    "NSWindow Frame 7734B17C-661E-4093-AF4E-1D4F73D8B5DF" = "18 445 315 315 0 0 1280 778 ";
+    "NSWindow Frame 9C185748-879B-40E5-8662-9A28E75425EB" = "18 445 315 315 0 0 1280 778 ";
+    "NSWindow Frame A9C0022F-E044-4471-9D07-3DD769BAA644" = "18 457 292 302 0 0 1280 777 ";
+    "NSWindow Frame AF11BB03-AEB4-4E62-B7B2-D96A8333068B" = "18 486 315 273 0 0 1280 777 ";
+    "NSWindow Frame Availability" = "-939 928 788 135 -1920 317 1920 1057 ";
+    "NSWindow Frame BB500475-9EC6-4C78-9EC4-E2DD45B0C0AC" = "18 263 314 496 0 0 1280 777 ";
+    "NSWindow Frame CalDAVPublishedCalendarInspector" = "158 762 525 249 0 0 1680 1027 ";
+    "NSWindow Frame D77A660E-8B67-49D7-8098-B1F94DA72C8C" = "885 140 315 494 0 0 1920 1057 ";
+    "NSWindow Frame E49E0DE6-C89A-4F0A-BF39-F26070BAEAC3" = "18 364 315 396 0 0 1280 778 ";
+    "NSWindow Frame EDC7D9AA-9B83-4EF2-90DB-996278E4BA15" = "18 643 315 366 0 0 1680 1027 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "2240 455 799 448 1680 0 1920 1055 ";
+    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "4424 466 428 137 3600 45 1920 1055 ";
+    "NSWindow Frame ServerCalendarInspector" = "903 389 715 275 0 0 1920 1055 ";
+    "NSWindow Frame SimpleCalendarInspector" = "577 682 526 329 0 0 1680 1027 ";
+    "NSWindow Frame SubscriptionCalendarInspector" = "158 661 525 350 0 0 1680 1027 ";
+    "NSWindow Frame iCal" = "459 0 1221 1025 0 0 1680 1025 ";
+    OwnerEmailAddress =     (
+        "jaroddeweese@gmail.com",
+        "jarod.deweese@zoom.us"
+    );
+    PMPrintingExpandedStateForPrint2 = 1;
+    RecentlyUsedTimeZones =     (
+        "Europe/Dublin",
+        "America/Los_Angeles",
+        "America/Denver"
+    );
+    RemindersLastMigratedSystemVersion = 21G115;
+    SelectedEvents =     {
+        iCal =         (
+        );
+    };
+    TabbedWindowGroups =     (
+    );
+    "TimeZone support enabled" = 1;
+    "add holiday calendar" = 0;
+    "display birthdays calendar" = 1;
+    "first day of week" = 1;
+    "first minute of day time range" = 0;
+    "first shown minute of day" = "471.0204081632653";
+    "iCal version" = 134217728;
+    icaluuid = "E40BDD12-8E6B-4989-B5C7-29619CC090DF";
+    "last calendar view description" = Monthly;
+    "last minute of day time range" = 1440;
+    "last selected calendar list item" = "7BDCB25E-FEB7-4058-9E3A-31AA483616FB";
+    lastViewsTimeZone = "America/Chicago";
+    privacyPaneHasBeenAcknowledged = 1;
+    privacyPaneHasBeenAcknowledgedVersion = 4;
+    "view rects" =     {
+        "1-day" = "{{50, 50}, {600, 400}}";
+        "2-day" = "{{50, 50}, {600, 400}}";
+        "3-day" = "{{50, 50}, {600, 400}}";
+        "4-day" = "{{50, 50}, {600, 400}}";
+        "5-day" = "{{50, 50}, {700, 500}}";
+        "6-day" = "{{50, 50}, {700, 500}}";
+        "7-day" = "{{50, 50}, {770, 500}}";
+        monthly = "{{50, 50}, {750, 550}}";
+        yearly = "{{50, 50}, {750, 550}}";
+    };
+}

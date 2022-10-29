@@ -1,0 +1,21 @@
+{
+    "AMSBagTracker_NowPlayingEnabledKey" = 1;
+    "AMSBagTracker_SportsEnabledKey" = 1;
+    hasMigratedToNewBadgingSystem = 1;
+    lastKnownTVAppEnabledValue = 1;
+    storedConfig =     {
+        activeUser = 1;
+        rrkvp =         {
+            caller = wlk;
+            locale = "en-US";
+            pfm = desktop;
+            sf = 143441;
+            utscf = "OjAAAAEAAAAAAAIAEAAAAAwADQAQAA~~";
+            utsk = "6e3013c6d6fae3c2::::::b01701b4c342065e";
+            v = 56;
+        };
+        utsc = "7:18467";
+        vppaState = Current;
+    };
+    storedConfigTimestamp = 1649292591;
+}

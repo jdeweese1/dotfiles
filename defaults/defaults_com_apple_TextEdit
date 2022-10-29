@@ -1,0 +1,12 @@
+{
+    CheckSpellingWhileTyping = 0;
+    CorrectSpellingAutomatically = 0;
+    NSNavLastRootDirectory = "~/Projects/pyStock/.caches";
+    NSNavLastUserSetHideExtensionButtonState = 0;
+    NSNavPanelExpandedSizeForOpenMode = "{799, 448}";
+    NSNavPanelExpandedSizeForSaveMode = "{712, 448}";
+    "NSWindow Frame NSFontPanel" = "769 110 445 237 0 0 1280 777 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "2240 872 799 390 0 0 1680 1027 ";
+    PMPrintingExpandedStateForPrint2 = 0;
+    RichText = 0;
+}

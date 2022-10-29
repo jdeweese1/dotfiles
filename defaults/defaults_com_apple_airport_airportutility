@@ -1,0 +1,31 @@
+{
+    "NSWindow Frame MainWindow" = "639 493 696 532 0 0 1680 1025 ";
+    RecentNetworks =     (
+                {
+            hashKey = 3952285037;
+            interfaceKey = en0;
+        },
+                {
+            hashKey = 4132705595;
+            interfaceKey = en5;
+        },
+                {
+            hashKey = 4072281583;
+            interfaceKey = en0;
+        },
+                {
+            hashKey = 3737654728;
+            interfaceKey = en0;
+        },
+                {
+            hashKey = 3626767619;
+            interfaceKey = en0;
+        },
+                {
+            hashKey = 4127397133;
+            interfaceKey = en0;
+        }
+    );
+    dontAddToKeychain = 1;
+    version = 1536;
+}

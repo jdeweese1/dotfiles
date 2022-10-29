@@ -1,0 +1,9 @@
+{
+    IOBluetoothDeviceSelectorModalDeviceCategoryIndex = 4;
+    IOBluetoothDeviceSelectorModalDeviceTypeIndex = 0;
+    NSNavLastRootDirectory = "~/Documents/Bank";
+    NSNavPanelExpandedSizeForOpenMode = "{716, 450}";
+    "NSWindow Frame BFEPreferences" = "392 481 235 150 0 0 1680 1025 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "482 431 716 450 0 0 1680 1025 ";
+    "NSWindow Frame SelectBluetoothDevice" = "348 244 584 452 0 0 1280 778 ";
+}

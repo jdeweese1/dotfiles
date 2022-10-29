@@ -1,0 +1,97 @@
+{
+    AssetSource = 0;
+    ExportMastersDirectory = "/Users/jaroddeweese/Library/Mobile Documents/com~apple~CloudDocs/Documents/photos";
+    GEOUsageSessionID = {length = 21, bytes = 0x08a6deadccf8f49aa79a0110bfcfb1f0ecdcc0f370};
+    GEOUsageSessionIDGenerationTime = "544146071.3923399";
+    IPXAdjustmentsExpandedIdentifiers =     {
+        RKCurvesOperation = 1;
+        RKLevelsOperation = 1;
+        SmartBlackAndWhite = 1;
+        SmartColor = 1;
+        SmartTone = 1;
+        WhiteBalance = 1;
+    };
+    IPXAdjustmentsHistogramVisible = 0;
+    IPXCurvesRangeDefault = 0;
+    IPXCurvesShowOverlay = 1;
+    IPXDefaultDidPromoteiCloudPhotosInGettingStarted = 1;
+    IPXDefaultHasBeenLaunched = 1;
+    IPXDefaultHasChosenToEnableiCloudPhotosInGettingStarted = 0;
+    IPXDefaultIsRestoringViewControllers = 0;
+    IPXDefaultLastSavedDirectoryForPhotoLibrary = "/Users/jaroddeweese/Pictures";
+    IPXDefaultLibraryURLBookmark = {length = 908, bytes = 0x626f6f6b 8c030000 00000410 30000000 ... ac010000 00000000 };
+    IPXDefaultShowLibraryChooserOnLaunch = 0;
+    IPXDefaultWorkspace = {length = 1563, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000521 };
+    "IPXExportFileNaingPreset_Masters" =     {
+        AlbumName = "";
+        CustomString = "";
+        FormatString = "%f";
+        Name = Untitled;
+        StartingCounterNumber = 1;
+    };
+    IPXExportIntoMomentsSubfolders = 0;
+    IPXExportMastersMetadataMode = 0;
+    IPXInfoPanelFrame = "{{584, -28}, {280, 326}}";
+    IPXLevelsOperationLastChannelTag = 4;
+    IPXPluginHostClearVisualizeConstraints = 1;
+    IPXSidebarAutohidden = 0;
+    IPXSidebarVisible2 = 1;
+    IPXWhatsNewSerialNumber = 3;
+    KHUserPreferredStoreCountryKey = US;
+    LastCuratedLibraryFirstTimeExperienceReadinessLogged = 1;
+    MemoriesFeedLastVisitTimestampKey = 544078800;
+    NSNavLastRootDirectory = "~/Downloads";
+    NSNavLastUserSetHideExtensionButtonState = 0;
+    NSNavPanelExpandedSizeForOpenMode = "{800, 450}";
+    NSPreferencesContentSize = "{588, 248}";
+    NSPreferencesSelectedIndex = 0;
+    NSScrollViewShouldScrollUnderTitlebar = 0;
+    "NSToolbar Configuration NSPreferences" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSViewControllerSupports10_10Features" = 1;
+    "NSWindow Frame IPXLibraryChooser" = "600 522 480 328 0 0 1680 1025 ";
+    "NSWindow Frame MainWindow" = "840 0 840 1025 0 0 1680 1025 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "-250 -250 800 450 0 0 1680 1025 ";
+    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "2504 421 425 137 1680 0 1920 1055 ";
+    "NSWindow Frame Preferences" = "551 554 588 327 0 0 1680 1025 ";
+    PXCPLServiceUILastUploadTime = "585354637.011732";
+    PXCPLUIStatusProviderLastUploadTime = "687654724.867674";
+    PXRootSettingsHideWIPAlerts = 0;
+    RawCameraSupportVersion = 7030;
+    RecentlyDeletedItemsConfirmed = 1;
+    SHAvailableCountries =     (
+        AT,
+        AU,
+        BE,
+        CA,
+        CH,
+        DE,
+        DK,
+        ES,
+        FI,
+        FR,
+        GB,
+        HK,
+        IE,
+        IT,
+        JP,
+        NL,
+        NO,
+        NZ,
+        SE,
+        SG,
+        US
+    );
+    allPhotosPreferredIndividualItemsColumns = 7;
+    curatedLibraryInitialNavigationVersion = 1;
+    curatedLibraryZoomLevel = 4;
+    kMajorVersionWhenWePresentedWhatsNewInPhotos = 10;
+    kMinorVersionWhenWePresentedWhatsNewInPhotos = 12;
+    oneClickSlideshowStyleID = "marimba://SlidingPanels";
+    useNULayers = 1;
+    userDefaultsPhotosGridVersion = 3;
+}

@@ -1,0 +1,8 @@
+{
+    MKMapMode = 4;
+    "NSWindow Frame MainSceneWindow" = "0 0 1680 1025 0 0 1680 1025 ";
+    "coarseServiceAcknowledged_v1.0" = 0;
+    "onboarding_v1.1" = 1;
+    "onboarding_v2.0" = 1;
+    restoreState = people;
+}

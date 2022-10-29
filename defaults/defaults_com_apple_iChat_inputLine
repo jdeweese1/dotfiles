@@ -1,0 +1,14 @@
+{
+    inputLineSettingsKey =     {
+        automaticDashSubstitutionEnabled = 0;
+        automaticDataDetectionEnabled = 0;
+        automaticEmojiSubstitutionEnabled = 1;
+        automaticLinkDetectionEnabled = 0;
+        automaticQuoteSubstitutionEnabled = 1;
+        automaticSpellingCorrectionEnabled = 1;
+        automaticTextReplacementEnabled = 1;
+        continuousSpellCheckingEnabled = 1;
+        grammarCheckingEnabled = 0;
+        smartInsertDeleteEnabled = 1;
+    };
+}

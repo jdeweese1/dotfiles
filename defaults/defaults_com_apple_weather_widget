@@ -1,0 +1,6 @@
+{
+    wdsCacheCleanupState =     {
+        "com.apple.weather.widget" = 1;
+    };
+    widgetDiskCacheCleanupState = 1;
+}

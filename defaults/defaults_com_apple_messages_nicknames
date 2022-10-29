@@ -1,0 +1,11 @@
+{
+    MeCardPendingNicknamesVersion = 87;
+    MeCardSharingAudience = 1;
+    MeCardSharingEnabled = 0;
+    MeCardSharingImageForkedFromMeCard = 0;
+    MeCardWhitelistBlacklistNicknamesVersion = 2;
+    NicknameAppleIDAndiCloudAccountMatchAndExist = 1;
+    NicknameInfoRequestedFromPeers = 1;
+    NicknameScrutinyDoNotHandle = 0;
+    ReuploadLocalNicknamesVersion = 1;
+}

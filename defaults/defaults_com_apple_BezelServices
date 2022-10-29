@@ -1,0 +1,11 @@
+{
+    BatteryHistory =     {
+        "c4-2c-03-a3-a3-f1" = 20;
+        "e8-06-88-3e-c3-25" = 54;
+    };
+    afActionHistory =     {
+        "c4-2c-03-a3-a3-f1.AppleBluetoothMultitouch.BNBMouseDevice.LowBattery" =         {
+            afTimestamp = "2018-03-02 18:44:42 +0000";
+        };
+    };
+}

@@ -1,0 +1,6 @@
+{
+    AddressDisplayMode = 0;
+    AlertForNonmatchingDomains = 0;
+    DisableURLLoading = 0;
+    ExpandPrivateAliases = 0;
+}

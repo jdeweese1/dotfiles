@@ -1,0 +1,26 @@
+{
+    IMAVPlayerHasStoredVolumeDefaultKey = 1;
+    IMAVPlayerPlaybackSpeedUserDefaultKey = 0;
+    IMAVPlayerVolumeUserDefaultKey = "0.5387561";
+    IMMetricsDeviceToken = "B8BC5DA7-13BC-4FD0-9A98-AE355160C702";
+    "MTCoreSpotlightDataHasBeenIndexed_v2" = 1;
+    MTExternalCookiesHaveBeenPurged = 1;
+    MTLibrarySyncIsDirty = 1;
+    MTLibraryUppLastSyncTime = "627063382.519955";
+    MTPodcastAutoDownloadStateDefaultKey = 0;
+    MTPodcastDeletePlayedEpisodesDefaultKey = 1;
+    MTPodcastEpisodeLimitDefaultKey = 0;
+    MTPodcastUpdateIntervalDefault = 2;
+    MTSyncSubscriptions = 0;
+    MigrationAttemptVersion = "1.0";
+    "NSWindow Frame MainSceneWindow" = "-1591 317 1380 1027 -1920 317 1920 1057 ";
+    SSAccountIdentifier = 1996309056;
+    "com.apple.podcasts.syncAnchor-SyncToApp" = {length = 420, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000144 };
+    kMTAllPodcastsLastUpdatedDate = "626110607.930904";
+    kMTPodcastsDomainVersionKey = 795;
+    kMTSyncControllerResettingToInitialState = 0;
+    kMTUPPTransitionContextUPPDomainVersionKey = 791;
+    mostRecentTabIdentifier = search;
+    "playState:http://feeds.soundcloud.com/users/soundcloud:users:39506474/sounds.rss" = 11;
+    "playState:https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/cd414f92-9493-4cb9-8118-ab050189d61c/0ea3ce14-a105-487b-b68d-ab050189d62a/podcast.rss" = 4;
+}

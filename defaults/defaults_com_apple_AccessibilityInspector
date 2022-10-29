@@ -1,0 +1,22 @@
+{
+    DTDKLastLSRegisterHashes =     {
+        "/System/Library/CoreServices/CoreTypes.bundle" = {length = 20, bytes = 0x89f0130971d7699aeff2be38fa57fe1e0264f7ac};
+        "/System/Library/CoreServices/CoreTypes.bundle/Contents/Library/MobileDevices.bundle" = {length = 20, bytes = 0x793b3f31295f339a35c0b1c76a49f8f745b6600b};
+    };
+    "NSWindow Frame MainWindow" = "647 35 586 510 0 0 1280 778 ";
+    XCFontAndColorCurrentTheme = "Default.xccolortheme";
+    disclosedSectionIdentifiers =     (
+        "OSX_Basic_v1",
+        "OSX_Basic_v2",
+        "iOS_Basic_v1",
+        "iOS_Basic_v2",
+        "watchOS_Basic_v1",
+        "watchOS_Basic_v2",
+        "ATV_Basic_v1",
+        "ATV_Basic_v2",
+        "OSX_Advanced_v1",
+        "OSX_Element_v1",
+        "OSX_Hierarchy_v1",
+        "OSX_Actions_v1"
+    );
+}

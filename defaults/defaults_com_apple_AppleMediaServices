@@ -1,0 +1,34 @@
+{
+    AMSCloudKitRecordZoneChangeTokens =     {
+        "private:IdentifierZone" = {length = 292, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ec };
+    };
+    AMSDeviceBiometricsState = 1;
+    AMSFPCertExpiration = "2022-10-29 01:55:28 +0000";
+    AMSIncludeFullRequestInHARLogging = 0;
+    AMSIncludeFullResponseInHARLogging = 0;
+    AMSLastMigratedBuildVersion = 21G115;
+    AMSLogHARData = 0;
+    AMSMediaTokens =     {
+        "com.apple.AppleMediaServices" = {length = 559, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001c3 };
+        "com.apple.amp.journeys" = {length = 559, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001c3 };
+        "com.apple.iBooksX" = {length = 559, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001c3 };
+        "com.apple.storekit.prod" = {length = 559, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001c3 };
+    };
+    AMSMigratedStorageToDefaultsForNonAMSInternal = 1;
+    AMSMigratedToNewAccountStore = 1;
+    "AMSSamplingSession-TLSSessionTickets" =     {
+        date = "2022-08-25 20:51:01 +0000";
+        duration = 1800;
+        result = 1;
+    };
+    "AMSSamplingSession-xp_amp_appstore_log:qJO7Vty2LO98sz+eud1os9HfnMs" =     {
+        date = "2022-07-10 21:23:07 +0000";
+        duration = 60000;
+        result = 0;
+    };
+    AMSStorefrontSuffixes =     {
+        "com.apple.TV" = " t:tv1";
+    };
+    AMSUserDefaultsIncludeFullRequestInHARLogging = 0;
+    AMSUserDefaultsincludeFullResponseInHARLogging = 0;
+}

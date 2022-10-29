@@ -1,0 +1,5 @@
+{
+    ATSAutoActivationAppSpecific =     {
+        "org.mozilla.firefox" = ATSAutoActivationDisable;
+    };
+}

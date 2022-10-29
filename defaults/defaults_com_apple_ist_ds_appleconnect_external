@@ -1,0 +1,5 @@
+{
+    "ACMDSKeyVersionKey-APPLECONNECT.APPLE.COM" = "1.0";
+    "DSPublicKey-APPLECONNECT.APPLE.COM" = {length = 922, bytes = 0x30820396 3082027e a0030201 02020838 ... 10754e9e 6b2f56b9 };
+    "PublicKeyCertificateNameKey-APPLECONNECT.APPLE.COM" = "deviceid.apple.com";
+}

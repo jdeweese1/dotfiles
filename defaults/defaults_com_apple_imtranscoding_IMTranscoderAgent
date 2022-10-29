@@ -1,0 +1,117 @@
+{
+    kCKMediaObjectManagerDefaultsClasses =     (
+        CKPassPreviewMediaObject,
+        CKWatchfaceMediaObject,
+        CKMovieMediaObject,
+        CKAudioMediaObject,
+        CKAVMediaObject,
+        CKAnimatedEmojiMediaObject,
+        CKAnimatedImageMediaObject,
+        CKImageMediaObject,
+        CKLocationMediaObject,
+        CKContactMediaObject,
+        CKCalendarMediaObject,
+        CKQuickLookThumbnailMediaObject,
+        CKMediaObject
+    );
+    kCKMediaObjectManagerDefaultsDynTypes =     {
+        "emoji.gif" = "dyn.ah62d425try1gg55rsb41g3pws3ww635mq27dctpfrz10y4msq7y0q";
+        "loc.vcf" = "dyn.ah62d46dzqm0gw23ss3v0c6xehk2x45dtqq1hq25g";
+    };
+    kCKMediaObjectManagerDefaultsOSVersion = 21F79;
+    kCKMediaObjectManagerDefaultsUTITypes =     {
+        "com.adobe.raw-image" = CKImageMediaObject;
+        "com.apple.atx" = CKImageMediaObject;
+        "com.apple.coreaudio-format" = CKAudioMediaObject;
+        "com.apple.finder.node" = CKAVMediaObject;
+        "com.apple.ical.ics" = CKCalendarMediaObject;
+        "com.apple.ical.vcs" = CKCalendarMediaObject;
+        "com.apple.m4a-audio" = CKAudioMediaObject;
+        "com.apple.m4v-video" = CKMovieMediaObject;
+        "com.apple.messages.maputi" = CKLocationMediaObject;
+        "com.apple.mpeg-4-ringtone" = CKAudioMediaObject;
+        "com.apple.music.mp2" = CKAudioMediaObject;
+        "com.apple.pkpass" = CKPassPreviewMediaObject;
+        "com.apple.protected-mpeg-4-audio" = CKAudioMediaObject;
+        "com.apple.protected-mpeg-4-audio-b" = CKAudioMediaObject;
+        "com.apple.quicktime-movie" = CKMovieMediaObject;
+        "com.apple.reality" = CKQuickLookThumbnailMediaObject;
+        "com.apple.watchface" = CKWatchfaceMediaObject;
+        "com.audible.aa-audiobook" = CKAudioMediaObject;
+        "com.audible.aax-audiobook" = CKAudioMediaObject;
+        "com.canon.cr2-raw-image" = CKImageMediaObject;
+        "com.canon.crw-raw-image" = CKImageMediaObject;
+        "com.canon.tif-raw-image" = CKImageMediaObject;
+        "com.compuserve.gif" = CKAnimatedImageMediaObject;
+        "com.dxo.raw-image" = CKImageMediaObject;
+        "com.epson.raw-image" = CKImageMediaObject;
+        "com.fuji.raw-image" = CKImageMediaObject;
+        "com.hasselblad.3fr-raw-image" = CKImageMediaObject;
+        "com.hasselblad.fff-raw-image" = CKImageMediaObject;
+        "com.kodak.raw-image" = CKImageMediaObject;
+        "com.konicaminolta.raw-image" = CKImageMediaObject;
+        "com.leafamerica.raw-image" = CKImageMediaObject;
+        "com.leica.raw-image" = CKImageMediaObject;
+        "com.leica.rwl-raw-image" = CKImageMediaObject;
+        "com.microsoft.bmp" = CKImageMediaObject;
+        "com.microsoft.waveform-audio" = CKAudioMediaObject;
+        "com.nikon.nrw-raw-image" = CKImageMediaObject;
+        "com.nikon.raw-image" = CKImageMediaObject;
+        "com.olympus.or-raw-image" = CKImageMediaObject;
+        "com.olympus.raw-image" = CKImageMediaObject;
+        "com.olympus.sr-raw-image" = CKImageMediaObject;
+        "com.panasonic.raw-image" = CKImageMediaObject;
+        "com.panasonic.rw2-raw-image" = CKImageMediaObject;
+        "com.pentax.raw-image" = CKImageMediaObject;
+        "com.phaseone.raw-image" = CKImageMediaObject;
+        "com.pixar.universal-scene-description-mobile" = CKQuickLookThumbnailMediaObject;
+        "com.samsung.raw-image" = CKImageMediaObject;
+        "com.sony.arw-raw-image" = CKImageMediaObject;
+        "com.sony.raw-image" = CKImageMediaObject;
+        "com.sony.sr2-raw-image" = CKImageMediaObject;
+        "com.sony.wave64" = CKAudioMediaObject;
+        "dyn.ah62d425try1gg55rsb41g3pws3ww635mq27dctpfrz10y4msq7y0q" = CKAnimatedEmojiMediaObject;
+        "dyn.ah62d46dzqm0gw23ss3v0c6xehk2x45dtqq1hq25g" = CKLocationMediaObject;
+        "io.iina.mpeg-audio" = CKAudioMediaObject;
+        "io.iina.mpeg-stream" = CKMovieMediaObject;
+        "io.iina.vob" = CKMovieMediaObject;
+        "org.3gpp.adaptive-multi-rate-audio" = CKAudioMediaObject;
+        "org.khronos.astc" = CKImageMediaObject;
+        "org.khronos.ktx" = CKImageMediaObject;
+        "org.videolan.mod" = CKAudioMediaObject;
+        "org.videolan.mpeg-stream" = CKMovieMediaObject;
+        "org.videolan.vob" = CKMovieMediaObject;
+        "org.webmproject.webp" = CKAnimatedImageMediaObject;
+        "org.xiph.flac" = CKAudioMediaObject;
+        "public.3gpp" = CKMovieMediaObject;
+        "public.3gpp2" = CKMovieMediaObject;
+        "public.aac-audio" = CKAudioMediaObject;
+        "public.ac3-audio" = CKAudioMediaObject;
+        "public.aifc-audio" = CKAudioMediaObject;
+        "public.aiff-audio" = CKAudioMediaObject;
+        "public.au-audio" = CKAudioMediaObject;
+        "public.avchd-mpeg-2-transport-stream" = CKMovieMediaObject;
+        "public.avci" = CKImageMediaObject;
+        "public.avi" = CKMovieMediaObject;
+        "public.dv-movie" = CKMovieMediaObject;
+        "public.enhanced-ac3-audio" = CKAudioMediaObject;
+        "public.heic" = CKAnimatedImageMediaObject;
+        "public.heics" = CKAnimatedImageMediaObject;
+        "public.heif" = CKAnimatedImageMediaObject;
+        "public.heif-standard" = CKAnimatedImageMediaObject;
+        "public.jpeg" = CKImageMediaObject;
+        "public.jpeg-2000" = CKImageMediaObject;
+        "public.mp2" = CKAudioMediaObject;
+        "public.mp3" = CKAudioMediaObject;
+        "public.mp4a-loas" = CKAudioMediaObject;
+        "public.mpeg" = CKMovieMediaObject;
+        "public.mpeg-2-transport-stream" = CKMovieMediaObject;
+        "public.mpeg-2-video" = CKMovieMediaObject;
+        "public.mpeg-4" = CKMovieMediaObject;
+        "public.mpeg-4-audio" = CKAudioMediaObject;
+        "public.mpo-image" = CKImageMediaObject;
+        "public.png" = CKAnimatedImageMediaObject;
+        "public.tiff" = CKImageMediaObject;
+        "public.vcard" = CKContactMediaObject;
+    };
+}

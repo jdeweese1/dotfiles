@@ -1,0 +1,37 @@
+{
+    LastPreferencesIdentifier = SEGeneralPreferences;
+    NSNavLastRootDirectory = "/Applications";
+    NSNavLastUserSetHideExtensionButtonState = 0;
+    NSNavPanelExpandedSizeForOpenMode = "{799, 450}";
+    NSNavPanelExpandedSizeForSaveMode = "{744, 582}";
+    NSNavPanelExpandedStateForSaveMode = 1;
+    "NSToolbar Configuration Document Toolbar Identifier" =     {
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration Event Log Toolbar Identifier" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration OSADictionaryToolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration Preferences Toolbar Identifier" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSWindow Frame NSFontPanel" = "769 110 445 237 0 0 1280 778 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "4396 818 328 348 0 0 1680 1025 ";
+    "NSWindow Frame SEEventLogWindow" = "4210 485 700 372 3600 391 1920 1055 ";
+    "NSWindow Frame SEPreferencesWindow" = "327 264 431 295 0 0 1280 778 ";
+    "OSAStandardAdditions ChooseApplication Bounds" = "300 233 680 467 0 0 1280 778 ";
+}

@@ -1,0 +1,21 @@
+{
+    Black = Computer;
+    City = "?";
+    Country = "?";
+    Event = "Casual Game";
+    MBCBoardAngle = 60;
+    MBCBoardSpin = 180;
+    MBCBoardStyle = Wood;
+    MBCDefaultVoice = "";
+    MBCListenForMoves = 0;
+    MBCPieceStyle = Wood;
+    MBCSearchTime = "-1";
+    MBCSpeakMoves = 0;
+    "NSWindow Frame MBCMainWindowFrame" = "46 76 971 702 0 0 1280 778 ";
+    "NSWindow Frame MBCPrefWindowFrame" = "241 486 575 285 0 0 1280 778 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "296 465 465 263 0 0 1280 777 ";
+    Result = "*";
+    StartDate = "2017.10.16";
+    StartTime = "09:23:11";
+    White = "Jarod DeWeese";
+}

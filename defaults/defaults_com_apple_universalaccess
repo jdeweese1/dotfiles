@@ -1,0 +1,108 @@
+{
+    AssistiveControlType = 0;
+    axShortcutExposedFeatures =     {
+        "feature.alternateMouseButtons" = 0;
+        "feature.displayFilters" = 0;
+        "feature.fullKeyboardAccess" = 0;
+        "feature.headMouse" = 0;
+        "feature.increaseContrast" = 0;
+        "feature.invertDisplayColor" = 1;
+        "feature.mouseKeys" = 1;
+        "feature.reduceTransparency" = 0;
+        "feature.slowKeys" = 1;
+        "feature.stickyKeys" = 0;
+        "feature.switchControl" = 0;
+        "feature.virtualKeyboard" = 0;
+        "feature.voiceOver" = 0;
+        "feature.zoom" = 0;
+    };
+    closeViewDFRZoomEnabled = 0;
+    closeViewDFRZoomLevel = 2;
+    closeViewDesiredZoomFactor = "1.1";
+    closeViewHotkeysEnabled = 0;
+    closeViewHotkeysPreviouslyEnabled = 1;
+    closeViewScrollWheelPreviousToggle = 0;
+    closeViewSmoothImages = 1;
+    closeViewSplitScreenRatio = "0.2";
+    closeViewWindowPosition = {length = 16, bytes = 0x00000000d80b88400000000010a67640};
+    closeViewZoomDisplayID = 0;
+    closeViewZoomFactor = 1;
+    closeViewZoomFactorBeforeTermination = 1;
+    closeViewZoomMode = 0;
+    closeViewZoomedIn = 0;
+    "com.apple.custommenu.apps" =     (
+        NSGlobalDomain,
+        "com.apple.iChat"
+    );
+    contrast = 0;
+    differentiateWithoutColor = 0;
+    dwellHideUITimeout = 15;
+    grayscale = 0;
+    hoverTextEnabled = 0;
+    hudNotifiedConstrast = 0;
+    increaseContrast = 0;
+    keyboardAccessFocusRingTimeout = 15;
+    lastNightShiftActive = 1;
+    lastNightShiftDate = 20180405;
+    lastNightShiftEnabled = 0;
+    lastNightShiftMode = 1;
+    login = 0;
+    mouseDriver = 0;
+    mouseDriverCursorSize = 1;
+    mouseDriverInitialDelay = "0.75";
+    mouseDriverMaxSpeed = 32;
+    reduceMotion = 0;
+    reduceTransparency = 0;
+    selectedTab = 20;
+    sessionChange = 0;
+    slowKey = 0;
+    slowKeyDelay = 250;
+    speakItemUnderMouseAfterDelayMode = 0;
+    stereoAsMono = 0;
+    stickyKey = 0;
+    stickyKeysLocation = 0;
+    switchAutoScanElementInterval = "0.5";
+    switchAutoScanPanelInterval = "0.5";
+    switchCoalescePressesDuration = 0;
+    switchFirstElementDelay = 0;
+    switchHideUITimeout = 15;
+    switchHoldBeforeRepeatDuration = 3;
+    switchInputs =     {
+        switchSelectAction =         (
+                        {
+                switchActions =                 (
+                    2
+                );
+                switchHIDBuiltIn = switchHIDFieldIsEmpty;
+                switchHIDHidKind = switchHIDFieldIsEmpty;
+                switchHIDInterfaceID = switchHIDFieldIsEmpty;
+                switchHIDLocationID = 337641472;
+                switchHIDManufacturer = "MOSART Semi.";
+                switchHIDPrimaryUsage = switchHIDFieldIsEmpty;
+                switchHIDPrimaryUsagePage = switchHIDFieldIsEmpty;
+                switchHIDProductID = 22808;
+                switchHIDProductName = "2.4G Keyboard Mouse";
+                switchHIDSerialNumber = switchHIDFieldIsEmpty;
+                switchHIDServiceID = 4294971108;
+                switchHIDSubInterfaceID = switchHIDFieldIsEmpty;
+                switchHIDTransport = USB;
+                switchHIDVendorID = 1578;
+                switchHIDVendorIDSource = 0;
+                switchNickname = "Space Input";
+                switchPressHoldOption = 1;
+                switchTriggerType = 3;
+                switchUUID = "0984E534-6EB8-4F87-A352-2B7AA5FDB18F";
+                switchValue = 3;
+            }
+        );
+    };
+    switchMinimumPressDuration = 0;
+    switchOnOffKey = 0;
+    switchPlaySounds = 0;
+    switchSpeakSelectedElement = 0;
+    switchSweepingCursorSpeed = 5;
+    useMouseKeysShortcutKeys = 0;
+    useStickyKeysShortcutKeys = 0;
+    voiceOverOnOffKey = 0;
+    whiteOnBlack = 0;
+}

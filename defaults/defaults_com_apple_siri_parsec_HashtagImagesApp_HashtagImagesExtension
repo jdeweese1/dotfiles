@@ -1,0 +1,20 @@
+{
+    LegalNoticeCount = 3;
+    STSRecentQueries =     (
+        "jennifer aniston",
+        "youre lucky youre cute",
+        "youre lucky youre cut"
+    );
+    STSRecentResults1 =     (
+                {
+            "app-provider-name" = "GIF Keyboard";
+            "desc-provider-name" = "";
+            id = "image_search:https://media.tenor.com/images/6b3988c79cfb342976132c17a5058266/tenor.gif";
+            "meta-hostpage-url" = "https://media.tenor.com/images/6b3988c79cfb342976132c17a5058266/tenor.gif";
+            "result-type" = "image_search";
+            "store-identifier" = 917932200;
+            "thumbnail-url" = "https://cdn2.smoot.apple.com/image?.sig=dqxcu1sh795SgYJfnhB1Yw%3D%3D&domain=image_search&image_url=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F6b3988c79cfb342976132c17a5058266%2Ftenor.gif%2F1xPTS_10fps.mp4&spec=180-180-NC-0";
+            url = "https://media.tenor.com/images/6b3988c79cfb342976132c17a5058266/tenor.gif";
+        }
+    );
+}

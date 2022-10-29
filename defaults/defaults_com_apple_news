@@ -1,0 +1,37 @@
+{
+    FCAppConfigurationBundleShortVersionKey = "5.2";
+    FCRemoteDefaults =     {
+        ContainerEnvironments =         {
+            production = sandbox;
+            staging = sandbox;
+        };
+        iOSUpdateInfo =         {
+            MinimumApplicationVersion = "0.9";
+            MinimumOSVersion = "8.0";
+            UnsupportedDevices =             (
+                "iPhone3,1",
+                "iPhone3,2",
+                "iPhone3,3"
+            );
+        };
+    };
+    FCRemoteDefaultsETag = "\\"280-5222c71297100\\"";
+    FCRemoteDefaultsLastUpdate = "2019-02-05 03:00:33 +0000";
+    FCSubscriptionControllerNotificationChannelsLastUpdateDateKey = "2019-02-05 03:00:37 +0000";
+    FRAdSegmentsMonitorLastUpdateDateKey = "2019-02-05 03:00:37 +0000";
+    FRMostRecentFeedIdentifierKey = "feed-FCSubscribedTopStories";
+    NSAllowsDefaultLineBreakStrategy = 1;
+    "NSWindow Frame MainSceneWindow" = "0 102 1080 925 0 0 1680 1027 ";
+    "email_sign_up_app_launch_current_count" = 0;
+    hasLaunchedBefore = 1;
+    "has_passed_new_user_state" = 1;
+    "has_user_been_presubscribed" = 1;
+    lastActivationDate = "2019-12-15 22:23:59 +0000";
+    lastBackgroundFetchDate = "2019-12-29 10:24:12 +0000";
+    "news.startup.delete_web_browsing_data" = 0;
+    "onboarding_completed" = 1;
+    "primary_language" = en;
+    "should_clear_cache_on_next_launch" = 0;
+    stateRestoreLastBackgroundDate = "2019-02-05 03:00:37 +0000";
+    stateRestoreSaveDate = "2019-02-05 03:00:37 +0000";
+}

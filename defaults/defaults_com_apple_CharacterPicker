@@ -1,0 +1,191 @@
+{
+    CPKRecentsMigrated = 1;
+    CVFavoritesConverted = 1;
+    CVGlobalEmojiDiversityDescribed = 1;
+    CVRecentsConverted = 1;
+    "Favorites:com.apple.CharacterPicker.DefaultDataStorage" =     (
+        "com.apple.cpk:{\\"char\\":\\"\\U2325\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\Uf8ff\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\U2190\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\U2191\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\U2192\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\U21e7\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\U2318\\"}",
+        "{\\"version\\":\\"1\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\U2203\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\U2200\\"}"
+    );
+    "Recents:com.apple.CharacterPicker.DefaultDataStorage" =     (
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Udc4d\\Ud83c\\Udffd\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude00\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\U2193\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\U2191\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\U2325\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Udca9\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83c\\Uddfa\\Ud83c\\Uddf8\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83c\\Udfb1\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83e\\Udd23\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83e\\Udd37\\U200d\\U2640\\Ufe0f\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83e\\Udd37\\U200d\\U2642\\Ufe0f\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83e\\Udd13\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\U2192\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83c\\Uddf0\\Ud83c\\Udded\\"}",
+        "com.apple.cpk:{\\"char\\":\\"\\Ud83c\\Udc1e\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Udc69\\Ud83c\\Udfff\\U200d\\Ud83c\\Udf3e\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude07\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83e\\Udd21\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83c\\Udf2d\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83c\\Udf55\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83c\\Udf89\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\U2639\\Ufe0f\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83c\\Udf0e\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Udc36\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude02\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\U26be\\Ufe0f\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Udd2a\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83c\\Udf82\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83c\\Udfc0\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude2d\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude14\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83e\\Udd83\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83c\\Udf57\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude01\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83c\\Udf70\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Uddfc\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude0e\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude19\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude23\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude22\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude29\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude21\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Ude16\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Udc7d\\"}",
+        "com.apple.cpk:{\\"font\\":\\"AppleColorEmoji\\",\\"char\\":\\"\\Ud83d\\Udc80\\"}",
+        "{\\"version\\":\\"1\\"}"
+    );
+    "SkinTones:com.apple.CharacterPicker.DefaultDataStorage" =     {
+        version = 1;
+        "\\Ud83d\\Udc4d" = "\\Ud83d\\Udc4d\\Ud83c\\Udffd";
+        "\\Ud83d\\Udc69\\U200d\\Ud83c\\Udf3e" = "\\Ud83d\\Udc69\\Ud83c\\Udfff\\U200d\\Ud83c\\Udf3e";
+        "\\Ud83e\\Udd37\\U200d\\U2640\\Ufe0f" = "\\Ud83e\\Udd37\\U200d\\U2640\\Ufe0f";
+        "\\Ud83e\\Udd37\\U200d\\U2642\\Ufe0f" = "\\Ud83e\\Udd37\\U200d\\U2642\\Ufe0f";
+    };
+    "State:com.apple.CharacterPaletteIM" =     {
+        categories =         {
+            scrollPos = 0;
+            selectedIndex = 0;
+        };
+        characters =         {
+            scrollPos = 0;
+        };
+    };
+    "State:com.apple.MobileSMS" =     {
+        categories =         {
+            selectedIndex = 0;
+        };
+        characters =         {
+            scrollPos = 36;
+            sectionFonts =             {
+                0 =                 {
+                    characterFont =                     {
+                        "\\U2705" = AppleColorEmoji;
+                        "\\U270a\\Ud83c\\Udfff" = AppleColorEmoji;
+                        "\\U2764\\Ufe0f" = AppleColorEmoji;
+                        "\\Ud83c\\Udf83" = AppleColorEmoji;
+                        "\\Ud83c\\Udf89" = AppleColorEmoji;
+                        "\\Ud83c\\Udf8a" = AppleColorEmoji;
+                        "\\Ud83c\\Udff3\\Ufe0f\\U200d\\Ud83c\\Udf08" = AppleColorEmoji;
+                        "\\Ud83d\\Udc40" = AppleColorEmoji;
+                        "\\Ud83d\\Udc4d" = AppleColorEmoji;
+                        "\\Ud83d\\Udc4f" = AppleColorEmoji;
+                        "\\Ud83d\\Udc71\\Ud83c\\Udffc\\U200d\\U2642\\Ufe0f" = AppleColorEmoji;
+                        "\\Ud83d\\Udc80" = AppleColorEmoji;
+                        "\\Ud83d\\Ude00" = AppleColorEmoji;
+                        "\\Ud83d\\Ude02" = AppleColorEmoji;
+                        "\\Ud83d\\Ude03" = AppleColorEmoji;
+                        "\\Ud83d\\Ude05" = AppleColorEmoji;
+                        "\\Ud83d\\Ude09" = AppleColorEmoji;
+                        "\\Ud83d\\Ude0d" = AppleColorEmoji;
+                        "\\Ud83d\\Ude18" = AppleColorEmoji;
+                        "\\Ud83d\\Ude1b" = AppleColorEmoji;
+                        "\\Ud83d\\Ude1c" = AppleColorEmoji;
+                        "\\Ud83d\\Ude21" = AppleColorEmoji;
+                        "\\Ud83d\\Ude41" = AppleColorEmoji;
+                        "\\Ud83d\\Ude42" = AppleColorEmoji;
+                        "\\Ud83d\\Ude4f\\Ud83c\\Udffb" = AppleColorEmoji;
+                        "\\Ud83d\\Ude8f" = AppleColorEmoji;
+                        "\\Ud83e\\Udd1d" = AppleColorEmoji;
+                        "\\Ud83e\\Udd23" = AppleColorEmoji;
+                        "\\Ud83e\\Udd2a" = AppleColorEmoji;
+                        "\\Ud83e\\Udd73" = AppleColorEmoji;
+                        "\\Ud83e\\Uddbf" = AppleColorEmoji;
+                        "\\Ud83e\\Uded6" = AppleColorEmoji;
+                    };
+                    fontNames =                     (
+                        "*",
+                        AppleColorEmoji
+                    );
+                };
+                version = 2;
+            };
+            selectedIndex = 9223372036854775807;
+            selectedSection = 9223372036854775807;
+        };
+    };
+    "State:com.apple.iChat" =     {
+        categories =         {
+            selectedIndex = 1;
+        };
+        characters =         {
+            scrollPos = 581;
+            sectionFonts =             {
+                0 =                 {
+                    characterFont =                     {
+                        "\\U2705" = AppleColorEmoji;
+                        "\\U2764\\Ufe0f" = AppleColorEmoji;
+                        "\\Ud83c\\Udf89" = AppleColorEmoji;
+                        "\\Ud83c\\Udf8a" = AppleColorEmoji;
+                        "\\Ud83c\\Udff3\\Ufe0f\\U200d\\Ud83c\\Udf08" = AppleColorEmoji;
+                        "\\Ud83d\\Udc40" = AppleColorEmoji;
+                        "\\Ud83d\\Udc4d" = AppleColorEmoji;
+                        "\\Ud83d\\Ude00" = AppleColorEmoji;
+                        "\\Ud83d\\Ude02" = AppleColorEmoji;
+                        "\\Ud83d\\Ude03" = AppleColorEmoji;
+                        "\\Ud83d\\Ude05" = AppleColorEmoji;
+                        "\\Ud83d\\Ude0d" = AppleColorEmoji;
+                        "\\Ud83d\\Ude4f\\Ud83c\\Udffb" = AppleColorEmoji;
+                        "\\Ud83e\\Udd1d" = AppleColorEmoji;
+                        "\\Ud83e\\Udd23" = AppleColorEmoji;
+                        "\\Ud83e\\Udd73" = AppleColorEmoji;
+                    };
+                    fontNames =                     (
+                        "*",
+                        AppleColorEmoji
+                    );
+                };
+                1 =                 {
+                    characterFont =                     {
+                        "\\U2190" = LucidaGrande;
+                        "\\U2191" = LucidaGrande;
+                        "\\U2192" = LucidaGrande;
+                        "\\U21e7" = LucidaGrande;
+                        "\\U2200" = AppleSymbols;
+                        "\\U2203" = AppleSymbols;
+                        "\\U2318" = LucidaGrande;
+                        "\\U2325" = LucidaGrande;
+                        "\\Uf8ff" = "*";
+                    };
+                    fontNames =                     (
+                        "*",
+                        LucidaGrande,
+                        AppleSymbols
+                    );
+                };
+                version = 2;
+            };
+            selectedIndex = 9223372036854775807;
+            selectedSection = 9223372036854775807;
+        };
+    };
+    version = 1;
+}

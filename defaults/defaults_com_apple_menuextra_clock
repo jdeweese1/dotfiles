@@ -1,0 +1,7 @@
+{
+    DateFormat = "h:mm a";
+    FlashDateSeparators = 0;
+    IsAnalog = 0;
+    ShowDate = 2;
+    ShowDayOfWeek = 0;
+}

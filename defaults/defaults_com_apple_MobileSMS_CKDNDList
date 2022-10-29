@@ -1,0 +1,8 @@
+{
+    CKDNDListKey =     {
+        704BCB6CE73EE95387718AC16DF5C88B48DBEF3E = 64092211200;
+        "B43E6744-4FF5-4DC3-9678-010EF28B7712" = 64092211200;
+    };
+    CKDNDMigrationKey = 2;
+    CatalystDNDMigrationVersion = 2;
+}

@@ -1,0 +1,96 @@
+{
+    "dashboard-enabled-state" = 3;
+    "db-enabled-state" = 1;
+    "layer-gadgets" =     (
+                {
+            32bit = 0;
+            id = 0000000000000004;
+            "in-layer" = 1;
+            path = "/Library/Widgets/Weather.wdgt";
+            "percent-offset-x" = 0;
+            "percent-offset-y" = 0;
+            "percent-type" = 2;
+            "percent-x" = "0.0953125";
+            "percent-y" = "0.02";
+            "pos-x" = 874;
+            "pos-y" = 20;
+            relativepath = "/Library/Widgets/Weather.wdgt";
+            "separate-process" = 0;
+        },
+                {
+            32bit = 0;
+            id = 0000000000000001;
+            "in-layer" = 1;
+            path = "/Library/Widgets/Calculator.wdgt";
+            "percent-offset-x" = 0;
+            "percent-offset-y" = 0;
+            "percent-type" = 0;
+            "percent-x" = 0;
+            "percent-y" = 0;
+            "pos-x" = 265;
+            "pos-y" = 248;
+            relativepath = "/Library/Widgets/Calculator.wdgt";
+            "separate-process" = 0;
+        },
+                {
+            32bit = 0;
+            id = fb753f8bdb9fbf41;
+            "in-layer" = 1;
+            path = "/Library/Widgets/Tile Game.wdgt";
+            "percent-offset-x" = 0;
+            "percent-offset-y" = 0;
+            "percent-type" = 2;
+            "percent-x" = "0.4039063";
+            "percent-y" = "0.2275";
+            "pos-x" = 591;
+            "pos-y" = 182;
+            relativepath = "/Library/Widgets/Tile Game.wdgt";
+            "separate-process" = 0;
+        },
+                {
+            32bit = 0;
+            id = 0000000000000002;
+            "in-layer" = 1;
+            path = "/Library/Widgets/World Clock.wdgt";
+            "percent-offset-x" = 0;
+            "percent-offset-y" = 0;
+            "percent-type" = 0;
+            "percent-x" = 0;
+            "percent-y" = 0;
+            "pos-x" = 844;
+            "pos-y" = 276;
+            relativepath = "/Library/Widgets/World Clock.wdgt";
+            "separate-process" = 0;
+        },
+                {
+            32bit = 0;
+            id = 0000000000000003;
+            "in-layer" = 1;
+            path = "/Library/Widgets/Calendar.wdgt";
+            "percent-offset-x" = 0;
+            "percent-offset-y" = 0;
+            "percent-type" = 0;
+            "percent-x" = 0;
+            "percent-y" = 0;
+            "pos-x" = 475;
+            "pos-y" = 411;
+            relativepath = "/Library/Widgets/Calendar.wdgt";
+            "separate-process" = 0;
+        },
+                {
+            32bit = 1;
+            id = b77d773adb9fbf41;
+            "in-layer" = 1;
+            path = "/Library/Widgets/Contacts.wdgt";
+            "percent-offset-x" = 0;
+            "percent-offset-y" = 0;
+            "percent-type" = 1;
+            "percent-x" = "0.3867188";
+            "percent-y" = "0.0925";
+            "pos-x" = 495;
+            "pos-y" = 74;
+            relativepath = "/Library/Widgets/Contacts.wdgt";
+            "separate-process" = 0;
+        }
+    );
+}

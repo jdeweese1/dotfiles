@@ -1,0 +1,7 @@
+{
+    displayOrder =     (
+        "com.apple.MarkupUI.MarkupPhotoExtension",
+        "com.macphun.LuminarFlex-setapp.photoextension"
+    );
+    userHasOrdered = 1;
+}

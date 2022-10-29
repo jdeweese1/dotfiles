@@ -1,0 +1,8 @@
+{
+    object =     {
+        deviceNameSyncEnabled = 1;
+        nearbyScanDuration = "3.5";
+        nearbyScanEnabled = 1;
+        nearbyScanWhileAuthenticated = 1;
+    };
+}

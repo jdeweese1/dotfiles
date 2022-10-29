@@ -1,0 +1,40 @@
+{
+    AB21vCardEncoding = macintosh;
+    ABBirthDayVisible = 1;
+    "ABCleanWindowController-MainCleanWindow-groupList" =     {
+        selectedGroupEntryIdentifier = "ABAccountBrowsingGroupEntry:(null)";
+    };
+    "ABCleanWindowController-MainCleanWindow-personListController" =     {
+        selectedUIDs =         (
+            "A6E15CB6-831A-49A1-9816-55FB5AB3B28E:ABPerson"
+        );
+    };
+    ABDefaultSourceID = "5BD2DEDE-E873-458B-B019-13E4F3BEC09E";
+    ABLastImportShown = 1;
+    ABMetaDataChangeCount = 935;
+    ABMetadataLastOilChange = "2022-10-29 02:36:14 +0000";
+    ABTextSizeIncrement = 2;
+    ABVersion = 1419;
+    IKPictureTakerLocation = "{300, 200}";
+    NSPreferencesContentSize = "{524, 175}";
+    NSPreferencesSelectedIndex = 3;
+    "NSSplitView Subview Frames ABCleanWindowController-MainCleanWindow" =     (
+        "0.000000, 0.000000, 307.000000, 529.000000, NO, NO",
+        "308.000000, 0.000000, 219.000000, 529.000000, NO, NO",
+        "528.000000, 0.000000, 432.000000, 529.000000, NO, NO"
+    );
+    "NSToolbar Configuration NSPreferences" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSWindow Frame ABCard:23446283-A5A3-477D-B898-6E65223CC702:ABPerson" = "-1900 1094 337 260 -1920 317 1920 1057 ";
+    "NSWindow Frame ABCard:88FA45E9-BDE3-4A59-A382-5EF26A958129:ABPerson" = "0 0 1680 1027 0 0 1680 1027 ";
+    "NSWindow Frame ABCard:C829F78A-807E-45C8-B19C-9AEA4643F3B0:ABPerson" = "20 729 337 278 -3840 602 1920 1057 ";
+    "NSWindow Frame ABCard:D362178D-31C6-47B8-821C-CFF4818D27DB:ABPerson" = "1700 847 337 505 1680 317 1920 1055 ";
+    "NSWindow Frame ABCard:E3115058-4140-43E4-B387-B9D828B1201E:ABPerson" = "20 663 337 374 0 0 1920 1057 ";
+    "NSWindow Frame ABCleanWindowController-MainCleanWindow" = "66 165 960 529 0 0 1680 1025 ";
+    "NSWindow Frame ABPersonCardWindow" = "2808 721 337 250 1680 317 1920 1055 ";
+    "NSWindow Frame Preferences" = "378 472 524 197 0 0 1280 777 ";
+}

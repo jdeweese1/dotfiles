@@ -1,0 +1,39 @@
+{
+    FBComparisonMatrixTextSize = 36;
+    FBLastSelectedFamily = Bungasai;
+    FBPrefsSelectionKey =     {
+        FBCollectionsKey =         (
+        );
+        FBDomainsKey =         (
+            3
+        );
+        FBExpandedFamiliesKey =         (
+            "Corsiva Hebrew",
+            Courier,
+            "Comic Neue Angular"
+        );
+        FBFacesKey =         (
+        );
+        FBFamiliesKey =         (
+            Bungasai
+        );
+        FBLibrariesKey =         (
+        );
+    };
+    FBSelectedGroupsKey =     (
+        User
+    );
+    "NSOutlineView Items FBCollectionOutlineView" =     (
+        "FB_LOCATION_CATEGORY",
+        "FB_SMART_COLLECTION_CATEGORY",
+        "FB_COLLECTION_CATEGORY"
+    );
+    "NSSplitView Subview Frames FBMainSplitView" =     (
+        "0.000000, 0.000000, 200.000000, 580.000000, NO, NO",
+        "201.000000, 0.000000, 216.500000, 580.000000, NO, NO",
+        "418.500000, 0.000000, 701.500000, 580.000000, NO, NO"
+    );
+    "NSWindow Frame FBFontValidationWindow" = "30 110 622 560 0 0 1280 777 ";
+    "NSWindow Frame FBPreviewWindow" = "125 373 400 270 0 0 1280 777 ";
+    "NSWindow Frame FBWindow" = "111 136 1120 602 0 0 1280 778 ";
+}

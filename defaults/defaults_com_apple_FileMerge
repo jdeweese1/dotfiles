@@ -1,0 +1,53 @@
+{
+    AlwaysWrapLines = NO;
+    ArrowDiffs = YES;
+    CompressWhitespace = NO;
+    FileMergeDefaultsVersion = 3;
+    FilesToIgnore = "*~ *.o *.out .nfs* tags CVS .svn .git .DS_Store ._*";
+    Filters =     (
+                {
+            Apply = 0;
+            Display = 0;
+            Extension = nib;
+            Filter = "$(DEVELOPER_BIN_DIR)/ibtool --all $(FILE)";
+        },
+                {
+            Apply = 0;
+            Display = 0;
+            Extension = xib;
+            Filter = "$(DEVELOPER_BIN_DIR)/ibtool --all $(FILE)";
+        },
+                {
+            Apply = 0;
+            Display = 1;
+            Extension = rtf;
+            Filter = "$(DEVELOPER_BIN_DIR)/convertRichTextToAscii $(FILE)";
+        },
+                {
+            Apply = 0;
+            Display = 0;
+            Extension = o;
+            Filter = "$(DEVELOPER_BIN_DIR)/nm $(FILE)";
+        },
+                {
+            Apply = 0;
+            Display = 0;
+            Extension = jar;
+            Filter = "/usr/bin/jar tvf $(FILE)";
+        }
+    );
+    FollowSymbolicLinks = NO;
+    HighlightBackgroundColor = {length = 65, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 98193e00 00000186 };
+    IgnoreCaseWhenComparingFiles = NO;
+    IncludeAddedFilesInBrowser = NO;
+    IncludeIdenticalFilesInBrowser = NO;
+    IncludeModifiedFilesInBrowserLeft = NO;
+    IncludeModifiedFilesInBrowserRite = NO;
+    NSNavLastRootDirectory = "~/Documents";
+    NSNavPanelExpandedSizeForOpenMode = "{712, 448}";
+    NSScrollAnimationEnabled = 0;
+    NumberDiffs = YES;
+    ShowDiffMarks = YES;
+    ShowWordHighlighting = YES;
+    XCFontAndColorCurrentTheme = "Default.xccolortheme";
+}

@@ -1,0 +1,26 @@
+{
+    "NSWindow Frame MainWindow Position" = "400 49 824 637 0 0 1280 777 ";
+    NUFingerPerson = "192.168.86.23";
+    NULookupAddress = "191.200.19.131";
+    NUNetstatChoice = 3;
+    NUPingAddress = "apple.com";
+    NUPingChoice = 1;
+    NUPingCount = 10;
+    NUPortScanAddress = "192.168.86.23";
+    NUPortScanEnd = 10000;
+    NUPortScanRange = 1;
+    NUPortScanStart = 0;
+    NUSelectedTabItem = NUWhois;
+    NUTracerouteAddress = "apple.com";
+    NUWhoisAddress = "129.130.18.4";
+    NUWhoisSelectedServer = "whois.arin.net";
+    NUWhoisServers =     (
+        "whois.internic.net",
+        "whois.networksolutions.com",
+        "whois.arin.net",
+        "whois.nic.mil",
+        "whois.ripe.net",
+        "whois.apnic.net",
+        "whois.nic.ad.jp"
+    );
+}

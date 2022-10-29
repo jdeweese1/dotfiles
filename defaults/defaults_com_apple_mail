@@ -1,0 +1,1853 @@
+{
+    AccountOrdering =     (
+        "local://3FEE2271-2DA9-4945-BACA-A5C95F2E61B7/",
+        "imap://BCBC8589-1903-4AE0-8F07-6E813F419110/"
+    );
+    AddInvitationsToICalAutomatically = 0;
+    ArchiveViewerAttributes =     {
+        DisplayInThreadedMode = YES;
+        FilterEnabled = NO;
+        MailboxViewingState =         {
+            ScrollPositionOffset = 556;
+            ScrollPositionPinnedThreadIdentifier = 1876;
+            ScrollPositionType = 2;
+            ThreadIdentifiers =             (
+                1876
+            );
+        };
+        SelectedFilters =         (
+                        {
+                FilterIdentifier = Unread;
+            }
+        );
+        SortOrder = readstatus;
+        SortedDescending = YES;
+    };
+    AttachmentMIMESnipUpgradeState = 4;
+    AutoFetch = 1;
+    BccSelf = 0;
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1643214627;
+    CheckedForOldLSMMapFile = 1;
+    CloudKitAccountInfoCache =     {
+        b489850643b4e7162ea95c563da08ee150967969be7928e5b1281e15a2b6dc1b = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+    };
+    ConversationViewSortDescending = 1;
+    CurrentTransferMailboxURLString = "ews://B47FE2FA-5C25-44D1-A40F-957F6CD99033/CanvasStuff";
+    DateCellWidthCache =     {
+        DateCellCacheVersion = "B Version";
+        DateCellFormats =         (
+            "MMMM d, y' '",
+            "MMM d, y' '",
+            "M/d/yy' '",
+            "MMMM d, y",
+            "MMM d, y",
+            "M/d/yy",
+            "Yesterday ",
+            "Today ",
+            Yesterday,
+            Today
+        );
+        Font = ".AppleSystemUIFont";
+        FontSize = 12;
+        Language = "en-US";
+        Widths =         (
+            "169.0546875",
+            "130.265625",
+            "103.640625",
+            "114.861328125",
+            "76.072265625",
+            "49.447265625",
+            "107.044921875",
+            "85.32421875",
+            "55.751953125",
+            "34.03125"
+        );
+    };
+    DefaultViewerState =     {
+        FavoritesBarVisible = 0;
+        FormatVersion = 1;
+        HiddenCopiesMessageIDs =         {
+        };
+        IsDisplayingSingleton = 1;
+        SearchPopupTag = 4;
+        SelectedMailboxOutlineItems =         (
+            "favoritemailboxdatum://Inbox?parent=0"
+        );
+        SelectedMessageIDs =         {
+            "imap://3D9DB353-3620-4CD1-9E0F-11DD6BF73C19/%5BGmail%5D/All%20Mail" =             (
+                1642
+            );
+        };
+        ToolbarIsHidden = 0;
+        "Torn Off Window" = "0 0 638 778 0 0 1280 778 ";
+        TornOffToolbarIsHidden = 0;
+    };
+    DefaultWindowState =     {
+        dictionaryRepresentation =         {
+            FavoritesBarVisible = 0;
+            FormatVersion = 1;
+            HiddenCopiesMessageIDs =             {
+            };
+            IsDisplayingSingleton = 1;
+            SearchPopupTag = 4;
+            SelectedMailboxOutlineItems =             (
+                "favoritemailboxdatum://Inbox?parent=0"
+            );
+            SelectedMessageIDs =             {
+                "imap://3D9DB353-3620-4CD1-9E0F-11DD6BF73C19/%5BGmail%5D/All%20Mail" =                 (
+                    1642
+                );
+            };
+            ToolbarIsHidden = 0;
+            "Torn Off Window" = "0 0 638 778 0 0 1280 778 ";
+            TornOffToolbarIsHidden = 0;
+        };
+        windowFrame = "344 0 960 1025 0 0 1680 1025 ";
+    };
+    DidUpgradeMessageViewersToTAL = 1;
+    DidUpgradeSingleMessageViewersToTAL = 1;
+    DraftsViewerAttributes =     {
+        DisplayInThreadedMode = YES;
+        FilterEnabled = NO;
+        MailboxViewingState =         {
+            ScrollPositionType = 0;
+        };
+        SelectedFilters =         (
+                        {
+                FilterIdentifier = Unread;
+            }
+        );
+        SortOrder = "received-date";
+        SortedDescending = YES;
+    };
+    FavoriteMailboxDraftsAutomaticallyAdded = 1;
+    FavoriteMailboxInboxAutomaticallyAdded = 1;
+    FavoriteMailboxSentAutomaticallyAdded = 1;
+    Favorites =     (
+                {
+            IsPrefferedSelection = 1;
+            MailboxUidIsContainer = 1;
+            MailboxUidName = Inbox;
+            MailboxUidPersistentIdentifier = Inbox;
+            MailboxUidType = 100;
+        },
+                {
+            IsPrefferedSelection = 0;
+            MailboxUidIsContainer = 1;
+            MailboxUidName = Sent;
+            MailboxUidPersistentIdentifier = "Sent Messages";
+            MailboxUidType = 102;
+        },
+                {
+            IsPrefferedSelection = 0;
+            MailboxUidIsContainer = 1;
+            MailboxUidName = "All Drafts";
+            MailboxUidPersistentIdentifier = Drafts;
+            MailboxUidType = 103;
+        },
+                {
+            IsPrefferedSelection = 0;
+            MailboxUidIsContainer = 1;
+            MailboxUidName = Flagged;
+            MailboxUidPersistentIdentifier = Flags;
+            MailboxUidType = 108;
+        }
+    );
+    FavoritesManagerDefaultKeyHasLaunchedWithSidebarFavorites = 1;
+    FavoritesVersion = 3;
+    FilterByInbox = 0;
+    FirstTimeImportComplete = 0;
+    FlagColorToDisplay = 3;
+    FlagNames =     {
+        0 = Red;
+        1 = Orange;
+        2 = Yellow;
+        3 = Green;
+        4 = Blue;
+        5 = Purple;
+        6 = Gray;
+    };
+    FlagsViewerAttributes =     {
+        DisplayInThreadedMode = YES;
+        FilterEnabled = NO;
+        MailboxViewingState =         {
+            ScrollPositionType = 0;
+            ThreadIdentifiers =             (
+                4952
+            );
+        };
+        SelectedFilters =         (
+                        {
+                FilterIdentifier = Unread;
+            }
+        );
+        SortOrder = "received-date";
+        SortedDescending = YES;
+    };
+    HasSetupIndexingDefaults = 1;
+    IMAPServerPrefixesMirrorFilesystem = 1;
+    InboxViewerAttributes =     {
+        DisplayInThreadedMode = YES;
+        FilterEnabled = NO;
+        MailboxViewingState =         {
+            ScrollPositionType = 0;
+            ThreadIdentifiers =             (
+                3180
+            );
+        };
+        SelectedFilters =         (
+                        {
+                FilterIdentifier = Unread;
+            }
+        );
+        SortOrder = readstatus;
+        SortedDescending = YES;
+    };
+    IndexDecryptedMessages = 1;
+    IndexTrash = 1;
+    JunkMailBehavior = 1;
+    JunkViewerAttributes =     {
+        DisplayInThreadedMode = YES;
+        FilterEnabled = NO;
+        MailboxViewingState =         {
+            ScrollPositionType = 0;
+            ThreadIdentifiers =             (
+                3176
+            );
+        };
+        SelectedFilters =         (
+                        {
+                FilterIdentifier = Unread;
+            }
+        );
+        SortOrder = "received-date";
+        SortedDescending = YES;
+    };
+    LastAttachedDir = "/Users/jaroddeweese/Library/Mobile Documents/com~apple~CloudDocs/Documents/School";
+    LastMessageTracingDate = "2022-02-26 22:57:11 +0000";
+    LibraryCompressionUpgradeState = 1;
+    "MSAssetDownloadRetryInterval.com.apple.mailsupport.downloadMobileAssetCatalog" = 86400;
+    MUILastAttachmentDirectory = "/Users/jaroddeweese/Downloads";
+    MailSections =     (
+        SearchSection,
+        FavoritesSection,
+        MailboxesSection,
+        SmartMailboxesSection,
+        "local://3FEE2271-2DA9-4945-BACA-A5C95F2E61B7/",
+        "imap://BCBC8589-1903-4AE0-8F07-6E813F419110/",
+        "imap://3D9DB353-3620-4CD1-9E0F-11DD6BF73C19/"
+    );
+    MailShowFlags = 0;
+    MailUpgraderPrePersistenceVersion = 21;
+    MailUpgraderVersion = 29;
+    MailVisibleSections =     (
+        FavoritesSection,
+        MailboxesSection,
+        SmartMailboxesSection,
+        "local://3FEE2271-2DA9-4945-BACA-A5C95F2E61B7/",
+        "imap://BCBC8589-1903-4AE0-8F07-6E813F419110/"
+    );
+    MaxImageSize = mediumn;
+    MessageListNextMessageDirection = 0;
+    "NSOutlineView Items Main Window Mailbox List-V2" =     (
+        FavoritesSection,
+        SmartMailboxesSection,
+        MailboxesSection
+    );
+    NSPreferencesContentSize = "{544, 425}";
+    NSPreferencesSelectedIndex = 0;
+    "NSSplitView Subview Frames Main Window" =     (
+        "0.000000, 0.000000, 140.000000, 1025.000000, NO, NO",
+        "141.000000, 0.000000, 819.000000, 1025.000000, NO, NO"
+    );
+    "NSSplitView Subview Frames Main Window Preview Pane" =     (
+        "0.000000, 0.000000, 250.000000, 778.000000, NO, NO",
+        "251.000000, 0.000000, 878.000000, 778.000000, NO, NO"
+    );
+    "NSSplitView Subview Frames Main Window Preview Pane Vertical" =     (
+        "0.000000, 0.000000, 250.000000, 1025.000000, NO, NO",
+        "251.000000, 0.000000, 568.000000, 1025.000000, NO, NO"
+    );
+    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
+        "0.000000, 0.000000, 224.000000, 263.000000, NO, NO",
+        "0.000000, 264.000000, 224.000000, 43.000000, NO, NO"
+    );
+    "NSToolbar Configuration ComposeWindow" =     {
+        "TB Default Item Identifiers" =         (
+            "send:",
+            "header_fields",
+            "EXTENSIONS_TOOLBAR_ITEMS",
+            NSToolbarFlexibleSpaceItem,
+            "changeReplyMode:",
+            "insertFile:",
+            "insertOriginalAttachments:",
+            "toggleComposeFormatInspectorBar:",
+            "insertEmoji:",
+            "showMediaBrowser:"
+        );
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Item Identifiers" =         (
+            "send:",
+            "header_fields",
+            NSToolbarFlexibleSpaceItem,
+            "changeReplyMode:",
+            "insertFile:",
+            "insertOriginalAttachments:",
+            "toggleComposeFormatInspectorBar:",
+            "insertEmoji:",
+            "showMediaBrowser:"
+        );
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration ComposeWindow_NewMessage" =     {
+        "TB Display Mode" = 2;
+    };
+    "NSToolbar Configuration ComposeWindow_ReplyOrForward" =     {
+        "TB Display Mode" = 2;
+    };
+    "NSToolbar Configuration MainWindow" =     {
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration NSPreferences" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration SingleMessageViewer" =     {
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame Compose Window" = "0 284 640 741 0 0 1680 1025 ";
+    "NSWindow Frame Connection Doctor" = "815 579 730 436 0 0 1680 1027 ";
+    "NSWindow Frame NSFontPanel" = "769 110 445 237 0 0 1280 777 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "47 330 712 382 0 0 1280 778 ";
+    "NSWindow Frame Preferences" = "686 422 544 447 0 0 1920 1058 ";
+    "NSWindow Frame SetupAssistant" = "266 447 578 442 0 0 1680 1025 ";
+    "NSWindow Frame Torn Off Window" = "0 0 638 778 0 0 1280 778 ";
+    NumberOfMessagesMarkedAsJunk = 2;
+    NumberOfMessagesMarkedAsNotJunk = 210;
+    OutboxViewerAttributes =     {
+        DisplayInThreadedMode = YES;
+        FilterEnabled = NO;
+        MailboxViewingState =         {
+            ScrollPositionType = 0;
+        };
+        SelectedFilters =         (
+                        {
+                FilterIdentifier = Unread;
+            }
+        );
+        SortOrder = "received-date";
+        SortedDescending = YES;
+    };
+    PMPrintingExpandedStateForPrint2 = 0;
+    PollTime = 15;
+    RawCameraSupportVersion = 7040;
+    ReplyToSelf = 0;
+    SGTMailSuggestionSearchField =     (
+                {
+            attributes =             (
+                kMDItemRecipients,
+                kMDItemAuthors
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Mark Ploger";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "mploger@ksu.edu"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemSubject
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = Microsoft;
+            scope = 3;
+            type = "com.apple.mail";
+            values =             (
+                Microsoft
+            );
+        },
+                {
+            attributes =             (
+                kMDItemSubject
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = purchase;
+            scope = 3;
+            type = "com.apple.mail";
+            values =             (
+                purchase
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors,
+                kMDItemAuthorEmailAddresses
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = "ksu.edu";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "ksu.edu"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthorEmailAddresses
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Russell Feldhausen";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "russfeld@ksu.edu"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors,
+                kMDItemAuthorEmailAddresses
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = hagan;
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                hagan
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors,
+                kMDItemAuthorEmailAddresses
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Zachary St.Clair";
+            object = "18D6FF0E-4127-4940-A116-2E98971F244A:ABPerson";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "zach25@ksu.edu"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemSubject
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = AFA;
+            scope = 3;
+            type = "com.apple.mail";
+            values =             (
+                AFA
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors,
+                kMDItemAuthorEmailAddresses
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Johnna Wallingford";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "info@signupgenius.com",
+                "johnna.wallingford@agfuture.org"
+            );
+        },
+                {
+            enforceStrictMatch = 1;
+            exactMatch = 0;
+            name = Newsletter;
+            scope = 9223372036854775806;
+            type = "com.apple.mail";
+            values =             (
+                Newsletter
+            );
+        },
+                {
+            attributes =             (
+                kMDItemRecipients,
+                kMDItemAuthors
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "keatley@ksu.edu";
+            object = "DD7DE399-7F6C-48CD-9C12-764C46BAF4D2:ABPerson";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "keatley@ksu.edu"
+            );
+        },
+                {
+            attributes =             (
+                SGTItemMailFlagColor
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 0;
+            name = Purple;
+            object =             {
+                SGTMailFlagColor = 5;
+            };
+            scope = 10;
+            type = "com.apple.mail";
+            values =             (
+                Purple
+            );
+        },
+                {
+            attributes =             (
+                kMDItemSubject
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = scholarship;
+            scope = 3;
+            type = "com.apple.mail";
+            values =             (
+                scholarship
+            );
+        },
+                {
+            attributes =             (
+                kMDItemSubject
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "K-State Open House and Scholarship Reception";
+            scope = 3;
+            type = "com.apple.mail";
+            values =             (
+                "K-State Open House and Scholarship Reception"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemRecipients,
+                kMDItemAuthors,
+                kMDItemAuthorEmailAddresses,
+                kMDItemRecipientEmailAddresses
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Cassondra Van Slyke";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "cassie16@ksu.edu"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemRecipients,
+                kMDItemAuthors,
+                kMDItemAuthorEmailAddresses,
+                kMDItemRecipientEmailAddresses
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Darrin R. Hook";
+            object = "4C5B9EB6-6D63-4D4E-B3FD-F768075A471F:ABPerson";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "darrin.hook@sccc.edu"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemSubject
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = ACT;
+            scope = 3;
+            type = "com.apple.mail";
+            values =             (
+                ACT
+            );
+        },
+                {
+            attributes =             (
+                kMDItemRecipients,
+                kMDItemAuthors
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Kathryn Stewart";
+            object = "EF93B9D5-C99E-47F9-98BF-FF8B1E222D8B:ABPerson";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "ksstewar@ksu.edu"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "KStateAcacia Acacia";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "kstateacacia@gmail.com"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors,
+                kMDItemAuthorEmailAddresses
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Sara Eubank";
+            object = "C71FE508-38F1-44E6-A377-3CD2CF906F40:ABPerson";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "saraeubank31@gmail.com"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemRecipients,
+                kMDItemAuthors
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Jerry DeWeese";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "deweese@sctelcom.net",
+                "jddeweese1@gmail.com"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemRecipients
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Brynn McKennon";
+            scope = 2;
+            type = "com.apple.mail";
+            values =             (
+                "bmckennon1@skylineschools.org"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "PH207 General Physics I, Hook - FA16S1";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "notifications@instructure.com"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemRecipients,
+                kMDItemAuthors,
+                kMDItemAuthorEmailAddresses,
+                kMDItemRecipientEmailAddresses
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "scholarships@hsfmo.org";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "scholarships@hsfmo.org"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors,
+                kMDItemAuthorEmailAddresses
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Scholarships.com";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "information@scholarships.com"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = Grey;
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "email@cgpgrey.com"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Brady Haran";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "brady@bradyharan.com"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = Dropbox;
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                Dropbox
+            );
+        },
+                {
+            attributes =             (
+                kMDItemRecipients
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "Cassie Van Slyke";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "ksugirl9@yahoo.com"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemAuthors,
+                kMDItemAuthorEmailAddresses
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 1;
+            name = "HackerRank Team";
+            scope = 1;
+            type = "com.apple.mail";
+            values =             (
+                "hackers@hackerrankmail.com"
+            );
+        }
+    );
+    SelectedPreferencesTabIndexKey = 1;
+    SendFormat = MIME;
+    SentMessagesViewerAttributes =     {
+        DisplayInThreadedMode = YES;
+        FilterEnabled = NO;
+        MailboxViewingState =         {
+            ScrollPositionType = 0;
+        };
+        SelectedFilters =         (
+                        {
+                FilterIdentifier = Unread;
+            }
+        );
+        SortOrder = "received-date";
+        SortedDescending = YES;
+    };
+    ShowComposeFormatInspectorBar = 1;
+    SignatureSelectionMethods =     {
+        "BCBC8589-1903-4AE0-8F07-6E813F419110" = SelectedOnly;
+    };
+    SignaturesSelected =     {
+    };
+    SpellCheckingBehavior = InlineSpellCheckingEnabled;
+    TableColumns =     {
+        drafts =         {
+            0 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 0;
+                isVisible = 0;
+                position = 1;
+                positionWhileSearching = 1;
+                widthWithLocation = 20;
+                widthWithThreading = 0;
+                widthWithThreadingWithLocation = 0;
+                widthWithoutRankAndLocation = 20;
+                widthWithoutThreading = 20;
+                widthWithoutThreadingWithLocation = 20;
+            };
+            10 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 10;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 66;
+                widthWithThreading = 66;
+                widthWithThreadingWithLocation = 66;
+                widthWithoutRankAndLocation = 66;
+                widthWithoutThreading = 66;
+                widthWithoutThreadingWithLocation = 66;
+            };
+            11 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 1;
+                columnIdentifier = 11;
+                isVisible = 0;
+                position = 5;
+                positionWhileSearching = "-1";
+                widthWithLocation = 94;
+                widthWithThreading = 94;
+                widthWithThreadingWithLocation = 94;
+                widthWithoutRankAndLocation = 94;
+                widthWithoutThreading = 94;
+                widthWithoutThreadingWithLocation = 94;
+            };
+            14 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 14;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 59;
+                widthWithThreading = 59;
+                widthWithThreadingWithLocation = 59;
+                widthWithoutRankAndLocation = 59;
+                widthWithoutThreading = 59;
+                widthWithoutThreadingWithLocation = 59;
+            };
+            15 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 15;
+                isVisible = 0;
+                position = 0;
+                positionWhileSearching = 0;
+                widthWithLocation = 18;
+                widthWithThreading = 18;
+                widthWithThreadingWithLocation = 18;
+                widthWithoutRankAndLocation = 18;
+                widthWithoutThreading = 18;
+                widthWithoutThreadingWithLocation = 18;
+            };
+            16 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 16;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 91;
+                widthWithThreading = 91;
+                widthWithThreadingWithLocation = 91;
+                widthWithoutRankAndLocation = 91;
+                widthWithoutThreading = 91;
+                widthWithoutThreadingWithLocation = 91;
+            };
+            17 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 17;
+                isVisible = 1;
+                position = 4;
+                positionWhileSearching = 4;
+                widthWithLocation = 44;
+                widthWithThreading = 81;
+                widthWithThreadingWithLocation = 81;
+                widthWithoutRankAndLocation = 44;
+                widthWithoutThreading = 81;
+                widthWithoutThreadingWithLocation = 81;
+            };
+            18 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 18;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 75;
+                widthWithThreading = 75;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            19 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 19;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 64;
+                widthWithThreading = 64;
+                widthWithThreadingWithLocation = 64;
+                widthWithoutRankAndLocation = 64;
+                widthWithoutThreading = 64;
+                widthWithoutThreadingWithLocation = 64;
+            };
+            2 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 2;
+                isVisible = 1;
+                position = 3;
+                positionWhileSearching = 3;
+                widthWithLocation = 100;
+                widthWithThreading = 100;
+                widthWithThreadingWithLocation = 100;
+                widthWithoutRankAndLocation = 100;
+                widthWithoutThreading = 100;
+                widthWithoutThreadingWithLocation = 100;
+            };
+            20 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 20;
+                isVisible = 0;
+                position = 0;
+                positionWhileSearching = "-1";
+                widthWithLocation = 400;
+                widthWithThreading = 250;
+                widthWithThreadingWithLocation = 400;
+                widthWithoutRankAndLocation = 400;
+                widthWithoutThreading = 400;
+                widthWithoutThreadingWithLocation = 400;
+            };
+            3 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 3;
+                isVisible = 0;
+                position = 4;
+                positionWhileSearching = 4;
+                widthWithLocation = 81;
+                widthWithThreading = 81;
+                widthWithThreadingWithLocation = 81;
+                widthWithoutRankAndLocation = 81;
+                widthWithoutThreading = 81;
+                widthWithoutThreadingWithLocation = 81;
+            };
+            4 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 4;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 36;
+                widthWithThreading = 36;
+                widthWithThreadingWithLocation = 36;
+                widthWithoutRankAndLocation = 36;
+                widthWithoutThreading = 36;
+                widthWithoutThreadingWithLocation = 36;
+            };
+            5 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 1;
+                columnIdentifier = 5;
+                isVisible = 0;
+                position = 2;
+                positionWhileSearching = 2;
+                widthWithLocation = 75;
+                widthWithThreading = 75;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            6 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 6;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 59;
+                widthWithThreading = 59;
+                widthWithThreadingWithLocation = 59;
+                widthWithoutRankAndLocation = 59;
+                widthWithoutThreading = 59;
+                widthWithoutThreadingWithLocation = 59;
+            };
+            7 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 7;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 87;
+                widthWithThreading = 87;
+                widthWithThreadingWithLocation = 87;
+                widthWithoutRankAndLocation = 87;
+                widthWithoutThreading = 87;
+                widthWithoutThreadingWithLocation = 87;
+            };
+            8 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 8;
+                isVisible = 1;
+                position = 2;
+                positionWhileSearching = 2;
+                widthWithLocation = 75;
+                widthWithThreading = 75;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            9 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 9;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 20;
+                widthWithThreading = 20;
+                widthWithThreadingWithLocation = 20;
+                widthWithoutRankAndLocation = 20;
+                widthWithoutThreading = 20;
+                widthWithoutThreadingWithLocation = 20;
+            };
+        };
+        normal =         {
+            0 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 0;
+                isVisible = 1;
+                position = 1;
+                positionWhileSearching = 1;
+                widthWithLocation = 20;
+                widthWithThreading = 43;
+                widthWithThreadingWithLocation = 0;
+                widthWithoutRankAndLocation = 20;
+                widthWithoutThreading = 20;
+                widthWithoutThreadingWithLocation = 20;
+            };
+            10 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 10;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 66;
+                widthWithThreading = 66;
+                widthWithThreadingWithLocation = 66;
+                widthWithoutRankAndLocation = 66;
+                widthWithoutThreading = 66;
+                widthWithoutThreadingWithLocation = 66;
+            };
+            11 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 1;
+                columnIdentifier = 11;
+                isVisible = 0;
+                position = 6;
+                positionWhileSearching = 6;
+                widthWithLocation = 94;
+                widthWithThreading = 94;
+                widthWithThreadingWithLocation = 94;
+                widthWithoutRankAndLocation = 94;
+                widthWithoutThreading = 94;
+                widthWithoutThreadingWithLocation = 94;
+            };
+            14 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 14;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 59;
+                widthWithThreading = 59;
+                widthWithThreadingWithLocation = 59;
+                widthWithoutRankAndLocation = 59;
+                widthWithoutThreading = 59;
+                widthWithoutThreadingWithLocation = 59;
+            };
+            15 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 15;
+                isVisible = 0;
+                position = 0;
+                positionWhileSearching = 0;
+                widthWithLocation = 18;
+                widthWithThreading = 18;
+                widthWithThreadingWithLocation = 18;
+                widthWithoutRankAndLocation = 18;
+                widthWithoutThreading = 18;
+                widthWithoutThreadingWithLocation = 18;
+            };
+            16 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 16;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 91;
+                widthWithThreading = 91;
+                widthWithThreadingWithLocation = 91;
+                widthWithoutRankAndLocation = 91;
+                widthWithoutThreading = 91;
+                widthWithoutThreadingWithLocation = 91;
+            };
+            17 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 17;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 44;
+                widthWithThreading = 44;
+                widthWithThreadingWithLocation = 44;
+                widthWithoutRankAndLocation = 44;
+                widthWithoutThreading = 44;
+                widthWithoutThreadingWithLocation = 44;
+            };
+            18 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 18;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 75;
+                widthWithThreading = 75;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            19 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 19;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 64;
+                widthWithThreading = 64;
+                widthWithThreadingWithLocation = 64;
+                widthWithoutRankAndLocation = 64;
+                widthWithoutThreading = 64;
+                widthWithoutThreadingWithLocation = 64;
+            };
+            2 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 2;
+                isVisible = 1;
+                position = 3;
+                positionWhileSearching = 3;
+                widthWithLocation = 100;
+                widthWithThreading = 238;
+                widthWithThreadingWithLocation = 100;
+                widthWithoutRankAndLocation = 100;
+                widthWithoutThreading = 100;
+                widthWithoutThreadingWithLocation = 100;
+            };
+            20 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 20;
+                isVisible = 0;
+                position = 0;
+                positionWhileSearching = "-1";
+                widthWithLocation = 400;
+                widthWithThreading = 250;
+                widthWithThreadingWithLocation = 400;
+                widthWithoutRankAndLocation = 400;
+                widthWithoutThreading = 400;
+                widthWithoutThreadingWithLocation = 400;
+            };
+            3 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 3;
+                isVisible = 1;
+                position = 4;
+                positionWhileSearching = 4;
+                widthWithLocation = 81;
+                widthWithThreading = 219;
+                widthWithThreadingWithLocation = 81;
+                widthWithoutRankAndLocation = 81;
+                widthWithoutThreading = 81;
+                widthWithoutThreadingWithLocation = 81;
+            };
+            4 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 4;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 36;
+                widthWithThreading = 36;
+                widthWithThreadingWithLocation = 36;
+                widthWithoutRankAndLocation = 36;
+                widthWithoutThreading = 36;
+                widthWithoutThreadingWithLocation = 36;
+            };
+            5 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 1;
+                columnIdentifier = 5;
+                isVisible = 1;
+                position = 2;
+                positionWhileSearching = 2;
+                widthWithLocation = 75;
+                widthWithThreading = 213;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            6 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 6;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 59;
+                widthWithThreading = 59;
+                widthWithThreadingWithLocation = 59;
+                widthWithoutRankAndLocation = 59;
+                widthWithoutThreading = 59;
+                widthWithoutThreadingWithLocation = 59;
+            };
+            7 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 7;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 87;
+                widthWithThreading = 87;
+                widthWithThreadingWithLocation = 87;
+                widthWithoutRankAndLocation = 87;
+                widthWithoutThreading = 87;
+                widthWithoutThreadingWithLocation = 87;
+            };
+            8 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 8;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 75;
+                widthWithThreading = 75;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            9 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 9;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 20;
+                widthWithThreading = 20;
+                widthWithThreadingWithLocation = 20;
+                widthWithoutRankAndLocation = 20;
+                widthWithoutThreading = 20;
+                widthWithoutThreadingWithLocation = 20;
+            };
+        };
+        outgoing =         {
+            0 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 0;
+                isVisible = 1;
+                position = 1;
+                positionWhileSearching = 1;
+                widthWithLocation = 20;
+                widthWithThreading = 0;
+                widthWithThreadingWithLocation = 0;
+                widthWithoutRankAndLocation = 20;
+                widthWithoutThreading = 20;
+                widthWithoutThreadingWithLocation = 20;
+            };
+            10 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 10;
+                isVisible = 1;
+                position = 4;
+                positionWhileSearching = 4;
+                widthWithLocation = 66;
+                widthWithThreading = 81;
+                widthWithThreadingWithLocation = 81;
+                widthWithoutRankAndLocation = 66;
+                widthWithoutThreading = 81;
+                widthWithoutThreadingWithLocation = 81;
+            };
+            11 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 1;
+                columnIdentifier = 11;
+                isVisible = 0;
+                position = 6;
+                positionWhileSearching = "-1";
+                widthWithLocation = 94;
+                widthWithThreading = 94;
+                widthWithThreadingWithLocation = 94;
+                widthWithoutRankAndLocation = 94;
+                widthWithoutThreading = 94;
+                widthWithoutThreadingWithLocation = 94;
+            };
+            14 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 14;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 59;
+                widthWithThreading = 59;
+                widthWithThreadingWithLocation = 59;
+                widthWithoutRankAndLocation = 59;
+                widthWithoutThreading = 59;
+                widthWithoutThreadingWithLocation = 59;
+            };
+            15 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 15;
+                isVisible = 0;
+                position = 0;
+                positionWhileSearching = 0;
+                widthWithLocation = 18;
+                widthWithThreading = 18;
+                widthWithThreadingWithLocation = 18;
+                widthWithoutRankAndLocation = 18;
+                widthWithoutThreading = 18;
+                widthWithoutThreadingWithLocation = 18;
+            };
+            16 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 16;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 91;
+                widthWithThreading = 91;
+                widthWithThreadingWithLocation = 91;
+                widthWithoutRankAndLocation = 91;
+                widthWithoutThreading = 91;
+                widthWithoutThreadingWithLocation = 91;
+            };
+            17 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 17;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 44;
+                widthWithThreading = 44;
+                widthWithThreadingWithLocation = 44;
+                widthWithoutRankAndLocation = 44;
+                widthWithoutThreading = 44;
+                widthWithoutThreadingWithLocation = 44;
+            };
+            18 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 18;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 75;
+                widthWithThreading = 75;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            19 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 19;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 64;
+                widthWithThreading = 64;
+                widthWithThreadingWithLocation = 64;
+                widthWithoutRankAndLocation = 64;
+                widthWithoutThreading = 64;
+                widthWithoutThreadingWithLocation = 64;
+            };
+            2 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 2;
+                isVisible = 1;
+                position = 3;
+                positionWhileSearching = 3;
+                widthWithLocation = 100;
+                widthWithThreading = 100;
+                widthWithThreadingWithLocation = 100;
+                widthWithoutRankAndLocation = 100;
+                widthWithoutThreading = 100;
+                widthWithoutThreadingWithLocation = 100;
+            };
+            20 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 20;
+                isVisible = 0;
+                position = 0;
+                positionWhileSearching = "-1";
+                widthWithLocation = 400;
+                widthWithThreading = 250;
+                widthWithThreadingWithLocation = 400;
+                widthWithoutRankAndLocation = 400;
+                widthWithoutThreading = 400;
+                widthWithoutThreadingWithLocation = 400;
+            };
+            3 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 3;
+                isVisible = 0;
+                position = 4;
+                positionWhileSearching = 4;
+                widthWithLocation = 81;
+                widthWithThreading = 81;
+                widthWithThreadingWithLocation = 81;
+                widthWithoutRankAndLocation = 81;
+                widthWithoutThreading = 81;
+                widthWithoutThreadingWithLocation = 81;
+            };
+            4 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 4;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 36;
+                widthWithThreading = 36;
+                widthWithThreadingWithLocation = 36;
+                widthWithoutRankAndLocation = 36;
+                widthWithoutThreading = 36;
+                widthWithoutThreadingWithLocation = 36;
+            };
+            5 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 1;
+                columnIdentifier = 5;
+                isVisible = 0;
+                position = 2;
+                positionWhileSearching = 2;
+                widthWithLocation = 75;
+                widthWithThreading = 75;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            6 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 6;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 59;
+                widthWithThreading = 59;
+                widthWithThreadingWithLocation = 59;
+                widthWithoutRankAndLocation = 59;
+                widthWithoutThreading = 59;
+                widthWithoutThreadingWithLocation = 59;
+            };
+            7 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 7;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 87;
+                widthWithThreading = 87;
+                widthWithThreadingWithLocation = 87;
+                widthWithoutRankAndLocation = 87;
+                widthWithoutThreading = 87;
+                widthWithoutThreadingWithLocation = 87;
+            };
+            8 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 8;
+                isVisible = 1;
+                position = 2;
+                positionWhileSearching = 2;
+                widthWithLocation = 75;
+                widthWithThreading = 75;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            9 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 9;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 20;
+                widthWithThreading = 20;
+                widthWithThreadingWithLocation = 20;
+                widthWithoutRankAndLocation = 20;
+                widthWithoutThreading = 20;
+                widthWithoutThreadingWithLocation = 20;
+            };
+        };
+        smart =         {
+            0 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 0;
+                isVisible = 1;
+                position = 1;
+                positionWhileSearching = 1;
+                widthWithLocation = 20;
+                widthWithThreading = 43;
+                widthWithThreadingWithLocation = 0;
+                widthWithoutRankAndLocation = 20;
+                widthWithoutThreading = 20;
+                widthWithoutThreadingWithLocation = 20;
+            };
+            10 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 10;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 66;
+                widthWithThreading = 66;
+                widthWithThreadingWithLocation = 66;
+                widthWithoutRankAndLocation = 66;
+                widthWithoutThreading = 66;
+                widthWithoutThreadingWithLocation = 66;
+            };
+            11 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 1;
+                columnIdentifier = 11;
+                isVisible = 1;
+                position = 6;
+                positionWhileSearching = 6;
+                widthWithLocation = 94;
+                widthWithThreading = 94;
+                widthWithThreadingWithLocation = 94;
+                widthWithoutRankAndLocation = 94;
+                widthWithoutThreading = 94;
+                widthWithoutThreadingWithLocation = 94;
+            };
+            14 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 14;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 59;
+                widthWithThreading = 59;
+                widthWithThreadingWithLocation = 59;
+                widthWithoutRankAndLocation = 59;
+                widthWithoutThreading = 59;
+                widthWithoutThreadingWithLocation = 59;
+            };
+            15 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 15;
+                isVisible = 0;
+                position = 0;
+                positionWhileSearching = 0;
+                widthWithLocation = 18;
+                widthWithThreading = 18;
+                widthWithThreadingWithLocation = 18;
+                widthWithoutRankAndLocation = 18;
+                widthWithoutThreading = 18;
+                widthWithoutThreadingWithLocation = 18;
+            };
+            16 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 16;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 91;
+                widthWithThreading = 91;
+                widthWithThreadingWithLocation = 91;
+                widthWithoutRankAndLocation = 91;
+                widthWithoutThreading = 91;
+                widthWithoutThreadingWithLocation = 91;
+            };
+            17 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 17;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 44;
+                widthWithThreading = 44;
+                widthWithThreadingWithLocation = 44;
+                widthWithoutRankAndLocation = 44;
+                widthWithoutThreading = 44;
+                widthWithoutThreadingWithLocation = 44;
+            };
+            18 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 18;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 75;
+                widthWithThreading = 75;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            19 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 19;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 64;
+                widthWithThreading = 64;
+                widthWithThreadingWithLocation = 64;
+                widthWithoutRankAndLocation = 64;
+                widthWithoutThreading = 64;
+                widthWithoutThreadingWithLocation = 64;
+            };
+            2 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 2;
+                isVisible = 1;
+                position = 3;
+                positionWhileSearching = 3;
+                widthWithLocation = 100;
+                widthWithThreading = 238;
+                widthWithThreadingWithLocation = 100;
+                widthWithoutRankAndLocation = 100;
+                widthWithoutThreading = 100;
+                widthWithoutThreadingWithLocation = 100;
+            };
+            20 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 20;
+                isVisible = 0;
+                position = 1;
+                positionWhileSearching = "-1";
+                widthWithLocation = 400;
+                widthWithThreading = 250;
+                widthWithThreadingWithLocation = 400;
+                widthWithoutRankAndLocation = 400;
+                widthWithoutThreading = 250;
+                widthWithoutThreadingWithLocation = 400;
+            };
+            3 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 3;
+                isVisible = 1;
+                position = 4;
+                positionWhileSearching = 4;
+                widthWithLocation = 81;
+                widthWithThreading = 219;
+                widthWithThreadingWithLocation = 81;
+                widthWithoutRankAndLocation = 81;
+                widthWithoutThreading = 81;
+                widthWithoutThreadingWithLocation = 81;
+            };
+            4 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 4;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 36;
+                widthWithThreading = 36;
+                widthWithThreadingWithLocation = 36;
+                widthWithoutRankAndLocation = 36;
+                widthWithoutThreading = 36;
+                widthWithoutThreadingWithLocation = 36;
+            };
+            5 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 1;
+                columnIdentifier = 5;
+                isVisible = 1;
+                position = 2;
+                positionWhileSearching = 2;
+                widthWithLocation = 75;
+                widthWithThreading = 213;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            6 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 6;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 59;
+                widthWithThreading = 59;
+                widthWithThreadingWithLocation = 59;
+                widthWithoutRankAndLocation = 59;
+                widthWithoutThreading = 59;
+                widthWithoutThreadingWithLocation = 59;
+            };
+            7 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 7;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 87;
+                widthWithThreading = 87;
+                widthWithThreadingWithLocation = 87;
+                widthWithoutRankAndLocation = 87;
+                widthWithoutThreading = 87;
+                widthWithoutThreadingWithLocation = 87;
+            };
+            8 =             {
+                automaticInsertionOkay = 1;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 8;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 75;
+                widthWithThreading = 75;
+                widthWithThreadingWithLocation = 75;
+                widthWithoutRankAndLocation = 75;
+                widthWithoutThreading = 75;
+                widthWithoutThreadingWithLocation = 75;
+            };
+            9 =             {
+                automaticInsertionOkay = 0;
+                automaticInsertionWhileSearchingOkay = 0;
+                columnIdentifier = 9;
+                isVisible = 0;
+                position = "-1";
+                positionWhileSearching = "-1";
+                widthWithLocation = 20;
+                widthWithThreading = 20;
+                widthWithThreadingWithLocation = 20;
+                widthWithoutRankAndLocation = 20;
+                widthWithoutThreading = 20;
+                widthWithoutThreadingWithLocation = 20;
+            };
+        };
+    };
+    TigerImportDone = 1;
+    TrashViewerAttributes =     {
+        DisplayInThreadedMode = YES;
+        FilterEnabled = NO;
+        MailboxViewingState =         {
+            ScrollPositionType = 0;
+            ThreadIdentifiers =             (
+                2889
+            );
+        };
+        SelectedFilters =         (
+                        {
+                FilterIdentifier = Unread;
+            }
+        );
+        SortOrder = "received-date";
+        SortedDescending = YES;
+    };
+    UserDidCollapseFavoritesSectionKey = 0;
+    WebContinuousSpellCheckingEnabled = 1;
+    "com.apple.email.searchableIndex.scheduler.com.apple.mail.contentIndex" = 300;
+    "com.apple.mail.searchableIndex.lastProcessedAttachmentIDKey" = 12;
+    expiresAfterSeconds = 2592000;
+    kCloudStoreHistoryTokenUserDefaultsKey = {length = 477, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000171 };
+    kDefaultsKeyLastVerifiedMessageID = 75;
+    maxSizeKB = 5000000;
+    minSizeKB = 20000;
+    whitelistedDownloadDomains =     (
+        ".digitalhub.com",
+        ".icloud.com",
+        ".icloud-content.com"
+    );
+}

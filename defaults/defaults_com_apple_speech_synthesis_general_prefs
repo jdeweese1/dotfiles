@@ -1,0 +1,11 @@
+{
+    SpokenUIUseSpeakingHotKeyFlag = 1;
+    TimeAnnouncementPrefs =     {
+        TimeAnnouncementsEnabled = 0;
+        TimeAnnouncementsIntervalIdentifier = EveryHourInterval;
+        TimeAnnouncementsPhraseIdentifier = ShortTime;
+        TimeAnnouncementsVoiceSettings =         {
+            CustomVolume = "0.5";
+        };
+    };
+}

@@ -1,0 +1,64 @@
+{
+    "IK_Scanner_PostProcessApplication" = "/Applications/Preview.app";
+    "IK_Scanner_downloadURL" = "~/Pictures";
+    "IK_Scanner_selectedTag" = 1000;
+    "NSTableView Columns v2 (null)" = {length = 797, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000021f };
+    "NSTableView Sort Ordering v2 (null)" = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b5 };
+    "NSTableView Supports v2 (null)" = 1;
+    "NSToolbar Configuration com.apple.print.proxy.Acacia_USB.toolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration com.apple.print.proxy.Brother_MFC_9325CW.toolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration com.apple.print.proxy.HP_OfficeJet_4650_series.toolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration com.apple.print.proxy.Home_Printer.toolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration com.apple.print.proxy.KSU_1118.toolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration com.apple.print.proxy.RICOH_MP_C3503.toolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration com.apple.print.proxy.acacia_printer.toolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSWindow Frame Printer Proxy Frame Acacia_USB" = "32 448 500 224 0 0 1680 1027 ";
+    "NSWindow Frame Printer Proxy Frame Brother_MFC_9325CW" = "32 448 500 224 0 0 1680 1027 ";
+    "NSWindow Frame Printer Proxy Frame HP_OfficeJet_4650_series" = "32 448 500 224 0 0 1680 1027 ";
+    "NSWindow Frame Printer Proxy Frame Home_Printer" = "1074 791 500 224 0 0 1680 1027 ";
+    "NSWindow Frame Printer Proxy Frame KSU_1118" = "32 448 500 224 0 0 1680 1027 ";
+    "NSWindow Frame Printer Proxy Frame RICOH_MP_C3503" = "1161 489 500 224 0 0 1680 1027 ";
+    "NSWindow Frame Printer Proxy Frame acacia_printer" = "0 214 500 437 0 0 1680 1027 ";
+    "NSWindow Frame Scanner Proxy Frame Acacia_USB" = "64 80 745 429 0 0 1680 1027 ";
+    "NSWindow Frame Scanner Proxy Frame Brother_MFC_9325CW" = "64 80 745 429 0 0 1680 1027 ";
+    "NSWindow Frame Scanner Proxy Frame HP_OfficeJet_4650_series" = "64 80 745 429 0 0 1680 1027 ";
+    "NSWindow Frame Scanner Proxy Frame Home_Printer" = "64 80 745 429 0 0 1680 1027 ";
+    "NSWindow Frame Scanner Proxy Frame KSU_1118" = "64 80 745 429 0 0 1680 1027 ";
+    "NSWindow Frame Scanner Proxy Frame RICOH_MP_C3503" = "538 10 745 429 0 0 1680 1027 ";
+    "NSWindow Frame Scanner Proxy Frame acacia_printer" = "64 80 745 429 0 0 1680 1027 ";
+}

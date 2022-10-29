@@ -1,0 +1,12 @@
+{
+    ITUserPrefsMigrated = 1;
+    debugAssertCategoriesEnabled = 0;
+    debugAssertCategoriesVersion = 3;
+    persistentUserID = 6220316530033337323;
+    storeMediaTypeFlags = 3422;
+    storeSupportsCloudPurchases = 1;
+    storeSupportsPasswordSettings = 1;
+    storeSupportsPreviousPurchases = 1;
+    storeSupportsUPP = 1;
+    updateLevel = 43;
+}

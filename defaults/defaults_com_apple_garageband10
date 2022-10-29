@@ -1,0 +1,1477 @@
+{
+    ApplePersistenceIgnoreState = 1;
+    AudioHardwarePreferences =     {
+        CurrentCoreAudioDeviceID = 39;
+        CurrentCoreAudioDeviceName = "Built-in Output";
+        CurrentCoreAudioDeviceUID = "AppleHDAEngineOutput:1B,0,1,1:0";
+        CurrentCoreAudioInputDeviceID = 49;
+        CurrentCoreAudioInputDeviceName = "Built-in Microphone";
+        CurrentCoreAudioInputDeviceUID = "AppleHDAEngineInput:1B,0,1,0:1";
+        CurrentCoreAudioInputModelUID = "AppleHDA:123";
+        CurrentCoreAudioModelUID = "AppleHDA:123";
+        LastUsedCoreAudioDeviceNames =         (
+            "Built-in Output"
+        );
+        LastUsedCoreAudioInputDeviceNames =         (
+            "Built-in Microphone"
+        );
+    };
+    CoreMIDIInitPending = 0;
+    CreateNewTracksDefaults =     {
+        Audio =         {
+            DefaultTrackSubType = Vocals;
+            Guitar =             {
+                AscendingInputs = 0;
+                AscendingOutputs = 0;
+                ChannelStripDefault = {length = 0, bytes = 0x};
+                ChannelStripDefaultCategory = "";
+                HasInputDevice = 1;
+                HasInputSource = 1;
+                HasNumberOfTracksField = 0;
+                InputIndex = 0;
+                InputMonitoring = 0;
+                InputType = 65;
+                LoadDefaultPatchOrInstrument = 1;
+                OpenLibrary = 1;
+                OutputIndex = 0;
+                OutputType = 76;
+                TrackType = 10;
+            };
+            Vocals =             {
+                AscendingInputs = 0;
+                AscendingOutputs = 0;
+                ChannelStripDefault = {length = 0, bytes = 0x};
+                ChannelStripDefaultCategory = "";
+                HasInputDevice = 1;
+                HasInputSource = 1;
+                HasNumberOfTracksField = 0;
+                InputIndex = 0;
+                InputMonitoring = 0;
+                InputType = 65;
+                LoadDefaultPatchOrInstrument = 1;
+                OpenLibrary = 1;
+                OutputIndex = 0;
+                OutputType = 76;
+            };
+        };
+        AutomaticPlayer =         {
+            DefaultTrackSubType = Drums;
+            Drums =             {
+                ChannelStripDefault = {length = 0, bytes = 0x};
+                ChannelStripDefaultCategory = "";
+                DrummerInfo =                 {
+                    NTCDrummerInfoCharacterIdentifierKey = "";
+                    NTCDrummerInfoCharacterType = "";
+                    NTCDrummerInfoGenreIdentifierKey = "";
+                    NTCDrummerInfoPatchPathKey = "";
+                };
+                LoadDefaultPatchOrInstrument = 1;
+                OpenLibrary = 1;
+                OutputIndex = 0;
+                OutputType = 76;
+                TrackType = 4;
+            };
+        };
+        DefaultTrackType = Midi;
+        Midi =         {
+            DefaultTrackSubType = SoftwareInstrument;
+            SoftwareInstrument =             {
+                AscendingOutputs = 0;
+                ChannelStripDefault = {length = 0, bytes = 0x};
+                ChannelStripDefaultCategory = "";
+                HasNumberOfTracksField = 0;
+                LoadDefaultPatchOrInstrument = 1;
+                NumberOfInstrumentLayer = 0;
+                OpenLibrary = 1;
+                OutputIndex = 0;
+                OutputType = 76;
+                kNewTracksChannelStripDefaultInstrument =                 {
+                    NTCDefaultInstrumentInputFormat = 0;
+                    NTCDefaultInstrumentIsMultiOut = 0;
+                    NTCDefaultInstrumentManufacturerID = 0;
+                    NTCDefaultInstrumentName = "";
+                    NTCDefaultInstrumentOutputFormat = 0;
+                    NTCDefaultInstrumentPluginID = 0;
+                    NTCDefaultInstrumentPluginSubID = 0;
+                };
+            };
+        };
+    };
+    JPMDatabase9 =     {
+        "_DfGarageBandAll" =         {
+            Manufacturer = Apple;
+            "_DfAppLpsArray" =             (
+                "/Library/Audio/Apple Loops/Apple/Update Apple Loops for GarageBand",
+                "/Library/Audio/Apple Loops/Apple/Apple Loops for GarageBand",
+                "/Library/Application Support/GarageBand/Apple Loops/Apple Loops for GarageBand",
+                "/Library/Audio/Apple Loops/Apple/iLife Sound Effects"
+            );
+            "_DfAppLpsEnabled" = 1;
+            "_DfDemoSongPathsToQuery" =             (
+                "/Library/Application Support/GarageBand/GarageBand Demo Songs/GarageBand Demo Songs/",
+                "/Users/Shared/GarageBand Demo Songs/"
+            );
+            "_DfDemoSongsToQuery" =             (
+                "For the Mind",
+                Daydream
+            );
+            "_DfDisplayName" = GarageBand;
+            "_DfILEnabled" = 1;
+            "_DfKey" = "_DfGarageBandAll";
+            "_DfReceiptCSTs" =             (
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Berneray Chill.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Summer Sounds.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Classical Acoustic Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Jazz/Jazz Warmth.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Dance Big Bottom.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Hip Hop Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Gorai Atmosphere.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Tula Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Strings/Lunar Strings.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Special Effects/Phone.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Rock Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Leads/Blip Side.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Female Rock Vocals.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Drums/Detailed Drums.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Sound Effects/Applause and Laughter.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Big Wheels.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Leads/Ominous Dancefloor.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Dance Refresh.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Thick Jazz.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Ithaca Vox.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Basics/Constellation.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Basics/Modern Prophecy.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Temae Delay.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Zanzibar Chords.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Ambient/Starry Night.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Jazz/Jazz Sparkle.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Liquid Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Rock/Rock Refreshing Sparkle.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Boscobel Blips.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Bass/Deep Round Synth Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/Female Narrator Noisy.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Special Effects/Psychadelic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Drum Kits/Hip Hop Kit.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Mercury Wash.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Sixties Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Jazz/Jazz Refresh.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Edgy Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Inhaca Pulse.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Pop/ Pop Basic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Classical/ Classical Basic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Rock/Rock Basic Finalizer.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Celestial Spring.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Ambient/Wide Spaces.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Stadium Rock/ Stadium Rock Basic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Classical/Full Classical.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Organs/Classic Rock Organ.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Hovering Machine.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/Female Radio.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Live Performance.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Organs/Smooth Dance Organ.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Ornos Brass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Pop/Slick Pop.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Sound Effects/Radio Sounds.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Drums/Edgy Drums.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Tenor Sax.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Live Horns.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Drums/ No Effects.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/ No Effects.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Sandoway Ricochet.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Filter Dance.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Scorching Solo.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Hyper Dance.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Bass/Upright Jazz Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Sixties Texture.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Organs/Jazz Organ.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/West Coast Wah.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Mallets/Music Box.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Samoa Sweep.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Classical/Front Row Symphonic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Modern Rock Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Horns/Horn Section.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Basics/Martian Lounge.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Fontelina Fifths.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Deep Reggae Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Pop Vocals.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/Female Narrator.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Arena Rock.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Disco Club.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Dry Horn Section.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Intense Whispering.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Male RnB Vocals.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Woodwinds/Alto Sax.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/String Ensemble.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Basics/Circuit Dialog.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Double Filter.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Drum Kits/Jazz Kit.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/ Dance Basic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Pianos and Keyboards/Electric Piano.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/English Channel.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/iChat Voice.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Classical/Classical Chamber.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Dance Energy.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Stadium Rock/Large Arena.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Punk Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Male Speech.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/ No Effects.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Leads/Arena Run.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Metropolis.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/British Invasion.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Seventies Rhythm.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Rotuma Bells.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Digital Horns.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Silicon Strings.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Ambient Vocals.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Hip Hop/ Hip Hop Basic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Female Dance Vocals.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Classic Rock.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Mallets/Church Bell.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Manori Stab.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Molokai Melodies.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Gospel Choir.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Radio Effect.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Pianos and Keyboards/Whirly.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Jazz/Jazz Club.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Leads/Solo Star.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Surf.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Clean Jazz.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Ambient/Dub.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Rock/Rock Bass Boost.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Tight Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Horns/Dub Horns.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/ No Effects.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Hip Hop/Hip Hop Pump It Up.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Ambient/ Ambient Basic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Deeper Vocals.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Rawaii Riffer.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Sound Effects/Nature Sounds.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Drums/Fade Out Drums.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Drums/Isolate Sub Bass Drum.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Lunar Bounce.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Casuarina Cascade.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/Male Radio Noisy.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Bass/Trance Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Old Vinyl Brass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Rock/Folk Rock.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Guitars/Steel String Acoustic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Mykonos Movements.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Strings/Hollywood Strings.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Pop/Pop Airy.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Eighties Pop.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Cleopatra Chord.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Pop/Pop Bass Boost.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Pianos and Keyboards/Grand Piano.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Helium Breath.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Basics/Laser Shot.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Negril Sweep.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Jazz/ Jazz Basic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Horns/Pop Horn Section.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/ No Effects.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Hip Hop/Hip Hop Warm Mastering.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Classical/Warm Classical.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Fiji Afterglow.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Drums/Crunchy Drums.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Stadium Rock/Stadium Empty.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Rave.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Highs and Lows Enhancement.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Skye Breath.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Wandering Around.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Violin.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Modulating Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Solomon Sync.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Lalaria Pad.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Male Rock Vocals.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Ping Pong Pulses.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Glam.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Leads/Synchro Nice.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Epic Diva.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Heavy Blues.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Basic Track/ No Effects.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Nakamal Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Orion Vocals.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Tight Acoustic Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Swirling Droplets.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Pianos and Keyboards/Grand Piano On Stage.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Organs/Cathedral Organ.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Amp Fuzz Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Bright Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Dance Bass Control.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/ No Effects.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Drums/Element Isolator.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Pianos and Keyboards/Smokey Clav.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Basics/Space Harpsichord.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Funky Rhythm.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Special Effects/Through The Walls.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Texas Blues.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Grunge.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Studio Direct Box Warm.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Special Effects/Live Rock Show.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Pop/Top 40.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Veradero Shimmer.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Hairspray.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Ultra Clean.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Coronados Brass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Classical/Airy.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Woodwinds/Pop Flute.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Female Basic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Bass/Slapped Electric Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Kotu Chords.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Rock/Rock Hi Fi.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Sanur Shimmer.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Basics/Sequence Element 1.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Pianos and Keyboards/Swirling Electric Piano.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Hip Hop/Hyped.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Basics/Planetarium.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Male Dance Vocals.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Cloud Break.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Pop/Pop Refreshing.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Rock/Rock More Punch.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Woodwinds/Shimmering Flute.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Leads/Cheerful Trance.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Angelic Organ.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Devja Delays.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Warm Strings.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Drums/Thickened Drums.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Zapper.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Guitars/Big Electric Lead.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Studio Direct Box Deep.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Dance Maximise.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Drum Kits/Rock Kit.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Hip Hop/Hip Hop Old Vinyl.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/iSight Microphone Female.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Pop/RnB.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Drums/Vocoder Drums.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Negril Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Muscat Pluck.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Leads/Riffy Fifths.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Filter Funk Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Guitars/Classical Acoustic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/New Nashville.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Seventies Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Strings/Orchestral Strings.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Atari Sings.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Solo Sax.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Filter Can.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Hip Hop/Hip Hop Add Sparkle.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Rock/Live Gig.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Bright Country.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/Male Narrator Noisy.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Horns/Trumpet Section.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Indie Rock.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Rock/Classic Rock.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Pianos and Keyboards/Smooth Clav.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Guitars/Nylon Shimmer.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Live Horn Section.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Pop/Pop Warmer.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Serena Swirl.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Ethereal Sunrise.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Falling Star.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Mallets/Aurora Bell.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Bass/Fretless Electric Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Acoustic Guitar Echoes.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Drum Kits/Dance Kit.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Hip Hop/Deep Thump.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Flute.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Long Panning Echoes.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Bondi Breath.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Baritone Sax.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Bass/Tight Synth Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Mouse Voice.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Filter Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Drum Kits/Techno Kit.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/Female Radio Noisy.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/ No Effects.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Bass/Fingerstyle Electric Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Pop/Ballad.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Round Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Super Fuzz.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Aquatic Sunbeam.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Male Basic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Organs/Pop Organ.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Rock/LA Rock.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Metal.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Drums/Quarter Pulse Drums.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Basics/Sequence Element 2.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Tonga Surround.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Huge Club.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Club Master.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Rock/ Rock Basic.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/Male Radio.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Basics/Star Sweeper.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Edgy Rock Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Liverpool Clean.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Woodwinds/Tenor Sax.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Bass/Muted Electric Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Modern Rock.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Floating Embers.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Leads/Moonbeam.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Izmir Ambience.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Leads/Future Flute.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Sound Effects/Comedy Noises.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Jazz/Lounge.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Special Effects/Old Movie.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Jazz/Jazz Basic Finalizer.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Pads/Cosmic Reflection.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Dance/Club Chaos.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Horns/Live Pop Horns.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Trumpets.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Pianos and Keyboards/Grand Piano Punchy.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/ Basic/ Default.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Barroom Lead.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Guitars/Electric Tremolo.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Female RnB Vocals.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Vocal Reflection.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Band Instruments/Trumpet Solo.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Classical/Classical Hall.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Sparkle Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Master/Hip Hop/Hip Hop Excite.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/Male Narrator.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Strings/Reflective Strings.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Patara Echoes.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Guitars/Clean Electric.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Drums/Low Res Drums.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Effects/Telephone Lines.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Drum Kits/Pop Kit.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Grind Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Imperia Pad.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Colorful Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Guitars/Dreamy Shimmer.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Bass/Sub Synth Bass.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Vocals/Megaphone.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Software/Synth Textures/Versova Pad.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Podcasting/iSight Microphone Male.cst",
+                "/Library/Application Support/GarageBand/Instrument Library/Track Settings/Real/Bass/Wave Bass.cst"
+            );
+            "_DfReceiptPSTs" =             (
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tonewheel Organ/Jazz Organ.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Super Flange.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Early Reflection.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Speech Enhancer/Male Radio.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/FX Cruncher.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Piano/Grand Piano On Stage.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Spacious.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Metallic Atmo D.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Square Fifth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Metallic Atmo C.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Drum Cave.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Vocal Morph.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Piano Refresh.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Piano Smooth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Short Poly.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Mystical.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Dub Delay B.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Soft and Fast.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Color 19.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Warm Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Slow and Wide.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Metallic Atmo B.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Heavy Wah.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Tremolo Bells.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Chorus/Atmospheric.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Limiter Smooth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Synth Definition.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Atmo Pad 2.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Ducker/Slowest - Maximum Music Reduction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Dark Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Digi Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bitcrusher/Digitizer.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Metallic Atmo A.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Bass Snap.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Vocal Room.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Drum Kits/Jazz Kit.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Drum Club.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass/Fingerstyle Electric Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/British Overdrive.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bitcrusher/Sample Rate Crusher.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Piano Upfront.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Drum Kit Punchy.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Harmonic Filter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Piano/Grand Piano.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Galactic Static.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Drum Limiter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Dark Quarter Note Echo.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Parachute.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Magnetic Flange.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/FM Bells A.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Poly Basic 1.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Sound Effects/Applause and Laugher.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Speech Enhancer/Female Radio.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Medium Hall.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Sync Tech.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Drum Kit Soften.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Living.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Vocals Soft Backgroud.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/American Overdrive.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Drums More Snare.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/British Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Clear Vocals.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Treble Reduction/Medium.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Dirty Sweller.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Vocal Excite.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Brighten Strings.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Analog Dreams.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Synth Sheep.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Trails.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Stronger Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Bitcrush Keys.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Dub Delay A.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Harder Guitars.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/FM Polysynth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Dance Echo A.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Bass Wah.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Large Hall.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Piano/Grand Piano Punchy.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Vocal Presence.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Horns/Pop Horn Section.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Dance Reverb.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Speech Enhancer/Male Narrator Noisy.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Overdrive/Drive 3.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Classic Thick.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Bass in the Room.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Organic.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Amp/Deep Bass Amp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Super Strings.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Hard Pulse Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Drum Refresh.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Sync Lead D.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass/Muted Electric Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Brassy Synth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Increase Attack.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Groovy Sync.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Brass Hard.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Over and Over.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Light Machine.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Down Minor Third.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Crush Stepper.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Space.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Crosswaves A ModW.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Smooth Morph.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Chorus/Medium Chorus.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Guitar/Clean Electric Guitar.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Leslie Rotor.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Flange Saw.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Vocal Hall.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Drums in Space.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Deep and Slow Filter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Wild Phase.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Crosswaves B ModW.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Filter Ducks.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Fascination.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/PWM Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Sixteenth Pulse.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Bass Boom Control.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Ducker/Fast - Maximum Music Reduction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Bell Noise.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Digi Synth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Old Phaser.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Crosswaves C ModW.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Percussion More Definition.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Metal Slapper.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Atmo Pad 1.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Sync Lead C.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Half Note Echo.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Slow Brass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Amp/Reggae Bass Amp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Amp/Fat Bass Amp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Synced Waves.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Chorus/Spread Stereo.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Dark Cave.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Strings/String Ensemble.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Add Bass Punch.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Chorus/Stage Chorus.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Galaxy Swirl.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Impact Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Cartoon Falsetto.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Space Choir.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Electric Piano Crunch.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Old FM Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Super Stack.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Deep and Slow Resonance.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Telephone Voice.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Soft Tremolo.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Phasing HiPaStabs.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/American Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Drum Kit Tighten.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Funky Fifth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Light Peak.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tonewheel Organ/Cathedral (full).pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Reduction/Remove Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Sci Fi.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Chorus/Deep Modulation.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Mega Stack.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Down Major Third.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Sync Lead B.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Icy Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Sonic Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Deep Slow Pan.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Sync Percussive.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Cycling.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Intergalactic Police.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Vocal Compression Basic.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Voodoo Groove A.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Voxy Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Reduce Bass Boom.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Speech Enhancer/Female Radio Noisy.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Light Pan.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Sync Pad A.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Hard Corer.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Percussive Fifth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Large Chamber.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Synth Pad Compression.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Electric Guitar Smoothen .pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Dark Eight Note Echo.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tonewheel Organ/Cathedral (less).pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Up Major Third.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Quick Slap.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Drum Kit Fat.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Noisy Ringer.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Eight Notes Dark Pulse.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Modulating.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Ducker/Slow - Moderate Music Reduction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Ambient Delay.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/FM Filter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Bouncer.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/HiPass Pad ModW.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Dark Cathedral.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Dance Synth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Glassy Pad 1.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Bali Bells.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Bright Shuffle.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Vintage.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Sync Lead A.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Mellow Blue.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Electric Clavinet/Low Damp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Syncy.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Ducker/Slowest - Slight Music Reduction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Sound Effects/Comedy Noises.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Reduce \\"S\\".pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Soft Backgroud Vocals.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Electric Clav/Low Damp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Two Bars Down Filter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Fat Pulsbass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Rotor Robot.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Basic Synth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Classic Brass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/PWM Slow Brass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Plastic Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Flam.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Mini Q Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Sixtienth Pulse.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Chipmunk.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Improve Guitars.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Laser Fire.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Chorus Organ A.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Electric Clav/Clean Clav.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Bit Surround.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Dolphin Flange.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Surrounding.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Hi-Fi Smiley.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Techno Line.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Crunch Wah.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/String Flange.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Fifth Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Hybrid Chords.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Strong Gate.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Ducker/Slow - Maximum Music Reduction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Speech Enhancer/Male Radio Noisy.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tonewheel Organ/Pop Organ.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Keyboard Soften.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Brass Brighter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Slow PWM Sweep.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Mid Reduce.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/New Luck.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Slow & Deep.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Vocals Gritty.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Living Room.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Dancy Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Hard Pluck Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Ducker/Slow - Slight Music Reduction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Resonance Filter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/HPF Sweep.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Digital Light.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Dream Synth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Smooth Strings.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Rezzy Brass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Perc X.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Triple Offset Filter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Acoustic Guitar Clarify.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Funky Filter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Chorus/Jazz Chorus.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Droid.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Vocal Compression Rap.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Rotor Vox.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/PWM Arpeggio.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Super Octave.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Phasing HiPaPad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Electric Clavinet/Funky Lizzard.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Overdrive/Drive 1.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Mini Lead 4.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Dry Organ.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Vocoder Phase.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Avantgarde.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Tacky.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Drums Small Club.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Saw Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Popular Synth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Dark & Dirty.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Filter RNDM.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Metallic Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Dance Echo B.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/British Crunch.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Hi-Fi.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Sound Effects/Nature Sounds.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Strings Bright.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Square Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Cathedral.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Chorus/Glimmer.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Plucky Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Small Club.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Sync Pad B.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Overdrive/Drive 4.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Amp/Rock Edge Bass Amp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Bright Cathedral.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Electric Piano/Tine Piano.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Electric Clav/Funky Lizzard.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Feedback Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Crush Keys.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Bass Smooth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Resonance Organ.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Static Peak.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Singing Phase.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Full Range.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Guitar/Steel String Acoustic.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Enhance Bass Drum.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Guitar Shimmer.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Cry Baby.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bitcrusher/Wave Destruction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Mini Lead 3.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Slap Back.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Stack Vox.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Poly Basic 2.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Speech Enhancer/iSight Microphone Male.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Drum Kit Cushion.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Kick Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Hi Pass Autofilter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Drum Room 1.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Rope Man.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/FM Bells B.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tonewheel Organ/Circus Organ.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Funky Synth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Chiller.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Woodwind/Pop Flute.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Organic.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Perc Digisyn.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Sixties Echo Effect.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Dub.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Quarter Note Echo.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Bass Arena.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Fast Saw Filter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Sweet Pulse.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Speech Enhancer/Female Narrator.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Large Stage.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Ducker/Fast - Slight Music Reduction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Drive Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Deep Soulful.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bitcrusher/Soft Bit Reduction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Fast Pan.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Male to Female.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Distortion/Distortion 4.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/English Channel.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Bass Boost.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Extreme Compression.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Speech Enhancer/Male Narrator.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Phrasator.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Scape.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Chill Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Mini Lead 2.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Vocal Warm.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Short.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Add Presence to Thin Sounds.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Vibra Roads.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Trilogy.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Electro Steps.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass/Upright Jazz Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bitcrusher/AM Radio.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Chorus/Light Chorus.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Straight Quarter.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Resonator.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Add Bass Clarity.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Pick Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Drum Stadium.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Magno Grain.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/One World.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Ducker/Fast - Moderate Music Reduction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Distortion/Distortion 3.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Hard Octave.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Air Vocals.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/No Resonance Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Dark Trailing.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Fast Mono Tremolo.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Sound Effects/Radio Sounds.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Trance Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/RnB Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Bright Square Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Guitar In Space.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Make Wide.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Mini Lead 1.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Monsters.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Syrenade.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bitcrusher/6 Bit Resynth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Circle Phases.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Electric Guitar More Attack.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Amp/Modern Rock Bass Amp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Bright Swell.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/FM Percussion D.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Guitar Bright.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/FM Punchy Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Concert Hall.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Softsyn.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Female to Male.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Chorus/Faster Modulation.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Digital Synth B.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Trance.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/Big Wheels.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Bright Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Speech Enhancer/Female Narrator Noisy.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/FM Percussion C.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Backward Fifth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/HPF Polysynth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Digital Synth A.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Funk Phase.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Mini Crusher.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Distortion/Distortion 2.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Drum Kits/Hip Hop Kit.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Breath Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/FM Percussion B.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Up Minor Third.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Bass Big Squeeze.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Phasing MixStabs.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Amp/Funk Bass Amp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Amp/Seventies Bass Amp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Analog Swell.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Remove Guitar Dullness.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Dark Crosswaves.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Stadium Flange.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Vox Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Deep Phase.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Sync Pad C.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/FM Bellsynth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Fast Pulse.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/Classic Rock.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/FM Percussion A.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Zero Lima.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Swell Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Resonance Ticks.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Ducker/Slowest - Moderate Music Reduction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Add Sharpness.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tonewheel Organ/Percussion Organ.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Glassy Pad 2.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Mono Tremolo.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Acoustic Guitar Smoothen.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Mini Dance.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Sine Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Medium Wah.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Distortion/Distortion 1.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Blue Sky Synth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Treble Reduction/Ultra.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Crushed Bells.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Bubble Noise.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Downbeat Saw.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Hi Reaction.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Analog Blend.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Big Drum.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Andriod Symphony.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Refresh Dull Recordings.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Nirvana.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Noisy Vox.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Rasta.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Drum Kits/Pop Kit.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Medium Flange.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/PWM Percussive Synth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Improve Thin Sounds.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/DnB Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Amp/Slap Bass Amp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Soft Auto Wah.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Power Fuzz.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Increase Bass Pluck.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Dance Floor.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Medium Chamber.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Add Fullness to Snare.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Drum Kits/Dance Kit.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Large Cathedral.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Woodwind/Alto Sax.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Phasing LoPaPad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Dark Pad ModW.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Treble Reduction/Soft.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Amp/Fuzz Bass Amp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Knock Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Trancy Vox Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/Thick Jazz.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Bass Strengthen.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Drum Kits/Techno Kit.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Mini Bass 3.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Blue Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Electric Shock.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Overdrive/Drive 2.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bitcrusher/Demaged Bits.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Acoustic Guitar Clear.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Reduction/Remove Deep Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Electric Clavinet/Clean Clav.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Treble Reduction/Hard.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Soft Flange.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Wooden Pulse Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/Digital Softpad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/American Crunch.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Flat.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Straight Eight.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Endless Loop.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Automatic Filter/Club Next Door.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Empty Arena.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Flanger/Slow Sweep.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Guitar Small Club.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Bass Punchier.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Medium Pan.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Drum Kit Extreme Pump.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Bass Plus.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Ballad King.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Chorus/Smooth Chorus.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Arena.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bitcrusher/Classic 8 Bit.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Horns/Trumpet Section.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Drums Add Clarity.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Trance Sequence.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Auto Wah/Wow.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Vocal Shimmer.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Electric Piano/Whirly.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Mini Bass 2.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Add Brightness.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Uni Bright.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Amp/Warm Bass Amp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Atmo Pad 3.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Guitar Brighten.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/LPF Sweep.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/PWM Stringpad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Voodoo Groove B.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Reduction/Hi Pass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass Amp/Sixties Bass Amp.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Eighties Synth Brass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Small Dome.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Deep Space.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/Medium Sweep.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Guitar Cave.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Octave Brass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Sync Pad D.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Chorus Organ B.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bitcrusher/Meet Atari.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Rock n Roll.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Ultra Pan.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Iron Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Fat Sequence.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass/Fretless Electric Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Horns/Horn Section.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Vocal Compression Rock.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Vocal Compression Gentle.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Bass/Slapped Electric Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/British Clean.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Drum Kit tight.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Attack Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Stepper/Talking Organ.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tonewheel Organ/Rock Organ.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Bass Punchy.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Sync/Dry Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tremolo/Circular Structure.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Mini Bass 1.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Morph/Deep Freeze.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Ringtone.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Moon Dome.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Small Chamber.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Echo/Shift to Bright.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tonewheel Organ/Dust.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Basic/Soft Pulse Lead.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/FM Warmsynth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Limiter Hard.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Mono/Wow Bass.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Equalizer/Bass Increase Pluck.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Tonewheel Organ/Simple Organ.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Reverb/Club.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Guitar/Classical Acoustic Guitar.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Mono/Steam Hammer.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Phaser/Rock Phaser.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Rockabilly.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Compressor/Brass Gentle.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Reverb/Guitar Hollow Room.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Dark Chaser.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Down Fourth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Speech Enhancer/iSight Microphone Female.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Digital Basic/FM Bells C.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Pad/Silent Pad.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Drum Kits/Rock Kit.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Amp Simulation/American Clean.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Track Echo/Metallic Trails.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Woodwind/Tenor Sax.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Vocal Transformer/Up Fourth.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Hybrid Basic/Rave Riffer.pst",
+                "/Library/Application Support/GarageBand/Instrument Library/Plug-In Settings/Analog Swirl/PWM Atmosphere.pst"
+            );
+            "_DfShowAlways" = "_DfShowAlways";
+        };
+    };
+    JPMKnownReceipts9 =     {
+        "/Library/Receipts/CPU_GarageBand.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/CPU_GarageBand_A.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/CPU_GarageBand_B.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/CPU_GarageBand_C.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/CPU_GarageBand_D.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand Sound Library.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand10Loops.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand20Loops.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBandApp.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBandApp20.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBandDemoSongs.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBandDocs.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBandExtraContent.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBandFactoryContent.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBandInstrumentsStudio.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_101.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_11.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_410.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_411.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_412.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_FactoryContent.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_Instruments.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_Instruments_Tiger.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_Jam_Pack.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_LTPContent.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_Loops.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/GarageBand_MagicContent.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/JamPack1.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/JamPack4_DemoSongs.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/JamPack4_Instruments.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/JamPack4_Loops.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/JamPack4_Update.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/JamPackUpdate_101.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/Logic Express Trial Content Installer.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/RemixTools_Instruments.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/RemixTools_Loops.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/RhythmSection_Instruments.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/RhythmSection_Loops.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/Voices_DemoSongs_Tiger.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/Voices_Instruments_Tiger.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/Voices_Loops_Tiger.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/WorldMusic_DemoSongs_Tiger1.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/WorldMusic_DemoSongs_Tiger2.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/WorldMusic_Instruments_Tiger.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/WorldMusic_Loops.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/WorldMusic_Loops_Tiger.pkg" = "4001-01-01 00:00:00 +0000";
+        "/Library/Receipts/WorldMusic_Pro.pkg" = "4001-01-01 00:00:00 +0000";
+    };
+    JPMNumKnownReceipts9 = 12;
+    JPMVersion9 = "9.4";
+    LogicBinaryPreferences = {length = 3088, bytes = 0x789ced9d cf6f1bc7 15c7df48 bbf212e1 ... 7c4ff47f 9fec52a1 };
+    LogicProgressGroupWindowPositionHorizontal = 430;
+    LogicProgressGroupWindowPositionVertical = 609;
+    "MAPrefs_ActiveDownloads_2" =     {
+        downloads =         {
+            "MAContent10_AssetPack_0048_AlchemyPadsDigitalHolyGhost.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0048_AlchemyPadsDigitalHolyGhost";
+                pkgName = "MAContent10_AssetPack_0048_AlchemyPadsDigitalHolyGhost.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0048_AlchemyPadsDigitalHolyGhost.pkg";
+            };
+            "MAContent10_AssetPack_0310_UB_DrumMachineDesignerGB.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0310_UB_DrumMachineDesignerGB";
+                pkgName = "MAContent10_AssetPack_0310_UB_DrumMachineDesignerGB.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0310_UB_DrumMachineDesignerGB.pkg";
+            };
+            "MAContent10_AssetPack_0312_UB_UltrabeatKitsGBLogic.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0312_UB_UltrabeatKitsGBLogic";
+                pkgName = "MAContent10_AssetPack_0312_UB_UltrabeatKitsGBLogic.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0312_UB_UltrabeatKitsGBLogic.pkg";
+            };
+            "MAContent10_AssetPack_0314_AppleLoopsHipHop1.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0314_AppleLoopsHipHop1";
+                pkgName = "MAContent10_AssetPack_0314_AppleLoopsHipHop1.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0314_AppleLoopsHipHop1.pkg";
+            };
+            "MAContent10_AssetPack_0315_AppleLoopsElectroHouse1.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0315_AppleLoopsElectroHouse1";
+                pkgName = "MAContent10_AssetPack_0315_AppleLoopsElectroHouse1.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0315_AppleLoopsElectroHouse1.pkg";
+            };
+            "MAContent10_AssetPack_0316_AppleLoopsDubstep1.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0316_AppleLoopsDubstep1";
+                pkgName = "MAContent10_AssetPack_0316_AppleLoopsDubstep1.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0316_AppleLoopsDubstep1.pkg";
+            };
+            "MAContent10_AssetPack_0317_AppleLoopsModernRnB1.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0317_AppleLoopsModernRnB1";
+                pkgName = "MAContent10_AssetPack_0317_AppleLoopsModernRnB1.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0317_AppleLoopsModernRnB1.pkg";
+            };
+            "MAContent10_AssetPack_0320_AppleLoopsChillwave1.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0320_AppleLoopsChillwave1";
+                pkgName = "MAContent10_AssetPack_0320_AppleLoopsChillwave1.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0320_AppleLoopsChillwave1.pkg";
+            };
+            "MAContent10_AssetPack_0321_AppleLoopsIndieDisco.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0321_AppleLoopsIndieDisco";
+                pkgName = "MAContent10_AssetPack_0321_AppleLoopsIndieDisco.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0321_AppleLoopsIndieDisco.pkg";
+            };
+            "MAContent10_AssetPack_0322_AppleLoopsDiscoFunk1.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0322_AppleLoopsDiscoFunk1";
+                pkgName = "MAContent10_AssetPack_0322_AppleLoopsDiscoFunk1.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0322_AppleLoopsDiscoFunk1.pkg";
+            };
+            "MAContent10_AssetPack_0323_AppleLoopsVintageBreaks.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0323_AppleLoopsVintageBreaks";
+                pkgName = "MAContent10_AssetPack_0323_AppleLoopsVintageBreaks.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0323_AppleLoopsVintageBreaks.pkg";
+            };
+            "MAContent10_AssetPack_0324_AppleLoopsBluesGarage.pkg" =             {
+                downloadStarted = 1;
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0324_AppleLoopsBluesGarage";
+                pkgName = "MAContent10_AssetPack_0324_AppleLoopsBluesGarage.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0324_AppleLoopsBluesGarage.pkg";
+            };
+            "MAContent10_AssetPack_0325_AppleLoopsGarageBand1.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0325_AppleLoopsGarageBand1";
+                pkgName = "MAContent10_AssetPack_0325_AppleLoopsGarageBand1.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0325_AppleLoopsGarageBand1.pkg";
+            };
+            "MAContent10_AssetPack_0354_EXS_PianoSteinway.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0354_EXS_PianoSteinway";
+                pkgName = "MAContent10_AssetPack_0354_EXS_PianoSteinway.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0354_EXS_PianoSteinway.pkg";
+            };
+            "MAContent10_AssetPack_0357_EXS_BassAcousticUprightJazz.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0357_EXS_BassAcousticUprightJazz";
+                pkgName = "MAContent10_AssetPack_0357_EXS_BassAcousticUprightJazz.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0357_EXS_BassAcousticUprightJazz.pkg";
+            };
+            "MAContent10_AssetPack_0358_EXS_BassElectricFingerStyle.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0358_EXS_BassElectricFingerStyle";
+                pkgName = "MAContent10_AssetPack_0358_EXS_BassElectricFingerStyle.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0358_EXS_BassElectricFingerStyle.pkg";
+            };
+            "MAContent10_AssetPack_0371_EXS_GuitarsAcoustic.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0371_EXS_GuitarsAcoustic";
+                pkgName = "MAContent10_AssetPack_0371_EXS_GuitarsAcoustic.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0371_EXS_GuitarsAcoustic.pkg";
+            };
+            "MAContent10_AssetPack_0375_EXS_GuitarsVintageStrat.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0375_EXS_GuitarsVintageStrat";
+                pkgName = "MAContent10_AssetPack_0375_EXS_GuitarsVintageStrat.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0375_EXS_GuitarsVintageStrat.pkg";
+            };
+            "MAContent10_AssetPack_0482_EXS_OrchWoodwindAltoSax.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0482_EXS_OrchWoodwindAltoSax";
+                pkgName = "MAContent10_AssetPack_0482_EXS_OrchWoodwindAltoSax.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0482_EXS_OrchWoodwindAltoSax.pkg";
+            };
+            "MAContent10_AssetPack_0484_EXS_OrchWoodwindClarinetSolo.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0484_EXS_OrchWoodwindClarinetSolo";
+                pkgName = "MAContent10_AssetPack_0484_EXS_OrchWoodwindClarinetSolo.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0484_EXS_OrchWoodwindClarinetSolo.pkg";
+            };
+            "MAContent10_AssetPack_0487_EXS_OrchWoodwindFluteSolo.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0487_EXS_OrchWoodwindFluteSolo";
+                pkgName = "MAContent10_AssetPack_0487_EXS_OrchWoodwindFluteSolo.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0487_EXS_OrchWoodwindFluteSolo.pkg";
+            };
+            "MAContent10_AssetPack_0491_EXS_OrchBrass.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0491_EXS_OrchBrass";
+                pkgName = "MAContent10_AssetPack_0491_EXS_OrchBrass.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0491_EXS_OrchBrass.pkg";
+            };
+            "MAContent10_AssetPack_0509_EXS_StringsEnsemble.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0509_EXS_StringsEnsemble";
+                pkgName = "MAContent10_AssetPack_0509_EXS_StringsEnsemble.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0509_EXS_StringsEnsemble.pkg";
+            };
+            "MAContent10_AssetPack_0536_DrummerClapsCowbell.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0536_DrummerClapsCowbell";
+                pkgName = "MAContent10_AssetPack_0536_DrummerClapsCowbell.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0536_DrummerClapsCowbell.pkg";
+            };
+            "MAContent10_AssetPack_0537_DrummerShaker.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0537_DrummerShaker";
+                pkgName = "MAContent10_AssetPack_0537_DrummerShaker.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0537_DrummerShaker.pkg";
+            };
+            "MAContent10_AssetPack_0538_DrummerSticks.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0538_DrummerSticks";
+                pkgName = "MAContent10_AssetPack_0538_DrummerSticks.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0538_DrummerSticks.pkg";
+            };
+            "MAContent10_AssetPack_0539_DrummerTambourine.pkg" =             {
+                downloadStarted = 1;
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0539_DrummerTambourine";
+                pkgName = "MAContent10_AssetPack_0539_DrummerTambourine.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0539_DrummerTambourine.pkg";
+            };
+            "MAContent10_AssetPack_0540_PlugInSettingsGB.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0540_PlugInSettingsGB";
+                pkgName = "MAContent10_AssetPack_0540_PlugInSettingsGB.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0540_PlugInSettingsGB.pkg";
+            };
+            "MAContent10_AssetPack_0541_PlugInSettingsGBLogic.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0541_PlugInSettingsGBLogic";
+                pkgName = "MAContent10_AssetPack_0541_PlugInSettingsGBLogic.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0541_PlugInSettingsGBLogic.pkg";
+            };
+            "MAContent10_AssetPack_0554_AppleLoopsDiscoFunk2.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0554_AppleLoopsDiscoFunk2";
+                pkgName = "MAContent10_AssetPack_0554_AppleLoopsDiscoFunk2.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0554_AppleLoopsDiscoFunk2.pkg";
+            };
+            "MAContent10_AssetPack_0560_LTPBasicPiano1.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0560_LTPBasicPiano1";
+                pkgName = "MAContent10_AssetPack_0560_LTPBasicPiano1.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0560_LTPBasicPiano1.pkg";
+            };
+            "MAContent10_AssetPack_0593_DrummerSoCalGBLogic.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0593_DrummerSoCalGBLogic";
+                pkgName = "MAContent10_AssetPack_0593_DrummerSoCalGBLogic.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0593_DrummerSoCalGBLogic.pkg";
+            };
+            "MAContent10_AssetPack_0598_LTPBasicGuitar1.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0598_LTPBasicGuitar1";
+                pkgName = "MAContent10_AssetPack_0598_LTPBasicGuitar1.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0598_LTPBasicGuitar1.pkg";
+            };
+            "MAContent10_AssetPack_0615_GBLogicAlchemyEssentials.pkg" =             {
+                downloadType = 3;
+                groups =                 (
+                    EssentialDownload
+                );
+                numRetry = 0;
+                packageID = "MAContent10_AssetPack_0615_GBLogicAlchemyEssentials";
+                pkgName = "MAContent10_AssetPack_0615_GBLogicAlchemyEssentials.pkg";
+                url = "http://audiocontentdownload.apple.com/lp10_ms3_content_2016/MAContent10_AssetPack_0615_GBLogicAlchemyEssentials.pkg";
+            };
+        };
+        groups =         {
+            EssentialDownload =             {
+                DisplayName = "Essential Sound Library";
+                DownloadType = 3;
+                GroupID = EssentialDownload;
+            };
+        };
+    };
+    "MAStoreController_LastVersion" = "10.1.6";
+    MiddleC = 0;
+    MusicalTypingWindowTopLeftPoint = "{447, 387}";
+    NSFullScreenMenuItemEverywhere = 0;
+    NSQuitAlwaysKeepsWindows = 0;
+    "NSSplitView Subview Frames LibrarySplitView" =     (
+        "0.000000, 0.000000, 382.000000, 179.000000, NO, NO",
+        "0.000000, 180.000000, 382.000000, 452.000000, NO, NO"
+    );
+    "NSTableView Columns LibrarySearchTableView" =     (
+        {length = 64, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 65436f6c 756d6e86 },
+        182,
+        {length = 60, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 65436f6c 756d6e86 },
+        167
+    );
+    "NSTableView Hidden Columns LibrarySearchTableView" =     (
+    );
+    "NSTableView Sort Ordering LibrarySearchTableView" =     (
+        {length = 64, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 65436f6c 756d6e86 },
+        1
+    );
+    "NSWindow Frame Basic Content Download" = "1108 347 664 399 0 0 1280 777 ";
+    "NSWindow Frame GarageBand" = "308 314 660 358 0 0 1280 777 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "426 438 424 192 0 0 1280 777 ";
+    NewProjectDialogContainerViewFrame = "{{137, 298}, {1005, 407}}";
+    NewTrackSheetDefaults =     {
+        DefaultTrackType = NTCSoftwareInstrument;
+    };
+    ShowMoreDownloadsDialogGB = 1;
+    TraceAutoSave = 0;
+    WebDatabaseDirectory = "/Users/jaroddeweese/Library/Containers/com.apple.garageband10/Data/Library/Application Support/GarageBand/WebKit/WebDatabase";
+    WebKitLocalStorageDatabasePathPreferenceKey = "/Users/jaroddeweese/Library/Containers/com.apple.garageband10/Data/Library/Application Support/GarageBand/WebKit/LocalStorage";
+    XSTREAM = 6;
+    "XSTREAM_FEEDERRANGE" = 65536;
+    "XSTREAM_READAHEAD" = 0;
+    "XSTREAM_TRACE" = 0;
+    "_MT_feature" = "514008273.808402";
+    "_MT_firstLaunchTime" = "501390935.334655";
+    "_MT_ioconfig" = "514008273.813342";
+    "_MT_plugin" = "514008273.804137";
+    "_MT_rewire" = "514008273.810673";
+    lastSelectedKeyCommandsPath = "/Applications/GarageBand.app/Contents/Resources/Key Commands/U.S..logikcs";
+    lastSelectedKeyCommandsTouched = 0;
+    selectedCategoryName = "New Project";
+    selectedTemplatePath = "";
+    undoGlobalPath = "";
+    unsavedAutosavedURLs =     (
+    );
+    welcomeScreenShown = 1;
+}

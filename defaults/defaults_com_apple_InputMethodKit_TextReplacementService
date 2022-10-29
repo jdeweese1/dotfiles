@@ -1,0 +1,10 @@
+{
+    UserDictionary =     {
+        PFUbiquitySetupTokenAndIDArray =         (
+                        {
+                cid = "BAF60152-BD53-47A2-8A97-62AC063AD8FB";
+                token = {length = 20, bytes = 0x4d9d32116e7ae71080491bbcf69e489e6d5ca8c5};
+            }
+        );
+    };
+}

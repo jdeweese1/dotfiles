@@ -1,0 +1,14 @@
+{
+    LCDStringValueKey = "0.0000000000000000";
+    "NSWindow Frame Calc_History_Window" = "491 446 227 342 0 0 1680 1027 ";
+    "NSWindow Frame Calc_Main_Window" = "1345 474 232 321 0 0 1680 1027 ";
+    "RecentConversionsDefaultsKey_2" =     (
+                {
+            fromKey = btus;
+            toKey = calories;
+            typeKey = "energy or work";
+        }
+    );
+    ViewDefaultsKey = Basic;
+    ViewPathDefaultsKey = "##BUILTIN##/BasicAndSci.calcview";
+}

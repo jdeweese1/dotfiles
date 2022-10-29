@@ -1,0 +1,7 @@
+{
+    PresentationModeFnModes =     {
+        appWithControlStrip = functionKeys;
+    };
+    PresentationModePerApp =     {
+    };
+}

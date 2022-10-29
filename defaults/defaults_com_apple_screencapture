@@ -1,0 +1,16 @@
+{
+    "last-analytics-stamp" = "688247342.25685";
+    "last-messagetrace-stamp" = "613860274.01037";
+    "last-selection" =     {
+        Height = "754.5";
+        Width = 1541;
+        X = 107;
+        Y = "68.25";
+    };
+    "last-selection-display" = 0;
+    location = "~/Screenshots";
+    "location-last" = "~/Screenshots";
+    style = window;
+    target = file;
+    video = 0;
+}

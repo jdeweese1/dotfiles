@@ -1,0 +1,6 @@
+{
+    DidMigrateDownloadFolderToSandbox = 1;
+    DidMigrateResourcesToSandbox = 1;
+    Homepage = {length = 261, bytes = 0x62706c69 73743030 d4010203 04050616 ... 00000000 000000cb };
+    ShowDevelopMenu = 1;
+}

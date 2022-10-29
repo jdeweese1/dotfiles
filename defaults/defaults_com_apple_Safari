@@ -1,0 +1,523 @@
+{
+    AlwaysRestoreSessionAtLaunch = 0;
+    AlwaysShowFavoritesBarInFullScreen = 0;
+    AlwaysShowTabBar = 0;
+    AlwaysShowTabBarInFullScreen = 0;
+    AppExtensionToolbarItemsIndexes =     {
+        "com.agilebits.onepassword7.1PasswordSafariAppExtension (2BUA8C4S2C) Button" = 2;
+    };
+    AutoFillCreditCardData = 0;
+    AutoFillFromAddressBook = 0;
+    AutoFillPasswords = 0;
+    AutoShowToolbarInFullScreen = 0;
+    AutoplayPolicyWhitelistConfigurationUpdateDate = "2022-07-24 12:13:30 +0000";
+    AutoplayQuirksWhitelistConfigurationUpdateDate = "2022-07-24 14:16:12 +0000";
+    BlockStoragePolicy = 2;
+    CachedBookmarksFileDate = 529365926;
+    CachedBookmarksFileSize = 13040;
+    CanPromptForPushNotifications = 0;
+    CheckedLegacyExtensionIdentifiers =     (
+        "com.agilebits.onepassword4-safari-2BUA8C4S2C",
+        "com.todoist.todoist-safari-S3DD273774"
+    );
+    ClearBrowsingDataLastIntervalUsed = "all history";
+    DebugUsePieProgressIndicator = 1;
+    DefaultBrowserPromptingState3 = 4;
+    DidActivateReaderAtleastOnce = 1;
+    DidAttemptToMigrateExtensionsPlistFromLegacyKeychain = 1;
+    DidClearLegacySpotlightMetadataCaches = 1;
+    DidDisableExtensionsKnownToHarmPerformance = 1;
+    DidDisableIndividualExtensionsAfterRemovingOnOffSwitchIfNecessary = 1;
+    DidMigrateDisabledPlugInsInfoToAllPlugInsInfo = 1;
+    DidMigrateDownloadFolderToSandbox = 1;
+    DidMigrateExtensionSettingsToExtensionsDomain = 1;
+    DidMigrateLastSessionPlist = 1;
+    DidMigrateNewBookmarkSheetToReadingListDefault = 1;
+    DidMigrateResourcesToSandbox = 1;
+    DidMigrateSecureDefaultsToUserDefaults = 1;
+    DidMigrateStartPageDefaultSidebarVisibility = 1;
+    DidMigrateTabsToLinksForReaderKey = 1;
+    DidMigrateToCoreSpotlightBasedHistorySearch = 1;
+    DidMigrateToMoreRestrictiveFileURLPolicy = 1;
+    DidMigrateWKViewContentPageGroupPreferences = 1;
+    DidMigrateWebDriverAllowRemoteAutomation = 1;
+    DidMigrateWebKit1Preferences = 1;
+    DidPromptAboutRemovedLegacyExtensions = 1;
+    DidReportHistorySettings = 1;
+    DidShowWhatsNewInSafari = 1;
+    DidShowWhatsNewInSafari15 = 1;
+    DidUnsubscribeFromRSSFeeds = 1;
+    DownloadsClearingPolicy = 0;
+    ExtensionsEnabled = 1;
+    ExtensionsKnownToHarmPerformanceConfigurationUpdateDate = "2020-05-21 17:38:33 +0000";
+    FaviconDatabaseDidEraseLegacyDatabase = 1;
+    ForYouExperienceWelcomeViewNumberOfTimesShown = 3;
+    FrequentlyVisitedSitesCache =     (
+    );
+    GEOUsageSessionID = {length = 21, bytes = 0x08a3a780c5afacbda548108fcddef0f4ccf6c88001};
+    GEOUsageSessionIDGenerationTime = "511046318.113252";
+    HideHighlightsEmptyItemViewPreferenceKey = 1;
+    HideStartPageFrecentsEmptyItemView = 1;
+    HideStartPageSiriSuggestionsEmptyItemView = 1;
+    HistoryAgeInDaysLimit = 14;
+    HomePage = "http://www.apple.com/startpage/";
+    IncludeDevelopMenu = 1;
+    "JSContextAutoAttach-00008110-00140D4A1AFA801E" = 1;
+    LastApplicationCacheMessageTraceTime = "680569413.428916";
+    LastCloudHistoryConfigurationUpdateTime = "2022-07-26 19:31:50 +0000";
+    LastExtensionMessageTraceTime = "591056835.192395";
+    LastExtensionSelectedInPreferences = "BCE709B6-AB83-4893-87D3-B5422D5603B3";
+    LastInstalledPlugInsMessageTraceTime = "512842750.95391";
+    LastOSVersionSafariWasLaunchedOn = "12.4";
+    LastOpenedSubPaneInWebsitesPrefPane = ReaderPreference;
+    LastSafariVersionWithWelcomePage = "9.0";
+    "LastSafariVersionWithWelcomePage-v2" = "9.0";
+    LastSandboxFileExtensionMaintenanceDate = "2022-07-07 15:45:31 +0000";
+    LastSharedLinksMessageTraceTime = "680022507.0472291";
+    LocalFileRestrictionsEnabled = 1;
+    ManagedPlugInPolicies =     {
+        "com.adobe.acrobat.pdfviewerNPAPI" =         {
+            PlugInFirstVisitPolicy = PlugInPolicyAsk;
+            PlugInLastUsedDate = "2018-09-13 16:40:26 +0000";
+        };
+        "com.google.googletalkbrowserplugin" =         {
+            PlugInDisallowPromptBeforeUseDialog = 1;
+            PlugInFirstVisitPolicy = PlugInPolicyAsk;
+            PlugInLastUsedDate = "2018-10-16 16:49:09 +0000";
+        };
+        "com.google.o1dbrowserplugin" =         {
+            PlugInDisallowPromptBeforeUseDialog = 1;
+            PlugInFirstVisitPolicy = PlugInPolicyAsk;
+            PlugInLastUsedDate = "2018-06-16 20:55:38 +0000";
+        };
+        "com.macromedia.Flash Player.plugin" =         {
+            PlugInDisallowPromptBeforeUseDialog = 1;
+            PlugInFirstVisitPolicy = PlugInPolicyBlock;
+            PlugInLastUsedDate = "2018-05-03 00:57:10 +0000";
+            PlugInUpdateWasAvailableWhenUnavailableDialogWasLastShown = 1;
+            PlugInVersionWhenUnavailableDialogWasLastShown = "25.0.0.171";
+        };
+        "com.oracle.java.JavaAppletPlugin" =         {
+            PlugInFirstVisitPolicy = PlugInPolicyBlock;
+        };
+        "us.zoom.plugin" =         {
+            PlugInFirstVisitPolicy = PlugInPolicyAsk;
+        };
+    };
+    NSNavLastRootDirectory = "~/Downloads";
+    NSNavLastUserSetHideExtensionButtonState = 0;
+    NSNavPanelExpandedSizeForOpenMode = "{799, 694}";
+    NSNavPanelExpandedSizeForSaveMode = "{852, 643}";
+    NSNavPanelExpandedStateForSaveMode = 1;
+    "NSOutlineView Items BookmarksSidebarAutosaveInformation" =     (
+        "14EDD34F-2683-4EF2-B3A5-76B970F0B899"
+    );
+    NSPreferencesContentSize = "{792, 333}";
+    NSPreferencesSelectedIndex = 9;
+    "NSTableView Columns v2 OSAStandardAdditions.ChooseRemoteApplication" = {length = 488, bytes = 0x62706c69 73743030 d4010203 04050636 ... 00000000 00000154 };
+    "NSTableView Columns v2 Passwords Preferences" = {length = 686, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001e6 };
+    "NSTableView Sort Ordering v2 OSAStandardAdditions.ChooseRemoteApplication" = {length = 383, bytes = 0x62706c69 73743030 d4010203 04050625 ... 00000000 0000010d };
+    "NSTableView Sort Ordering v2 Passwords Preferences" = {length = 396, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000011a };
+    "NSTableView Supports v2 OSAStandardAdditions.ChooseRemoteApplication" = 1;
+    "NSTableView Supports v2 Passwords Preferences" = 1;
+    "NSToolbar Configuration BrowserStandaloneTabBarToolbarIdentifier" =     {
+        "TB Default Item Identifiers" =         (
+            CombinedSidebarTabGroupToolbarIdentifier,
+            SidebarSeparatorToolbarItemIdentifier,
+            BackForwardToolbarIdentifier,
+            NSToolbarFlexibleSpaceItem,
+            "com.duckduckgo.macos.PrivacyEssentials.SafariAppExtension (HKE973VLUW) Button",
+            PrivacyReportToolbarIdentifier,
+            InputFieldsToolbarIdentifier,
+            NSToolbarFlexibleSpaceItem,
+            ShareToolbarIdentifier,
+            NewTabToolbarIdentifier,
+            TabPickerToolbarIdentifier
+        );
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Item Identifiers" =         (
+            CombinedSidebarTabGroupToolbarIdentifier,
+            SidebarSeparatorToolbarItemIdentifier,
+            BackForwardToolbarIdentifier,
+            NSToolbarFlexibleSpaceItem,
+            "com.duckduckgo.macos.PrivacyEssentials.SafariAppExtension (HKE973VLUW) Button",
+            PrivacyReportToolbarIdentifier,
+            InputFieldsToolbarIdentifier,
+            ShowDownloadsToolbarIdentifier,
+            ShowWebInspectorToolbarIdentifier,
+            ShareToolbarIdentifier,
+            NewTabToolbarIdentifier
+        );
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration BrowserToolbarIdentifier-v2" =     {
+        "TB Default Item Identifiers" =         (
+            BackForwardToolbarIdentifier,
+            SidebarToolbarIdentifier,
+            NSToolbarFlexibleSpaceItem,
+            "com.agilebits.onepassword7.1PasswordSafariAppExtension (2BUA8C4S2C) Button",
+            PrivacyReportToolbarIdentifier,
+            InputFieldsToolbarIdentifier,
+            NSToolbarFlexibleSpaceItem,
+            ShowDownloadsToolbarIdentifier,
+            ShareToolbarIdentifier,
+            TabPickerToolbarIdentifier
+        );
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Item Identifiers" =         (
+            NSToolbarFlexibleSpaceItem,
+            BackForwardToolbarIdentifier,
+            "com.agilebits.onepassword7.1PasswordSafariAppExtension (2BUA8C4S2C) Button",
+            PrivacyReportToolbarIdentifier,
+            InputFieldsToolbarIdentifier,
+            NSToolbarFlexibleSpaceItem,
+            ShowDownloadsToolbarIdentifier,
+            ShowWebInspectorToolbarIdentifier,
+            ShareToolbarIdentifier
+        );
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration BrowserToolbarIdentifier-v3.1" =     {
+        "TB Default Item Identifiers" =         (
+            SidebarToolbarIdentifier,
+            BackForwardToolbarIdentifier,
+            NSToolbarFlexibleSpaceItem,
+            "com.duckduckgo.macos.PrivacyEssentials.SafariAppExtension (HKE973VLUW) Button",
+            "com.agilebits.onepassword7.1PasswordSafariAppExtension (2BUA8C4S2C) Button",
+            PrivacyReportToolbarIdentifier,
+            InputFieldsToolbarIdentifier,
+            NSToolbarFlexibleSpaceItem,
+            ShareToolbarIdentifier,
+            NewTabToolbarIdentifier,
+            TabPickerToolbarIdentifier
+        );
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Item Identifiers" =         (
+            SidebarToolbarIdentifier,
+            BackForwardToolbarIdentifier,
+            NSToolbarFlexibleSpaceItem,
+            "com.duckduckgo.macos.PrivacyEssentials.SafariAppExtension (HKE973VLUW) Button",
+            "com.agilebits.onepassword7.1PasswordSafariAppExtension (2BUA8C4S2C) Button",
+            PrivacyReportToolbarIdentifier,
+            InputFieldsToolbarIdentifier,
+            ShowDownloadsToolbarIdentifier,
+            ShowWebInspectorToolbarIdentifier,
+            ShareToolbarIdentifier,
+            NewTabToolbarIdentifier
+        );
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration BrowserToolbarIdentifier-v4.6" =     {
+        "TB Default Item Identifiers" =         (
+            SidebarToolbarIdentifier,
+            BackForwardToolbarIdentifier,
+            NSToolbarFlexibleSpaceItem,
+            "com.duckduckgo.macos.PrivacyEssentials.SafariAppExtension (HKE973VLUW) Button",
+            "com.agilebits.onepassword7.1PasswordSafariAppExtension (2BUA8C4S2C) Button",
+            PrivacyReportToolbarIdentifier,
+            InputFieldsToolbarIdentifier,
+            NSToolbarFlexibleSpaceItem,
+            ShareToolbarIdentifier,
+            NewTabToolbarIdentifier,
+            TabPickerToolbarIdentifier
+        );
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Item Identifiers" =         (
+            CombinedSidebarTabGroupToolbarIdentifier,
+            SidebarSeparatorToolbarItemIdentifier,
+            BackForwardToolbarIdentifier,
+            "com.duckduckgo.macos.PrivacyEssentials.SafariAppExtension (HKE973VLUW) Button",
+            PrivacyReportToolbarIdentifier,
+            UnifiedTabBarToolbarIdentifier,
+            ShowDownloadsToolbarIdentifier,
+            ShowWebInspectorToolbarIdentifier,
+            NewTabToolbarIdentifier
+        );
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration NSPreferences" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSWindow Frame Authentication Panel" = "760 518 416 243 0 0 1280 800 ";
+    "NSWindow Frame BrowserWindowFrame" = "356 0 1324 1025 0 0 1680 1025 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "414 286 852 452 0 0 1680 1025 ";
+    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "2504 738 425 137 1680 44 1920 1055 ";
+    "NSWindow Frame NewBookmarksSheet" = "432 521 417 215 0 0 1280 777 ";
+    "NSWindow Frame OSAStandardAdditions.ChooseRemoteApplication" = "317 270 646 418 0 0 1280 778 ";
+    "NSWindow Frame Preferences" = "4 213 792 361 0 0 1680 1025 ";
+    "NSWindow Frame WBBWebGLPolicies" = "389 144 499 472 0 0 1280 778 ";
+    "NSWindow Frame WBBlockedPlugins" = "262 64 752 522 0 0 1280 778 ";
+    "NSWindow Frame WBCookiesAndOtherWebsiteData" = "533 433 625 448 0 0 1680 1025 ";
+    NewBookmarksLocationUUID = "14EDD34F-2683-4EF2-B3A5-76B970F0B899";
+    NewWindowBehavior = 4;
+    NewestLaunchedSafariVersion = "613.2.7.1.8";
+    "OSAStandardAdditions.ChooseRemoteApplication SelectedTabItem" = bonjour;
+    OneStepBookmarkingLastDestinationUUID = "Reading List";
+    OpenPrivateWindowWhenNotRestoringSessionAtLaunch = 0;
+    OpenWindows =     (
+    );
+    OrderedToolbarItemIdentifiers =     (
+        CombinedSidebarTabGroupToolbarIdentifier,
+        SidebarSeparatorToolbarItemIdentifier,
+        BackForwardToolbarIdentifier,
+        "com.agilebits.onepassword7.1PasswordSafariAppExtension (2BUA8C4S2C) Button",
+        NSToolbarFlexibleSpaceItem,
+        "com.duckduckgo.macos.PrivacyEssentials.SafariAppExtension (HKE973VLUW) Button",
+        PrivacyReportToolbarIdentifier,
+        InputFieldsToolbarIdentifier,
+        ShowDownloadsToolbarIdentifier,
+        ShowWebInspectorToolbarIdentifier,
+        ShareToolbarIdentifier,
+        NewTabToolbarIdentifier
+    );
+    PMPrintingExpandedStateForPrint2 = 1;
+    PlugInInfo =     {
+        "com.adobe.acrobat.pdfviewerNPAPI" =         {
+            plugInCurrentState = 1;
+            plugInStateModifiedVersionString = "18.011.20058";
+        };
+        "com.google.googletalkbrowserplugin" =         {
+            plugInCurrentState = 0;
+            plugInStateModifiedDate = "2018-07-19 18:08:50 +0000";
+            plugInStateModifiedVersionString = "5.41.3.0";
+        };
+        "com.google.o1dbrowserplugin" =         {
+            plugInCurrentState = 0;
+            plugInStateModifiedDate = "2018-07-20 18:28:23 +0000";
+            plugInStateModifiedVersionString = "5.41.3.0";
+        };
+        "com.macromedia.Flash Player.plugin" =         {
+            plugInCurrentState = 0;
+            plugInStateModifiedDate = "2018-06-22 01:16:58 +0000";
+            plugInStateModifiedVersionString = "25.0.0.171";
+        };
+        "com.oracle.java.JavaAppletPlugin" =         {
+            plugInCurrentState = 0;
+            plugInStateModifiedDate = "2017-10-21 16:57:58 +0000";
+            plugInStateModifiedVersionString = "1.8.101.13";
+        };
+        "us.zoom.plugin" =         {
+            plugInCurrentState = 0;
+            plugInStateModifiedDate = "2017-09-23 15:26:29 +0000";
+            plugInStateModifiedVersionString = "4.0.29656.0413";
+        };
+    };
+    PreferencesModulesMinimumWidths =     {
+        CFBundleVersion = "16610.4.3.1.4";
+        Locale = "en_US";
+        MinimumWidths =         {
+            AdvancedPreferences = 798;
+            AutoFillPreferences = 798;
+            ExtensionsPreferences = 798;
+            GeneralPreferences = 798;
+            PasswordsPreferences = 798;
+            PrivacyPreferences = 798;
+            SearchPreferences = 798;
+            SecurityPreferences = 798;
+            TabsPreferences = 798;
+            WebsitesPreferences = 798;
+        };
+    };
+    ReaderConfiguration =     {
+        fontFamilyNameForLanguageTag =         {
+            en = System;
+        };
+        fontSizeIndex = 10;
+        version = 5;
+    };
+    RecentWebSearches =     (
+                {
+            Date = "2022-07-10 04:38:35 +0000";
+            SearchString = "see state of terraform";
+        },
+                {
+            Date = "2022-06-19 15:55:06 +0000";
+            SearchString = "standalone docker image";
+        },
+                {
+            Date = "2022-06-19 15:46:27 +0000";
+            SearchString = "inspect contents of imag dkcer";
+        },
+                {
+            Date = "2022-06-19 15:44:09 +0000";
+            SearchString = "run docker image without code";
+        },
+                {
+            Date = "2022-04-19 20:56:50 +0000";
+            SearchString = "come as you are acceptance";
+        },
+                {
+            Date = "2022-04-18 22:49:36 +0000";
+            SearchString = "openresty/1.15.8.3";
+        },
+                {
+            Date = "2022-04-18 22:49:03 +0000";
+            SearchString = "http 414";
+        },
+                {
+            Date = "2022-04-17 02:48:46 +0000";
+            SearchString = "# https://raw.githubusercontent.com/2shea/talon_configs/master/lang/html.py";
+        },
+                {
+            Date = "2022-04-17 02:47:44 +0000";
+            SearchString = "talon api reference";
+        },
+                {
+            Date = "2022-04-16 18:55:59 +0000";
+            SearchString = "better touch tool makes menu bar disappear";
+        }
+    );
+    SafariVersionForExperimentalFeatures = "15.5";
+    SavePanelFileFormat = 1;
+    SearchProviderIdentifierMigratedToSystemPreference = 1;
+    SearchProvidersNotAllowedToPromptToBeMadeDefault =     {
+    };
+    SendDoNotTrackHTTPHeader = 1;
+    "ShowFavoritesBar-v2" = 0;
+    ShowFrequentlyVisitedSites = 1;
+    ShowFullURLInSmartSearchField = 0;
+    ShowOverlayStatusBar = 1;
+    ShowSidebarInNewWindows = 0;
+    ShowSidebarInTopSites = 1;
+    SidebarSplitViewDividerPosition = 240;
+    SidebarViewModeIdentifier = Bookmarks;
+    SiriSuggestionsStartPageViewControllerItemIdentifiersToExpansionPreferenceKey =     {
+        cloudTabs = 0;
+    };
+    SkipLoadingEnabledAppExtensionsAtLaunch = 0;
+    SkipLoadingEnabledContentBlockersAtLaunch = 0;
+    SkipLoadingEnabledWebExtensionsAtLaunch = 1;
+    SkipLoadingExtensionsAtLaunch = 1;
+    StartPageSectionOrdering =     (
+        favoritesItemIdentifier,
+        frequentlyVisitedItemIdentifier,
+        privacyReportIdentifier,
+        exploreItemIdentifier,
+        readingListItemIdentifier,
+        cloudTabsItemIdentifier,
+        highlightsItemIdentifier
+    );
+    StartPageViewControllerMode = 0;
+    Storefront = "143441-1,32";
+    SuccessfulLaunchTimestamp = "680556701.72579";
+    SuppressSearchSuggestions = 0;
+    TabCreationPolicy = 0;
+    TestDriveOriginBrowser = 1;
+    TestDriveStartDate = "4001-01-01 00:00:00 +0000";
+    TestDriveState = 3;
+    TestDriveUserDecision = 2;
+    TopSitesGridArrangement = 0;
+    UniversalSearchEnabled = 0;
+    UniversalSearchFeatureNotificationHasBeenDisplayed = 1;
+    UniversalSearchUserGUID = "38f32a93-6367-4112-7921-885e7eca118a";
+    UniversalSearchUserGUIDExpirationDate = "2016-11-11 04:48:04 +0000";
+    UserAgentQuirksConfigurationUpdateDate = "2022-07-24 14:16:12 +0000";
+    UserStyleSheetEnabled = 0;
+    WBSCloudKitStartPageSectionOrder =     (
+        favoritesItemIdentifier,
+        frequentlyVisitedItemIdentifier,
+        privacyReportIdentifier,
+        exploreItemIdentifier,
+        readingListItemIdentifier,
+        cloudTabsItemIdentifier,
+        highlightsItemIdentifier
+    );
+    WBSLastWeakPasswordReportTime = "2019-10-08 04:59:24 +0000";
+    WBSParsecABGroupIdentifier = 9;
+    WBSParsecABGroupIdentifierGenerationDate = "2022-07-26 19:31:42 +0000";
+    WBSPasswordBreachConfigurationBagLastUpdate = "2021-12-15 23:03:51 +0000";
+    WBSPrivacyProxyAvailabilityAccountType = 2;
+    WBSPrivacyProxyAvailabilitySubscriberTier = 0;
+    WBSPrivacyProxyAvailabilitySubscriberTierAvailableInUserCountry = 0;
+    WBSPrivacyProxyAvailabilityTraffic = 3308;
+    WBSRemoteAutoFillQuirksLastUpdateTime = "2022-07-26 19:31:43 +0000";
+    WebAutomaticQuoteSubstitutionEnabled = 1;
+    WebGLDefaultLoadPolicy = WebGLPolicyBlock;
+    WebGLLoadPolicies =     {
+        "www.pandora.com" =         {
+            Date = "2017-04-19 13:40:45 +0000";
+            DidShowSecurityAlertDialog = 0;
+            ExplicitlySetByUser = 1;
+            LastVisitedDate = "2017-09-20 01:35:05 +0000";
+            LoadPolicy = WebGLPolicyAllowWithSecurityRestrictions;
+            TrustDialogDeferredDate = "0001-01-01 00:00:00 +0000";
+        };
+    };
+    WebKitDeveloperExtrasEnabledPreferenceKey = 1;
+    WebKitJavaScriptEnabled = 1;
+    "WebKitPreferences.aggressiveTileRetentionEnabled" = 1;
+    "WebKitPreferences.allowsPictureInPictureMediaPlayback" = 1;
+    "WebKitPreferences.applePayCapabilityDisclosureAllowed" = 0;
+    "WebKitPreferences.applePayEnabled" = 1;
+    "WebKitPreferences.asynchronousPluginInitializationEnabled" = 1;
+    "WebKitPreferences.backspaceKeyNavigationEnabled" = 0;
+    "WebKitPreferences.developerExtrasEnabled" = 1;
+    "WebKitPreferences.diagnosticLoggingEnabled" = 1;
+    "WebKitPreferences.dnsPrefetchingEnabled" = 1;
+    "WebKitPreferences.fullScreenEnabled" = 1;
+    "WebKitPreferences.hiddenPageDOMTimerThrottlingAutoIncreases" = 1;
+    "WebKitPreferences.invisibleMediaAutoplayNotPermitted" = 1;
+    "WebKitPreferences.javaEnabled" = 0;
+    "WebKitPreferences.javaScriptCanOpenWindowsAutomatically" = 1;
+    "WebKitPreferences.mediaDevicesEnabled" = 1;
+    "WebKitPreferences.needsSiteSpecificQuirks" = 1;
+    "WebKitPreferences.needsStorageAccessFromFileURLsQuirk" = 0;
+    "WebKitPreferences.plugInsEnabled" = 0;
+    "WebKitPreferences.serviceControlsEnabled" = 1;
+    "WebKitPreferences.shouldAllowUserInstalledFonts" = 0;
+    "WebKitPreferences.shouldSuppressKeyboardInputDuringProvisionalNavigation" = 1;
+    "WebKitPreferences.showsToolTipOverTruncatedText" = 1;
+    "WebKitPreferences.telephoneNumberDetectionIsEnabled" = 1;
+    "WebKitPreferences.wantsBalancedSetDefersLoadingBehavior" = 1;
+    WebKitRespectStandardStyleKeyEquivalents = 1;
+    WebKitStorageBlockingPolicy = 1;
+    WebsitesKnownToUsePluginsConfigurationUpdateDateKey = "2020-10-04 13:27:04 +0000";
+    "__WebInspectorPageGroupLevel1__.WebKit2InspectorAttachedHeight" = 488;
+    "__WebInspectorPageGroupLevel1__.WebKit2InspectorAttachmentSide" = 0;
+    "__WebInspectorPageGroupLevel1__.WebKit2InspectorStartsAttached" = 0;
+    accountTypesToSkipForSetup =     (
+        "com.apple.account.Google",
+        "com.apple.twitter",
+        "com.apple.facebook"
+    );
+    cloudKitBookmarksMigrationRampState =     {
+        dateOfLastSettingsUpdate = "2017-10-25 18:13:24 +0000";
+        rampIncludesUserIdentity = 1;
+        settingsDictionary =         {
+            gmMigrationPercent = 100;
+            internalMigrationPercent = 100;
+            seedMigrationPercent = 100;
+        };
+        userIdentity = "_078068e576c5affba48f155349059bcf";
+    };
+    "com.apple.MobileAsset.PhishingImageClassifier2.UpdateDate" = "2022-04-02 23:38:19 +0000";
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2AllowsPictureInPictureMediaPlayback" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2ApplePayCapabilityDisclosureAllowed" = 0;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2ApplePayEnabled" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2HiddenPageDOMTimerThrottlingAutoIncreases" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2InspectorWindowFrame" = "{{9, 0}, {960, 1025}}";
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2InvisibleAutoplayNotPermitted" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaScriptEnabled" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2MediaDevicesEnabled" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2NeedsStorageAccessFromFileURLsQuirk" = 0;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2PlugInSnapshottingEnabled" = 0;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2ShouldAllowUserInstalledFonts" = 0;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2ShouldSuppressKeyboardInputDuringProvisionalNavigation" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2ShouldSuppressTextInputFromEditingDuringProvisionalNavigation" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2StorageBlockingPolicy" = 1;
+    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2UsesPageCache" = 1;
+    customizationSyncServerToken = {length = 293, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ed };
+    settingsSyncAccountHash = {length = 20, bytes = 0x9d02b11aa448cca0ee1d9d6649ad16acf752653e};
+}

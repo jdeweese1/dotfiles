@@ -1,0 +1,70 @@
+{
+    TodayView =     {
+        NoContent =         (
+            "com.apple.nc.tomorrow.summary",
+            "com.apple.RemindersNC"
+        );
+        order =         (
+            "com.apple.reminders.macOSTodayExtension",
+            "com.apple.ncplugin.stocks",
+            "com.apple.iCal.CalendarNC",
+            "com.apple.ncplugin.weather",
+            "com.wunderkinder.wunderlistdesktop.todayextension",
+            "com.todoist.mac.Todoist.TodoistToday",
+            "com.apple.ncplugin.calculator",
+            "com.apple.ncplugin.WorldClock",
+            "at.EternalStorms.Yoink-setapp.Yoink-Clipboard-History",
+            "it.bloop.airmail2.Airmail-Today",
+            "com.apple..NowPlayingWidgetContainer.NowPlayingWidget",
+            "com.nikolaeu.numi-setapp.NumiExtension"
+        );
+        preferences =         {
+            "com.apple.nc.disclosures" =             {
+                enabled = 1;
+            };
+            "com.apple.nc.today.date" =             {
+                enabled = 1;
+            };
+            "com.apple.nc.today.dnd" =             {
+                enabled = 1;
+            };
+            "com.apple.nc.today.summary" =             {
+                enabled = 1;
+            };
+            "com.apple.nc.tomorrow.summary" =             {
+                enabled = 1;
+            };
+        };
+    };
+    "last-analytics-stamp" = "688247342.362282";
+    "last-messagetrace-stamp" = "633875402.492726";
+    widgets =     {
+        instances =         (
+            {length = 8673, bytes = 0x62706c69 73743030 d2010203 04567769 ... 00000000 000021b7 },
+            {length = 8347, bytes = 0x62706c69 73743030 d2010203 04567769 ... 00000000 00002071 }
+        );
+        vers = 1;
+        widgets =         (
+            {length = 10084, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 0000272a },
+            {length = 918, bytes = 0x62706c69 73743030 d5010203 04050607 ... 00000000 00000360 },
+            {length = 10074, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00002720 },
+            {length = 990, bytes = 0x62706c69 73743030 d5010203 04050607 ... 00000000 000003a8 },
+            {length = 8607, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00002165 },
+            {length = 920, bytes = 0x62706c69 73743030 d5010203 04050607 ... 00000000 00000362 },
+            {length = 16983, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 0000421d },
+            {length = 16969, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 0000420f },
+            {length = 13450, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00003450 },
+            {length = 4011, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00000f71 },
+            {length = 10023, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 000026ed },
+            {length = 8831, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00002245 },
+            {length = 4574, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 000011a4 },
+            {length = 960, bytes = 0x62706c69 73743030 d5010203 04050607 ... 00000000 0000038a },
+            {length = 8479, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 000020e5 },
+            {length = 19547, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00004c21 },
+            {length = 9370, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00002460 },
+            {length = 9848, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 0000263e },
+            {length = 83436, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00014598 },
+            {length = 57839, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 0000e1b5 }
+        );
+    };
+}

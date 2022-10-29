@@ -1,0 +1,11 @@
+{
+    "NotesIndexerState-Modern" =     {
+        NeedsReindexing = 0;
+        ObjectIDsByIdentifier =         {
+        };
+    };
+    "NotesIndexerState-Modern-ObjectIDsToIgnore" =     (
+    );
+    SharingExtensionLastSavedNoteIdentifier = "5AD306A5-98EA-4F4E-BB5E-7D16665CD371";
+    SharingExtensionLastSavedNoteTimeStamp = "2018-06-23 19:49:25 +0000";
+}

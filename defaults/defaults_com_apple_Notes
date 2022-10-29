@@ -1,0 +1,82 @@
+{
+    "256C2BD0-6B08-4F31-B0C6-59B866A0B1F2-ICNoteEditorShouldShowCollaboratorHighlights" = 0;
+    AttachmentBrowserType = 0;
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1665416020;
+    CloudKitAccountInfoCache =     {
+        27a2b6a935e8d36522a99d57a9efac1b49288381187fae001bd2714c3272c740 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+    };
+    CloudKitAccountZonesNeedingFetchChanges =     {
+    };
+    DefaultAccount = "x-coredata://BA054992-A928-4B38-BF0B-6F87CCC60DC4/LocalAccount/p1";
+    DidChooseToMigrateLocalAccount = 1;
+    DidDeleteCoherenceContextsFromGroupContainerLaunchTask = 1;
+    DidFixExcludedFromBackupFlags = 1;
+    DidFixExcludedFromBackupFlagsV3 = 1;
+    DidFixGallerySubAttachments = 1;
+    DidMigrateLocalAccount = 1;
+    DidRegenerateGalleryAttachmentNoteTitlesV2 = 1;
+    ICFixLegacyFolderAccountRelationshipLaunchTask = 1;
+    ICFixUnappliedEncryptedRecordsLaunchTask = 1;
+    ICRefreshHashtagStandardizedContentLaunchTask = 1;
+    ICUpdateInlineDrawingsSectionLaunchTask = 1;
+    LastVacuumDate = "687109546.376953";
+    NSNavLastRootDirectory = "~/Library/Mobile Documents/com~apple~CloudDocs/Documents/School/CIS 575/HW";
+    NSNavLastUserSetHideExtensionButtonState = 0;
+    NSNavPanelExpandedSizeForSaveMode = "{712, 448}";
+    NSNavPanelExpandedStateForSaveMode = 1;
+    "NSSplitView Subview Frames noteSplitViewAutoSaveName" =     (
+        "0.000000, 0.000000, 200.000000, 1025.000000, NO, NO",
+        "201.000000, 0.000000, 676.000000, 1025.000000, NO, NO",
+        "0.000000, 0.000000, 0.000000, 0.000000, YES, NO"
+    );
+    "NSSplitView Subview Frames splitViewAutoSaveName" =     (
+        "0.000000, 0.000000, 140.000000, 1025.000000, NO, NO",
+        "141.000000, 0.000000, 877.000000, 1025.000000, NO, NO"
+    );
+    "NSToolbar Configuration BD33C13F-3759-40D2-A50F-C8B2A603B445" =     {
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration MainWindowToolbar" =     {
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSWindow Frame NSFontPanel" = "1137 148 445 237 0 0 1680 1027 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "0 541 841 470 0 0 1680 1027 ";
+    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "637 270 425 135 0 0 1280 777 ";
+    "NSWindow Frame Notes" = "0 0 1018 1025 0 0 1680 1025 ";
+    NotesContinuousSpellCheckingEnabled = 1;
+    "OSVersionStringOfLastRun_DidSetReindexEverythingFlagPerUpgrade" = "12-6-0";
+    "OSVersionStringOfLastRun_DidSetReindexEverythingFlagPerUpgrade_AttemptCounter" = 2;
+    ShouldUseSmartLinks = 1;
+    WebContinuousSpellCheckingEnabled = 1;
+    didDeleteObsoletedExternalRecords = 1;
+    didShowMoveToRecentyDeletedFolderAlert = 1;
+    ensureAllExternalRecordsAreCreatedDefaultsKey = 1;
+    hasPopulatedReplicaIDUserIDMapping = 1;
+    hasShownWelcomeScreen = 1;
+    lastKnownOperatingSystemVersion =     {
+        majorVersion = 12;
+        minorVersion = 6;
+        patchVersion = 0;
+    };
+    lastShownStartupVersion =     (
+        10,
+        13,
+        0
+    );
+    "lastShownStartupVersion-1" =     (
+        12,
+        5,
+        0
+    );
+    spotlightImporterVersion = 1;
+    timeStampForPreviousLogging = "2021-02-03 02:51:09 +0000";
+}

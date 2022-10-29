@@ -1,0 +1,9 @@
+{
+    AMSDeviceOfferEligibility =     {
+        expressedIntent = 0;
+        isDeviceEligible = 0;
+        isGift = 0;
+    };
+    AMSDidRetrieveDeviceOffers = 1;
+    AMSDidRetrieveDeviceOffersEligibility = 1;
+}

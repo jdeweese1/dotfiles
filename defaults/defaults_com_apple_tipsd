@@ -1,0 +1,56 @@
+{
+    ConsecutiveNotificationsCount = 3;
+    DeliveryEventIdentifierToDeliveryEventMap = {length = 1852, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000624 };
+    DeliveryInfoVersion = 93c6896f754a03411af465c9f2c13f6b7a997aa25af2e6900d25024dc4eeecfe;
+    DiscoverabilityDeliveryInfoMap = {length = 1120, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000382 };
+    Experiment = {length = 274, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d7 };
+    "TPSAnalyticsHistoricTipsDataProcessor_DateLastRun" = {length = 223, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000a8 };
+    TPSAnalyticsStore =     {
+        TPSLastNotificationTime = "2022-02-10 00:03:03 +0000";
+        TPSNotificationCount = 3;
+    };
+    "TPSAnalyticsUsageEventsProcessor_DateLastRun" = {length = 223, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000a8 };
+    "TPSAnalyticsUsageEvents_doc71ad4333-fd14-4196-bf4b-6daf653f1045_PreHintUsage" = {length = 139, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000005e };
+    TPSDCloudHintDisplayed =     (
+        "CID-photography-collection-take-shot-see",
+        "docc45eeb65-6582-429a-a3bb-b45d6842a8e5",
+        "CID-apple-pencil-intro--tip6558f8917",
+        "CID-searchnotestext-mini-tip",
+        "CID-talk-type--tipc629c33ef--mini-tip",
+        "CID-sirivoice",
+        TIPDB5B71121,
+        "CID-notestagsactive-mini-tip",
+        "CID-scheduledsummary-learn-a-notification",
+        "docbcabe4d6-7c44-4399-a6e5-50016742a4b5",
+        "CID-notespin-mini-tip",
+        "CID-applibrary",
+        Privacy,
+        "CID-airpods2-intro-meet-airpodsmax-see",
+        "doc9e8ac6d5-d9fd-4777-8b9e-7765d04adb09",
+        "CID-quicknote-learn-a-quick",
+        "CID-sharedphoto-mini-tip",
+        "CID-messages-pinning-mini-tip",
+        TIP03E089622,
+        "CID-notestags-mini-tip",
+        "CID-searchnotesimages-mini-tip",
+        PhotosAndCamera,
+        "CID-voiceisolation-learn-reduce-background",
+        "doc3366a699-64ea-4237-8fec-f8804ce2815b",
+        "CID-addwidgets",
+        "CID-listicon-mini-tip",
+        "CID-essentials-collection-get-mac-discover",
+        "CID-livephotoeffect-mini-tip",
+        "CID-focusmodes-learn-focus-modes",
+        "CID-smartfolders-mini-tip",
+        WhatsNew,
+        "CID-spotlight-quickly-find-apps"
+    );
+    TPSLastMajorVersion = 12;
+    TPSLastNotificationDate = "2022-02-10 00:03:03 +0000";
+    TPSOfflineLastProcessedRemoteContentIdentifier = "en-93c6896f754a03411af465c9f2c13f6b7a997aa25af2e6900d25024dc4eeecfe";
+    TPSTipsAppInstalled = 1;
+    TPSWaitingToShowWelcomeNotification = 0;
+    TPSWelcomeNotificationReminderState = 1;
+    TPSWelcomeNotificationStartDate = "2022-01-25 03:30:20 +0000";
+    TPSWelcomeNotificationViewedVersion = 12;
+}

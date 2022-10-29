@@ -1,0 +1,694 @@
+{
+    "5-'aufx'-'bpas'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'dcmp'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'dely'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'dist'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'filt'-'appl'-0x20100" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'greq'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'hpas'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'hshf'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'lmtr'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'lpas'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'lshf'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'mcmp'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'mrev'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                1,
+                2
+            ),
+                        (
+                1,
+                4
+            ),
+                        (
+                1,
+                5
+            ),
+                        (
+                2,
+                2
+            ),
+                        (
+                2,
+                4
+            ),
+                        (
+                2,
+                5
+            )
+        );
+        HasCustomView = 0;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+        SupportedChannelLayoutTags =         {
+            Output =             (
+                6619138,
+                7077892,
+                7733253
+            );
+        };
+    };
+    "5-'aufx'-'nbeq'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'nsnd'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+        SupportedChannelLayoutTags =         {
+            Input =             (
+                0
+            );
+            Output =             (
+                0
+            );
+        };
+    };
+    "5-'aufx'-'nutp'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+        SupportedChannelLayoutTags =         {
+            Input =             (
+                6553601,
+                6619138,
+                7077892,
+                7077892,
+                7143429,
+                7208966,
+                7274504,
+                7733253,
+                9109510,
+                9175047,
+                9699335,
+                0
+            );
+            Output =             (
+                6553601,
+                6619138,
+                7077892,
+                7077892,
+                7143429,
+                7208966,
+                7274504,
+                7733253,
+                9109510,
+                9175047,
+                9699335,
+                0
+            );
+        };
+    };
+    "5-'aufx'-'pmeq'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'raac'-'appl'-0x20003" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                1,
+                1
+            ),
+                        (
+                2,
+                2
+            ),
+                        (
+                3,
+                3
+            ),
+                        (
+                4,
+                4
+            ),
+                        (
+                5,
+                5
+            ),
+                        (
+                6,
+                6
+            ),
+                        (
+                7,
+                7
+            ),
+                        (
+                8,
+                8
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+        SupportedChannelLayoutTags =         {
+            Input =             (
+                6553601,
+                6619138,
+                7405571,
+                7077892,
+                7733253,
+                9109510,
+                9175047,
+                7274504
+            );
+            Output =             (
+                6553601,
+                6619138,
+                7405571,
+                7077892,
+                7733253,
+                9109510,
+                9175047,
+                7274504
+            );
+        };
+    };
+    "5-'aufx'-'rogr'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 0;
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'rvb2'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                1,
+                1
+            ),
+                        (
+                1,
+                2
+            ),
+                        (
+                2,
+                2
+            )
+        );
+        HasCustomView = 0;
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'sdly'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 0;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'aufx'-'tmpt'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                "-1",
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialInputs =         (
+            2
+        );
+        InitialOutputs =         (
+            2
+        );
+    };
+    "5-'augn'-'afpl'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                0,
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialOutputs =         (
+            2
+        );
+        SupportedChannelLayoutTags =         {
+            Output =             (
+                0
+            );
+        };
+    };
+    "5-'augn'-'nrcv'-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                0,
+                "-1"
+            )
+        );
+        HasCustomView = 1;
+        InitialOutputs =         (
+            2
+        );
+        SupportedChannelLayoutTags =         {
+            Output =             (
+                0
+            );
+        };
+    };
+    "5-'aumu'-'dls '-'appl'-0x10600" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            0
+        );
+        ChannelConfigurations =         (
+                        (
+                0,
+                2
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialOutputs =         (
+            2,
+            2
+        );
+    };
+    "5-'aumu'-'msyn'-'appl'-0x10000" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            1
+        );
+        ChannelConfigurations =         (
+                        (
+                0,
+                "-16"
+            )
+        );
+        HasCustomView = 0;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialOutputs =         (
+            2
+        );
+        SupportedChannelLayoutTags =         {
+            Output =             (
+                6553601,
+                6619138
+            );
+        };
+    };
+    "5-'aumu'-'samp'-'appl'-0x10000" =     {
+        BusCountWritable =         (
+            0,
+            0,
+            1
+        );
+        ChannelConfigurations =         (
+                        (
+                0,
+                "-16"
+            )
+        );
+        HasCustomView = 1;
+        IconURL = "/System/Library/Components/CoreAudio.component/Contents/Resources/CoreAudio.icns";
+        InitialOutputs =         (
+            2
+        );
+        SupportedChannelLayoutTags =         {
+            Output =             (
+                6553601,
+                6619138
+            );
+        };
+    };
+}

@@ -1,0 +1,6 @@
+{
+    GEOUsageSessionID = {length = 21, bytes = 0x08b4c9dda6c897b7a0531086f5afbdb6c7e19b8101};
+    GEOUsageSessionIDGenerationTime = "529597844.725248";
+    NSFullScreenMenuItemEverywhere = 0;
+    RemindersPrimaryWindowStateData = {length = 602, bytes = 0x62706c69 73743030 d4010203 0405061b ... 00000000 000001e0 };
+}

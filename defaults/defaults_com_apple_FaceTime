@@ -1,0 +1,13 @@
+{
+    CustomRingtone = "";
+    DidMigrateToSixteenByNineAspectRatio = 1;
+    GEOUsageSessionID = {length = 21, bytes = 0x08e9e9c2a9e68cd7a52e1084cda9f49aab8cbc8101};
+    GEOUsageSessionIDGenerationTime = "520745974.622097";
+    "NSWindow Frame preferences" = "856 157 382 701 0 0 1680 1025 ";
+    PNRltc = "2022-10-03 02:22:00 +0000";
+    PhoneNumberUpgradeShown = 1;
+    PreferredAudioInputDeviceUID = "e4-22-a5-12-df-e6:input";
+    RecentsFilterType = 0;
+    VideoWindowFrame = "{{234, 67}, {1446, 904}}";
+    kPromptEnableReadRecipts = 0;
+}

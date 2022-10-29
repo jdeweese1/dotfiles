@@ -1,0 +1,613 @@
+{
+    "Active Command Set" = "/Applications/iMovie.app/Contents/Resources/en.lproj/Default.commandset";
+    CEProjectSettings =     {
+        videoFormat = "1080p HD";
+        videoRate = "23.98p";
+        videoSize = 1920x1080;
+    };
+    CESidebarContainerPersistenceStateMediaTabSidebarKey =     {
+        "media sidebar expanded items" =         (
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    CESidebarContainerPersistenceStateMusicSidebarKey =     {
+        "media sidebar expanded items" =         (
+            "FFMediaSidebarLibrarySectionNode-AUDIO"
+        );
+        "media sidebar selection" =         (
+            "FFProjectExtrasITunesNode-iTunes"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 3601D710-925B-4D0D-9A6B-C4010768FB73 : 7DFCE960-62C6-4426-AF26-329BF81084D3 : 1886BEDD-DC35-4065-9234-2BF6FA5902DF" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "72ECF50A-4866-459D-AD05-0AAD1369BF74-3601D710-925B-4D0D-9A6B-C4010768FB73"
+        );
+        "media sidebar selection" =         (
+            "72ECF50A-4866-459D-AD05-0AAD1369BF74-B4927813-A73F-4401-BC50-CE7964324254"
+        );
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 47C322DC-4534-495B-9DB9-8ADDB07B7DEB : 09803123-2429-4CEF-8AF7-0E1BBB42493F : DFA94351-ECA4-4567-B4D0-31FE347B5BBE" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "E69DD1D3-7F4C-44B8-AF2C-551359FAAFB2-47C322DC-4534-495B-9DB9-8ADDB07B7DEB"
+        );
+        "media sidebar selection" =         (
+            "E69DD1D3-7F4C-44B8-AF2C-551359FAAFB2-04DB5E5E-9EBF-48F0-91FC-0228A7A44A63"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 47C322DC-4534-495B-9DB9-8ADDB07B7DEB : 5C118532-AF77-47B2-B0DF-0E3C100F84D2 : 635AA422-52FA-42E6-B1CF-EDF6E9C96B5E" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "E69DD1D3-7F4C-44B8-AF2C-551359FAAFB2-47C322DC-4534-495B-9DB9-8ADDB07B7DEB"
+        );
+        "media sidebar selection" =         (
+            "FFMediaSidebarAllEventsNode-All Events"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 47C322DC-4534-495B-9DB9-8ADDB07B7DEB : 8400D14C-6EA6-4CC4-9922-F5BED01B9C45 : AA34786A-AFB3-4261-8918-DF6DF35E9B7A" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "E69DD1D3-7F4C-44B8-AF2C-551359FAAFB2-47C322DC-4534-495B-9DB9-8ADDB07B7DEB"
+        );
+        "media sidebar selection" =         (
+            "FFMediaSidebarPhotosPhotoLibraryNode-Photos Library"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 47C322DC-4534-495B-9DB9-8ADDB07B7DEB : CEFF8916-71CB-4494-91CE-EDD78C65F5C9 : AB8FCD63-509A-4D79-81EA-0918C2353634" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "E69DD1D3-7F4C-44B8-AF2C-551359FAAFB2-47C322DC-4534-495B-9DB9-8ADDB07B7DEB"
+        );
+        "media sidebar selection" =         (
+            "E69DD1D3-7F4C-44B8-AF2C-551359FAAFB2-EA63DCB9-6EE0-4E8F-9051-6065C892EF87"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 47C322DC-4534-495B-9DB9-8ADDB07B7DEB : E2829A4F-BB35-42B5-8BE6-1FE8CE3B9472 : 8097A68A-97D6-40A5-B569-C30F0AB99EBD" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "E69DD1D3-7F4C-44B8-AF2C-551359FAAFB2-47C322DC-4534-495B-9DB9-8ADDB07B7DEB"
+        );
+        "media sidebar selection" =         (
+            "E69DD1D3-7F4C-44B8-AF2C-551359FAAFB2-4645A9F1-E86F-4101-8028-F3896FF3F55E"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 6083124A-434A-48DD-B2A9-11C1A4E6BD52 : 54F183B9-FB87-4D00-B8F5-0FA44AC0878B : 26FFEAF4-5521-49EA-8F3E-69B86C21EEF7" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "3ED9BB30-9E99-421C-AB27-32F475687331-6083124A-434A-48DD-B2A9-11C1A4E6BD52"
+        );
+        "media sidebar selection" =         (
+            "3ED9BB30-9E99-421C-AB27-32F475687331-511079F5-BE44-4B97-82B6-BFEBD12F256C"
+        );
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 6083124A-434A-48DD-B2A9-11C1A4E6BD52 : 808B3A83-AE5E-44D7-A9AD-5CBF9F033EA9 : 4414BDB2-8960-4248-975E-EC2D1FAA4A67" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "3ED9BB30-9E99-421C-AB27-32F475687331-6083124A-434A-48DD-B2A9-11C1A4E6BD52"
+        );
+        "media sidebar selection" =         (
+            "3ED9BB30-9E99-421C-AB27-32F475687331-5BA70872-0A54-433D-A529-5F7AC84393FD"
+        );
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 6083124A-434A-48DD-B2A9-11C1A4E6BD52 : 8646256F-6405-4637-92CA-3D3F95F5FB89 : 2EC6D1B4-3D6C-4361-AADC-3D0211E0057F" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "3ED9BB30-9E99-421C-AB27-32F475687331-6083124A-434A-48DD-B2A9-11C1A4E6BD52"
+        );
+        "media sidebar selection" =         (
+            "3ED9BB30-9E99-421C-AB27-32F475687331-5BA70872-0A54-433D-A529-5F7AC84393FD"
+        );
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 6083124A-434A-48DD-B2A9-11C1A4E6BD52 : B8412BFF-61BE-4F72-A9B1-61D0B09A79FE : 731D70A0-29FD-40D9-953B-6E65F9FFCC29" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "3ED9BB30-9E99-421C-AB27-32F475687331-6083124A-434A-48DD-B2A9-11C1A4E6BD52"
+        );
+        "media sidebar selection" =         (
+            "3ED9BB30-9E99-421C-AB27-32F475687331-3076A64D-3202-41B8-922E-75218265B5C2"
+        );
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 6083124A-434A-48DD-B2A9-11C1A4E6BD52 : FCFD8E4B-0AD7-4EC7-BB68-252FD6F624B3 : AC3DCA79-3C79-417F-AD37-BB520DBB4CE1" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "3ED9BB30-9E99-421C-AB27-32F475687331-6083124A-434A-48DD-B2A9-11C1A4E6BD52"
+        );
+        "media sidebar selection" =         (
+            "3ED9BB30-9E99-421C-AB27-32F475687331-3076A64D-3202-41B8-922E-75218265B5C2"
+        );
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 75340ACF-CC7A-4370-AAAB-BFCC66F42045 : 46D9F747-E335-43B7-B4B3-68FBA4F2F424 : AA2A6ACD-BD5C-4987-B0AC-C09EBFF6D230" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "9C59FECE-4EBB-4489-897B-479754E5B5C9-75340ACF-CC7A-4370-AAAB-BFCC66F42045"
+        );
+        "media sidebar selection" =         (
+            "9C59FECE-4EBB-4489-897B-479754E5B5C9-B949A657-381C-43ED-9F03-86761481017F"
+        );
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 75340ACF-CC7A-4370-AAAB-BFCC66F42045 : 679BBF3C-4FC0-410C-8A6A-38AB5AE2A33E : 3AD0EB7E-EC91-46D4-A340-CD7F580EF192" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "9C59FECE-4EBB-4489-897B-479754E5B5C9-75340ACF-CC7A-4370-AAAB-BFCC66F42045"
+        );
+        "media sidebar selection" =         (
+            "FFMediaSidebarPhotosPhotoLibraryNode-Photos Library"
+        );
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 75340ACF-CC7A-4370-AAAB-BFCC66F42045 : 6B9D279B-A1C4-476D-AF9C-010B1D11B1E5 : 9ABFFC1D-8D09-4855-B0D3-09E4B90D5F24" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "9C59FECE-4EBB-4489-897B-479754E5B5C9-75340ACF-CC7A-4370-AAAB-BFCC66F42045"
+        );
+        "media sidebar selection" =         (
+            "9C59FECE-4EBB-4489-897B-479754E5B5C9-CED78459-B6B3-48B5-B874-544A4AA4EEEC"
+        );
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 75340ACF-CC7A-4370-AAAB-BFCC66F42045 : 6F56FD1F-B394-41CC-A126-4E6C7D304AD3 : 50CFF63C-A6DA-4276-9B7A-1BD8299F167B" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "9C59FECE-4EBB-4489-897B-479754E5B5C9-75340ACF-CC7A-4370-AAAB-BFCC66F42045"
+        );
+        "media sidebar selection" =         (
+            "9C59FECE-4EBB-4489-897B-479754E5B5C9-2BCFADB0-D66D-46BB-A209-A1C3D8304368"
+        );
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : 75340ACF-CC7A-4370-AAAB-BFCC66F42045 : 9DFE1804-7A95-48E2-87F6-997E284FE79C : D5962C41-6913-4823-B5AF-16520D5501DE" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "9C59FECE-4EBB-4489-897B-479754E5B5C9-75340ACF-CC7A-4370-AAAB-BFCC66F42045"
+        );
+        "media sidebar selection" =         (
+            "9C59FECE-4EBB-4489-897B-479754E5B5C9-A57877DA-2354-42A7-B413-3F7FD56F1896"
+        );
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0 : 5C7634E4-311F-4773-8422-0FD6E7F9019B : 314DE506-F93E-4B77-AB1B-DA0CD377A402" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "7D4DCA38-15DA-4F78-8D0D-FF208662B5AA-D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0 : 90EAE260-3B5C-4B7A-8509-0ADA563C225C : FB26E926-7782-4D54-A4FF-D492D6D4B151" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0 : DD1E54DE-E413-4CA1-A8AE-0A338ABB2668 : 500595BC-58ED-49A2-9996-43F0B3284F55" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "7D4DCA38-15DA-4F78-8D0D-FF208662B5AA-D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0"
+        );
+        "media sidebar selection" =         (
+            "7D4DCA38-15DA-4F78-8D0D-FF208662B5AA-995664EC-9309-4FEA-A307-BD48049A4506"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0 : EA3ACAB3-9B3B-449E-8FF0-6881739D6166 : 65134598-E504-404B-BAD9-BDB068435428" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES"
+        );
+        "media sidebar selection" =         (
+            "7D4DCA38-15DA-4F78-8D0D-FF208662B5AA-9F66B020-AE81-48EC-B16E-FE8F41E8F689"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    "CESidebarContainerPersistenceStateMyMediaSidebarKey : D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0 : FEC91ACE-8CA0-4294-B3A7-5022F88CDDD9 : 4269D000-2314-4B4C-884E-6B1523395479" =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "7D4DCA38-15DA-4F78-8D0D-FF208662B5AA-D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0"
+        );
+        "media sidebar selection" =         (
+            "7D4DCA38-15DA-4F78-8D0D-FF208662B5AA-CE2EEAB6-CE34-491A-A72F-8A7968FF2DE9"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    CEWorkspaceModulePersistenceKey =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 3601D710-925B-4D0D-9A6B-C4010768FB73 : 7DFCE960-62C6-4426-AF26-329BF81084D3 : 1886BEDD-DC35-4065-9234-2BF6FA5902DF" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 47C322DC-4534-495B-9DB9-8ADDB07B7DEB : 09803123-2429-4CEF-8AF7-0E1BBB42493F : DFA94351-ECA4-4567-B4D0-31FE347B5BBE" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFMDPhotoLibraryModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 47C322DC-4534-495B-9DB9-8ADDB07B7DEB : 5C118532-AF77-47B2-B0DF-0E3C100F84D2 : 635AA422-52FA-42E6-B1CF-EDF6E9C96B5E" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 47C322DC-4534-495B-9DB9-8ADDB07B7DEB : 8400D14C-6EA6-4CC4-9922-F5BED01B9C45 : AA34786A-AFB3-4261-8918-DF6DF35E9B7A" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFMDMapModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 3;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 0;
+    };
+    "CEWorkspaceModulePersistenceKey : 47C322DC-4534-495B-9DB9-8ADDB07B7DEB : CEFF8916-71CB-4494-91CE-EDD78C65F5C9 : AB8FCD63-509A-4D79-81EA-0918C2353634" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 6083124A-434A-48DD-B2A9-11C1A4E6BD52 : 808B3A83-AE5E-44D7-A9AD-5CBF9F033EA9 : 4414BDB2-8960-4248-975E-EC2D1FAA4A67" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 6083124A-434A-48DD-B2A9-11C1A4E6BD52 : 8646256F-6405-4637-92CA-3D3F95F5FB89 : 2EC6D1B4-3D6C-4361-AADC-3D0211E0057F" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 6083124A-434A-48DD-B2A9-11C1A4E6BD52 : B8412BFF-61BE-4F72-A9B1-61D0B09A79FE : 731D70A0-29FD-40D9-953B-6E65F9FFCC29" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 6083124A-434A-48DD-B2A9-11C1A4E6BD52 : FCFD8E4B-0AD7-4EC7-BB68-252FD6F624B3 : AC3DCA79-3C79-417F-AD37-BB520DBB4CE1" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 75340ACF-CC7A-4370-AAAB-BFCC66F42045 : 46D9F747-E335-43B7-B4B3-68FBA4F2F424 : AA2A6ACD-BD5C-4987-B0AC-C09EBFF6D230" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 75340ACF-CC7A-4370-AAAB-BFCC66F42045 : 679BBF3C-4FC0-410C-8A6A-38AB5AE2A33E : 3AD0EB7E-EC91-46D4-A340-CD7F580EF192" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 75340ACF-CC7A-4370-AAAB-BFCC66F42045 : 6B9D279B-A1C4-476D-AF9C-010B1D11B1E5 : 9ABFFC1D-8D09-4855-B0D3-09E4B90D5F24" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : 75340ACF-CC7A-4370-AAAB-BFCC66F42045 : 6F56FD1F-B394-41CC-A126-4E6C7D304AD3 : 50CFF63C-A6DA-4276-9B7A-1BD8299F167B" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 0;
+    };
+    "CEWorkspaceModulePersistenceKey : 75340ACF-CC7A-4370-AAAB-BFCC66F42045 : 9DFE1804-7A95-48E2-87F6-997E284FE79C : D5962C41-6913-4823-B5AF-16520D5501DE" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0 : 5C7634E4-311F-4773-8422-0FD6E7F9019B : 314DE506-F93E-4B77-AB1B-DA0CD377A402" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFMDTransitionModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 4;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 0;
+    };
+    "CEWorkspaceModulePersistenceKey : D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0 : 90EAE260-3B5C-4B7A-8509-0ADA563C225C : FB26E926-7782-4D54-A4FF-D492D6D4B151" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFMDTransitionModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 4;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 0;
+    };
+    "CEWorkspaceModulePersistenceKey : D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0 : DD1E54DE-E413-4CA1-A8AE-0A338ABB2668 : 500595BC-58ED-49A2-9996-43F0B3284F55" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "CEWorkspaceModulePersistenceKey : D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0 : EA3ACAB3-9B3B-449E-8FF0-6881739D6166 : 65134598-E504-404B-BAD9-BDB068435428" =     {
+        CEWorkspaceModulePersistenceDetailsModuleClassKey = FFConsumerOrganizerFilmstripModule;
+        CEWorkspaceModulePersistenceDetailsModuleIndexKey = 0;
+        CEWorkspaceModulePersistenceSidebarVisibilityKey = 1;
+    };
+    "Desktop - file:///Users/jaroddeweese/Desktop/" = "/Users/jaroddeweese/Desktop";
+    FFAVEditMode = 0;
+    FFActiveLibraries =     (
+        {length = 888, bytes = 0x626f6f6b 78030000 00000410 30000000 ... 24010000 00000000 }
+    );
+    FFAudioVoiceOverCountdown = 1;
+    FFAudioVoiceOverFollowSystemInput = 0;
+    FFAudioVoiceOverLastInputDevice =     {
+        "FFVODeviceInfo_Name" = "Built-in Microphone";
+        "FFVODeviceInfo_UID" = "AppleHDAEngineInput:1B,0,1,0:1";
+    };
+    FFAudioVoiceOverMuteProject = 1;
+    FFAudioVoiceOverStackTakes = 0;
+    FFDefaultStillDuration = 4;
+    FFDefaultVideoTransition = "FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265";
+    FFDisableAudioScrubbing = 1;
+    FFDisableSnapping = 0;
+    FFImportFavoriteURLs = {length = 556, bytes = 0x62706c69 73743030 d4010203 04050635 ... 00000000 0000019a };
+    FFImportFileSystemNodesInfo = {length = 1791, bytes = 0x62706c69 73743030 d4010203 0405069e ... 00000000 0000059b };
+    FFImportFilmstripView = 1;
+    FFImportMediaSidebarModule =     {
+        "media sidebar expanded items" =         (
+            "FFImportMediaSidebarCamerasSectionNode-CAMERAS",
+            "FFImportMediaSidebarDevicesSectionNode-DEVICES",
+            "FFImportMediaSidebarFavoritesSectionNode-FAVORITES"
+        );
+        "media sidebar selection" =         (
+            "jaroddeweese - file:///Users/jaroddeweese/"
+        );
+    };
+    "FFImportOrganizerFilmstripModule.audioHeight-mediaImport" = 0;
+    "FFImportOrganizerFilmstripModule.favoriteFilter-mediaImport" = 2;
+    "FFImportOrganizerFilmstripModule.filmStripViewDisplayOptions" =     {
+        arrangeDirection = 1;
+        arrangeType = 0;
+        clusterDirection = 0;
+        clusterType = 0;
+    };
+    "FFImportOrganizerFilmstripModule.frameDuration-mediaImport" = "1.797693134862316e+308";
+    "FFImportOrganizerFilmstripModule.itemSize-mediaImport" = 80;
+    FFImportTargetEvent = "4C74C377-1A07-4895-9762-333ECAF092F0";
+    FFImportTargetLibrary = "D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0";
+    FFImportedRanges =     {
+        "00000000014bc800cd8558d5d5b88e94dbbdc2144e15848b6974dd4bf20316c18918803c3b88ddb6b6cc8df55b79d1ce12111047cc6cc50889c4ad2d18c8d08b1811674d54cd35bb279e2b78a7c433b6 f2863d6c855dc6a" =         (
+                        {
+                duration =                 {
+                    epoch = 0;
+                    flags = 1;
+                    timescale = 180000;
+                    value = 1981980;
+                };
+                libraryID = "47C322DC-4534-495B-9DB9-8ADDB07B7DEB";
+                start =                 {
+                    epoch = 0;
+                    flags = 1;
+                    timescale = 180000;
+                    value = 0;
+                };
+            }
+        );
+        "00000000015ae00071503b712d5b9f6747d8264a9cd9cf8b3af51a2d6709f750 c79236246de754ce852bf44c2bafdd21d1110473c772609d796a4ac835b6d9f7686fd5638252c6582d0a86a79124045 78cbcb14b4c3089" =         (
+                        {
+                duration =                 {
+                    epoch = 0;
+                    flags = 1;
+                    timescale = 180000;
+                    value = 2072070;
+                };
+                libraryID = "47C322DC-4534-495B-9DB9-8ADDB07B7DEB";
+                start =                 {
+                    epoch = 0;
+                    flags = 1;
+                    timescale = 180000;
+                    value = 0;
+                };
+            }
+        );
+        "0000000001b45000380da746b038b9d1 228e1a926e14494 1b418f83e570701147a5460b4017e27dd77aa1700771db41b1110477ccc9d0bd0fc8bb105007050584e5b7711f4dbf18f0f963335a3b35add90359e69a758ad" =         (
+                        {
+                duration =                 {
+                    epoch = 0;
+                    flags = 1;
+                    timescale = 180000;
+                    value = 2612610;
+                };
+                libraryID = "47C322DC-4534-495B-9DB9-8ADDB07B7DEB";
+                start =                 {
+                    epoch = 0;
+                    flags = 1;
+                    timescale = 180000;
+                    value = 0;
+                };
+            }
+        );
+        "0000000001d2f800b1cfdd434b15315351284aa468f5737be8a974b986e2c55b2e6af601eec67c968919fc13fc4287621c111047bcd36a0c b4effdcbe767785dfdbb6c54db1cbe31644c0efd328be255c0db3ba0f5ec20e" =         (
+                        {
+                duration =                 {
+                    epoch = 0;
+                    flags = 1;
+                    timescale = 180000;
+                    value = 2792790;
+                };
+                libraryID = "47C322DC-4534-495B-9DB9-8ADDB07B7DEB";
+                start =                 {
+                    epoch = 0;
+                    flags = 1;
+                    timescale = 180000;
+                    value = 0;
+                };
+            }
+        );
+        "0000000001d46000 1866b430909ec7a4bb34ebfc151b92aeeab76fffa9847c1a9272439bd66f21e656938c12eeae47510111047ec53600cceb47ff3197006ef12f8260dc3f68c2b770af4e5795ae46286a4835a7eefe7b3" =         (
+                        {
+                duration =                 {
+                    epoch = 0;
+                    flags = 1;
+                    timescale = 180000;
+                    value = 2792790;
+                };
+                libraryID = "47C322DC-4534-495B-9DB9-8ADDB07B7DEB";
+                start =                 {
+                    epoch = 0;
+                    flags = 1;
+                    timescale = 180000;
+                    value = 0;
+                };
+            }
+        );
+    };
+    FFMDTitleModuleShow4kOnly = 0;
+    FFMessageTracerCloudTheaterAveDurationKey = 0;
+    FFMessageTracerCloudTheaterClipTypeCountKey = 0;
+    FFMessageTracerCloudTheaterProjectTypeCountKey = 0;
+    FFMessageTracerCloudTheaterTotalClipCountKey = 0;
+    FFMessageTracerCloudTheaterTrailerTypeCountKey = 0;
+    FFMessageTracerLastLoggedDayKey = "1523339498.689486";
+    FFMessageTracerLastLoggedSharePerWeekKey = "1523338350.835804";
+    FFMessageTracerLastLoggedWeekKey = "1523339498.688401";
+    FFMessageTracerLibraryOpenOkKey = 75;
+    FFMessageTracerLibraryOpenWithValidationKey = 3;
+    FFOrganizedTimelineClipHeight = 75;
+    "FFOrganizerFilmstrip_ArrangeType" = 0;
+    "FFOrganizerFilmstrip_ClusterType" = 0;
+    "FFOrganizerFilmstrip_FavoriteFilter" = 3;
+    FFOrganizerImportMediaTypeFilterType = 0;
+    FFOverrideConnectionsKey = 0;
+    FFPlayerBackground = 3;
+    FFPlayerLoopPlayback = 0;
+    FFPlayerWarnAboutExcessiveDiskDrops = 1;
+    FFRecentLibraries =     (
+        {length = 716, bytes = 0x626f6f6b cc020000 00000410 30000000 ... 04000000 00000000 },
+        {length = 964, bytes = 0x626f6f6b c4030000 00000410 30000000 ... 7c020000 00000000 }
+    );
+    FFSequenceDefaultCropTypeKey = 0;
+    FFSequenceEditDefaultDurationKey = "0.5";
+    FFSequenceSettings =     {
+        audioChannelCount = 2;
+        audioSampleRate = 48000;
+        customCreateCompoundClip = 0;
+        customCreateMultiCam = 0;
+        customCreateProject = 0;
+        customCreateSynchronizedClip = 0;
+        multiAngleArrangeBy = 0;
+        multiAngleFineSyncByAudio = 0;
+        multiAngleOrderBy = 0;
+        multiAngleSyncBy = 0;
+        renderFormat = FFRenderFormatProRes422;
+        syncClipDisableAudioComponentsOnAVClips = 0;
+        syncClipFineSyncByAudio = 0;
+        syncClipSyncBy = 0;
+        timecodeDisplayDropFrame = 0;
+        videoFormat = "1080p HD";
+        videoRate = "23.98p";
+        videoSize = 1920x1080;
+    };
+    FFSequenceTransDefaultDuration = 0;
+    FFShareDestinationsDefaultDestinationIndex = 0;
+    FFShareLastCurrentDirectory = "/Users/jaroddeweese/Desktop";
+    FFSidebarModuleConsumer =     {
+        "media sidebar expanded items" =         (
+            "FFConsumerSidebarProjectMediaSectionNode-PROJECT MEDIA",
+            "FFMediaSidebarLibrarySectionNode-LIBRARIES",
+            "7D4DCA38-15DA-4F78-8D0D-FF208662B5AA-D087FBA4-EEAE-4A08-A0F6-FDD6F965D2E0"
+        );
+        "media sidebar selection" =         (
+            "(null)-CE2EEAB6-CE34-491A-A72F-8A7968FF2DE9"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+    FFSidebarModuleSortDirectionPref = 0;
+    FFSidebarModuleSortTypePref = 0;
+    FFTheaterAutomaticallyUploadNewItems = 0;
+    FFTheaterDeviceID = "A15B89D0-6E49-4770-B65C-6943105F0526";
+    FFTimePreserving = 0;
+    FFWorkingSpaceForCurrentEditedProject = 0;
+    FFiMovieUpgradeFirstRun = 0;
+    "Flexo.FFFileLock.LockIdentifier" = "FC014111-D526-4087-85D7-26B5C4B18AE6";
+    GEOUsageSessionID = {length = 21, bytes = 0x0885abc6ac86efb1a75d10b9d7ae89cf8dba9ec301};
+    GEOUsageSessionIDGenerationTime = "518923976.444054";
+    LKLastWelcomeVersionDisplayed = 2;
+    LKLastWhatsNewVersionDisplayed = 2;
+    LKWelcomeDisplayedForAppVersion =     {
+        "10.1.8" = 1;
+    };
+    LKWhatsNewDisplayedForAppVersion =     {
+        "10.1.8" = 1;
+    };
+    "Macintosh HD - file:///" = "/Users/jaroddeweese/Library/Mobile Documents/com~apple~CloudDocs/Documents/School/COMM 106";
+    NSProPreferencesSelectedIndex = 0;
+    "NSSplitView Subview Frames FFMediaImportOrganizerRADSplitView" =     (
+        "0.000000, 0.000000, 1006.000000, 294.000000, NO, NO",
+        "0.000000, 294.000000, 1006.000000, 292.000000, NO, NO"
+    );
+    "NSTableView Columns Music Detail Table View" =     (
+        {length = 69, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 6179436f 6c494486 },
+        26,
+        {length = 69, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 6d65436f 6c494486 },
+        183,
+        {length = 69, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 6d65436f 6c494486 },
+        40,
+        {length = 70, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 7265436f 6c494486 },
+        70,
+        {length = 71, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 7374436f 6c494486 },
+        62,
+        {length = 70, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 756d436f 6c494486 },
+        183
+    );
+    "NSTableView Columns v2 FFMediaImportOrganizerFilmListView" = {length = 2447, bytes = 0x62706c69 73743030 d4000100 02000300 ... 00000000 00000741 };
+    "NSTableView Hidden Columns Music Detail Table View" =     (
+    );
+    "NSTableView Sort Ordering Music Detail Table View" =     (
+    );
+    "NSTableView Sort Ordering v2 FFMediaImportOrganizerFilmListView" = {length = 398, bytes = 0x62706c69 73743030 d4010203 04050625 ... 00000000 0000011c };
+    "NSTableView Supports v2 FFMediaImportOrganizerFilmListView" = 1;
+    "NSToolbar Configuration LKPreferences" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame NSNavPanelAutosaveName" = "284 191 712 470 0 0 1280 778 ";
+    "NSWindow Frame PEAppPreferencesFrame" = "394 322 491 389 0 0 1280 800 ";
+    "NSWindow Frame PEMediaImportWindowDimensions" = "0 82 1213 696 0 0 1280 778 ";
+    "NSWindow Frame Preferences" = "42 137 593 390 0 0 1280 800 ";
+    "OZLibrary::CacheKey" = bed68779a6ee3727763f18cc6d5f28e1;
+    "OZProfiler::enabledMetrics" =     (
+    );
+    PEPlayerSelectedTool = FFTransform2DTool;
+    TLKItemLayerContentsOperations = 1;
+    TLKLegacyLayout = 0;
+    TLKOptimizedReload = 0;
+    TLKOptimizedZooming = 1;
+    TLKPerformanceMonitorEnabled = 0;
+    TLKTimelineLanesOptimizePerformance = 1;
+    TLKUsesNewReloadDataAlgorithm = 1;
+    "TXFontManager::kDefaultFont" = Helvetica;
+    "TXFontManager::kDefaultFontSize" = 48;
+    "music_sidebar" =     {
+        "media sidebar expanded items" =         (
+            "FFMediaSidebarLibrarySectionNode-AUDIO"
+        );
+        "media sidebar selection" =         (
+            "FFProjectExtrasITunesNode-iTunes"
+        );
+        "media sidebar sort direction" = 0;
+        "media sidebar sort type" = 0;
+    };
+}

@@ -1,0 +1,39 @@
+{
+    CSReceiverBundleIdentifierState =     {
+        "com.apple.AppStore" = 1;
+        "com.apple.CloudDocs.MobileDocumentsFileProvider" = 1;
+        "com.apple.FaceTime" = 1;
+        "com.apple.InCallService" = 1;
+        "com.apple.Maps" = 1;
+        "com.apple.MobileSMS" = 1;
+        "com.apple.Notes" = 1;
+        "com.apple.Safari" = 1;
+        "com.apple.callhistory.sync-helper" = 1;
+        "com.apple.fileprovider.fileproviderd" = 1;
+        "com.apple.finder" = 1;
+        "com.apple.iBooksX" = 1;
+        "com.apple.iCal" = 1;
+        "com.apple.iChat" = 1;
+        "com.apple.iWork.Numbers" = 1;
+        "com.apple.iWork.Pages" = 1;
+        "com.apple.icloud.drive.fileprovider" = 1;
+        "com.apple.mail" = 1;
+        "com.apple.podcasts" = 1;
+        "com.apple.reminders" = 1;
+        "com.apple.shortcuts" = 1;
+        "com.apple.stocks" = 1;
+        "com.atlassian.jira.mac" = 1;
+        "com.lukilabs.lukiapp" = 1;
+        "com.microsoft.rdc.macos" = 1;
+        "com.microsoft.to-do-mac" = 1;
+        "com.surteesstudios.Bartender-setapp" = 1;
+        "it.bloop.airmail2" = 1;
+        "maccatalyst.com.tripit.tripitmobile" = 1;
+    };
+    lastSyncDisabledBundleIds =     (
+        "com.apple.iChat",
+        "com.apple.ScriptEditor2",
+        "com.apple.iBooksX",
+        "com.apple.TextEdit"
+    );
+}

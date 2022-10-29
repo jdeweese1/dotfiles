@@ -1,0 +1,20 @@
+{
+    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
+        "0.000000, 0.000000, 224.000000, 263.000000, NO, NO",
+        "0.000000, 264.000000, 224.000000, 43.000000, NO, NO"
+    );
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "com.apple.AnnotationKit.arrowHeadStyle" = 2;
+    "com.apple.AnnotationKit.brushStyle" = 1;
+    "com.apple.AnnotationKit.fillColor" = {length = 254, bytes = 0x62706c69 73743030 d4010203 04050618 ... 00000000 000000c2 };
+    "com.apple.AnnotationKit.font" = {length = 484, bytes = 0x62706c69 73743030 d4010203 04050626 ... 00000000 00000170 };
+    "com.apple.AnnotationKit.hasShadow" = 0;
+    "com.apple.AnnotationKit.highlightStyle" = 765200;
+    "com.apple.AnnotationKit.strokeColor" = {length = 248, bytes = 0x62706c69 73743030 d4010203 04050617 ... 00000000 000000bd };
+    "com.apple.AnnotationKit.strokeIsDashed" = 0;
+    "com.apple.AnnotationKit.strokeWidth" = 15;
+    "com.apple.AnnotationKit.textAttributes" = {length = 267, bytes = 0x7b5c7274 66315c61 6e73695c 616e7369 ... 205c6366 3220617d };
+    "com.apple.AnnotationKit.userDefaultsVersion" = 1;
+}

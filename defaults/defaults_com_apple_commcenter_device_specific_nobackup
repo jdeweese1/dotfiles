@@ -1,0 +1,5 @@
+{
+    kNextCarrierBundleUpdateCheck = "2016-11-23 23:22:39 +0000";
+    "wrm-enable-cmas" = "0:kUnknown";
+    "wrm-enable-telephony" = "0:kUnknown";
+}

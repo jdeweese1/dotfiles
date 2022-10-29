@@ -1,0 +1,19 @@
+{
+    AgreedLegalVersion = 6;
+    Autolaunched = 1;
+    FBASuppressPrivacyNotice = 0;
+    LastSuccessfulLogin = "jaroddeweese@gmail.com";
+    "NSSplitView Subview Frames MainSplit" =     (
+        "0.000000, 0.000000, 186.000000, 700.000000, NO, NO",
+        "187.000000, 0.000000, 281.000000, 700.000000, NO, NO",
+        "469.000000, 0.000000, 709.000000, 700.000000, NO, NO"
+    );
+    "NSWindow Frame MainWindow" = "51 39 1178 700 0 0 1280 777 ";
+    SelectedItemID = 1467;
+    SelectedItemKind = Announcement;
+    SelectedMailboxName = Inbox;
+    SelectedProject = 1001205;
+    WebKitColorFilterEnabled = 1;
+    WelcomeWindowShown = 1;
+    autoDockAdded = 1;
+}

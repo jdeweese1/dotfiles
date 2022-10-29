@@ -1,0 +1,6 @@
+{
+    ApplicationMap =     {
+        Airmail = "file:///Applications/Airmail%203.app/";
+        "Text Edit" = "file:///Applications/TextEdit.app/";
+    };
+}

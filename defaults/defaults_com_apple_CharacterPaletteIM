@@ -1,0 +1,685 @@
+{
+    CVDetachedPopoverWindowFrame = "683 233 277 369 0 0 1280 778 ";
+    CVFontSize = 20;
+    CVPerProcessWindowState =     {
+        "/Applications/Airmail 3.app/Contents/MacOS/Airmail" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Emoji";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 1;
+                selectedSection = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Emoji" =                 {
+                    section = 0;
+                    selectedEmojiCategory = 0;
+                    string = "\\Ud83d\\Ude03";
+                };
+                string = "\\Ud83d\\Ude03";
+            };
+            CVWindowFrame = "-1260 836 600 376 -1920 317 1920 1057 ";
+        };
+        "/Applications/Airmail 3.app/Contents/MacOS/Airmail 3" =         {
+            CVCategoryListSplitPos = 132;
+            CVDetachedPopoverWindowFrame = "683 233 277 369 0 0 1280 778 ";
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Emoji";
+            CVSelectedCategoryState =             {
+                scrollPos = 763;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Emoji" =                 {
+                    section = 0;
+                    selectedEmojiCategory = 0;
+                    string = "\\Ud83d\\Udc4d\\Ud83c\\Udffd";
+                };
+                string = "\\Ud83d\\Udc4d\\Ud83c\\Udffd";
+            };
+            CVWindowFrame = "521 215 600 405 0 0 1280 778 ";
+        };
+        "/Applications/Atom.app/Contents/MacOS/Atom" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 20;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud835\\Udfc2";
+                };
+                string = "\\Ud835\\Udfc2";
+            };
+            CVWindowFrame = "533 167 600 376 0 0 1280 778 ";
+        };
+        "/Applications/BetterTouchTool.app/Contents/MacOS/BetterTouchTool" =         {
+            CVCategoryListSplitPos = 132;
+            CVDetachedPopoverWindowFrame = "683 233 277 369 0 0 1280 778 ";
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Emoji";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Emoji" =                 {
+                    section = 0;
+                    selectedEmojiCategory = 0;
+                    string = "\\Ud83d\\Ude0d";
+                };
+                string = "\\Ud83d\\Ude0d";
+            };
+            CVWindowFrame = "680 37 600 405 0 0 1280 778 ";
+        };
+        "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Emoji";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 1;
+                selectedSection = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Emoji" =                 {
+                    section = 0;
+                    selectedEmojiCategory = 0;
+                    string = "\\Ud83d\\Ude03";
+                };
+                string = "\\Ud83d\\Ude03";
+            };
+            CVWindowFrame = "2706 408 600 379 1680 45 1920 1055 ";
+        };
+        "/Applications/Mark Text.app/Contents/MacOS/Mark Text" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\U0398";
+                };
+                string = "\\U0398";
+            };
+            CVWindowFrame = "540 496 600 376 0 0 1680 1027 ";
+        };
+        "/Applications/Marp.app/Contents/MacOS/Marp" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83d\\Udcbb";
+                };
+                string = "\\Ud83d\\Udcbb";
+            };
+            CVWindowFrame = "-1260 940 600 376 -1920 421 1920 1057 ";
+        };
+        "/Applications/Messages.app/Contents/MacOS/Messages" =         {
+            CVCategoryListSplitPos = 132;
+            CVDetachedPopoverWindowFrame = "683 233 277 369 0 0 1280 778 ";
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83d\\Udc4d";
+                };
+                string = "\\Ud83d\\Udc4d";
+            };
+            CVWindowFrame = "676 233 600 405 0 0 1280 777 ";
+        };
+        "/Applications/Microsoft Remote Desktop.app/Contents/MacOS/Microsoft Remote Desktop" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Emoji";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Emoji" =                 {
+                    section = 0;
+                    selectedEmojiCategory = 0;
+                    string = "\\Ud83d\\Ude00";
+                };
+                string = "\\Ud83d\\Ude00";
+            };
+            CVWindowFrame = "391 66 600 376 0 0 1280 778 ";
+        };
+        "/Applications/Microsoft Word.app/Contents/MacOS/Microsoft Word" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 1;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\U221e";
+                };
+                string = "\\U221e";
+            };
+            CVWindowFrame = "770 33 600 376 0 0 1680 1027 ";
+        };
+        "/Applications/Notes.app/Contents/MacOS/Notes" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 0;
+                    string = S;
+                };
+                string = S;
+            };
+            CVWindowFrame = "-1301 522 600 376 -1920 421 1920 1057 ";
+        };
+        "/Applications/Pages.app/Contents/MacOS/Pages" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Recent";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Recent" =                 {
+                    section = 0;
+                    string = "\\Ud83d\\Udc4d\\Ud83c\\Udffd";
+                };
+                string = "\\Ud83d\\Udc4d\\Ud83c\\Udffd";
+            };
+            CVWindowFrame = "340 309 600 376 0 0 1280 777 ";
+        };
+        "/Applications/Preview.app/Contents/MacOS/Preview" =         {
+            CVCategoryListSplitPos = 132;
+            CVDetachedPopoverWindowFrame = "683 233 277 369 0 0 1280 778 ";
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 3;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\U0393";
+                };
+                string = "\\U0393";
+            };
+            CVWindowFrame = "564 94 600 405 0 0 1280 777 ";
+        };
+        "/Applications/PyCharm CE.app/Contents/MacOS/pycharm" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 9;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83d\\Ude4d\\U200d\\U2642\\Ufe0f";
+                };
+                string = "\\Ud83d\\Ude4d\\U200d\\U2642\\Ufe0f";
+            };
+            CVWindowFrame = "340 309 600 376 0 0 1280 777 ";
+        };
+        "/Applications/PyCharm.app/Contents/MacOS/pycharm" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 1;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83e\\Uded6";
+                };
+                string = "\\Ud83e\\Uded6";
+            };
+            CVWindowFrame = "540 495 600 379 0 0 1680 1025 ";
+        };
+        "/Applications/Safari.app/Contents/MacOS/Safari" =         {
+            CVCategoryListSplitPos = 132;
+            CVDetachedPopoverWindowFrame = "683 233 277 369 0 0 1280 778 ";
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83d\\Udca9";
+                };
+                string = "\\Ud83d\\Udca9";
+            };
+            CVWindowFrame = "521 214 600 405 0 0 1280 777 ";
+        };
+        "/Applications/Sireum.app/Contents/MacOS/idea" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Favorites";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Favorites" =                 {
+                    section = 0;
+                    string = "\\U2203";
+                };
+                string = "\\U2203";
+            };
+            CVWindowFrame = "340 309 600 376 0 0 1280 778 ";
+        };
+        "/Applications/Slack.app/Contents/MacOS/Slack" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 10;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83c\\Udff3\\Ufe0f\\U200d\\Ud83c\\Udf08";
+                };
+                string = "\\Ud83c\\Udff3\\Ufe0f\\U200d\\Ud83c\\Udf08";
+            };
+            CVWindowFrame = "540 495 600 376 0 0 1680 1027 ";
+        };
+        "/Applications/Spotify (old).app/Contents/MacOS/Spotify" =         {
+            CVCategoryListSplitPos = 164;
+            CVInfoViewSplitPos = 509;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 1;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "4\\Ufe0f\\U20e3";
+                };
+                string = "4\\Ufe0f\\U20e3";
+            };
+            CVWindowFrame = "483 129 660 379 0 0 1680 1025 ";
+        };
+        "/Applications/Stickies.app/Contents/MacOS/Stickies" =         {
+            CVCategoryListSplitPos = 132;
+            CVDetachedPopoverWindowFrame = "683 233 277 369 0 0 1280 778 ";
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Favorites";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Favorites" =                 {
+                    section = 0;
+                    string = "\\U2318";
+                };
+                string = "\\U2318";
+            };
+            CVWindowFrame = "510 57 600 405 0 0 1280 778 ";
+        };
+        "/Applications/Sublime Merge.app/Contents/MacOS/sublime_merge" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 2;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83c\\Udf46";
+                };
+                string = "\\Ud83c\\Udf46";
+            };
+            CVWindowFrame = "340 309 600 376 0 0 1280 777 ";
+        };
+        "/Applications/Sublime Text.app/Contents/MacOS/Sublime Text" =         {
+            CVCategoryListSplitPos = 132;
+            CVDetachedPopoverWindowFrame = "683 233 277 369 0 0 1280 778 ";
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83e\\Udd1d";
+                };
+                string = "\\Ud83e\\Udd1d";
+            };
+            CVWindowFrame = "-868 350 600 405 -1920 317 1920 1057 ";
+        };
+        "/Applications/System Preferences.app/Contents/MacOS/System Preferences" =         {
+            CVCategoryListSplitPos = 132;
+            CVDetachedPopoverWindowFrame = "683 233 277 369 0 0 1280 778 ";
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Emoji";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Emoji" =                 {
+                    section = 0;
+                    selectedEmojiCategory = 0;
+                    string = "\\Ud83d\\Ude00";
+                };
+                string = "\\Ud83d\\Ude00";
+            };
+            CVWindowFrame = "521 215 600 405 0 0 1280 778 ";
+        };
+        "/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83d\\Udca9";
+                };
+                string = "\\Ud83d\\Udca9";
+            };
+            CVWindowFrame = "340 309 600 376 0 0 1280 778 ";
+        };
+        "/Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/MacOS/Simulator" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Emoji";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Emoji" =                 {
+                    section = 0;
+                    selectedEmojiCategory = 0;
+                    string = "\\Ud83d\\Ude02";
+                };
+                string = "\\Ud83d\\Ude02";
+            };
+            CVWindowFrame = "292 36 600 376 0 0 1280 778 ";
+        };
+        "/Applications/iBooks.app/Contents/MacOS/iBooks" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Emoji";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Emoji" =                 {
+                    section = 0;
+                    selectedEmojiCategory = 0;
+                    string = "\\Ud83d\\Ude00";
+                };
+                string = "\\Ud83d\\Ude00";
+            };
+            CVWindowFrame = "340 309 600 376 0 0 1280 778 ";
+        };
+        "/Applications/zoom.us.app/Contents/MacOS/zoom.us" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Recent";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Recent" =                 {
+                    section = 0;
+                    string = "\\Ud83d\\Udc4d";
+                };
+                string = "\\Ud83d\\Udc4d";
+            };
+            CVWindowFrame = "1654 1568 600 376 994 1050 1920 1057 ";
+        };
+        "/System/Applications/Calendar.app/Contents/MacOS/Calendar" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Recent";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Recent" =                 {
+                    section = 0;
+                    string = "\\Ud83d\\Udc4d";
+                };
+                string = "\\Ud83d\\Udc4d";
+            };
+            CVWindowFrame = "540 496 600 376 0 0 1680 1027 ";
+        };
+        "/System/Applications/Messages.app/Contents/MacOS/Messages" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83d\\Udce0";
+                };
+                string = "\\Ud83d\\Udce0";
+            };
+            CVWindowFrame = "540 496 600 379 0 0 1680 1025 ";
+        };
+        "/System/Applications/Preview.app/Contents/MacOS/Preview" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\U0398";
+                };
+                string = "\\U0398";
+            };
+            CVWindowFrame = "-1260 970 600 376 -1920 452 1920 1057 ";
+        };
+        "/System/Library/CoreServices/Finder.app/Contents/MacOS/Finder" =         {
+            CVCategoryListSplitPos = 132;
+            CVDetachedPopoverWindowFrame = "501 229 277 369 0 0 1280 777 ";
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 18;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\U2764\\Ufe0f";
+                };
+                string = "\\U2764\\Ufe0f";
+            };
+            CVWindowFrame = "339 211 600 405 0 0 1280 777 ";
+        };
+        "/Users/jaroddeweese/Applications/zoom.us.app/Contents/MacOS/zoom.us" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 2;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83e\\Udd23";
+                };
+                string = "\\Ud83e\\Udd23";
+            };
+            CVWindowFrame = "540 497 600 376 0 0 1680 1027 ";
+        };
+        "/private/var/folders/xx/tfswc_dx72g44v318_92rgqc0000gn/T/AppTranslocation/2C0EC88F-8421-4C13-B32E-53461FB48ECB/d/Slack.app/Contents/MacOS/Slack" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83d\\Udc4d\\Ud83c\\Udffd";
+                };
+                string = "\\Ud83d\\Udc4d\\Ud83c\\Udffd";
+            };
+            CVWindowFrame = "340 309 600 376 0 0 1280 778 ";
+        };
+        "/private/var/folders/xx/tfswc_dx72g44v318_92rgqc0000gn/T/AppTranslocation/2C43F20D-8720-4771-9255-5D52B976F25A/d/Sketch.app/Contents/MacOS/Sketch" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+                selectedIndex = 0;
+                selectedSection = 1;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83d\\Udcb2";
+                };
+                string = "\\Ud83d\\Udcb2";
+            };
+            CVWindowFrame = "912 527 600 376 0 0 1680 1027 ";
+        };
+        "/private/var/folders/xx/tfswc_dx72g44v318_92rgqc0000gn/T/AppTranslocation/40BE88CF-FFC4-454D-9D0E-84F6911CDD6F/d/Slack.app/Contents/MacOS/Slack" =         {
+            CVCategoryListSplitPos = 132;
+            CVDetachedPopoverWindowFrame = "683 233 277 369 0 0 2560 1058 ";
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Emoji";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Emoji" =                 {
+                    section = 0;
+                    selectedEmojiCategory = 0;
+                    string = "\\Ud83e\\Udd13";
+                };
+                string = "\\Ud83e\\Udd13";
+            };
+            CVWindowFrame = "521 215 600 405 0 0 2560 1058 ";
+        };
+        "/private/var/folders/xx/tfswc_dx72g44v318_92rgqc0000gn/T/AppTranslocation/84EE6231-9751-4985-9557-1CB143D72BD4/d/Slack.app/Contents/MacOS/Slack" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\Ud83d\\Udc4d\\Ud83c\\Udffd";
+                };
+                string = "\\Ud83d\\Udc4d\\Ud83c\\Udffd";
+            };
+            CVWindowFrame = "340 309 600 376 0 0 1280 778 ";
+        };
+        "/private/var/folders/xx/tfswc_dx72g44v318_92rgqc0000gn/T/AppTranslocation/F557A6D8-26A9-41F7-BA5E-F5592DB5414E/d/Slack.app/Contents/MacOS/Slack" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Search";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Search" =                 {
+                    section = 1;
+                    string = "\\U2441";
+                };
+                string = "\\U2441";
+            };
+            CVWindowFrame = "340 309 600 376 0 0 1280 778 ";
+        };
+        "/private/var/folders/xx/tfswc_dx72g44v318_92rgqc0000gn/T/AppTranslocation/FA048AC2-071A-4E13-A871-96ECB60A98B0/d/Slack.app/Contents/MacOS/Slack" =         {
+            CVCategoryListSplitPos = 132;
+            CVInfoViewSplitPos = 449;
+            CVSelectedCategory = "Category-Emoji";
+            CVSelectedCategoryState =             {
+                scrollPos = 0;
+            };
+            CVSelectedCharacterData =             {
+                "Category-Emoji" =                 {
+                    section = 0;
+                    selectedEmojiCategory = 0;
+                    string = "\\Ud83d\\Ude00";
+                };
+                string = "\\Ud83d\\Ude00";
+            };
+            CVWindowFrame = "340 309 600 376 0 0 1280 778 ";
+        };
+    };
+    CVStartAsLargeWindow = 1;
+    "NSSplitView Subview Frames CVEmojiSplitView" =     (
+        "0.000000, 0.000000, 144.000000, 389.000000, NO, NO",
+        "145.000000, 0.000000, 171.000000, 389.000000, NO, NO"
+    );
+}

@@ -1,0 +1,59 @@
+{
+    "com.apple.print.lastPresetPref" = "Default Settings";
+    "com.apple.print.lastPresetPrefType" = 1;
+    "com.apple.print.lastUsedSettingsPref" =     {
+        "com.apple.print.preset.id" = "com.apple.print.lastUsedSettingsPref";
+        "com.apple.print.preset.settings" =         {
+            "AP_D_InputSlot" = "";
+            MediaType = Plain;
+            PaperInfoIsSuggested = 1;
+            "com.apple.print.PageToPaperMappingMediaName" = Letter;
+            "com.apple.print.PageToPaperMappingType" = 1;
+            "com.apple.print.PrintSettings.PMCopies" = 1;
+            "com.apple.print.PrintSettings.PMCopyCollate" = 1;
+            "com.apple.print.PrintSettings.PMDestinationType" = 1;
+            "com.apple.print.PrintSettings.PMFirstPage" = 1;
+            "com.apple.print.PrintSettings.PMLastPage" = 2147483647;
+            "com.apple.print.PrintSettings.PMPageRange" =             (
+                1,
+                2147483647
+            );
+            "com.apple.print.subTicket.paper_info_ticket" =             {
+                PMPPDPaperCodeName = Letter;
+                PMPPDTranslationStringPaperName = Letter;
+                PMTiogaPaperName = "na-letter";
+                "com.apple.print.PaperInfo.PMDisplayName" = "na-letter";
+                "com.apple.print.PaperInfo.PMPPDPaperDimension" =                 (
+                    0,
+                    0,
+                    612,
+                    792
+                );
+                "com.apple.print.PaperInfo.PMPaperName" = "na-letter";
+                "com.apple.print.PaperInfo.PMUnadjustedPageRect" =                 (
+                    0,
+                    0,
+                    768,
+                    588
+                );
+                "com.apple.print.PaperInfo.PMUnadjustedPaperRect" =                 (
+                    "-12",
+                    "-12",
+                    780,
+                    600
+                );
+                "com.apple.print.PaperInfo.ppd.PMPaperName" = Letter;
+                "com.apple.print.ticket.type" = "com.apple.print.PaperInfoTicket";
+            };
+            "com.apple.print.ticket.type" = "com.apple.print.PrintSettingsTicket";
+            "com.brother.print.PrintSettings.NormalEffect" =             (
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            );
+        };
+    };
+}

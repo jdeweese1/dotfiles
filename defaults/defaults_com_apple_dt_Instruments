@@ -1,0 +1,82 @@
+{
+    DTDKLastLSRegisterHashes =     {
+        "/System/Library/CoreServices/CoreTypes.bundle" = {length = 20, bytes = 0x2d272e3a7601edc66489ee522aa4657c32748620};
+        "/System/Library/CoreServices/CoreTypes.bundle/Contents/Library/MobileDevices.bundle" = {length = 20, bytes = 0x118e7ed4e7dd2b48e0ddb84200e4b947b5015cd4};
+    };
+    DTWirelessUniqueShortTypeLocationID = 3284367121;
+    DTraceFlagRuntimeErrors = 0;
+    "DTraceGraphingPreferences.4874A0A1-54C8-490F-8BE2-ACC5CDA1115B" = {length = 561, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 018692a4 92b38686 };
+    "DTraceGraphingPreferences.5FB9D39B-442F-4B3E-A183-BD6BD09368F2" = {length = 671, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 92a392a4 92ba8686 };
+    "DTraceGraphingPreferences.A97403C1-B3DC-4B13-814D-5B2FA287B10A" = {length = 472, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 018692a4 92ae8686 };
+    "DTraceGraphingPreferences.D905B2F2-A570-47F1-BB97-76BDE028EEEA" = {length = 396, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 018692a4 92a68686 };
+    "DTraceGraphingPreferencesEnabledDefaults.com.apple.xray.instrument-type.dtrace.directoryio" =     (
+        "Stack Depth"
+    );
+    "DTraceGraphingPreferencesEnabledDefaults.com.apple.xray.instrument-type.dtrace.fileactivity" =     (
+        "Stack Depth"
+    );
+    "DTraceGraphingPreferencesEnabledDefaults.com.apple.xray.instrument-type.dtrace.fileinfo" =     (
+        "Stack Depth"
+    );
+    "DTraceGraphingPreferencesEnabledDefaults.com.apple.xray.instrument-type.dtrace.readwrite" =     (
+        "Stack Depth",
+        Bytes
+    );
+    DTraceKernelBufferSize = 25;
+    DTracePermitZeroMatchProbes = 1;
+    DTraceStackDepth = 128;
+    DTraceWarnBufferResourceLimit = 1;
+    "NSWindow Frame InstrumentsWindow" = "-1561 358 1284 817 -1920 317 1920 1057 ";
+    "NSWindow Frame XRTemplateChooserFrame" = "171 417 790 475 0 0 1680 1025 ";
+    PFTInstrumentTargetType = 0;
+    "RecentTemplates.array" =     (
+    );
+    "RecentTemplates.maxCount" = 10;
+    XCFontAndColorCurrentDarkTheme = "Default (Dark).xccolortheme";
+    XFFileBrowserExpandbundles = 0;
+    XRAlwaysSnapTrackToFit = 0;
+    XRCallTreeSmartExpansionFraction = "0.75";
+    XRCompressRunData = 1;
+    XRDockSamplingDuration = 5;
+    XRDockSamplingDurationUnits = sec;
+    XRDockSamplingInterval = 1;
+    XRDockSamplingIntervalUnits = ms;
+    XRDockSamplingRecentsLimit = 10;
+    XRFileBrowserExpandBundles = 1;
+    XRFileExplorerShowHiddenFiles = 0;
+    XRFileExplorerViewStyle = 0;
+    XRFloatingInspectorWindowFrame = "1010 503 216 222 0 0 1440 878 ";
+    XRIgnoreTargetTermination = 0;
+    XRInitialDeckHeightEnforced = 1;
+    XRInstrumentInspectorShowAdvancedOtherTab = 0;
+    XRKPerfMaxFrames = 128;
+    XRLockedInspectorWindowFrame = "1000 513 216 222 0 0 1440 878 ";
+    XRMaxWindowModeEpochFactor = "2.0";
+    XRMostRecentDevice = "2F95BD4B-B544-5018-BEB1-9F947B041766";
+    XRMostRecentDeviceType = XRLocalDevice;
+    XRMostRecentTarget =     {
+        "_execname" = GlobalProtect;
+        "_launchControlProperties" =         {
+        };
+        "_pid" = 70748;
+        coreValueSignature = 4294967295;
+        displayName = GlobalProtect;
+        imageData = {length = 17742, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00004488 };
+        processID = 70748;
+        specifiedEnvironment =         {
+        };
+        specifiedType = 1;
+    };
+    XRMostRecentTargetType = 2;
+    XRPreserveIntermediateDTraceFiles = 0;
+    XRQuickStartHeadless = 0;
+    XRQuickStartHeadlessTimeout = 10000;
+    XRSortProcessListsByIdentifier = 1;
+    XRTemplateChooserDefaultCategory = 1;
+    XRTemplateChooserDefaultSelection = Blank;
+    XRUseRootHighlights = 1;
+    "stack.colorLibraries" = 1;
+    "stack.displayFilePath" = 1;
+    "stack.displayLibraries" = 1;
+    "stack.inverted" = 1;
+}

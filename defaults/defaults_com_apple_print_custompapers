@@ -1,0 +1,26 @@
+{
+    "Thank You card" =     {
+        bottom = 54;
+        custom = 1;
+        height = 504;
+        id = "Thank You card";
+        left = 18;
+        name = "Thank You card";
+        printer = " ";
+        right = 18;
+        top = 270;
+        width = 360;
+    };
+    Untitled =     {
+        bottom = 40;
+        custom = 1;
+        height = 1584;
+        id = Untitled;
+        left = 18;
+        name = Untitled;
+        printer = " ";
+        right = 18;
+        top = 18;
+        width = 1584;
+    };
+}
