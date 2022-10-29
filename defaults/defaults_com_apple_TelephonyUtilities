@@ -1,9 +1,11 @@
 {
     CachedVCCaps = 17592188010496;
-    kLastIDSFirewallVersionDefaultsKey = 1;
+    PNRltc = "2022-06-14 03:47:39 +0000";
     registeredProviders =     (
         {length = 132, bytes = 0x0a3b636f 6d2e6170 706c652e 74656c65 ... 48006803 68027801 },
         {length = 83, bytes = 0x0a17636f 6d2e6170 706c652e 636f7265 ... 08021204 23393131 }
     );
     registeredProvidersVersion = 1;
+    thumperCallingCapabilitiesStates =     (
+    );
 }

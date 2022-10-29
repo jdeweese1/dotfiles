@@ -1,4 +1,7 @@
 {
+    MeCardSharingEnabled = 0;
+    MeCardSharingVersion = 0;
+    NicknameAppleIDAndiCloudAccountMatchAndExist = 0;
     NicknameScrutinyDoNotHandle = 0;
     ReuploadLocalNicknamesVersion = 1;
 }

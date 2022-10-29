@@ -1,4 +1,38 @@
 {
+    AccountSortOrder =     (
+        "33CB1C28-3B82-4BBA-BF94-283310D4EA6A",
+        "CE681AAC-F21B-47BF-9E39-EB1C42DC3E95"
+    );
+    AccountsToLogInAtLaunch =     (
+    );
+    ChatWindowControllerUnifiedChatListWidth = 285;
+    ChatWindowControllerUnifiedFrame = "{{251, 1524}, {500, 518}}";
+    ChatWindowControllerUnifiedIsVisible = 1;
+    DaemonConnectionWaitTime = 20;
     DidCheckForDuplicateChats = 3;
     DidMarkGroupPhotosAsUnpurgeable = 1;
+    DidMigratePersonCentricIDs = 1;
+    DidRegenerateGroupID63841559 = 1;
+    DownloadsBookmark = {length = 660, bytes = 0x626f6f6b 94020000 00000410 30000000 ... 04000000 00000000 };
+    HasPromptediMessageFTU = 1;
+    LastIMDNotificationPostedDate = 633910496481694464;
+    "NSWindow Frame MessagesPreferences" = "19 1280 540 522 -653 1120 1920 1057 ";
+    NotifyAboutMessagesFromUnknownContacts = 1;
+    PlaySoundsKey = 1;
+    SODefaultTranscriptName = ChatTranscriptViewController;
+    UnifiedChatListViewControllerAutomaticallySortsChats = 1;
+    UnifiedChatWindowControllerSelectionGUIDSet = "iMessage;-;+19132598492";
+    WebIconDatabaseEnabled = 0;
+    messageTracerCharactersSent = 0;
+    messageTracerIMessageUsed = 0;
+    messageTracerIMessagesReceived = 0;
+    messageTracerIMessagesSent = 0;
+    messageTracerMessagesReceived = 0;
+    messageTracerMessagesSent = 0;
+    messageTracerNumUpgradeOffers = 0;
+    messageTracerSMSSent = 0;
+    messageTracerSMSUsed = 0;
+    messageTracerSubmitDate = 636304000;
+    messageTracerUpgradesAccepted = 0;
+    messageTracerUpgradesDeclined = 0;
 }

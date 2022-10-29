@@ -2,23 +2,22 @@
     CKPerBootTasks =     (
         CKAcccountInfoCacheReset
     );
-    CKStartupTime = 1652316258;
+    CKStartupTime = 1664395438;
     CloudKitAccountInfoCache =     {
-        7099a6fdb05e5229a89e136d42a383ca7af62e8a36e60e2a6b4eba92e48f9375 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+        7099a6fdb05e5229a89e136d42a383ca7af62e8a36e60e2a6b4eba92e48f9375 = {length = 395, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012d };
+        7db3e98c414667b598947b7ffed9f20de95a51646e9c9af17429d1aec8659ea7 = {length = 395, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012d };
     };
-    FindReplaceMatchCaseKey = 1;
-    FindReplaceWholeWordsKey = 0;
     FloatingInspectorPanes =     (
     );
     FloatingInspectorPanesVersion = 3;
-    NSNavLastRootDirectory = "~/Projects/Python/playground";
-    NSNavLastUserSetHideExtensionButtonState = 0;
-    NSNavPanelExpandedSizeForOpenMode = "{799, 450}";
+    NSNavLastRootDirectory = "~/Downloads";
+    NSNavLastUserSetHideExtensionButtonState = 1;
+    NSNavPanelExpandedSizeForOpenMode = "{799, 448}";
     NSNavPanelExpandedSizeForSaveMode = "{841, 448}";
     NSNavPanelExpandedStateForSaveMode = 1;
     "NSSplitView Subview Frames NSColorPanelSplitView" =     (
-        "0.000000, 0.000000, 224.000000, 258.000000, NO, NO",
-        "0.000000, 259.000000, 224.000000, 48.000000, NO, NO"
+        "0.000000, 0.000000, 224.000000, 255.000000, NO, NO",
+        "0.000000, 256.000000, 224.000000, 48.000000, NO, NO"
     );
     "NSToolbar Configuration 11959730-932B-42F1-8189-53E808A04446" =     {
         "TB Display Mode" = 1;
@@ -29,44 +28,39 @@
     "NSToolbar Configuration com.apple.NSColorPanel" =     {
         "TB Is Shown" = 1;
     };
-    "NSWindow Frame NSNavPanelAutosaveName" = "440 431 799 450 0 0 1680 1025 ";
-    "NSWindow Frame TMAFindReplaceWindow" = "4620 851 520 81 3600 0 1920 1055 ";
-    "NSWindow Frame TMAWarningsFloatingInspectorPaneProvider-TMAFloatingInspectorWindow-version-3" = "705 264 584 327 0 0 1680 1027 ";
+    "NSWindow Frame Boo" = "308 161 1070 740 0 0 1920 1055 ";
+    "NSWindow Frame NSColorPanel" = "1052 646 224 275 0 0 1288 921 ";
+    "NSWindow Frame NSFontPanel" = "1281 110 445 237 0 0 1792 1097 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "-14 -143 328 343 0 0 1792 1095 ";
+    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "4404 536 428 137 3712 129 1920 1055 ";
+    "NSWindow Frame TMAFindReplaceWindow" = "1072 433 520 151 0 0 1792 1095 ";
+    "NSWindow Frame TMAWarningsFloatingInspectorPaneProvider-TMAFloatingInspectorWindow-version-3" = "802 272 584 311 0 0 1792 1095 ";
     RecentFindStrings =     (
-        Widmar,
-        Clark,
-        Jarod,
-        Hatcliff,
-        Hatfield,
-        Teeter,
-        teeter,
-        Schr,
-        Deloach,
-        Hsu
+        "\\\\\\\\n\\\\\\\\n",
+        "partner program",
+        "techincal uspport",
+        "Partner name",
+        "Zoom Certified",
+        "Partner type",
+        "[0-9]+[\\\\\\\\t]+",
+        606,
+        099,
+        Porting
     );
-    RecentlyUsedLanguages =     (
-        "en_US"
-    );
-    ReplaceMode = 0;
+    ReplaceMode = 1;
     TMADidMigrateIWork09Templates = 1;
-    TMAFirstLaunchVersion = 65558;
-    TMATemplateManagerWindowLastShownKey = "2019-09-09 17:22:43 +0000";
+    TMAFirstLaunchVersion = 65559;
     TMAWasMigratingIWork09Templates = 0;
-    TNMacExportCSVAdvancedOptionsIsVisible = 0;
+    TNMacExportCSVAdvancedOptionsIsVisible = 1;
     TNMacExportTSVAdvancedOptionsIsVisible = 0;
-    TSAAUNPersistedState =     {
-        alertPresentationCount = 0;
-        baselineVersionString = "10.2";
-        lastOSVersionString = "10.15.7";
-        nextAlertPresentationDate = "2020-10-22 22:39:12 +0000";
-    };
     TSAICloudAuthorNameKey = "Jarod DeWeese";
-    TSAICloudAuthorPrivateIDKey = "9A01B51B-5F7B-4681-96D3-62AB50EE76F8";
-    TSAPersistentModelLastPruneDate = "2022-06-18 23:54:27 +0000";
+    "TSAOpenedTemplates.Numbers" =     {
+        "Application/Blank" = "1643741757.47049";
+    };
+    TSAPersistentModelLastPruneDate = "2022-10-03 15:53:48 +0000";
     TSDShowSizeAndPositionWhileMovingUserDefault = 1;
-    TSDTargetPointSize = "14.42589";
-    TSKAnalyticsActiveUseDeviceID = "18D3DD2F-35DD-4E0A-BFC6-14AF1DCB98A4";
-    TSKAnalyticsActiveUseLastDeviceIDRotationDate = "2022-06-18 23:54:27 +0000";
+    TSKAnalyticsActiveUseDeviceID = "34EE1871-28BE-40DB-BA02-B5A604DD1035";
+    TSKAnalyticsActiveUseLastDeviceIDRotationDate = "2022-10-03 15:53:48 +0000";
     TSKCloudKitDidCreateSubscriptionForUserIDDictionaryKey =     {
         "_40be19fa0538a52e3caabe3e663831c7" =         (
             "com.apple.iWork.TSKCloudKitPrivateZone"
@@ -79,7 +73,7 @@
     };
     TSKRemoteStringsETag = "\\"4b0-5dc13a7197c08\\"";
     TSKRemoteStringsLastLocalization = en;
-    TSKRemoteStringsNextUpdate = "2022-07-02 03:32:16 +0000";
+    TSKRemoteStringsNextUpdate = "2022-10-08 14:40:21 +0000";
     TSURemoteDefaults =     {
         CollaborationLargeAssetsDisabled = NO;
         CollaborationThresholds =         {
@@ -274,18 +268,13 @@
             };
         };
     };
-    TSURemoteDefaultsETag = "\\"1d91-5e2b19f08ecb8\\"";
-    TSURemoteDefaultsNextUpdate = "2022-07-02 03:32:16 +0000";
-    TSWPAutomaticDashSubstitution = 1;
-    TSWPAutomaticQuoteSubstitution = 1;
-    TSWPAutomaticSpellingCorrection = 1;
-    TSWPAutomaticTextReplacement = 1;
+    TSURemoteDefaultsETag = "\\"1d91-5e2b19fbf3bf7\\"";
+    TSURemoteDefaultsNextUpdate = "2022-10-08 14:40:22 +0000";
     TSWPAutomaticallyDetectLinks = 1;
     TSWPAutomaticallyDetectLists = 1;
     TSWPGrammarChecking = 0;
     TSWPIgnoredWordsDictionary =     {
     };
-    TSWPInvisiblesColorSafe = {length = 274, bytes = 0x62706c69 73743030 d4010203 04050615 ... 00000000 000000d9 };
     TSWPSpellCheckingEnabled = 1;
     TSWPSuperscriptNumericalSuffixes = 0;
     TSWPTextReplacementsDictionary =     {
@@ -296,7 +285,4 @@
         "c/o" = "\\U2105";
     };
     TSWPUnderlineLinks = 1;
-    TWSPAutomaticallyDetectLinks = 1;
-    TWSPAutomaticallyDetectLists = 1;
-    TWSPSuperscriptNumericalSuffixes = 0;
 }

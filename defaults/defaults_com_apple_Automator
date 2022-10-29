@@ -1,67 +1,26 @@
 {
-    AMLogTabViewSelectedIndex = 0;
-    AMSuppressWarningForDestructiveActions = 0;
-    AMSuppressWarningOnRunForAMApplicationWorkflowPersonality = 1;
-    AMSuppressWarningOnRunForAMServiceWorkflowPersonality = 1;
-    ILMediaBrowserMediaType = 2;
-    NSNavLastRootDirectory = "~/Downloads";
-    NSNavPanelExpandedSizeForOpenMode = "{799, 777}";
-    NSNavPanelExpandedSizeForSaveMode = "{712, 508}";
-    NSNavPanelExpandedStateForSaveMode = 1;
-    "NSSplitView AMDocumentMajor Expanded Position" = "586.5";
-    "NSSplitView AMDocumentMinor Expanded Position" = 263;
-    "NSSplitView AMLibraryActionsMajor Expanded Position" = 351;
-    "NSSplitView AMLibraryActionsMinor Expanded Position" = 341;
-    "NSSplitView AMLibraryVariablesMajor Expanded Position" = 0;
-    "NSSplitView AMLibraryVariablesMinor Expanded Position" = 0;
+    NSNavLastUserSetHideExtensionButtonState = 1;
     "NSSplitView Subview Frames AMDocumentMajor" =     (
-        "0.000000, 0.000000, 586.500000, 664.000000, NO, NO",
-        "587.500000, 0.000000, 692.500000, 664.000000, NO, NO"
+        "0.000000, 0.000000, 381.000000, 828.000000, NO, NO",
+        "382.000000, 0.000000, 618.000000, 828.000000, NO, NO"
     );
     "NSSplitView Subview Frames AMDocumentMinor" =     (
-        "0.000000, 0.000000, 692.500000, 401.000000, NO, NO",
-        "0.000000, 402.000000, 692.500000, 262.000000, NO, NO"
+        "0.000000, 0.000000, 618.000000, 659.000000, NO, NO",
+        "0.000000, 660.000000, 618.000000, 168.000000, NO, NO"
     );
     "NSSplitView Subview Frames AMLibraryActionsMajor" =     (
-        "0.000000, 0.000000, 586.500000, 288.000000, NO, NO",
-        "0.000000, 289.000000, 586.500000, 350.000000, NO, NO"
+        "0.000000, 0.000000, 381.000000, 663.000000, NO, NO",
+        "0.000000, 664.000000, 381.000000, 136.000000, NO, NO"
     );
     "NSSplitView Subview Frames AMLibraryActionsMinor" =     (
-        "0.000000, 0.000000, 341.000000, 288.000000, NO, NO",
-        "342.000000, 0.000000, 244.500000, 288.000000, NO, NO"
+        "0.000000, 0.000000, 163.000000, 663.000000, NO, NO",
+        "164.000000, 0.000000, 217.000000, 663.000000, NO, NO"
     );
-    "NSSplitView Subview Frames AMLibraryVariablesMajor" =     (
-        "0.000000, 0.000000, 368.500000, 532.000000, NO, NO",
-        "0.000000, 533.000000, 368.500000, 151.000000, NO, NO"
-    );
-    "NSSplitView Subview Frames AMLibraryVariablesMinor" =     (
-        "0.000000, 0.000000, 149.000000, 532.000000, NO, NO",
-        "150.000000, 0.000000, 218.500000, 532.000000, NO, NO"
-    );
-    "NSTableView Columns v2 AudioTable" = {length = 597, bytes = 0x62706c69 73743030 d4010203 04050643 ... 00000000 000001a7 };
-    "NSTableView Sort Ordering v2 AudioTable" = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050614 ... 00000000 000000b5 };
-    "NSTableView Supports v2 AudioTable" = 1;
     "NSToolbar Configuration AMDocumentToolbarIdentifier" =     {
         "TB Display Mode" = 1;
         "TB Icon Size Mode" = 1;
         "TB Is Shown" = 1;
         "TB Size Mode" = 1;
     };
-    "NSWindow Frame AMDocument" = "200 341 1280 686 0 0 1680 1027 ";
-    "NSWindow Frame NSNavPanelAutosaveName" = "-1360 527 799 716 0 0 1680 1027 ";
-    SGTRecentFileSearches =     (
-                {
-            attributes =             (
-                kMDItemDisplayName
-            );
-            enforceStrictMatch = 0;
-            exactMatch = 0;
-            name = openInTer;
-            scope = 4;
-            type = "com.apple.finder";
-            values =             (
-                openInTer
-            );
-        }
-    );
+    "NSWindow Frame AMDocument" = "337 267 1000 828 0 0 1792 1095 ";
 }

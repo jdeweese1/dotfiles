@@ -1,3 +1,15 @@
 {
-    "last-analytics-stamp" = "688682888.424003";
+    "last-analytics-stamp" = "688404537.1824549";
+    "last-selection" =     {
+        Height = 941;
+        Width = 1571;
+        X = 3889;
+        Y = 10;
+    };
+    "last-selection-display" = 2;
+    location = "~/Screenshots";
+    "location-last" = "~/Screenshots";
+    style = selection;
+    target = file;
+    video = 0;
 }

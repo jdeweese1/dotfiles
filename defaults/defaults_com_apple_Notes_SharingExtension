@@ -1,11 +1,8 @@
 {
-    "NotesIndexerState-Modern" =     {
-        NeedsReindexing = 0;
-        ObjectIDsByIdentifier =         {
-        };
-    };
-    "NotesIndexerState-Modern-ObjectIDsToIgnore" =     (
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
     );
-    SharingExtensionLastSavedNoteIdentifier = "5AD306A5-98EA-4F4E-BB5E-7D16665CD371";
-    SharingExtensionLastSavedNoteTimeStamp = "2018-06-23 19:49:25 +0000";
+    CKStartupTime = 1632424020;
+    SharingExtensionLastSavedNoteIdentifier = "BCD8FA22-47B7-487E-A61B-D895F3914EFA";
+    SharingExtensionLastSavedNoteTimeStamp = "2021-11-02 22:35:24 +0000";
 }

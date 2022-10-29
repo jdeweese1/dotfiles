@@ -1,3 +1,8 @@
 {
     CatalystPreferenceMigrationVersion = 1;
+    ChatWindowControllerUnifiedFrame = "{{251, 1524}, {500, 518}}";
+    LegacyAppSidebarPersistedWidth = 285;
+    "NSWindow Frame MessagesPreferences" = "19 1280 540 522 -653 1120 1920 1057 ";
+    NotifyAboutMessagesFromUnknownContacts = 1;
+    PlaySoundsKey = 1;
 }

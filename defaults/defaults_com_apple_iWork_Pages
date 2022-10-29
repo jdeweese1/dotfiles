@@ -2,33 +2,19 @@
     CKPerBootTasks =     (
         CKAcccountInfoCacheReset
     );
-    CKStartupTime = 1652316243;
-    CenterRulerOrigin = 1;
+    CKStartupTime = 1661202641;
     CloudKitAccountInfoCache =     {
-        7099a6fdb05e5229a89e136d42a383ca7af62e8a36e60e2a6b4eba92e48f9375 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
-        ee5134fe55015e549f7d01713916b96b60e85b76b8673c8f7db21b435ad3384e = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+        7099a6fdb05e5229a89e136d42a383ca7af62e8a36e60e2a6b4eba92e48f9375 = {length = 395, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012d };
     };
-    FindReplaceMatchCaseKey = 1;
-    FindReplaceWholeWordsKey = 0;
-    FloatingInspectorPanes =     (
-    );
-    FloatingInspectorPanesVersion = 3;
-    NSColorPanelMode = 5;
+    NSColorPanelMode = 6;
     NSColorPickerPreferredRGBEntryMode = 2;
     NSColorPickerSlidersDefaults = 1;
-    NSFontPanelAttributes = "1, 4";
-    NSNavLastRootDirectory = "~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Professional/ZD";
-    NSNavLastUserSetHideExtensionButtonState = 0;
-    NSNavPanelExpandedSizeForOpenMode = "{799, 448}";
-    NSNavPanelExpandedSizeForSaveMode = "{841, 499}";
-    NSNavPanelExpandedStateForSaveMode = 1;
+    NSNavLastRootDirectory = "~/Documents/iterm2_profile_pics";
+    NSNavLastUserSetHideExtensionButtonState = 1;
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
     "NSSplitView Subview Frames NSColorPanelSplitView" =     (
-        "0.000000, 0.000000, 224.000000, 264.000000, NO, NO",
-        "0.000000, 265.000000, 224.000000, 43.000000, NO, NO"
-    );
-    "NSSplitView Subview Frames SFWPEquationPane" =     (
-        "0.000000, 0.000000, 360.000000, 168.000000, NO, NO",
-        "0.000000, 177.000000, 360.000000, 46.000000, NO, NO"
+        "0.000000, 0.000000, 224.000000, 271.000000, NO, NO",
+        "0.000000, 272.000000, 224.000000, 43.000000, NO, NO"
     );
     "NSToolbar Configuration BD34DA1C-1BED-4129-BC8C-3AF0E30B91F1" =     {
         "TB Display Mode" = 1;
@@ -39,72 +25,17 @@
     "NSToolbar Configuration com.apple.NSColorPanel" =     {
         "TB Is Shown" = 1;
     };
-    "NSWindow Frame Boo" = "-101 1050 1280 697 -101 1050 1280 697 ";
-    "NSWindow Frame NSColorPanel" = "164 157 224 284 0 0 1280 777 ";
-    "NSWindow Frame NSFontPanel" = "178 -419 1276 762 0 0 1920 1058 ";
-    "NSWindow Frame NSNavPanelAutosaveName" = "-271 -299 841 499 0 0 1680 1025 ";
-    "NSWindow Frame NSSpellCheckerSpellingPanel" = "815 428 431 258 0 0 1280 778 ";
-    "NSWindow Frame SFWPEquationPane" = "636 604 400 350 0 0 1680 1027 ";
-    "NSWindow Frame TMAFindReplaceWindow" = "580 938 520 81 0 0 1680 1025 ";
-    "NSWindow Frame TMAMediaBrowserFloatingInspectorPaneProvider-TMAFloatingInspectorWindow-version-3" = "-1015 843 471 462 -1920 586 1920 1057 ";
-    "NSWindow Frame TMATemplateManagerWindow" = "-1430 675 976 648 -1920 421 1920 1057 ";
-    "NSWindow Frame TMAWarningsFloatingInspectorPaneProvider-TMAFloatingInspectorWindow-version-3" = "1043 161 660 401 0 0 1680 1027 ";
-    "NSWindowTabbingShoudShowTabBarKey-TPMacDocumentWindow-TPAdaptiveDocumentWindowController-TPAdaptiveDocumentWindowController-VT-FS" = 1;
-    PMPrintingExpandedStateForPrint2 = 1;
-    RecentFindStrings =     (
-        dann,
-        " Iwent",
-        dog,
-        desk,
-        Computer,
-        computer,
-        "  \\" \\"",
-        "keatley@ksu.edu",
-        scholar,
-        "4-H"
-    );
-    RecentFontNames =     (
-        "Avenir Next",
-        Avenir,
-        "Arial Unicode MS",
-        "Times New Roman",
-        "Tinos for Powerline",
-        "NovaMono for Powerline"
-    );
-    RecentlyUsedLanguages =     (
-        "en_US"
-    );
+    "NSWindow Frame Boo" = "-1465 228 1070 740 -1920 0 1920 1055 ";
+    "NSWindow Frame NSColorPanel" = "-1920 76 224 291 -1920 0 1920 1055 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "-14 -127 328 327 0 0 1920 1055 ";
+    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "-1163 390 428 137 -1920 0 1920 1055 ";
+    "NSWindow Frame TMAFindReplaceWindow" = "-1220 529 520 81 -1920 0 1920 1055 ";
     ReplaceMode = 0;
-    ShowInvisibles = 0;
-    ShowRulerAsPercentage = 1;
-    TMACollaborationBetaDontShowSheet = 1;
     TMADidMigrateIWork09Templates = 1;
-    TMAExportPDFImageQuality = 2;
-    TMAFirstLaunchCoachingTipShownKey = 1;
-    TMAFirstLaunchVersion = 65558;
-    TMAInspectorPaneDisclosure =     {
-        "TMAStrokeGraphicInspectorPaneController-drawables.stroke" = 1;
-        "TMATextBorderDisclosureInspectorPaneController-text.border" = 0;
-        "TMATextColumnsDisclosureInspectorPaneController-text.columns" = 0;
-        "TMATextDisclosureInspectorPaneController-text.indent" = 0;
-        "TMATextDisclosureInspectorPaneController-text.tabStops" = 0;
-        "TMATextListDisclosureInspectorPaneController-text.list" = 1;
-        "TMATextSpacingDisclosureInspectorPaneController-text.spacing" = 1;
-    };
-    TMATemplateManagerWindowLastShownKey = "2020-08-18 16:51:54 +0000";
+    TMAFirstLaunchVersion = 65559;
     TMAWasMigratingIWork09Templates = 0;
-    TPEnableVerticalRulerForDocumentsWithBodyText = 1;
-    TPMacExportEPUBAdvancedOptionsIsVisible = 0;
-    TPMacExportEPubAdvancedOptionsIsVisible = 1;
     TPResetTSDDisplayEdgeGuidesAndTSDDisplayCenterGuides = 1;
-    TSAAUNPersistedState =     {
-        alertPresentationCount = 0;
-        baselineVersionString = "10.2";
-        lastOSVersionString = "10.15.7";
-        nextAlertPresentationDate = "2020-12-02 04:12:24 +0000";
-    };
     TSAICloudAuthorNameKey = "Jarod DeWeese";
-    TSAICloudAuthorPrivateIDKey = "9A01B51B-5F7B-4681-96D3-62AB50EE76F8";
     "TSAICloudDocumentPreferencePrefix-Pages-0" =     {
         TSAICloudDocumentPreferenceAuthorColorIndexKey = 0;
         TSAICloudDocumentPreferenceShareIDKey = "GI4Z0V6UcpgC6Eb3qP1Inhq1Dsp1PDNEEgk61QHrv1Y=";
@@ -116,30 +47,19 @@
         TSAICloudDocumentPreferenceTimestampKey = "1547734466.499";
     };
     "TSAOpenedTemplates.Pages" =     {
-        "Application/Blank" = "1606796559.089713";
+        "Application/20_Blank_Black" = "1661196499.024725";
+        "Application/Blank" = "1628524925.00124";
     };
-    TSAPersistentModelLastPruneDate = "2022-04-14 19:25:54 +0000";
+    TSAPersistentModelLastPruneDate = "2021-09-21 19:13:40 +0000";
     TSDDisplaySizingGuides = 0;
     TSDDisplaySpacingGuides = 0;
-    TSDImageResamplingVersion = "2.0.24";
-    TSDMovieCompatibilityNeverShowiOSWarning = 1;
     TSDShowSizeAndPositionWhileMovingUserDefault = 1;
-    TSDTargetPointSize = "24.94146";
-    TSKAnalyticsActiveUseDeviceID = "3236AA2B-5E25-4819-8C29-999B3E10923C";
-    TSKAnalyticsActiveUseLastDeviceIDRotationDate = "2022-04-14 19:25:54 +0000";
-    TSKCloudKitDidCreateSubscriptionForUserIDDictionaryKey =     {
-        "_2fd27523a6b025183b802a05d0fe3a77" =         (
-            "com.apple.iWork.TSKCloudKitPrivateZone"
-        );
-    };
-    TSKCloudKitDidCreateZoneForUserIDDictionaryKey =     {
-        "_2fd27523a6b025183b802a05d0fe3a77" =         (
-            "com.apple.iWork.TSKCloudKitPrivateZone"
-        );
-    };
-    TSKRemoteStringsETag = "\\"4b0-5dc13a7197c08\\"";
+    TSDTargetPointSize = 56;
+    TSKAnalyticsActiveUseDeviceID = "6BE66DF6-E99F-47CB-BD44-CACBA0A43748";
+    TSKAnalyticsActiveUseLastDeviceIDRotationDate = "2022-08-22 19:28:08 +0000";
+    TSKRemoteStringsETag = "\\"4b0-5dc13adf1e40b\\"";
     TSKRemoteStringsLastLocalization = en;
-    TSKRemoteStringsNextUpdate = "2022-05-12 12:45:05 +0000";
+    TSKRemoteStringsNextUpdate = "2022-08-23 19:28:10 +0000";
     TSURemoteDefaults =     {
         CollaborationLargeAssetsDisabled = NO;
         CollaborationThresholds =         {
@@ -162,9 +82,9 @@
         };
         OSXUpdateInfo =         {
             ApplicationVersion =             {
-                "com.apple.iWork.Keynote" = "12.0";
-                "com.apple.iWork.Numbers" = "12.0";
-                "com.apple.iWork.Pages" = "12.0";
+                "com.apple.iWork.Keynote" = "12.1";
+                "com.apple.iWork.Numbers" = "12.1";
+                "com.apple.iWork.Pages" = "12.1";
             };
             MinimumOSVersion = "11.0.0";
             NotifyVersion =             {
@@ -258,9 +178,9 @@
                 "com.apple.Pages" = "3.3";
             };
             "MinimumApplicationVersionRequired.v2" =             {
-                "com.apple.Keynote" = "12.0";
-                "com.apple.Numbers" = "12.0";
-                "com.apple.Pages" = "12.0";
+                "com.apple.Keynote" = "12.1";
+                "com.apple.Numbers" = "12.1";
+                "com.apple.Pages" = "12.1";
             };
         };
         iOSSharingInfo =         {
@@ -272,9 +192,9 @@
         };
         iOSUpdateInfo =         {
             ApplicationVersion =             {
-                "com.apple.Keynote" = "12.0";
-                "com.apple.Numbers" = "12.0";
-                "com.apple.Pages" = "12.0";
+                "com.apple.Keynote" = "12.1";
+                "com.apple.Numbers" = "12.1";
+                "com.apple.Pages" = "12.1";
             };
             MinimumOSVersion = "14.0.0";
             NotifyVersion =             {
@@ -328,30 +248,19 @@
                 "com.apple.iWork.Pages" = "6.3";
             };
             "MinimumApplicationVersionRequired.v2" =             {
-                "com.apple.iWork.Keynote" = "12.0";
-                "com.apple.iWork.Numbers" = "12.0";
-                "com.apple.iWork.Pages" = "12.0";
+                "com.apple.iWork.Keynote" = "12.1";
+                "com.apple.iWork.Numbers" = "12.1";
+                "com.apple.iWork.Pages" = "12.1";
             };
         };
     };
-    TSURemoteDefaultsETag = "\\"1d91-5dca5e959adf3\\"";
-    TSURemoteDefaultsNextUpdate = "2022-05-12 12:45:05 +0000";
-    TSWPAutomaticDashSubstitution = 1;
-    TSWPAutomaticQuoteSubstitution = 1;
-    TSWPAutomaticSpellingCorrection = 1;
-    TSWPAutomaticTextReplacement = 1;
+    TSURemoteDefaultsETag = "\\"1d91-5e2b1a30fc62c\\"";
+    TSURemoteDefaultsNextUpdate = "2022-08-23 19:28:10 +0000";
     TSWPAutomaticallyDetectLinks = 1;
     TSWPAutomaticallyDetectLists = 1;
-    TSWPFontRecentFontNames =     (
-        "CourierNewPSMT|Courier New",
-        "Courier|Courier",
-        "ArialMT|Arial",
-        "Helvetica|Helvetica"
-    );
     TSWPGrammarChecking = 0;
     TSWPIgnoredWordsDictionary =     {
     };
-    TSWPInvisiblesColorSafe = {length = 274, bytes = 0x62706c69 73743030 d4010203 04050615 ... 00000000 000000d9 };
     TSWPLinkedTextBoxFirstLaunchShowed = 1;
     TSWPSpellCheckingEnabled = 1;
     TSWPSuperscriptNumericalSuffixes = 0;
@@ -363,9 +272,6 @@
         "c/o" = "\\U2105";
     };
     TSWPUnderlineLinks = 1;
-    TWSPAutomaticallyDetectLinks = 1;
-    TWSPAutomaticallyDetectLists = 1;
-    TWSPSuperscriptNumericalSuffixes = 0;
     kTPWordCountLastStatisticsTypeUserDefault = 1;
-    kTPWordCountLastVisibleUserDefault = 1;
+    kTPWordCountLastVisibleUserDefault = 0;
 }

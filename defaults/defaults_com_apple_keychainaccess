@@ -3,28 +3,17 @@
     "Keychain Item List Sort Descending" = 0;
     "Keychain Item List Sorting" = name;
     "Keychains List Closed" = 0;
-    "Keychains List Split Size" = "0.612527";
-    "Last Selected Category" = Passwords;
-    "Last Selected Keychain" = "/Users/jaroddeweese/Library/Keychains/login.keychain-db";
-    "Left/Right Split Size" = "0.835040";
+    "Last Selected Keychain" = iCloud;
     "NSSplitView Subview Frames KeychainAccessMainWindowHostingView, SidebarNavigationView" =     (
-        "0.000000, 0.000000, 140.000000, 989.000000, NO, NO",
-        "141.000000, 0.000000, 939.000000, 989.000000, NO, NO"
+        "0.000000, 0.000000, 140.000000, 763.000000, NO, NO",
+        "141.000000, 0.000000, 1025.000000, 763.000000, NO, NO"
     );
     "NSSplitView Subview Frames leftRightSplit" =     (
     );
-    "NSSplitView Subview Frames topBottomSplit" =     (
-        "0.000000, 0.000000, 235.500000, 495.500000, NO, NO",
-        "0.000000, 495.500000, 235.500000, 495.500000, NO, NO"
-    );
-    "NSTableView Columns v3 Item List Settings" = {length = 626, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001aa };
+    "NSTableView Columns v3 Item List Settings" = {length = 686, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001ce };
     "NSTableView Sort Ordering v2 Item List Settings" = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b5 };
     "NSTableView Supports v2 Item List Settings" = 1;
-    "NSWindow Frame Key Editor Window" = "113 175 534 349 0 0 1280 778 ";
-    "NSWindow Frame Keychain Access Window" = "420 36 1080 989 0 0 1680 1025 ";
-    "NSWindow Frame New Password Window" = "425 325 426 408 0 0 1280 778 ";
-    "NSWindow Frame New Secure Note Window" = "378 396 520 337 0 0 1280 778 ";
-    "NSWindow Frame Note Editor Window" = "94 347 534 347 0 0 1280 778 ";
-    "NSWindow Frame Password Editor Window" = "-840 658 638 777 -1080 367 1080 1895 ";
-    VPNSSItemsChecked = "Version 10.15.7 (Build 19H2)";
+    "NSWindow Frame Keychain Access Window" = "2291 198 1166 763 1792 40 1920 1055 ";
+    "NSWindow Frame New Password Window" = "784 368 426 407 0 0 1792 1095 ";
+    "NSWindow Frame Password Editor Window" = "-1568 355 707 515 -1920 0 1920 1055 ";
 }

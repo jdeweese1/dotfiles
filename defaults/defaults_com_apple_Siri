@@ -1,9 +1,4 @@
 {
-    ContinuousSpellCheckingEnabled = 1;
-    GrammarCheckingEnabled = 1;
-    HotkeyTag = 2;
-    PreferredMicrophoneIdentifier = "AppleHDAEngineInput:1B,0,1,0:1";
     StatusMenuVisible = 1;
-    TypeToSiriEnabled = 1;
     VoiceTriggerUserEnabled = 0;
 }

@@ -1,7 +1,85 @@
 {
+    "Account Status Server Change Token" = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000df };
+    Accounts =     {
+        "3353ED60-171E-4ADF-9EE5-2E73F2245B8F" =         {
+            "Ace Host" = oh11sa;
+            "Build Version" = 21G83;
+            "Connection Policy" =             {
+                "$class" = ConnectionPolicy;
+                "$group" = "com.apple.ace.system";
+                "$v" = "12.4";
+                disableMPTCP = 0;
+                enableOptimisticDNS = 1;
+                enableTCPNagle = 0;
+                enableTLS13 = 0;
+                enableTLS13ZeroRTT = 0;
+                enableTcpFastOpen = 0;
+                enabled = 1;
+                globalTimeout = 0;
+                mptcpFallbackPort = "-2147483648";
+                policyId = "odns_odns-on_v1";
+                routes =                 (
+                );
+                timeToLive = 86400;
+            };
+            "Connection Policy Date" = "2022-10-29 18:00:27 +0000";
+            "Connection Policy Hostname" = "https://guzzoni.apple.com";
+            "Last Assistant Data Anchor" = f97679a52df7af1ec0e43fa4c9a06c1704b94d85;
+            "Validation Expiration" = "2022-11-01 17:27:14 +0000";
+            "Validation Version" = 1;
+        };
+    };
+    "Borealis Education Header Display Count" = 5;
+    "Experiment Identifier" = "2E6959C5-993A-4787-9D5B-5FD93FA03FB3";
+    "Experiment Identifierinvocation_feedback_experiment" = "0A751D2D-DE2D-4DA0-A890-5EC185DC5570";
+    "Experiment Identifiersiri_vox_sounds_experiment" = "9DE3680D-1ADD-45FF-BC44-AEF7DAA204EE";
+    "Experiment Identifiersiri_vox_tap_to_siri_behavior_experiment" = "9D7D747D-0B4A-4D1F-8804-903350AF9201";
+    "Flush Session Tickets Cache" = 0;
+    "Has Set Up Account Status Subscription" = 1;
+    "Has Set Up Key Value Subscription" = 1;
+    "Has Set Up MultiUser Shared Record Subscription" = 1;
+    "Has Set Up Voice Trigger Subscription" = 1;
+    "Initial Interstitial Delay" = "3.5";
+    "Initial Interstitial Delay - stark" = 5;
+    "Initial Interstitial Delay for VoiceTrigger One-Shot without Audio Ducking" = "1.75";
+    "Key Value Server Change Token v2" = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000df };
     "Last Known Analytics Store State" = 0;
-    "Last client experiment check date" = "2022-10-29 04:59:06 +0000";
-    "Last server experiment check date" = "2022-10-29 04:59:06 +0000";
+    "Last Metrics Upload Date" = "2022-10-29 18:00:49 +0000";
+    "Last client experiment check date" = "2022-10-29 16:25:21 +0000";
+    "Last server experiment check date" = "2022-10-29 16:25:20 +0000";
     "MultiUser Shared Data Needs Sync" = 1;
+    "MultiUser Shared Data Server Change Token" = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000df };
+    "Myriad Device Adjust" = "-10";
+    "Myriad Device Class" = 9;
+    "Myriad Device Delay" = 0;
+    "Myriad Device Trump Delay" = "1.75";
+    "Myriad VTEndtimeDistanceThreshold" = "0.5";
+    "PHS Asset Manifest" =     {
+        4864b3645369150b9b721d453c7616c0a05d23bc0ce3956432abbde36bb214f3 =         {
+            languages =             (
+                "en-US"
+            );
+            modificationDate = "2017-12-21 07:51:57 +0000";
+            productType = "iPhone7,2";
+        };
+        ec7c472279d606c9ccbffdc7123242c369930c1afe25d95122a75996eb1200c0 =         {
+            languages =             (
+                "en-US"
+            );
+            modificationDate = "2020-09-23 21:05:19 +0000";
+            productType = "iPhone10,2";
+        };
+    };
+    "PHS Asset Manifest V2" =     {
+        "MacBookPro16,1" =         {
+            languages =             (
+                "en-US"
+            );
+            modificationDate = "2021-11-12 22:55:01 +0000";
+            productType = "MacBookPro16,1";
+        };
+    };
+    "Server Has Provisioned Myriad" = 1;
     "Voice Trigger Needs Sync" = 1;
+    "Voice Trigger Server Change Token" = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000df };
 }

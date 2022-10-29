@@ -1,5 +1,6 @@
 {
     ATSAutoActivationAppSpecific =     {
+        "com.logitech.manager.preferencepane" = ATSAutoActivationEnable;
         "org.mozilla.firefox" = ATSAutoActivationDisable;
     };
 }

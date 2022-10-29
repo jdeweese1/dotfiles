@@ -1,8 +1,6 @@
 {
     LatestMajorOSSeenByUserBundleIdentifier = "com.apple.InstallAssistant.macOSMonterey";
     ProductKeysLastSeenByUser =     (
-        "MSU_UPDATE_21G115_patch_12.6",
-        "012-62819",
-        "012-49737"
+        "012-89022"
     );
 }

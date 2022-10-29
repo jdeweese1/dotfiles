@@ -1,7 +1,10 @@
 {
+    NSNavLastRootDirectory = "~/Downloads";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    NSNavPanelExpandedStateForSaveMode = 1;
     "NSSplitView Subview Frames SUMainWindow" =     (
-        "0.000000, 0.000000, 256.000000, 522.000000, NO, NO",
-        "257.000000, 0.000000, 845.000000, 522.000000, NO, NO"
+        "0.000000, 0.000000, 198.000000, 717.000000, NO, NO",
+        "199.000000, 0.000000, 1593.000000, 717.000000, NO, NO"
     );
     "NSToolbar Configuration kMainToolbarIdentifier" =     {
         "TB Display Mode" = 1;
@@ -9,5 +12,8 @@
         "TB Is Shown" = 1;
         "TB Size Mode" = 1;
     };
-    "NSWindow Frame MainWindow" = "313 277 1102 522 0 0 1728 1079 ";
+    "NSWindow Frame MainWindow" = "0 168 1792 717 0 0 1792 1095 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "2355 338 800 368 1792 40 1920 1055 ";
+    "NSWindow Frame OperationProgress" = "2518 396 475 360 1792 40 1920 1055 ";
+    "OperationProgress DetailsVisible" = 1;
 }

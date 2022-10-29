@@ -1,4 +1,21 @@
 {
+    "NSStatusItem Preferred Position Item-0" = 23;
+    "NSStatusItem Preferred Position Siri" = 194;
+    "NSStatusItem Preferred Position com.apple.menuextra.airport" = 678;
+    "NSStatusItem Preferred Position com.apple.menuextra.appleuser" = "167.5";
+    "NSStatusItem Preferred Position com.apple.menuextra.battery" = 365;
+    "NSStatusItem Preferred Position com.apple.menuextra.bluetooth" = 530;
+    "NSStatusItem Preferred Position com.apple.menuextra.clock" = 276;
+    "NSStatusItem Preferred Position com.apple.menuextra.volume" = 500;
+    "NSStatusItem Visible Item-1" = 0;
+    "NSStatusItem Visible com.apple.menuextra.airport" = 1;
+    "NSStatusItem Visible com.apple.menuextra.appleuser" = 1;
+    "NSStatusItem Visible com.apple.menuextra.battery" = 1;
+    "NSStatusItem Visible com.apple.menuextra.bluetooth" = 1;
+    "NSStatusItem Visible com.apple.menuextra.clock" = 1;
+    "NSStatusItem Visible com.apple.menuextra.volume" = 1;
     "__NSEnableTSMDocumentWindowLevel" = 1;
-    "last-analytics-stamp" = "688682888.451259";
+    "last-analytics-stamp" = "688404537.651849";
+    menuExtras =     (
+    );
 }

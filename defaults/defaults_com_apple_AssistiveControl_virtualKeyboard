@@ -1,0 +1,7 @@
+{
+    DesiredPanelWindowFrame = "{{1250, 1787}, {598, 323}}";
+    DesiredPanelWindowPosition = Absolute;
+    PanelFrame = "{{1250, 1787}, {598, 323}}";
+    PanelPosition = Absolute;
+    SCLaunchedAsSlave = 0;
+}

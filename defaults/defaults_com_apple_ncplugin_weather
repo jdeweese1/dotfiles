@@ -1,7 +1,4 @@
 {
-    GEOUsageSessionID = {length = 22, bytes = 0x088fa89a93a6a7efa3f9011087ebcc93e8ada08f8701};
-    GEOUsageSessionIDGenerationTime = "546668782.157279";
-    "NCWidgetListViewController Show All" = 1;
     WPDetailedForecastLocationID = "39.179473,-96.574201";
-    weather = {length = 164057, bytes = 0x62706c69 73743030 d4000100 02000300 ... 00000000 00025809 };
+    weather = {length = 161403, bytes = 0x62706c69 73743030 d4000100 02000300 ... 00000000 00024d3f };
 }

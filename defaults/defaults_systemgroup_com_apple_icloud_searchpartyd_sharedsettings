@@ -1,6 +1,8 @@
 {
+    SPBeaconZoneCreationDateKey = "2022-10-29 17:46:36 +0000";
+    "SPSelfBeaconUUIDKey-697d2bfa94345b54bc4fe23247e7655c00000000" = "E0C9E968-EF1B-4E2B-8EF2-829BF56E6BA5";
     SPSettingsServiceDisabledReasonsKey =     (
-        SPDisabledReasoniCloudSignedOut
     );
     "SystemInfoDynamic.lastAutomaticTimeValue" = 1;
+    "beaconObservationStore.lastAutomaticTimeValue" = 1;
 }

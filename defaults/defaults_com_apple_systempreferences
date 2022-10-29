@@ -1,3 +1,56 @@
 {
-    ThirdPartyCount = 0;
+    AttentionPrefBundleIDs =     {
+        "com.apple.preferences.softwareupdate" = 1;
+    };
+    DefaultExposeTab = ExposeTab;
+    DidShowPrefBundleIDs =     (
+        "com.apple.preferences.softwareupdate",
+        "com.apple.preferences.AppleIDPrefPane"
+    );
+    DisableAutoLoginButtonIsHidden = 1;
+    "ICQ_iCloudFirstRunNotificationShown" = "000160-08-e015d576-3483-4f1e-90c7-2fc7710718a2";
+    NSFullScreenMenuItemEverywhere = 0;
+    NSNavLastRootDirectory = "/Applications";
+    NSNavPanelExpandedSizeForOpenMode = "{799, 448}";
+    "NSOutlineView Items DSKSourceOfPicturesOutlineView" =     (
+        DSKAppleRootSource
+    );
+    NSQuitAlwaysKeepsWindows = 0;
+    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
+        "0.000000, 0.000000, 224.000000, 258.000000, NO, NO",
+        "0.000000, 259.000000, 224.000000, 48.000000, NO, NO"
+    );
+    "NSSplitView Subview Frames keyboard.shortcuts.splitview" =     (
+        "0.000000, 0.000000, 171.000000, 239.000000, NO, NO",
+        "180.000000, 0.000000, 405.000000, 239.000000, NO, NO"
+    );
+    "NSTableView Columns v2 LoginItemsColumn2" = {length = 645, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001bd };
+    "NSTableView Sort Ordering v2 LoginItemsColumn2" = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b5 };
+    "NSTableView Supports v2 LoginItemsColumn2" = 1;
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame DestinationSheet" = "2579 687 416 339 1792 217 1920 1055 ";
+    "NSWindow Frame Identity Picker" = "1126 485 357 291 0 0 1792 1095 ";
+    "NSWindow Frame Main Window Frame SystemPreferencesApp 8.0" = "970 603 668 492 0 0 1792 1095 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "415 326 799 476 0 0 1920 1055 ";
+    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "2549 430 425 137 1792 40 1920 1055 ";
+    SecurityPrefTab = Privacy;
+    ShowAllMode = 0;
+    SoundTab = output;
+    ThirdPartyCount = 1;
+    "com.apple.PreferenceSync.ExcludeSyncKeys" =     (
+        "Main Window Frame SystemPreferencesApp 8.0",
+        "com.apple.preference.keyboard.lastselectedtab"
+    );
+    "com.apple.SecurityPref.Privacy.LastSourceSelected" = 0;
+    "com.apple.datetimepref.lastselectedtab" = ClockPref;
+    "com.apple.dtandsspref.lastselectedtab" = "com.apple.preference.desktopscreeneffect.desktop";
+    "com.apple.preference.keyboard.lastselectedtab" = "com.apple.IntlTexts";
+    "com.apple.preferences.accounts.outline.groupparent" = 0;
+    "com.apple.preferences.accounts.outline.usersparent" = 1;
+    "com.apple.preferences.sharing.allowFullDiskAccess" = 0;
+    "com.apple.preferences.sharing.selectedservice" = 1;
+    kAOSUIProfilePictureCropRect = "{{0, 0}, {1500, 1500}}";
+    "trackpad.lastselectedtab" = 0;
 }

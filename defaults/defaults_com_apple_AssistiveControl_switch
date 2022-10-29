@@ -1,0 +1,9 @@
+{
+    DesiredPanelWindowFrame = "{{126, 778}, {156, 108}}";
+    DesiredPanelWindowPosition = Absolute;
+    PanelFrame = "{{0, 533}, {598, 353}}";
+    PanelPosition = Absolute;
+    "PanelviewingAlpha.ACSH.systemPanel.device" = 1;
+    "PanelviewingAlpha.ACSH.systemPanel.device.connect" = 1;
+    SCLaunchedAsSlave = 0;
+}

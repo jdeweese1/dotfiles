@@ -1,0 +1,11 @@
+{
+    "APNSTokens_Production" =     {
+        "697D2BFA-9434-5B54-BC4F-E23247E7655C" =         {
+            "8a9870b9-881f-44ed-9bcb-9e59f073691c__https://ds1506.awmdm.com/DeviceServices/AppleMDM/Processor.aspx" =             {
+                ProfileUUID = "9e9e822f-4542-4854-b7ed-c8562b8d51ef";
+                PushMagic = "993EC53E-1C4C-440C-984F-5E89784A8339";
+                PushToken = {length = 32, bytes = 0xf0df1b4e 52629664 6aa7ba39 a9373fd2 ... 14b2c4b3 75b94147 };
+            };
+        };
+    };
+}

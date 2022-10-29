@@ -3,9 +3,9 @@
     Clicking = 1;
     DragLock = 0;
     Dragging = 0;
-    FirstClickThreshold = 0;
+    FirstClickThreshold = 1;
     ForceSuppressed = 0;
-    SecondClickThreshold = 0;
+    SecondClickThreshold = 1;
     TrackpadCornerSecondaryClick = 0;
     TrackpadFiveFingerPinchGesture = 2;
     TrackpadFourFingerHorizSwipeGesture = 2;

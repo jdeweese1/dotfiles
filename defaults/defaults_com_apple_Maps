@@ -1,76 +1,57 @@
 {
     AnnouncementsETag = "\\"b7664112eee99ac1ae3dcb0d3abecb64bbb38e93\\"";
-    AnnouncementsLastUpdated = "688756697.829913";
+    AnnouncementsLastUpdated = "688743883.0195611";
     CKPerBootTasks =     (
         CKAcccountInfoCacheReset
     );
-    CKStartupTime = 1665416028;
+    CKStartupTime = 1659376780;
     CloudKitAccountIdentifier = "_cb9575e48cd3bd0f187b3756f9a5c214";
     CloudKitAccountInfoCache =     {
-        4b1ea75df8c29d1fe7feccdcec4e5454c0dbb6078979813ceb91df14bfb48e2f = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+        4b1ea75df8c29d1fe7feccdcec4e5454c0dbb6078979813ceb91df14bfb48e2f = {length = 395, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012d };
+        664d3691d54ae3add6a58e5e27aa11a4b466ce400538017000113b3573236dfa = {length = 395, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012d };
     };
     DirectionsSafetyWarningShown = 1;
-    DisplayedAnnouncementIDs =     (
-        1438016982,
-        1438016885
-    );
-    FavoritesBoostDate = "2019-09-29 08:43:26 +0000";
-    FavoritesSyncCKIdentity = "_cb9575e48cd3bd0f187b3756f9a5c214";
-    FlyoverSearchNotificationKey =     {
-        "3D Flyover Tour of Chicago" = 1;
-        "3D Flyover Tour of Las Vegas" = 1;
-        "3D Flyover Tour of Pittsburgh" = 1;
-    };
-    GEOUsageSessionID = {length = 21, bytes = 0x08b19a8ace83f1c7a67c10aca38e8bf4979194dd01};
-    GEOUsageSessionIDGenerationTime = "545236163.148587";
     HasShownNavModeAdvisory2020 = 1;
-    HistoryBoostDate = "2019-09-29 08:43:26 +0000";
-    HistorySyncCKIdentity = "_cb9575e48cd3bd0f187b3756f9a5c214";
-    LastAnnouncementsURL = "https://gspe35-ssl.ls.apple.com/config/announcements?environment=prod&hardware=MacBookPro15,1&lang=en&os=osx&os_build=21G115&os_version=12.6";
+    LastAnnouncementsURL = "https://gspe35-ssl.ls.apple.com/config/announcements?environment=prod&hardware=MacBookPro16,1&lang=en&os=osx&os_build=21G83&os_version=12.5.1";
     LastClosedWindowViewOptions =     {
         isMapViewCenteredOnUserLocation = 0;
         mapType = 2;
         preferredDirectionsType = 1;
         showLabels = 1;
         showsUserLocation = 1;
-        trafficEnabled = 1;
+        trafficEnabled = 0;
     };
     LastClosedWindowViewport =     {
-        CenterLatitude = "38.98377580954588";
-        CenterLongitude = "-94.70037065806338";
+        CenterLatitude = "39.05513471151951";
+        CenterLongitude = "-94.60814645703947";
         PitchRadians = 0;
         TileSize = 512;
         YawRadians = "-0";
-        ZoomLevel = "16.18994";
+        ZoomLevel = "13.3437";
     };
-    LastSuspendTime = "671589557.197022";
-    "Main_LastViewportChangeDate" = "2022-10-28 01:55:28 +0000";
+    LastSuspendTime = "682359551.828187";
+    "Main_LastViewportChangeDate" = "2022-08-16 16:18:31 +0000";
     MapsLocationServiceRequestCount = 0;
     MigratedARPConsentPreference = 1;
     MigratedFavoritesCollection = 1;
     MigratedNavigoAppPreferences = 1;
     MigratedOldFavorites = 1;
     MigrationVersion = 1;
-    "NSWindow Frame MapMainWindow" = "0 0 840 1025 0 0 1680 1025 ";
+    "NSWindow Frame MapMainWindow" = "896 0 896 1095 0 0 1792 1095 ";
     NavigationVoiceGuidanceLevelCycling = 2;
     NavigationVoiceGuidanceLevelDriving = 2;
     NavigationVoiceGuidanceLevelWalking = 2;
-    RAPWebBundleConfigurationManagerKey = {length = 512, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000019a };
-    RAPWebBundleManifestKey = {length = 6540, bytes = 0x62706c69 73743030 d4000100 02000300 ... 00000000 00001652 };
+    RAPWebBundleConfigurationManagerKey = {length = 511, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000199 };
+    RAPWebBundleManifestKey = {length = 6539, bytes = 0x62706c69 73743030 d4000100 02000300 ... 00000000 00001651 };
     RecentsNoResultCacheIdsKey =     (
     );
-    ShowsUserLocation = 1;
     SuggestionsUITweaksHighlightBold = 1;
     SyncClientIdentifier = "_cb9575e48cd3bd0f187b3756f9a5c214";
-    SyncClientRegistrationIdentifier = "0F7BA4BE-AD02-4FCB-BB9E-7F36E4F305D8";
-    "SyncManager.bookmarks.synced" = 1;
-    "SyncManager.history.synced" = 1;
-    "__internal__NearbyTransitTipInfoKey" =     {
-        NearbyTransitFeatureDiscoveryHasUserEverAddedFavorite = 1;
-    };
+    SyncClientRegistrationIdentifier = "229C1B60-8E6E-41F9-859F-0B0EC1531A1F";
+    ViewMode = 2;
     "__internal__searchBarPlaceholder-en-US" = "Search for a place or address";
     "__internal__searchBarPlaceholderV2-en-US" = "Search Maps";
-    dateLastUserActivity = "2022-04-14 00:39:14 +0000";
+    dateLastUserActivity = "2022-08-16 16:16:35 +0000";
     kMapsWelcomeScreenKey = 3;
-    lastUserActivity = "<MapsActivity: 0x6000029ba700> {\\n    displayOptions =     {\\n        mapType = Standard;\\n        userTrackingMode = Follow;\\n    };\\n}";
+    lastUserActivity = "<MapsActivity: 0x6000001e1700> {\\n    displayOptions =     {\\n        mapType = Satellite;\\n        userTrackingMode = Follow;\\n    };\\n}";
 }

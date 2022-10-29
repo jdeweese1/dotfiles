@@ -1,10 +1,9 @@
 {
     FMIPGarbageCollectorIdentityKey = 1996309056;
     "FMIPLimitedPrecisionPrefKey.limitedPrecision" = 1;
-    deviceImageVersion = 14;
+    deviceImageVersion = 16;
     frontMostWindow = 1;
-    itemLearnMoreURL = "https://support.apple.com/kb/HT211331?viewlocale=en_US";
-    publicAPSToken = BD47CB3CE62E1D184B5B1B3B80C9F44D78C20DCAAE6E12A0DE8EE7BFDA557904;
-    savedItemsTabEnabled = 1;
+    itemLearnMoreURL = "https://support.apple.com/kb/HT211331?viewlocale=en_US,EN;Q=0.9";
+    publicAPSToken = F0DF1B4E526296646AA7BA39A9373FD228D4A65CC6E4E16514B2C4B375B94147;
     windowVisible = 1;
 }

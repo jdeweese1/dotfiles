@@ -5,7 +5,7 @@
     );
     CacheTime = 3600;
     CachedBag = {length = 22063, bytes = 0x3c3f786d 6c207665 7273696f 6e3d2231 ... 2f706c69 73743e0a };
-    CachedSignature = {length = 256, bytes = 0x5f169aaa 31c2bfe8 829e1cf2 9fd10bef ... 405bf4d9 620c007d };
-    Date = "688712342.217193";
+    CachedSignature = {length = 256, bytes = 0x11bcc567 fdcddfe3 2197ac25 b1d84026 ... 8b454df0 da1e52b8 };
+    Date = "688753518.970253";
     URL = "https://init.ess.apple.com/WebObjects/VCInit.woa/wa/getBag?ix=3";
 }

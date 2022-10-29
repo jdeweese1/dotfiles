@@ -1,8 +1,80 @@
 {
+    ICDefaultsCachedSubscriptionStatus =     {
+        lastKnownActiveDSID = 1996309056;
+        lastKnownOSVersion = 21G83;
+        responses =         {
+            "{\\"phoneNumber\\":\\"\\",\\"dsid\\":\\"1996309056\\",\\"storefrontID\\":\\"143441\\"}" =             {
+                status =                 {
+                    "_ICMusicSubscriptionStatusAdditionalProperties" =                     {
+                        carrierBundlingStatusType = 0;
+                    };
+                    acceptSilentAuth = 1;
+                    account =                     {
+                        isMinor = 0;
+                        studentExpirationDate = 1540492087000;
+                        studentId = "ke02DQIsOky0X+tRODjnlQ==";
+                        suspectUnderage = 0;
+                    };
+                    family =                     {
+                        hasFamily = 0;
+                    };
+                    match =                     {
+                        status = Disabled;
+                    };
+                    music =                     {
+                        eligibleOffer = NONE;
+                        eligibleOffers =                         (
+                            NONE,
+                            NONE,
+                            "WIN_BACK_1",
+                            NONE,
+                            NONE
+                        );
+                        isAdmin = 0;
+                        isAutoRenewEnabled = 0;
+                        isFamilySubscription = 0;
+                        isNotEligibleForFreeTrial = 1;
+                        previousOffer = Individual;
+                        status = Disabled;
+                    };
+                    status = 0;
+                    terms =                     (
+                    );
+                };
+                valid = 1;
+            };
+        };
+    };
+    ICDefaultsKeyLastActiveAccountDSID = 1996309056;
+    ICDefaultsKeyLastCookieHeadersForRevokingMusicUserTokens =     {
+        Cookie = "mt-tid-1996309056=AopvWZOU5GCh0ZkTC43kf0x+3fdtoI8b+3tEgF/1Ywf+O5pizGVESupTu3EB/Z/naXRjx1l43pmqDBP/UHYn1/mXTJ13QdkDf4LT3otiIU1ObzdiWU5mqAC8cU9MfCuEW1PHf5ZWvpAJ3wHx8EmVHJOyV6FmKCGUH9g3gGnoot1d2IfxpAJSWkwj4/EjeBYC/HENI/EQdFEOXf1+TmjdkZXEfG12EYibYE0iQZfDXN9Bd6LrWw==; X-Dsid=1996309056; mt-tkn-1996309056=AipNBIbnNsz+7boVNgEAk36+c+FOgfKWO+28j/Ag2ph8WOtJpN1j7A4CkqEfU7ESj/KfKBh5S5vHXsP/Exh+2IVFWTIaNf7mKdyUQQdZh/N9+1zBU04MxkJpCZrWkj6mU2Kx2NZ0xhkTJCvBIwRYIcD+hhjIVLQwWZcAkC4Cw67t7lgE31JKPj5QQm8my7Wzw+KeflQ=; xp_ab=1#Jv0scgz+-2+qtzdXJc00#d5VBr6w+-2+n4RtPhQ00#isj11bm+-2+BUbo4uv01#yNFpB6B+-2+WUj7aKl01#Uwy2FZM+-2+mXn4pWA00; wosid-lite=JkT3jGMA4AxRWC1TgMa0l0; mz_at_ssl-1996309056=AwUAAAEBAAH70AAAAABh8xF6Kv13lt1E9JD1lMCbO2OhoiS7a+w=; countryVerified=1; amia-1996309056=AsUbkNVZCeEvMXR2ExMSvlyc8LITTJne/JWxH4DMNTnID1yFsmaoJ2m6BzNZ2hZdpuwEzyuKOybMoaXHasTmFg==; mz_at0-1996309056=AwQAAAEBAAH70AAAAABi6BJsvDbznQM5RSnLPrcrEee3+u2y/MQ=; fspc=AAAAAAAAAAFjNpW2Z2rtNZjvXQmD/Wk5MS9D3yOd4AuRECThBDTU/4nSGzc1C5IFQrdqXJ+kBsQw4zfulOF5tRw+tFUlWmLrEi+82ymUb6hGtQbPD/uarw==; xp_ci=3zJYb4gz9aDz52lzAK1z2kNjHYwV; TrPod=6; vrep=CMCE9bcHEgQIARAAEgQIBRAAEgQIDxAAEgQIBxAAEgQICRAAEgQICBAAEgQIDhAAEgQIChAAEgQIDRAAEgQIBBAAEgQIDBAAEgQIAhAAEgQIBhAAEgQIAxAAEgQIERAAEgQICxAAEgQIEBAAEgQIEhAA; fsnw=AAAAAAAAAAG/7SWND6eijUlKmd/OTtuFOwNuO065mqZ+KJuvA2vl9KsXg8p/CIf0iypYz1v1ozdYRiYvsX4qFId6TX6rx5/7U1m6YnC/HU6MSV4D4nzGXw==; geo=US; mt-asn-1996309056=0; hsaccnt=1; fsas=AAAAAAAAAAFR7IVj6gVD/S+EPl/+2E4/NhfCT9j2I5JiqxDgwQsFXV5WafPYvWBnCoIRnUiJUYBb7SXnEZwk2eVLEX0FE6UtJc4eosmwgJVz6wAzpNETRw==; mzf_in=3700065; amp=vxMv0EnyB/EDdjB8z+GTtDwh1hSYxNpNvFbhCHl55eO9laz+BpS5BE/ezfV0U9XV2JdwXPXYZ49Inb5KBtbckGjtmfl4nrOu2lvdw9wiANE=; mz_mt0-1996309056=AqqTCYaWvxCItLPwQLJEVoEhSY8f7zBfnNLrQPhjB0w3p5ASb23OYAeNlneQWUgwGZOjOhQHpua6k2d1v1POMr+68msyl8jWq2T2d+UiSjkUWexE+nvasb6zlFrGBjUn1PWK6R6/rDz2h0a47UpuVjCZwghJnlRyIYm3wlWASP8qr2S1FU96aWc4PgUoZbitY0cMlPU=; xp_abc=BUbo4uv01; ampsc=aZdcNe4qysYaBIj3sevXf5nqiQ4+CsZmq/z7tV2COBhTojsFN59Y9Qrh0+jTDIiVwEZXryJvfsB1xUtZvkPBj/Kk8R0Emb71AbGlqPXNhChGv1LKkoT31ZLjsEYZDESLZ7OM+3r3nlyBfqBsYtefLA==; mz_at0=AwQAAAEBAAH70AAAAABgGA0HxmqbeoETc3uvf31imHmRgk7cfWI=; fsac=AAAAAAAAAAGJADSo9hNVuQakGWbMrvppB4TRw1SKD3boahoa2KbLth1yuvnj2HSsowHAJH5dS9iLI5AdRZJysF1wNqn4s07AQNS5m4TOpfx/kwCAGg2S6w==; itspod=70";
+    };
+    ICDefaultsKeyLastKnownLocalStoreAccountProperties =     {
+        storefrontIdentifier = "143441-1,42";
+    };
     ICDefaultsKeyLastKnownSubscriptionStatusBaseCacheKey =     {
         phoneNumber = "";
         storefrontID = 143441;
     };
+    ICDefaultsKeyLastKnownUserAgeVerificationState =     {
+        1996309056 =         {
+            ICAgeVerificationStateKeyDSID = 1996309056;
+            ICAgeVerificationStateKeyStatus = 1;
+            ICAgeVerificationStateKeyTreatment = 0;
+        };
+    };
     ICDefaultsKeyMediaLibraryAccessApplicationIdentifiersWithTCCAcceptanceDates =     {
+    };
+    ICDefaultsRegisteredPushNotificationState =     {
+        accountStates =         {
+            1996309056 =             {
+                APNSToken = {length = 32, bytes = 0xf0df1b4e 52629664 6aa7ba39 a9373fd2 ... 14b2c4b3 75b94147 };
+                mediaKinds =                 (
+                    book,
+                    "tv-episode",
+                    "feature-movie"
+                );
+            };
+        };
     };
 }

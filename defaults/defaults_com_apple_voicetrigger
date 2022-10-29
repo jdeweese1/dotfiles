@@ -1,3 +1,4 @@
 {
     "VoiceTrigger Enabled" = 0;
+    VoiceTriggerEverUsed = 1;
 }

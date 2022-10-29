@@ -1,18 +1,5 @@
 {
     HVIncludesKBSearches = 1;
-    "NSOutlineView Items 41acbf0a02ab589249c9b9a3ff26f056" =     (
-        PRVWF7D59729,
-        PRVWDFFE307C
-    );
-    "NSOutlineView Items aedba7f4ea59892832e4061c1d2b1c9c" =     (
-        TAN33E8694
-    );
-    "NSSplitView Subview Frames HelpViewer-AppWindow-1, SidebarNavigationView" =     (
-        "0.000000, 0.000000, 200.000000, 76.000000, YES, NO",
-        "0.000000, 0.000000, 394.000000, 538.000000, NO, NO"
-    );
-    "NSWindow Frame HelpViewer-AppWindow-1" = "810 0 394 538 0 0 1680 1025 ";
-    "NSWindow Frame HelpViewerWindowFrameAutosaveName" = "-981 -325 956 744 -1920 317 1920 1057 ";
+    "NSWindow Frame HelpViewerWindowFrameAutosaveName" = "-391 -471 391 536 -1102 -504 1102 719 ";
     WebKitOfflineWebApplicationCacheEnabled = 1;
-    WindowLocation = 1;
 }

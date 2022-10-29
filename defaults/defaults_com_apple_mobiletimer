@@ -1,0 +1,119 @@
+{
+    DefaultCityAdded = 1;
+    cities =     (
+                {
+            city =             {
+                identifier = 256;
+                latitude = "37.8";
+                localeCode = US;
+                longitude = "-122.4";
+                timeZone = "US/Pacific";
+                unlocalizedCountryName = "U.S.A.";
+                unlocalizedName = "San Francisco";
+                yahooCode = "USCA0987|2487956";
+            };
+            languageCode = en;
+            type = 2;
+        },
+                {
+            city =             {
+                identifier = 199;
+                latitude = "40.71667";
+                localeCode = US;
+                longitude = "-74.01667";
+                timeZone = "America/New_York";
+                unlocalizedCountryName = "U.S.A.";
+                unlocalizedName = "New York";
+                yahooCode = "USNY0996|2459115";
+            };
+            languageCode = en;
+            type = 2;
+        },
+                {
+            city =             {
+                identifier = 149;
+                latitude = "51.5";
+                localeCode = GB;
+                longitude = "-0.166656";
+                timeZone = "Europe/London";
+                unlocalizedCountryName = "Great Britain";
+                unlocalizedCountryOverride = England;
+                unlocalizedName = London;
+                yahooCode = "UKXX0318|44418";
+            };
+            languageCode = en;
+            type = 2;
+        },
+                {
+            city =             {
+                identifier = 222;
+                latitude = "48.86665";
+                localeCode = FR;
+                longitude = "2.333328";
+                timeZone = "Europe/Paris";
+                unlocalizedCountryName = France;
+                unlocalizedName = Paris;
+                yahooCode = "FRXX0295|615702";
+            };
+            languageCode = en;
+            type = 2;
+        },
+                {
+            city =             {
+                identifier = 186;
+                latitude = "55.75";
+                localeCode = RU;
+                longitude = "37.58333";
+                timeZone = "Europe/Moscow";
+                unlocalizedCountryName = Russia;
+                unlocalizedName = Moscow;
+                yahooCode = "RSXX0063|2122265";
+            };
+            languageCode = en;
+            type = 2;
+        },
+                {
+            city =             {
+                identifier = 31;
+                latitude = "39.91667";
+                localeCode = CN;
+                longitude = "116.4167";
+                timeZone = "Asia/Shanghai";
+                unlocalizedCountryName = China;
+                unlocalizedName = Beijing;
+                yahooCode = "CHXX0008|2151330";
+            };
+            languageCode = en;
+            type = 2;
+        },
+                {
+            city =             {
+                identifier = 295;
+                latitude = "35.7";
+                localeCode = JP;
+                longitude = "139.7667";
+                timeZone = "Asia/Tokyo";
+                unlocalizedCountryName = Japan;
+                unlocalizedName = Tokyo;
+                yahooCode = "JAXX0085|1118370";
+            };
+            languageCode = en;
+            type = 2;
+        },
+                {
+            city =             {
+                identifier = 287;
+                latitude = "-33.86666";
+                localeCode = AU;
+                longitude = "151.2167";
+                timeZone = "Australia/Sydney";
+                unlocalizedCountryName = Australia;
+                unlocalizedName = Sydney;
+                yahooCode = "ASXX0086|1105779";
+            };
+            languageCode = en;
+            type = 2;
+        }
+    );
+    citiesLastModified = "2021-07-10 00:15:29 +0000";
+}

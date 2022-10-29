@@ -1,4 +1,10 @@
 {
+    CPLDefaultDownload = Default;
+    DiskSpaceWasLow = 0;
+    downloadAndKeepOriginals = 1;
+    iCloudPhotoLibraryHasBeenEnabledAccountIdentifiers =     (
+        "628852CC-C19D-43B4-BE95-ECE6123CE5C8"
+    );
     iCloudPhotoLibraryLastResetWelcomePromptDBVersion = 12200;
-    lastHighlightTitlesUpdateDate = "2022-10-29 17:55:02 +0000";
+    lastHighlightTitlesUpdateDate = "2022-10-29 16:44:26 +0000";
 }

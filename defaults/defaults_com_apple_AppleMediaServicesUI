@@ -1,13 +1,12 @@
 {
-    AMSMetricsIdentifierDateLastSynced = "1657215773.000022";
     AMSMetricsIdentifierUserRecordName = "_9c005155214c017d7f44eb3d34563a12";
     AMSMetricsIdentifierZoneCreated = 1;
     AMSMetricsIdentifierZoneSubscriptionCreated = 1;
     CKPerBootTasks =     (
         CKAcccountInfoCacheReset
     );
-    CKStartupTime = 1652316243;
+    CKStartupTime = 1655819459;
     CloudKitAccountInfoCache =     {
-        8e09928db0f9a5a2066998fd729fe30036126a065e66a27c710e9d92eefcc057 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+        6aaa0e294f6354a7603bb87e90ad50485039e283690472c55c7ef0ba70d038c8 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
     };
 }

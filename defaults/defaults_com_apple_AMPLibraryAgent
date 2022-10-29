@@ -1,15 +1,19 @@
 {
+    ITUserPrefsMigrated = 1;
     "books-migrated" = 1;
-    "books-persistent-id" = "-6129863821522213068";
+    "books-persistent-id" = 1183068463364160479;
     debugAssertCategoriesEnabled = 0;
     debugAssertCategoriesVersion = 3;
-    "devices-persistent-id" = "-5413541936333834578";
+    "devices-persistent-id" = "-7424268438637095997";
+    "have-shown-cloud-UI" = 1;
     "imported-media-domains" = 15;
-    "imported-media-domains-modification-date" = "Fri, 28 Oct 2022 21:33:46 GMT";
+    "imported-media-domains-modification-date" = "Mon, 01 Feb 2021 14:25:45 GMT";
+    persistentUserID = 7419964774235091894;
     "podcasts-migrated" = 1;
-    "podcasts-persistent-id" = 4025662085680651526;
+    "podcasts-persistent-id" = 7625823993891084147;
     storeMediaTypeFlags = 3422;
     storeSupportsPasswordSettings = 1;
     storeSupportsPreviousPurchases = 1;
     storeSupportsUPP = 1;
+    updateLevel = 0;
 }

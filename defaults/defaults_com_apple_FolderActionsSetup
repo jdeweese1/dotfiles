@@ -1,4 +1,5 @@
 {
     NSNavLastRootDirectory = "~/Documents";
-    NSNavPanelExpandedSizeForOpenMode = "{712, 448}";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    "NSWindow Frame NSNavPanelAutosaveName" = "-1285 1575 800 448 -1845 1120 1920 1055 ";
 }

@@ -1,4 +1,12 @@
 {
+    CachedWarrantyLastUpdatedDate = "2022-08-22 21:12:10 +0000";
+    CachedWarrantyLocale = "en_US";
+    CachedWarrantyValidityDuration = 28800;
+    CachedWarrantyVersion = 2;
     PostUpgradeActivityCompleted = 1;
-    PostUpgradeOSVersionKey = "13.0";
+    PostUpgradeOSVersionKey = "12.5.1";
+    ServerVersionCache =     {
+        HighServerVersion = 3;
+        LowServerVersion = 2;
+    };
 }

@@ -1,10 +1,17 @@
 {
     CKPerBootTasks =     (
-        CKAcccountInfoCacheReset,
-        CKAccountInfoCacheReset
+        CKAcccountInfoCacheReset
     );
-    CKStartupTime = 1666988687;
+    CKStartupTime = 1667060691;
     CloudKitAccountInfoCache =     {
-        55a993ce1557ab87b0568f970239cd4d830ba367386418c0fb3717e341bff203 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        4b55d9a6ef86adbf85a10a1d5252c80a0bab308c0f50af9966cdfee122b31657 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    UserDictionary =     {
+        PFUbiquitySetupTokenAndIDArray =         (
+                        {
+                cid = "8C2BD359-CC9E-4BBE-8EEF-D1B6234FA0FB";
+                token = {length = 20, bytes = 0x5c1d105834d00cf491e3b4d9dcaf0359bbd5e539};
+            }
+        );
     };
 }

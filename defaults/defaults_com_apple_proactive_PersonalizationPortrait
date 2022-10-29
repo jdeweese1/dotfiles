@@ -1,10 +1,4 @@
 {
-    entityBackfillTimestamp = "2021-02-06 21:56:27 +0000";
+    entityBackfillTimestamp = "2021-07-10 09:58:27 +0000";
     entityMappingTrieSha256 = {length = 32, bytes = 0x5a28dc51 b4b4a451 7601d7b5 2d784fcb ... a8fe5854 fe6c2145 };
-    lastSyncDisabledBundleIds =     (
-        "com.apple.iChat",
-        "com.apple.ScriptEditor2",
-        "com.apple.iBooksX",
-        "com.apple.TextEdit"
-    );
 }

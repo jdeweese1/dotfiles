@@ -1,9 +1,14 @@
 {
+    ModelName = Canned;
+    "NSStatusItem Preferred Position Item-0" = 257;
     "NSStatusItem Visible Item-0" = 1;
+    SPMessageTracingWindowHideCount = 119;
+    SPMessageTracingWindowShowCount = 119;
     "__NSEnableTSMDocumentWindowLevel" = 1;
-    lastVisibleScreenRect = "{{0, 0}, {1672, 1079}}";
-    lastWindowPosition = "{{526, 463}, {675, 430}}";
+    "engagementCount-com.apple.Spotlight" = 70;
+    lastVisibleScreenRect = "{{0, 0}, {1792, 1095}}";
+    lastWindowPosition = "{{556, 466}, {680, 430}}";
     showedFTE = 1;
-    startTime = "688714427.248875";
-    useCount = 1;
+    startTime = "688753526.926811";
+    useCount = 3;
 }

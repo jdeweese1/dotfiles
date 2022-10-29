@@ -1,13 +1,35 @@
 {
+    CKPerBootTasks =     (
+        CKAcccountInfoCacheReset
+    );
+    CKStartupTime = 1667060691;
     CloudConfigurationPath = "/System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/Resources/CloudConfigurations/Normal.plist";
-    CloudKitLastSyncSinceInternetReachable = "688753581.786785";
+    CloudKitAccountInfoCache =     {
+        fe2638514300aadbdb1c50766b84bcc42a168710690fbdf32839fce6c6b9bf20 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
+    };
+    CloudKitAccountStatus = 1;
+    CloudKitLastSyncSinceInternetReachable = "688752622.090624";
+    CloudKitZonesNeedingFetchChanges =     (
+    );
+    SubscriptionIDs =     (
+        "DatabaseSubscription-Shared",
+        "DatabaseSubscription-Private"
+    );
+    SubscriptionIDsLastModifiedDate = "688513086.2222281";
+    ThrottlingPolicyCurrentBatchCount = 0;
+    ThrottlingPolicyCurrentLevelIndex = 0;
+    ThrottlingPolicyStartTime = "688687610.7155319";
+    cloudKitSchemaCatchUpSyncLastSuccessBuildVersion = 21F79;
+    cloudKitSchemaCatchUpSyncLastSuccessDate = "2022-07-03 19:07:51 +0000";
     isDatabaseMigrated = 1;
-    lastDatabaseMigrationSystemBuildVersion = 22A380;
-    lastExtraneousAlarmsProcessedDate = "2022-10-29 16:37:37 +0000";
-    lastSuggestedAttributesAutoTrainingToken = {length = 710, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000226 };
-    lastSyncPoll = "2022-10-28 20:47:47 +0000";
-    preferredDefaultListID = "x-apple-reminderkit://REMCDList/3C8C2A71-84BF-4C87-8EFD-BB4827650D15";
-    preferredDefaultListObjectIDUrl = "x-coredata://28B53809-85BB-491A-89D9-08CE8C39B257/REMCDList/p2";
+    lastCloudConfigurationDownload = "2022-10-29 16:27:46 +0000";
+    lastDatabaseMigrationSystemBuildVersion = 19H2;
+    lastExtraneousAlarmsProcessedDate = "2022-10-29 03:46:30 +0000";
+    lastSuggestedAttributesAutoTrainingToken = {length = 820, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000278 };
+    lastSyncPoll = "2021-02-01 14:15:34 +0000";
+    preferredDefaultListID = "x-apple-reminderkit://REMCDList/48AFD8C8-C733-6FC5-B039-E5C351BEE5A3";
+    preferredDefaultListObjectIDUrl = "x-coredata://5C59B1C2-16A1-4F7B-ADEF-B4CD37B882F2/REMCDList/p45";
     spotlightIndexVersion = 6;
+    staledFileAttachmentCleanupLastExecutionDate = "2022-10-29 15:06:51 +0000";
     useExtraneousAlarmBackOffThrottleInterval = 1;
 }

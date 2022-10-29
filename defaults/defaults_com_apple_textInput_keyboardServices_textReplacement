@@ -1,4 +1,14 @@
 {
+    "KSCKDidSetupRecordZoneProd-TextReplacements" = 1;
+    "KSCKSubscriptionProd-TextReplacements" = 1;
+    KSCloudKitMigrationDidComplete = 1;
+    KSDidMigrateToCloudKitOnCloud = 1;
+    "KSDidPushAllLocalRecordsOnce-2" = 1;
     "KSDidPushMigrationStatusOnce-2" = 1;
+    KSLSShouldUpdateCache = 0;
+    "KSLastKnownUserID-TextReplacements" = "_b564d75f8277d7ad34e67d928a500bf3";
     "KSSampleShortcutWasImported_CK" = 1;
+    kDidInsertSampleShortcutForPeer = "jaroddeweese~697D2BFA-9434-5B54-BC4F-E23247E7655C-8C2BD359-CC9E-4BBE-8EEF-D1B6234FA0FB";
+    kTRCKLastSyncTime = "2022-10-29 13:44:55 +0000";
+    kTRCKSyncCount = 1;
 }

@@ -1,6 +1,11 @@
 {
+    AllowAllDevices = 1;
+    doubleTapEnabled = 1;
     recents =     (
         "55F2197E-8876-4D16-9B20-D3E6A062E2F5",
-        "0436BABE-7BFD-4A22-8950-F0EEEC7976C3"
+        "750B7475-C74D-41DB-90BE-5347353B5837",
+        "0436BABE-7BFD-4A22-8950-F0EEEC7976C3",
+        "FE15C826-8DD7-4EE3-8D66-8FB08E44AB9F"
     );
+    sidebarRight = 1;
 }

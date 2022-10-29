@@ -1,20 +1,11 @@
 {
-    "Console-DeviceView-Messages" = {length = 863, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000002cb };
-    "ConsoleKit-StreamView-DetailsPane" = 1;
-    LogOutlineViewVisible = 1;
-    LogOutlineViewWidth = 237;
-    "NSOutlineView Items Console" =     (
-        kLogDatabaseQueriesGroupSidebarItemIdentifier,
-        kLogFilesGroupSidebarItemIdentifier,
-        kDiagnosticInformationSidebarItemIdentifier
-    );
     "NSSplitView Subview Frames NavigationViewController-AutosaveName" =     (
-        "0.000000, 0.000000, 1068.000000, 514.500000, NO, NO",
-        "0.000000, 515.500000, 1068.000000, 509.500000, NO, NO"
+        "0.000000, 0.000000, 1156.000000, 345.000000, NO, NO",
+        "0.000000, 346.000000, 1156.000000, 382.000000, NO, NO"
     );
     "NSSplitView Subview Frames NavigationViewController-sidebarRoot-AutosaveName" =     (
-        "0.000000, 0.000000, 160.000000, 1025.000000, NO, NO",
-        "161.000000, 0.000000, 1068.000000, 1025.000000, NO, NO"
+        "0.000000, 0.000000, 180.000000, 728.000000, NO, NO",
+        "181.000000, 0.000000, 1156.000000, 728.000000, NO, NO"
     );
     "NSToolbar Configuration 0E68B02D-B48B-490B-BE38-A408DDA6F09C" =     {
         "TB Display Mode" = 1;
@@ -22,23 +13,5 @@
         "TB Is Shown" = 1;
         "TB Size Mode" = 1;
     };
-    "NSToolbar Configuration CF2FCB95-814C-4317-9EAA-00CFF195132B" =     {
-        "TB Display Mode" = 1;
-        "TB Icon Size Mode" = 1;
-        "TB Is Shown" = 1;
-        "TB Size Mode" = 1;
-    };
-    "NSToolbar Configuration LogWindowToolbar" =     {
-        "TB Display Mode" = 1;
-        "TB Icon Size Mode" = 1;
-        "TB Is Shown" = 1;
-        "TB Size Mode" = 1;
-    };
-    "NSToolbar Configuration com.apple.NSColorPanel" =     {
-        "TB Is Shown" = 1;
-    };
-    "NSWindow Frame Console-DashboardWindowController" = "350 0 1229 1025 0 0 1680 1025 ";
-    "NSWindow Frame Console-ReportWindowController" = "445 132 650 500 0 0 1280 777 ";
-    TagsSidebarCollapsed = 1;
-    WrapLines = 1;
+    "NSWindow Frame Console-DashboardWindowController" = "1991 334 1337 728 1792 40 1920 1055 ";
 }

@@ -67,9 +67,47 @@
     "public-sharing-enabled" = 0;
     "public-sharing-is-protected" = 0;
     "public-sharing-settings" =     {
+        "public-sharing-playlists" =         (
+                        {
+                "public-sharing-playlist-domain" = 2;
+                "public-sharing-playlist-id" = 1504960082145614864;
+                "public-sharing-playlist-name" = Movies;
+                "public-sharing-playlist-shared" = 1;
+            },
+                        {
+                "public-sharing-playlist-domain" = 2;
+                "public-sharing-playlist-id" = 8936430211432624731;
+                "public-sharing-playlist-name" = Rentals;
+                "public-sharing-playlist-shared" = 0;
+            },
+                        {
+                "public-sharing-playlist-domain" = 2;
+                "public-sharing-playlist-id" = "-8965478095347873186";
+                "public-sharing-playlist-name" = "Home Videos";
+                "public-sharing-playlist-shared" = 1;
+            },
+                        {
+                "public-sharing-playlist-domain" = 2;
+                "public-sharing-playlist-id" = "-6866084981213295928";
+                "public-sharing-playlist-name" = "TV Shows";
+                "public-sharing-playlist-shared" = 1;
+            },
+                        {
+                "public-sharing-playlist-domain" = 8;
+                "public-sharing-playlist-id" = "-6415055862454008220";
+                "public-sharing-playlist-name" = Audiobooks;
+                "public-sharing-playlist-shared" = 1;
+            },
+                        {
+                "public-sharing-playlist-domain" = 1;
+                "public-sharing-playlist-id" = "-865452282725745074";
+                "public-sharing-playlist-name" = Music;
+                "public-sharing-playlist-shared" = 1;
+            }
+        );
         "public-sharing-share-all-playlists" = 0;
     };
-    "shared-library-id" = "-4709928137149857650";
-    "shared-library-machine-id" = "-2835508992947972450";
+    "shared-library-id" = "-6203409038273775765";
+    "shared-library-machine-id" = "-4971344889342446088";
     "shared-library-name" = "Jarod DeWeese\\U2019s Library";
 }

@@ -1,64 +1,19 @@
 {
     Devices =     {
-        75F81885C3C906E5 =         {
-            "Build Version" = 19A404;
-            Connected = "2022-01-30 16:04:56 +0000";
+        000928A42630801E =         {
+            "Build Version" = 19F77;
+            Connected = "2022-08-09 13:42:40 +0000";
             "Device Class" = iPad;
-            "Family ID" = 10073;
+            "Family ID" = 10127;
             "Firmware Version" = 256;
-            "Firmware Version String" = "15.0.2";
-            ID = 75F81885C3C906E5;
-            "Product Type" = "iPad7,3";
+            "Firmware Version String" = "15.5";
+            ID = 000928A42630801E;
+            "Product Type" = "iPad13,8";
             "Region Info" = "LL/A";
-            "Serial Number" = DMPV755QJ28K;
+            "Serial Number" = CFJYCM2HNQ;
             "Use Count" = 1;
-        };
-        87C7C99D8FA93151 =         {
-            "Build Version" = 18F72;
-            Connected = "2021-06-19 01:55:45 +0000";
-            "Device Class" = iPhone;
-            "Family ID" = 10076;
-            "Firmware Version" = 256;
-            "Firmware Version String" = "14.6";
-            ID = 87C7C99D8FA93151;
-            IMEI = 356716089059118;
-            MEID = 35671608905911;
-            "Product Type" = "iPhone10,2";
-            "Region Info" = "LL/A";
-            "Serial Number" = F2MVPV3VJCLY;
-            "Use Count" = 11;
-        };
-        F09DD181CABBA5F2 =         {
-            "Build Version" = 14D27;
-            Connected = "2017-01-26 20:18:50 +0000";
-            "Device Class" = iPhone;
-            "Family ID" = 10042;
-            "Firmware Version" = 256;
-            "Firmware Version String" = "10.2.1";
-            ID = F09DD181CABBA5F2;
-            IMEI = 354410064881843;
-            MEID = 35441006488184;
-            "Product Type" = "iPhone7,2";
-            "Region Info" = "LL/A";
-            "Serial Number" = C8QNGALTG5MF;
-            "Use Count" = 2;
-        };
-        FDD8323913901D8B =         {
-            "Build Version" = 15B202;
-            Connected = "2017-12-17 02:40:23 +0000";
-            "Device Class" = iPhone;
-            "Family ID" = 10042;
-            "Firmware Version" = 256;
-            "Firmware Version String" = "11.1.2";
-            ID = FDD8323913901D8B;
-            IMEI = 359236065225267;
-            MEID = 35923606522526;
-            "Product Type" = "iPhone7,2";
-            "Region Info" = "LL/A";
-            "Serial Number" = DNPPK91ZG5MF;
-            "Use Count" = 61;
         };
     };
     "com.apple.PreferenceSync.ExcludeAllSyncKeys" = 1;
-    "conn:128:Last Connect" = {length = 4, bytes = 0xde1c1348};
+    "conn:128:Last Connect" = {length = 4, bytes = 0xdf17ce80};
 }

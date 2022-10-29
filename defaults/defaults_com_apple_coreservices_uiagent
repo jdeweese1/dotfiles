@@ -1,4 +1,11 @@
 {
+    CSUIHasSafariBeenLaunched = 1;
     CSUIHaveCenteredGatekeeperProgressWindow = 1;
-    "NSWindow Frame CSUIGatekeeperProgressWindow" = "637 756 400 70 0 0 1728 1079 ";
+    CSUILastOSVersionWhereSafariRecommendationWasMade = "11.4";
+    CSUIRecommendSafariBackOffInterval = 2592000;
+    CSUIRecommendSafariNextNotificationDate = "2021-08-20 14:46:02 +0000";
+    NSNavLastRootDirectory = "/Applications";
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    "NSWindow Frame CSUIGatekeeperProgressWindow" = "1187 749 400 70 0 0 1792 1095 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "2352 672 800 388 1792 217 1920 1055 ";
 }

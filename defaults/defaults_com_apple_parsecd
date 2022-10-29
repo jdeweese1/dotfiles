@@ -1,7 +1,10 @@
 {
+    FLUploadHeaders =     {
+        userId = "A8AF458A-D18A-4B18-8DB9-D42E6FC2FB8C";
+    };
     PARDefaultsVersion = 4;
-    PARTestSeed = 100;
-    PARTestSeedExpiration = "2022-10-29 20:45:06 +0000";
+    PARTestSeed = 14;
+    PARTestSeedExpiration = "2022-10-29 18:50:45 +0000";
     "download_resources" =     {
         "autofill_tld_whitelist_url" =         {
             url = "https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url?version=d82910c408523dcb3cfb020124f6e8b9";
@@ -22,7 +25,7 @@
             url = "https://api.smoot.apple.com/static/installed_app_whitelist_url?version=d952ed940d15e278436dce7b92f002bd";
         };
         "qi_features_url" =         {
-            url = "https://api.smoot.apple.com/static/qi_features_url?locale=en_US&version=00000000000000000000000000000014";
+            url = "https://cdn.smoot.apple.com/static/qi_features_url?locale=en_US&version=00000000000000000000000000000014";
         };
         "silhouette_config" =         {
             url = "https://cdn.smoot.apple.com/static/silhouette_config/5/silhouette_config?version=5";

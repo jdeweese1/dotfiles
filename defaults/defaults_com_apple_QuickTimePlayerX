@@ -1,33 +1,11 @@
 {
-    "MGCaptureDeviceSelection MGScreenRecordingDocument" =     (
-                {
-            MGCaptureDeviceSelectionUniqueID = a0123ca3c3a65b2133991abefdd8323913901d8b;
-        }
-    );
-    MGDeviceRecordingDocumentViewControllerAudioDeviceSelectionUniqueID = "AppleHDAEngineInput:1B,0,1,0:1";
-    MGDeviceRecordingDocumentViewControllerVideoDeviceSelectionUniqueID = a0123ca3c3a65b2133991abefdd8323913901d8b;
-    MGInspectorWindowControllerShowWindowAtLaunch = 0;
-    MGMovieRecordingWindowFrameTopLeftPoint = "{0, 716}";
+    AVDesktopPlaybackControlsControllerShowsDurationInsteadOfTimeRemainingDefaultsKey = 1;
+    AVPlayerViewShowsDurationInsteadOfTimeRemainingDefaultsKey = 1;
     MGRecentDocumentURLBookmarks =     (
-        {length = 1056, bytes = 0x626f6f6b 20040000 00000410 30000000 ... 04000000 00000000 },
-        {length = 1104, bytes = 0x626f6f6b 50040000 00000410 30000000 ... 04000000 00000000 }
+        {length = 840, bytes = 0x626f6f6b 48030000 00000410 30000000 ... 04000000 00000000 },
+        {length = 704, bytes = 0x626f6f6b c0020000 00000410 30000000 ... 04000000 00000000 },
+        {length = 728, bytes = 0x626f6f6b d8020000 00000410 30000000 ... 04000000 00000000 }
     );
     MGRecentDocumentsSharedFileListIsValid = 1;
-    MGRecentURLPropertyLists =     (
-        {length = 1116, bytes = 0x626f6f6b 5c040000 00000410 30000000 ... 04000000 00000000 },
-        {length = 696, bytes = 0x626f6f6b b8020000 00000410 30000000 ... 04000000 00000000 },
-        {length = 892, bytes = 0x626f6f6b 7c030000 00000410 30000000 ... 04000000 00000000 },
-        {length = 1164, bytes = 0x626f6f6b 8c040000 00000410 30000000 ... 04000000 00000000 },
-        {length = 1128, bytes = 0x626f6f6b 68040000 00000410 30000000 ... 04000000 00000000 },
-        {length = 1112, bytes = 0x626f6f6b 58040000 00000410 30000000 ... 04000000 00000000 },
-        {length = 1196, bytes = 0x626f6f6b ac040000 00000410 30000000 ... 04000000 00000000 },
-        {length = 1196, bytes = 0x626f6f6b ac040000 00000410 30000000 ... 04000000 00000000 },
-        {length = 1292, bytes = 0x626f6f6b 0c050000 00000410 30000000 ... 04000000 00000000 },
-        {length = 1292, bytes = 0x626f6f6b 0c050000 00000410 30000000 ... 04000000 00000000 }
-    );
-    MGRecordingCompressionPresetIdentifier = MGCompressionPresetHighQuality;
-    NSNavLastRootDirectory = "/Volumes/Jarod-Encrypted/Movies/21 Jump Street (2012)";
-    NSNavPanelExpandedSizeForOpenMode = "{799, 448}";
-    "NSWindow Frame MGOpenClipWindowFrameAutosaveName" = "343 303 590 372 0 0 1280 777 ";
-    "NSWindow Frame NSNavPanelAutosaveName" = "440 434 799 448 0 0 1680 1027 ";
+    NSNavLastUserSetHideExtensionButtonState = 1;
 }

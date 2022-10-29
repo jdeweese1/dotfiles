@@ -1,11 +1,7 @@
 {
     IMCSBypassIndexVersionCheckV2 = 1;
-    IMCSDoNotIndex =     (
-    );
-    IMCSIdxProductVersion = "12.6";
+    IMCSIdxProductVersion = "12.5.1";
     IMCSIdxVersion = 21;
-    IMCSIndexLastIndexDate = "2022-10-18 20:54:16 +0000";
-    IMCSIndexTotalRecords = 59701;
-    IMCSLastIndexedRowID = 56701;
-    IMCSNeedsIndexing = 1;
+    IMCSIndexLastIndexDate = "2022-10-29 16:44:10 +0000";
+    IMCSLastIndexedRowID = 1;
 }

@@ -1,7 +1,7 @@
 {
     CALNNotificationIconIdentifierVersion = 1;
-    CalContactsProviderHistoryToken = {length = 622, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001f0 };
-    TargetDateForURLRenewal = "2023-02-22 15:42:50 +0000";
+    CalContactsProviderHistoryToken = {length = 563, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001bd };
+    TargetDateForURLRenewal = "2023-05-04 23:26:25 +0000";
     databaseWasReset = 0;
-    icaluuid = "A3C20240-E3CE-42C0-BE30-86660783C760";
+    icaluuid = "971AEA02-42DB-465A-8E97-062382F6A6D1";
 }

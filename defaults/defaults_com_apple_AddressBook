@@ -1,6 +1,22 @@
 {
     ABBirthDayVisible = 1;
-    ABMetaDataChangeCount = 201;
-    ABMetadataLastOilChange = "2022-10-28 20:47:53 +0000";
+    "ABCleanWindowController-MainCleanWindow-groupList" =     {
+        selectedGroupEntryIdentifier = "ABAccountBrowsingGroupEntry:(null)";
+    };
+    "ABCleanWindowController-MainCleanWindow-personListController" =     {
+        selectedUIDs =         (
+            "9CCD3431-391F-41D5-8FEE-CE699264D5DD:ABPerson"
+        );
+    };
+    ABDefaultSourceID = "C83EDBD9-34EB-4653-A6E1-4E11F8DFC1DD";
+    ABMetaDataChangeCount = 4575;
+    ABMetadataLastOilChange = "2022-10-29 16:55:36 +0000";
+    ABTextSizeIncrement = 2;
     ABVersion = 1419;
+    "NSSplitView Subview Frames ABCleanWindowController-MainCleanWindow" =     (
+        "0.000000, 0.000000, 223.000000, 548.000000, NO, NO",
+        "224.000000, 0.000000, 188.000000, 548.000000, NO, NO",
+        "413.000000, 0.000000, 483.000000, 548.000000, NO, NO"
+    );
+    "NSWindow Frame ABCleanWindowController-MainCleanWindow" = "910 1223 896 548 75 1120 1920 1055 ";
 }

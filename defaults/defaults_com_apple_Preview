@@ -1,102 +1,39 @@
 {
-    NSColorPanelMode = 6;
-    NSColorPickerPreferredRGBEntryMode = 2;
-    NSColorPickerSlidersDefaults = 1;
-    NSNavLastRootDirectory = "~/Desktop";
-    NSNavLastUserSetHideExtensionButtonState = 0;
-    NSNavPanelExpandedSizeForOpenMode = "{799, 450}";
-    NSNavPanelExpandedSizeForSaveMode = "{852, 491}";
+    NSNavLastRootDirectory = "~/Desktop/untitled folder 2";
+    NSNavLastUserSetHideExtensionButtonState = 1;
+    NSNavPanelExpandedSizeForOpenMode = "{799, 448}";
+    NSNavPanelExpandedSizeForSaveMode = "{743, 448}";
     NSNavPanelExpandedStateForSaveMode = 1;
     "NSSplitView Subview Frames NSColorPanelSplitView" =     (
-        "0.000000, 0.000000, 224.000000, 264.000000, NO, NO",
-        "0.000000, 265.000000, 224.000000, 43.000000, NO, NO"
+        "0.000000, 0.000000, 224.000000, 258.000000, NO, NO",
+        "0.000000, 259.000000, 224.000000, 48.000000, NO, NO"
     );
     "NSToolbar Configuration CommonToolbar_v5.1" =     {
-        "TB Default Item Identifiers" =         (
-            view,
-            inspector,
-            zoom,
-            share,
-            NSToolbarFlexibleSpaceItem,
-            markup,
-            rotate,
-            "edit_banner",
-            search
-        );
-        "TB Display Mode" = 1;
+        "TB Display Mode" = 2;
         "TB Icon Size Mode" = 1;
         "TB Is Shown" = 1;
-        "TB Item Identifiers" =         (
-            view,
-            inspector,
-            share,
-            NSToolbarFlexibleSpaceItem,
-            "back_forward",
-            markup,
-            rotate,
-            "edit_banner",
-            search
-        );
         "TB Size Mode" = 1;
     };
     "NSToolbar Configuration com.apple.NSColorPanel" =     {
         "TB Is Shown" = 1;
     };
-    "NSWindow Frame NSColorPanel" = "201 245 224 284 0 0 1280 777 ";
-    "NSWindow Frame NSNavPanelAutosaveName" = "440 431 799 450 0 0 1680 1025 ";
-    "NSWindow Frame NSSpellCheckerSpellingPanel" = "-632 908 431 258 -1920 317 1920 1057 ";
-    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "692 407 425 137 0 0 1680 1025 ";
-    "NSWindow Frame PVInspectorPanel" = "800 397 320 249 0 0 1680 1027 ";
-    "NSWindow Frame PVPreferences" = "390 295 475 266 0 0 1680 1027 ";
-    "NSWindowTabbingShoudShowTabBarKey-PVWindow-PVWindowController-PVWindowController-VT-FS" = 1;
-    PDFKitSuppressRedactionDiscoverabilityAlertKey = 1;
-    PMPrintingExpandedStateForPrint2 = 1;
+    "NSWindow Frame NSNavPanelAutosaveName" = "524 485 743 324 0 0 1792 1095 ";
+    PMPrintingExpandedStateForPrint2 = 0;
     PVContactSheetThumbnailSize = 120;
-    PVGeneralSelectedPane = 2;
-    PVImageSizeResolutionUnit = 10;
-    PVImageSizeSizeUnit = 1;
-    "PVInspectorPanelForDoctype_ImageDocument" = PVInspectorImageFileInfo;
-    "PVInspectorPanelForDoctype_NoDocument" = PVInspectorNoDocument;
-    "PVInspectorPanelForDoctype_PDFDocument" = PVInspectorPDFFileInfo;
-    PVInspectorTabForMetaData = "{General}";
-    PVInspectorWindowOpenOnStart = 0;
-    PVPDFLastSidebarWidth = 198;
-    PVPDFSearchResultsOrder2 = 0;
+    PVPDFLastSidebarWidth = 215;
     PVSidebarViewModeForNewDocuments = 0;
-    PVSupressPDFCroppingAlert = 1;
-    "QuickLookPreview_61FA3F00-EA95-4DD2-A319-2C0FD28F28B5.WebKit2ColorFilterEnabled" = 1;
-    "QuickLookPreview_61FA3F00-EA95-4DD2-A319-2C0FD28F28B5.WebKit2DatabasesEnabled" = 0;
-    "QuickLookPreview_61FA3F00-EA95-4DD2-A319-2C0FD28F28B5.WebKit2HTTPEquivEnabled" = 0;
-    "QuickLookPreview_61FA3F00-EA95-4DD2-A319-2C0FD28F28B5.WebKit2JavaEnabled" = 0;
-    "QuickLookPreview_61FA3F00-EA95-4DD2-A319-2C0FD28F28B5.WebKit2JavaScriptCanOpenWindowsAutomatically" = 0;
-    "QuickLookPreview_61FA3F00-EA95-4DD2-A319-2C0FD28F28B5.WebKit2LocalStorageEnabled" = 0;
-    "QuickLookPreview_61FA3F00-EA95-4DD2-A319-2C0FD28F28B5.WebKit2MinimumFontSize" = 1;
-    "QuickLookPreview_61FA3F00-EA95-4DD2-A319-2C0FD28F28B5.WebKit2PluginsEnabled" = 0;
-    "QuickLookPreview_61FA3F00-EA95-4DD2-A319-2C0FD28F28B5.WebKit2PrivateBrowsingEnabled" = 0;
-    "QuickLookPreview_61FA3F00-EA95-4DD2-A319-2C0FD28F28B5.WebKit2UsesEncodingDetector" = 1;
-    "QuickLookPreview_F55C9DE5-932B-4AAC-AAA0-80CA3D15C8AF.WebKit2ColorFilterEnabled" = 1;
-    "QuickLookPreview_F55C9DE5-932B-4AAC-AAA0-80CA3D15C8AF.WebKit2DatabasesEnabled" = 0;
-    "QuickLookPreview_F55C9DE5-932B-4AAC-AAA0-80CA3D15C8AF.WebKit2HTTPEquivEnabled" = 0;
-    "QuickLookPreview_F55C9DE5-932B-4AAC-AAA0-80CA3D15C8AF.WebKit2JavaEnabled" = 0;
-    "QuickLookPreview_F55C9DE5-932B-4AAC-AAA0-80CA3D15C8AF.WebKit2JavaScriptCanOpenWindowsAutomatically" = 0;
-    "QuickLookPreview_F55C9DE5-932B-4AAC-AAA0-80CA3D15C8AF.WebKit2LocalStorageEnabled" = 0;
-    "QuickLookPreview_F55C9DE5-932B-4AAC-AAA0-80CA3D15C8AF.WebKit2MinimumFontSize" = 1;
-    "QuickLookPreview_F55C9DE5-932B-4AAC-AAA0-80CA3D15C8AF.WebKit2PluginsEnabled" = 0;
-    "QuickLookPreview_F55C9DE5-932B-4AAC-AAA0-80CA3D15C8AF.WebKit2PrivateBrowsingEnabled" = 0;
-    "QuickLookPreview_F55C9DE5-932B-4AAC-AAA0-80CA3D15C8AF.WebKit2UsesEncodingDetector" = 1;
     "com.apple.AnnotationKit.arrowHeadStyle" = 2;
     "com.apple.AnnotationKit.brushStyle" = 0;
-    "com.apple.AnnotationKit.fillColor" = {length = 242, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b8 };
-    "com.apple.AnnotationKit.font" = {length = 506, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000184 };
+    "com.apple.AnnotationKit.fillColor" = {length = 248, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000bd };
+    "com.apple.AnnotationKit.font" = {length = 496, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000017a };
     "com.apple.AnnotationKit.hasShadow" = 0;
     "com.apple.AnnotationKit.highlightStyle" = 765200;
-    "com.apple.AnnotationKit.strokeColor" = {length = 242, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b8 };
+    "com.apple.AnnotationKit.strokeColor" = {length = 248, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000bd };
     "com.apple.AnnotationKit.strokeIsDashed" = 0;
-    "com.apple.AnnotationKit.strokeWidth" = 4;
-    "com.apple.AnnotationKit.textAttributes" = {length = 286, bytes = 0x7b5c7274 66315c61 6e73695c 616e7369 ... 205c6366 3220617d };
+    "com.apple.AnnotationKit.strokeWidth" = 5;
+    "com.apple.AnnotationKit.textAttributes" = {length = 288, bytes = 0x7b5c7274 66315c61 6e73695c 616e7369 ... 205c6366 3220617d };
     "com.apple.AnnotationKit.userDefaultsVersion" = 1;
-    "com.apple.imagekit.lastresolution" = 72;
     "com.apple.imagekit.lastselectedfiletype" = "public.jpeg";
-    selectedDPI = 200;
+    selectedDPI = 150;
     selectedUnit = 0;
 }

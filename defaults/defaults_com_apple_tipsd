@@ -1,28 +1,58 @@
 {
-    ConsecutiveNotificationsCount = 1;
-    DeliveryEventIdentifierToDeliveryEventMap = {length = 261, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cb };
+    ConsecutiveNotificationsCount = 3;
+    DeliveryEventIdentifierToDeliveryEventMap = {length = 2572, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000087e };
     DeliveryInfoVersion = 93c6896f754a03411af465c9f2c13f6b7a997aa25af2e6900d25024dc4eeecfe;
-    DiscoverabilityDeliveryInfoMap = {length = 261, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cb };
+    DiscoverabilityDeliveryInfoMap = {length = 2516, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000804 };
     Experiment = {length = 274, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d7 };
     "TPSAnalyticsHistoricTipsDataProcessor_DateLastRun" = {length = 223, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000a8 };
     TPSAnalyticsStore =     {
-        TPSLastNotificationTime = "2022-10-29 18:21:43 +0000";
-        TPSNotificationCount = 1;
+        TPSLastNotificationTime = "2022-07-08 00:47:09 +0000";
+        TPSNotificationCount = 3;
     };
     "TPSAnalyticsUsageEventsProcessor_DateLastRun" = {length = 223, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000a8 };
-    TPSDidRevertArchivedTipStatuses = 1;
-    TPSFullTipUsageEventContextualInfo = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b4 };
-    TPSLastMajorVersion = 13;
-    TPSLastNotificationDate = "2022-10-29 18:21:43 +0000";
+    TPSDCloudHintDisplayed =     (
+        "CID-livephotoeffect-mini-tip",
+        TIP03E089622,
+        "CID-essentials-collection-get-mac-discover",
+        "CID-listicon-mini-tip",
+        TIPDB5B71121,
+        "CID-messages-pinning-mini-tip",
+        WhatsNew,
+        "CID-applibrary",
+        "CID-spotlight-quickly-find-apps",
+        "doc3366a699-64ea-4237-8fec-f8804ce2815b",
+        "CID-airpods2-intro-meet-airpodsmax-see",
+        "CID-safari-collection-see-safari-discover",
+        Privacy,
+        "CID-scheduledsummary-learn-a-notification",
+        "doc9e8ac6d5-d9fd-4777-8b9e-7765d04adb09",
+        "CID-voiceisolation-learn-reduce-background",
+        "CID-notestagsactive-mini-tip",
+        "CID-sharedphoto-mini-tip",
+        "CID-addwidgets",
+        "CID-smartfolders-mini-tip",
+        "CID-apple-pencil-intro--tip6558f8917",
+        "CID-sirivoice",
+        "CID-searchnotesimages-mini-tip",
+        "CID-quicknote-learn-a-quick",
+        "CID-notestags-mini-tip",
+        "docc45eeb65-6582-429a-a3bb-b45d6842a8e5",
+        "CID-searchnotestext-mini-tip",
+        PhotosAndCamera,
+        "CID-focusmodes-learn-focus-modes",
+        "CID-photography-collection-take-shot-see",
+        "CID-homepod2-intro-tip-meet-homepod",
+        "docbcabe4d6-7c44-4399-a6e5-50016742a4b5",
+        "CID-sharescreen-share-screen-during",
+        "CID-talk-type--tipc629c33ef--mini-tip",
+        "CID-notespin-mini-tip"
+    );
+    TPSLastMajorVersion = 12;
+    TPSLastNotificationDate = "2022-07-08 00:47:09 +0000";
     TPSOfflineLastProcessedRemoteContentIdentifier = "en-93c6896f754a03411af465c9f2c13f6b7a997aa25af2e6900d25024dc4eeecfe";
-    TPSSearchIndexLastClientState = {length = 2368, bytes = 0x7b227665 7273696f 6e223a31 2c22646f ... 35394c6f 3d227d7d };
     TPSTipsAppInstalled = 1;
     TPSWaitingToShowWelcomeNotification = 0;
     TPSWelcomeNotificationReminderState = 1;
-    TPSWelcomeNotificationStartDate = "2022-10-28 20:48:15 +0000";
-    TPSWelcomeNotificationViewedVersion = 13;
-    TPSWidgetShownTips =     (
-        "docad6e2af5-3cf0-4990-8a75-dd1fdc0fcbef"
-    );
-    TPSWidgetUpdateDate = "2022-10-28 20:48:16 +0000";
+    TPSWelcomeNotificationStartDate = "2022-07-02 02:16:50 +0000";
+    TPSWelcomeNotificationViewedVersion = 12;
 }

@@ -1,9 +1,46 @@
 {
+    AUIconTransferStore =     {
+        "61EFB98F-F467-47A2-8F93-E6A34536862B" =         {
+            "<ddc52ef372052543ed869141d5edd212b0df948709a8a3b64a86d6593f83b2da>" = Keychain;
+        };
+        "7664E582-BA3B-48B7-921F-1D75847DA4EA" =         {
+            "<3c926c4df1ad21e57817c2a274a6e5f28792f663565c50b637dd8480003ee63b>" = "System Preferences";
+            "<3c9ad8381239e45a17cd285d1a8a3f164ef8d4390f905d9107bba73f93b00515>" = Finder;
+            "<d7628a3f7131ec1580f7ea2c66128864ed397998020a9e8af0a3df640afcf8e5>" = Installer;
+        };
+    };
+    AirDropRandomHashUUIDKey1 = "C0F14EDD-2F17-4A46-9F83-6CA29C79C5D1";
+    AirDropRandomHashUUIDKey2 = "74CB6B4D-4370-4EBC-858E-8A33C0548657";
+    AirDropRandomHashUUIDKey3 = "A380BA1C-20B5-4167-8303-3198A19FA25D";
+    AirDropRandomHashUUIDKey4 = "599CCB51-A86A-4A05-962F-E0627B2DCF00";
+    AutoUnlockAlreadyEnabledBefore = 1;
+    AutoUnlockCloudPairRetries =     {
+        "34C00D42-5E1E-43A1-A6FA-931680761202" =         {
+            CloudPairGeneralRetryDate = "2021-07-10 22:51:26 +0000";
+            CloudPairShortRetryDate = "2021-07-09 23:06:26 +0000";
+        };
+    };
+    AutoUnlockDevicesMissingSessionKey =     (
+    );
+    AutoUnlockLastSeenWatchDate = "2022-08-23 21:05:15 +0000";
+    AutoUnlockPeerRetries =     {
+        "7664E582-BA3B-48B7-921F-1D75847DA4EA" =         {
+            AutoUnlockRetryDate = "2021-02-04 14:02:42 +0000";
+            AutoUnlockRetryMultiplier = 8;
+        };
+    };
     AutoUnlockPresentedBluetoothError = 0;
     AutoUnlockPresentedWiFiError = 0;
-    "HashManager-LastConsumedHistoryTokenKey" = {length = 479, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000173 };
-    "HashManager-LastRebuiltDateKey" = "2022-10-29 17:51:35 +0000";
-    "HashManager-LastUpdatedDateKey" = "2022-10-29 17:51:35 +0000";
+    AutoUnlockSetupRetryVersion = 1;
+    AutoUnlockSuggestedPeers =     (
+        "7664E582-BA3B-48B7-921F-1D75847DA4EA",
+        "61EFB98F-F467-47A2-8F93-E6A34536862B"
+    );
+    AutoUnlockWatchCurrentlyInList = 1;
+    AutoUnlockWatchExistedInUnlockList = 1;
+    "HashManager-LastConsumedHistoryTokenKey" = {length = 563, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001bd };
+    "HashManager-LastRebuiltDateKey" = "2022-10-25 15:59:09 +0000";
+    "HashManager-LastUpdatedDateKey" = "2022-10-29 18:00:31 +0000";
     "HashManager-StoredDatabaseVersionKey" = 3;
     OneTimeAirDropReset2 = 1;
 }

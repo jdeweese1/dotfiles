@@ -1,8 +1,8 @@
 {
     MetadataSyncState =     {
         AttemptCount = 0;
-        BuildVersion = "Version 13.0 (Build 22A380)";
-        Date = "2022-10-29 08:38:36 +0000";
+        BuildVersion = "Version 12.5.1 (Build 21G83)";
+        Date = "2022-10-28 12:13:59 +0000";
         Status = 2;
     };
 }

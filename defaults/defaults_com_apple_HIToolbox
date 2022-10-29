@@ -1,5 +1,6 @@
 {
     AppleCurrentKeyboardLayoutInputSourceID = "com.apple.keylayout.Dvorak";
+    AppleDictationAutoEnable = 0;
     AppleEnabledInputSources =     (
                 {
             InputSourceKind = "Keyboard Layout";
@@ -7,13 +8,21 @@
             "KeyboardLayout Name" = "U.S.";
         },
                 {
+            InputSourceKind = "Keyboard Layout";
+            "KeyboardLayout ID" = 16300;
+            "KeyboardLayout Name" = Dvorak;
+        },
+                {
+            "Bundle ID" = "com.apple.PressAndHold";
+            InputSourceKind = "Non Keyboard Input Method";
+        },
+                {
             "Bundle ID" = "com.apple.CharacterPaletteIM";
             InputSourceKind = "Non Keyboard Input Method";
         },
                 {
-            InputSourceKind = "Keyboard Layout";
-            "KeyboardLayout ID" = 16300;
-            "KeyboardLayout Name" = Dvorak;
+            "Bundle ID" = "com.apple.inputmethod.EmojiFunctionRowItem";
+            InputSourceKind = "Non Keyboard Input Method";
         }
     );
     AppleInputSourceHistory =     (
@@ -29,6 +38,14 @@
         }
     );
     AppleSelectedInputSources =     (
+                {
+            "Bundle ID" = "com.apple.PressAndHold";
+            InputSourceKind = "Non Keyboard Input Method";
+        },
+                {
+            "Bundle ID" = "com.apple.inputmethod.EmojiFunctionRowItem";
+            InputSourceKind = "Non Keyboard Input Method";
+        },
                 {
             InputSourceKind = "Keyboard Layout";
             "KeyboardLayout ID" = 16300;

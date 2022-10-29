@@ -2,7 +2,7 @@
     IncomingCallsTTYPreference =     {
         RTTWildcardContext = 0;
     };
-    RTTContinuityRTTIsSupportedPreference = 0;
+    RTTContinuityRTTIsSupportedPreference = 1;
     RTTSettingsVersionPreference = 2;
     TTYHardwareEnabledPreference =     {
         RTTWildcardContext = 0;
@@ -11,5 +11,5 @@
         RTTWildcardContext = 1;
     };
     TUIsRelayCallingEnabledPreference = 0;
-    TUSupportsRelayCallingPreference = 0;
+    TUSupportsRelayCallingPreference = 1;
 }

@@ -1,11 +1,49 @@
 {
     "State:com.apple.CharacterPaletteIM" =     {
         categories =         {
-            selectedIndex = 1;
+            selectedIndex = 0;
         };
         characters =         {
-            scrollPos = 0;
+            scrollPos = 36;
             sectionFonts =             {
+                0 =                 {
+                    characterFont =                     {
+                        "\\U2600\\Ufe0f" = AppleColorEmoji;
+                        "\\U2620\\Ufe0f" = AppleColorEmoji;
+                        "\\U26a0\\Ufe0f" = AppleColorEmoji;
+                        "\\U2705" = AppleColorEmoji;
+                        "\\U2728" = AppleColorEmoji;
+                        "\\U274c" = AppleColorEmoji;
+                        "\\U2b07\\Ufe0f" = AppleColorEmoji;
+                        "\\Ud83c\\Udf08" = AppleColorEmoji;
+                        "\\Ud83c\\Udf7b" = AppleColorEmoji;
+                        "\\Ud83c\\Udf89" = AppleColorEmoji;
+                        "\\Ud83d\\Udc1b" = AppleColorEmoji;
+                        "\\Ud83d\\Udc40" = AppleColorEmoji;
+                        "\\Ud83d\\Udc44" = AppleColorEmoji;
+                        "\\Ud83d\\Udc4b" = AppleColorEmoji;
+                        "\\Ud83d\\Udc80" = AppleColorEmoji;
+                        "\\Ud83d\\Udca9" = AppleColorEmoji;
+                        "\\Ud83d\\Ude00" = AppleColorEmoji;
+                        "\\Ud83d\\Ude01" = AppleColorEmoji;
+                        "\\Ud83d\\Ude02" = AppleColorEmoji;
+                        "\\Ud83d\\Ude05" = AppleColorEmoji;
+                        "\\Ud83d\\Ude09" = AppleColorEmoji;
+                        "\\Ud83d\\Ude0e" = AppleColorEmoji;
+                        "\\Ud83d\\Ude42" = AppleColorEmoji;
+                        "\\Ud83e\\Udd14" = AppleColorEmoji;
+                        "\\Ud83e\\Udd16" = AppleColorEmoji;
+                        "\\Ud83e\\Udd23" = AppleColorEmoji;
+                        "\\Ud83e\\Udd2e" = AppleColorEmoji;
+                        "\\Ud83e\\Uddd1\\U200d\\Ud83d\\Udcbb" = AppleColorEmoji;
+                        "\\Ud83e\\Udddb" = AppleColorEmoji;
+                        "\\Ud83e\\Ude79" = AppleColorEmoji;
+                    };
+                    fontNames =                     (
+                        "*",
+                        AppleColorEmoji
+                    );
+                };
                 version = 2;
             };
             selectedIndex = 9223372036854775807;

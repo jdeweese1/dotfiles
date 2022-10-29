@@ -1,14 +1,10 @@
 {
-    NSNavLastRootDirectory = "~/Documents";
-    NSNavPanelExpandedSizeForOpenMode = "{712, 448}";
     "NSToolbar Configuration com.apple.print.add.toolbar" =     {
-        "TB Display Mode" = 1;
+        "TB Display Mode" = 2;
         "TB Icon Size Mode" = 1;
         "TB Is Shown" = 1;
         "TB Size Mode" = 1;
     };
-    "NSWindow Frame com.apple.print.add.window" = "802 476 520 429 0 0 1680 1027 ";
-    "NSWindow Frame com.apple.print.ppdpicker" = "425 314 430 359 0 0 1280 778 ";
-    "com.apple.print.pbm.ip.last.protocol.tag" = 3;
+    "NSWindow Frame com.apple.print.add.window" = "106 348 547 445 0 0 1792 1095 ";
     defaultTableView = {length = 188, bytes = 0x040b7374 7265616d 74797065 6481e803 ... 70617265 3a868686 };
 }

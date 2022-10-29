@@ -1,8 +1,5 @@
 {
-    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2CookieEnabled" = 0;
     "com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaEnabled" = 0;
     "com.apple.Safari.ContentPageGroupIdentifier.WebKit2PageVisibilityBasedProcessSuppressionEnabled" = 0;
     "com.apple.Safari.ContentPageGroupIdentifier.WebKit2PluginsEnabled" = 0;
-    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2PrivateBrowsingEnabled" = 1;
-    "com.apple.Safari.ContentPageGroupIdentifier.WebKit2StorageBlockingPolicy" = 2;
 }

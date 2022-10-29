@@ -3,24 +3,10 @@
     AVDesktopPlaybackControlsControllerShowsDurationInsteadOfTimeRemainingDefaultsKey = 1;
     AVPlayerViewShowsDurationInsteadOfTimeRemainingDefaultsKey = 1;
     AutoPlayVideoSetting = on;
-    "JE.MediaAPIToken" = {length = 272, bytes = 0x7b22746f 6b656e53 7472696e 67223a22 ... 32353932 3030307d };
-    "MetricsSamplingLotteryWindowStart_pageRender" = "679180970.909281";
-    "NSWindow Frame AppStoreMainWindow" = "680 0 1000 1025 0 0 1680 1025 ";
-    "NSWindow Frame Preferences" = "140 108 1000 659 0 0 1280 777 ";
-    "NSWindow Frame window_prefs" = "0 0 1280 778 0 0 1280 778 ";
-    SeenOSUpdates =     (
-    );
+    "NSWindow Frame AppStoreMainWindow" = "-647 -1120 1000 1095 -1439 -1120 1792 1095 ";
     UserSetAutoPlayVideoSetting = 0;
-    appStoreBadgeCount = 0;
-    "com.apple.appstore.WebKit2DeveloperExtrasEnabled" = 1;
-    "com.apple.appstore.WebKit2ShowsToolTipOverTruncatedText" = 1;
-    "com.apple.appstore.WebKit2SuppressesIncrementalRendering" = 1;
-    "com.apple.appstore.WebKit2UserInterfaceDirectionPolicy" = 1;
     kAOSUIProfilePictureCropRect = "{{0, 0}, {1500, 1500}}";
-    lastBootstrapDate = "683153462.619615";
+    lastBootstrapDate = "683139169.268777";
     lastBootstrapTimeZone = "America/Chicago";
-    mostRecentTabIdentifier = discover;
-    "primary.WebKit2DeveloperExtrasEnabled" = 1;
-    "primary.WebKit2ShowsToolTipOverTruncatedText" = 1;
-    "primary.WebKit2SuppressesIncrementalRendering" = 1;
+    mostRecentTabIdentifier = search;
 }

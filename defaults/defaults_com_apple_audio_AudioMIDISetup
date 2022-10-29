@@ -1,11 +1,13 @@
 {
     "AMS_UserPreference_DefaultSortStyle" = 1;
-    "NSWindow Frame AMSAudioPanelFrame" = "154 50 990 668 0 0 1680 1027 ";
-    "NSWindow Frame speakerConfig" = "445 351 551 518 0 0 1680 1027 ";
-    "audioDevice.selected" = "BlackHole_UID";
-    "audioDevice.speakerConfigurationMode" = 1;
-    reopenAudioWindowPref = 0;
+    "NSSplitView Subview Frames AMSAudioDevicePaneSplit" =     (
+        "0.000000, 0.000000, 250.000000, 440.000000, NO, NO",
+        "251.000000, 0.000000, 400.000000, 440.000000, NO, NO"
+    );
+    "NSWindow Frame AMSAudioPanelFrame" = "653 227 651 468 0 0 1792 1095 ";
+    "NSWindow Frame speakerConfig" = "-1217 -950 551 525 -1920 -1120 1792 1095 ";
+    "audioDevice.selected" = BuiltInSpeakerDevice;
+    reopenAudioWindowPref = 1;
     reopenMIDIWindowPref = 0;
     reopenNetworkWindowPref = 0;
-    showiOSDeviceWindowPref = 0;
 }

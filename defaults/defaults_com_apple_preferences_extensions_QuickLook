@@ -1,6 +1,9 @@
 {
     displayOrder =     (
-        "com.microsoft.rdc.macos.qlx"
+        "com.apple.mail.MailQuickLookExtension",
+        "com.vmware.hub.mac.PreviewExtension",
+        "com.apple.reminders.quicklookextension",
+        "com.apple.WatchFaceAlert.ThumbnailExtension"
     );
     userHasOrdered = 1;
 }

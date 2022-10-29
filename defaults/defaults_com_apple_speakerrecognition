@@ -2,10 +2,10 @@
     "Known User Voice Profiles" =     (
                 {
             UserVoiceProfileAppDomain = "com.apple.siri";
-            UserVoiceProfileDateTrained = "1636250189.702798";
-            UserVoiceProfileID = "3AA124E3-2527-4339-BB11-B8B242825EEC";
+            UserVoiceProfileDateTrained = "1636122722.955498";
+            UserVoiceProfileID = "3C7A94C3-E990-4AA1-91F5-0B18153AEA3E";
             UserVoiceProfileLocale = "en-US";
-            UserVoiceProfilePath = "/var/folders/xx/tfswc_dx72g44v318_92rgqc0000gn/0/com.apple.corespeechd/VoiceTrigger/SAT/com.apple.siri/en-US/3AA124E3-2527-4339-BB11-B8B242825EEC";
+            UserVoiceProfilePath = "/var/folders/kn/fyb31hvx6lb7r_y3whw63z4h0000gn/0/com.apple.corespeechd/VoiceTrigger/SAT/com.apple.siri/en-US/3C7A94C3-E990-4AA1-91F5-0B18153AEA3E";
             UserVoiceProfilePitch = 0;
         }
     );

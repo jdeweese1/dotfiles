@@ -3,6 +3,5 @@
         "/Users/jaroddeweese/Pictures/Photos Library.photoslibrary",
         "/Users/jaroddeweese/Library/Photos/Libraries/Syndication.photoslibrary"
     );
-    PreheatAttempts = 1;
-    PreheatLastRun = "2022-10-29 04:59:11 +0000";
+    PreheatLastRun = "2022-10-29 16:26:41 +0000";
 }

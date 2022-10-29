@@ -1,10 +1,14 @@
 {
     CKPerBootTasks =     (
-        CKAcccountInfoCacheReset,
-        CKAccountInfoCacheReset
+        CKAcccountInfoCacheReset
     );
-    CKStartupTime = 1666988687;
+    CKStartupTime = 1667060691;
+    CloudBookmarksSupplementalClientIdentifier = "0CF98910-8532-4C94-ACC8-C1AAAE95DB72";
     CloudKitAccountInfoCache =     {
-        561b81788894b77861d13fdabbfaf49f1430498080392cfc3b60eca4078f26b0 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        c7a63508096558121c25d85f51edf76584ddb5d3f424f8c184edb887720dac22 = {length = 391, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012b };
     };
+    "LastDatabaseServerChangeToken.com.apple.SafariShared.CloudTabs" = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d3 };
+    MigrationStateEncodedRecordData = {length = 2535, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000080d };
+    NewestLaunchedSafariBookmarksSyncAgentVersion = "614.1.25.9.10";
+    TabGroupMigrationStateEncodedRecordData = {length = 2506, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000007f0 };
 }

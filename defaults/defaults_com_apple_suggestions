@@ -1,9 +1,11 @@
 {
     AppCanShowSiriSuggestionsBlacklist =     (
     );
-    CloudKitPersistedState = {length = 549, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001b3 };
-    SuggestionsAllowGeocode = 0;
+    CloudKitPersistedState = {length = 959, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000030d };
+    SuggestionsAllowGeocode = 1;
     UserAccountsPersistedState =     (
+        "633751D9-B7AC-4BD3-AEC4-E451DC588746",
+        "jaroddeweese@gmail.com"
     );
     findToShowMigrationPerformed = 1;
     spToLearnMigrationPerformed = 1;

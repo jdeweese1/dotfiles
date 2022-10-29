@@ -1,21 +1,125 @@
 {
+    AssistiveControlType = 2;
+    alternateMouseButtonsEnabled = 0;
+    alternateMouseButtonsPlaySound = 0;
+    alternateMouseButtonsShowVisualFeedback = 0;
+    closeViewDesiredZoomFactor = 1;
     closeViewHotkeysEnabled = 0;
+    closeViewSplitScreenRatio = "0.2";
     closeViewZoomDisplayID = 0;
     closeViewZoomFactor = 1;
-    "com.apple.custommenu.apps" =     (
-        NSGlobalDomain
-    );
-    dwellActionType = 2;
+    closeViewZoomedIn = 0;
     dwellEnabled = 0;
-    keyboardAccessCommandMap = {length = 274, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000da };
-    keyboardAccessFocusRingTimeout = 15;
-    login = 0;
-    sessionChange = 0;
-    virtualKeyboardCornerActionType =     {
-        0 = 1;
-        1 = 1;
-        2 = 1;
-        3 = 1;
+    dwellHideUITimeout = 15;
+    headMouseEnabled = 0;
+    headMouseInputConfiguration =     {
+        allowSeparateInputForExpressions = 1;
+        orderedInputPreference =         (
+                        {
+                captureDeviceUniqueID = 0x14224400046d085b;
+                isBuiltIn = 0;
+                motionTrackingInputClass = AXSSMotionTrackingCameraInput;
+                name = "Logitech Webcam C925e";
+            }
+        );
     };
+    headMouseRecalibrateSwitchEnabled = 0;
+    headMouseSensitivity = "0.5";
+    headMouseTolerance = 0;
+    hoverTextEnabled = 0;
+    increaseContrast = 0;
+    login = 0;
+    mouseDriver = 0;
+    mouseDriverCursorSize = "1.157528981854839";
+    reduceMotion = 0;
+    reduceTransparency = 0;
+    selectedTab = 15;
+    sessionChange = 0;
+    slowKey = 0;
+    slowKeyDelay = 250;
+    stickyKey = 0;
+    switchAutoScanElementInterval = "0.5";
+    switchAutoScanPanelInterval = "0.5";
+    switchCoalescePressesDuration = 0;
+    switchFirstElementDelay = 0;
+    switchHideUITimeout = 15;
+    switchHoldBeforeRepeatDuration = 3;
+    switchInputs =     {
+        switchSelectAction =         (
+                        {
+                switchActions =                 (
+                    2
+                );
+                switchNameLocalizedKey = "switch.key.space.displayName";
+                switchPressHoldOption = 0;
+                switchTriggerType = 1;
+                switchUUID = "CA8185EF-A161-4F19-8985-EB86CC9F058C";
+                switchValue = 49;
+            }
+        );
+    };
+    switchMinimumPressDuration = 0;
+    switchOnOffKey = 0;
+    switchSweepingCursorSpeed = 5;
+    useStickyKeysShortcutKeys = 0;
+    userSwitches =     (
+                {
+            switchAction = 0;
+            switchActionType = 1;
+            switchCustomNameIsLocalized = 0;
+            switchHID =             {
+                switchTriggerType = 1;
+                switchValue = 109;
+            };
+            switchType = 0;
+            switchUUIDString = "482E639B-1601-49CA-B674-8451352E9482";
+        },
+                {
+            switchAction = 0;
+            switchActionType = 0;
+            switchCustomName = Smile;
+            switchCustomNameIsLocalized = 0;
+            switchExpression = 3;
+            switchType = 1;
+            switchUUIDString = "85D26B23-85C9-4643-BA3C-548BDC2305FC";
+        },
+                {
+            switchAction = 1;
+            switchActionType = 0;
+            switchCustomName = "Pucker Lips Right";
+            switchCustomNameIsLocalized = 0;
+            switchExpression = 8;
+            switchType = 1;
+            switchUUIDString = "8FCBC625-8353-4D71-BB79-2AF8DCC3A19C";
+        },
+                {
+            switchAction = 0;
+            switchActionType = 0;
+            switchCustomName = "Pucker Lips Left";
+            switchCustomNameIsLocalized = 0;
+            switchExpression = 9;
+            switchType = 1;
+            switchUUIDString = "48A6A655-087B-4F2D-8E7E-DA04F20A6601";
+        },
+                {
+            switchAction = 2;
+            switchActionType = 0;
+            switchCustomName = "Stick Out Tongue";
+            switchCustomNameIsLocalized = 0;
+            switchExpression = 4;
+            switchType = 1;
+            switchUUIDString = "20FDCE26-3C8E-4D1A-9342-909F524FCDF2";
+        },
+                {
+            switchAction = 0;
+            switchActionType = 0;
+            switchCustomName = "Eye Blink";
+            switchCustomNameIsLocalized = 0;
+            switchExpression = 5;
+            switchType = 1;
+            switchUUIDString = "62201327-A34D-4083-BBAD-858D6AFDA42A";
+        }
+    );
     virtualKeyboardOnOff = 0;
+    voiceOverOnOffKey = 0;
 }

@@ -1,6 +1,4 @@
 {
     "library-bookmark" = {length = 968, bytes = 0x626f6f6b c8030000 00000410 30000000 ... d8010000 00000000 };
-    "library-url" = "file:///Users/jaroddeweese/Movies/TV/TV%20Library.tvlibrary/";
     "media-folder-bookmark" = {length = 960, bytes = 0x626f6f6b c0030000 00000410 30000000 ... d4010000 00000000 };
-    "media-folder-url" = "file:///Users/jaroddeweese/Movies/TV/Media.localized/";
 }

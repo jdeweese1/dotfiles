@@ -2,7 +2,42 @@
     CKPerBootTasks =     (
         CKAcccountInfoCacheReset
     );
-    CKStartupTime = 1666988687;
-    apsTokenStorageKey = {length = 20, bytes = 0xbab83d595c7bb3fb2ce7fe78dc73c220fe800518};
-    lazyInitTimeSecsStoredKey = 86400;
+    CKStartupTime = 1667060691;
+    apsTokenStorageKey = {length = 20, bytes = 0xdb57e91a8fc4d2efe7a3a2c647f5a8e86d88429c};
+    kFMFDlastLoggedInPrsId = 1996309056;
+    kFMFHostRedirects =     {
+    };
+    kFMFTapMessages =     (
+    );
+    lastSuccessfulInitDateKey = "2022-10-29 16:25:26 +0000";
+    lazyInitTimeSecsStoredKey = 543600;
+    notificationToken =     (
+        "RzTjHy8O8C8bZzumUjpmmpNeqBuf6XZWp5nBqTBjbeo=",
+        "y6YC4GpfVmLSiNG7hrZ8LZ2EZC1EQADjKIl/3XPmrcA="
+    );
+    numberOfFriendsFollowersKey = 16;
+    storedConfigKey =     {
+        blockFMFChannel = 0;
+        eLGraceTimeMin = 2;
+        familyPhotoCheckIntervalInSecs = 345600;
+        graceInterval401InSec = 60;
+        graceInterval5XXInSec = 60;
+        lazyInitTimeoutInSec = 543600;
+        locationTTL = 7200000;
+        maxFollowers = 100;
+        maxFriends = 100;
+        maxLocatingIntervalInMS = 22000;
+        maxTriesToRegisterDevice = 1;
+        maxWaitTimeForRegisterMS = 12000;
+        sendOnlyFMFChannel = 0;
+        showAirDropImportAlert = 1;
+        showAirDropImportUseFMFAppAlert = 0;
+        showAirDropImportViewOniCloudAlert = 1;
+        systemInactivityTimeoutInSec = 180;
+        transcriptDelegateStartEnabled = 1;
+        transcriptDelegateStopEnabled = 1;
+        upsellTimeoutInSec = 604800;
+        userLocateWaitIntervalInMS = 100;
+    };
+    storedDSID = 1996309056;
 }

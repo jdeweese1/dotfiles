@@ -1,7 +1,11 @@
 {
+    CKDPIDSyncState = 0;
+    StocksEnabled = 1;
     adprivacydMaxSegmentSendInterval = 259200;
-    adprivacydSegmentInterval = 93545;
-    allowApplePersonalizedAdvertising = 1;
+    adprivacydSegmentInterval = 43813;
+    allowApplePersonalizedAdvertising = 0;
     allowIdentifierForAdvertising = 1;
+    forceLimitAdTracking = 1;
+    "partiality-segment" = "https://partiality.itunes.apple.com/WebObjects/MZPartiality.woa/wa/IAD/segment";
     personalizedAdsMigrated = 1;
 }

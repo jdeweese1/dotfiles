@@ -2,12 +2,12 @@
     "Default Window Settings" = Basic;
     DefaultProfilesVersion = 1;
     HasMigratedDefaults = 1;
-    "NSWindow Frame TTAppPreferences" = "531 734 667 554 0 0 1728 1079 ";
-    "NSWindow Frame TTWindow" = "127 253 717 707 0 0 1728 1079 ";
-    "NSWindow Frame TTWindow Basic" = "127 309 717 651 0 0 1728 1079 ";
+    "NSWindow Frame TTAppPreferences" = "-26 1525 667 533 -653 1120 1920 1057 ";
+    "NSWindow Frame TTWindow" = "248 529 585 371 0 0 1288 921 ";
+    "NSWindow Frame TTWindow Basic" = "832 664 585 367 0 0 1920 1055 ";
+    "NSWindow Frame TTWindow Man Page" = "696 0 585 701 0 0 1792 1097 ";
     ProfileCurrentVersion = "2.07";
     SecureKeyboardEntry = 0;
-    Shell = "";
     "Startup Window Settings" = Basic;
     "TTAppPreferences Selected Tab" = 0;
     "Window Settings" =     {

@@ -17,6 +17,8 @@
     };
     "com.apple.ShareKitHelper" =     {
     };
+    "com.apple.SoftwareUpdate" =     {
+    };
     "com.apple.SubmitDiagInfo" =     {
     };
     "com.apple.TCC.configuration-profile-policy" =     {
@@ -41,6 +43,8 @@
     };
     "com.apple.gamed" =     {
     };
+    "com.apple.hitoolbox" =     {
+    };
     "com.apple.loginitems.managed" =     {
     };
     "com.apple.loginwindow" =     {
@@ -54,6 +58,8 @@
     "com.apple.security.FDERecoveryKeyEscrow" =     {
     };
     "com.apple.security.FDERecoveryRedirect" =     {
+    };
+    "com.apple.security.identitypreference" =     {
     };
     "com.apple.syspolicy.kernel-extension-policy" =     {
     };
@@ -73,8 +79,12 @@
     };
     "com.google.Chrome" =     {
     };
+    "com.microsoft.autoupdate2" =     {
+    };
     "com.paloaltonetworks.GlobalProtect.client" =     {
     };
     "com.vmware.lookup" =     {
+    };
+    "org.mozilla.firefox" =     {
     };
 }

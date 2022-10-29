@@ -1,11 +1,78 @@
 {
+    AccountDisplayOrder =     (
+        Subscription,
+        Birthday,
+        Local,
+        "C2E6659E-B092-471A-8EE6-DE65C620E96F",
+        "26C2FE37-E690-47BE-BB1A-AB2C670538D7"
+    );
+    AllDayAreaHeight = 22;
     BirthdayEventsGenerationAttemptsToResetKey = 0;
     BirthdayEventsGenerationLastLocale = "en_US";
-    BirthdayEventsGenerationVersion = 13;
-    CALPrefLastTruthFileMigrationVersion = 1;
-    NotificationSourceClientIdentifierVersion = 1;
-    NotificationsLastLocale = "en_US";
-    PrefMigrationSeed = 2;
-    ShowDeclinedEvents = 0;
-    kCalDBLastSpotLightIndexVersion = 18;
+    BirthdayEventsGenerationVersion = 10;
+    CalDefaultCalendar = UseLastSelectedAsDefaultCalendar;
+    CalFirstVisibleDate = "2022-10-23 05:00:00 +0000";
+    CalForceTruthFileRestoreHashKey = 16A1;
+    CalUICanvasOccurrenceFontSize = 14;
+    CalendarListMiniMonthVisibleMonths = 1;
+    CalendarSidebarShown = 1;
+    CalendarSidebarView = 1;
+    CalendarSidebarWidth = 165;
+    CollapsedTopLevelNodes =     {
+        MainWindow =         (
+        );
+    };
+    DelegatesInSeparateWindows =     {
+    };
+    DisabledCalendars =     {
+        MainWindow =         (
+            "2B5EECB2-9CF1-41B5-9C1D-58E138463416",
+            "3C772037-2C2A-46B1-9B02-2CB2F816BAB8",
+            "1766407C-822C-43A3-BDC2-6C6B6B850EBB",
+            "AF25154D-EF59-4A13-A87E-66837A4F9A34",
+            "83E25C7B-24E2-4D22-AEDE-13E2006C1034",
+            "EDDE3760-C613-4111-81B3-21096960EF8E",
+            "3CC6FF15-6DDE-42C4-A03E-F345CD3EA196"
+        );
+    };
+    LastCheckForIgnoredPseudoEvents = "688689673.915771";
+    LastReminderMigrationCleanupVersion = 1;
+    LastSaveDate = "2022-09-12 16:01:09 +0000";
+    NSDontMakeMainWindowKey = NO;
+    NSEventConcurrentProcessingEnabled = YES;
+    "NSSplitView Subview Frames CalendarSplitView" =     (
+        "0.000000, 0.000000, 180.000000, 875.000000, NO, NO",
+        "181.000000, 0.000000, 1419.000000, 875.000000, NO, NO",
+        "840.000000, 0.000000, 240.000000, 910.000000, YES, NO"
+    );
+    "NSWindow Frame 1FC9EA3D-2818-4929-89F9-CBE1A715A2DD" = "-1071 1708 315 770 -1080 238 1080 1897 ";
+    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "-1088 1510 428 137 -1845 1120 1920 1055 ";
+    "NSWindow Frame iCal" = "-1760 90 1600 875 0 0 1792 1095 ";
+    OwnerEmailAddress =     (
+        "jaroddeweese@gmail.com",
+        "jarod.deweese@zoom.us"
+    );
+    RecentlyUsedTimeZones =     (
+        "America/New_York"
+    );
+    RemindersLastMigratedSystemVersion = 21G83;
+    SelectedEvents =     {
+        iCal =         (
+        );
+    };
+    TabbedWindowGroups =     (
+    );
+    "TimeZone support enabled" = 1;
+    "display birthdays calendar" = 1;
+    "first minute of day time range" = 0;
+    "first shown minute of day" = "528.9192886456908";
+    "iCal version" = 134217728;
+    icaluuid = "F332CAA5-5775-47EA-8D17-98B7C741C0B9";
+    "last calendar view description" = "7-day";
+    "last minute of day time range" = 1440;
+    "last selected calendar list item" = "66EC3A7C-E88E-408F-AD89-39D30A4E1AE5";
+    lastViewsTimeZone = "America/Chicago";
+    privacyPaneHasBeenAcknowledgedVersion = 4;
+    "view rects" =     {
+    };
 }

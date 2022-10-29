@@ -1,8 +1,11 @@
 {
+    "Accessibility.DisableCommandAndControl" =     {
+        Enabled = 0;
+    };
     "System.Find" =     {
         Enabled = 0;
     };
-    "System.StartCommandSearch" =     {
+    "System.PressItemWithoutPrefix" =     {
         Enabled = 0;
     };
 }

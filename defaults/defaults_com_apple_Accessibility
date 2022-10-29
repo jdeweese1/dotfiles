@@ -1,6 +1,8 @@
 {
     AXSClassicInvertColorsPreference = 0;
+    AccessibilityEnabled = 0;
     ApplicationAccessibilityEnabled = 0;
+    AssistiveTouchScannerEnabled = 0;
     AutomationEnabled = 0;
     BrailleInputDeviceConnected = 0;
     CommandAndControlEnabled = 0;
