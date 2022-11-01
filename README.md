@@ -2,7 +2,7 @@ My Dotfiles
 ===========
 
 # TODO
-pipx, pipx install virtualenvwrapper, virtualenv
+pipx, pipx install virtualenvwrapper, virtualenv, isort
 
 This is my personal dotfiles. They are managed using:
 
