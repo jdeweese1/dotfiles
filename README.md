@@ -1,6 +1,9 @@
 My Dotfiles
 ===========
 
+# TODO
+pipx, pipx install virtualenvwrapper, virtualenv
+
 This is my personal dotfiles. They are managed using:
 
 - [Ansible][1]: Ansible is the simplest way to automate apps and IT infrastructure.
