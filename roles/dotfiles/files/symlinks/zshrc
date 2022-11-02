@@ -197,3 +197,21 @@ eval $(thefuck --alias f)
 function cd {
     builtin cd "$@" && ls -F
     }
+
+if [ -d ~/.customrc ]; then
+  for files in $(find ~/.customrc -maxdepth 1 -type f); do
+    source $files
+  done
+# else
+#   echo Nothing here
+fi
+
+#[ -d "~/.customrc" ] && for f in ~/.customrc/.*; do source $f; echo $f; done
+# echo "about to check"
+# if [ -d "~/.customrc" ] then
+#     echo "exists"
+#     for f in ~/.customrc/*;
+#     do
+#         source $f
+#     done
+# fi
