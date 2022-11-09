@@ -191,7 +191,9 @@ alias subl='open -a Sublime\ Text.app'
 eval "$(direnv hook zsh)"
 
 eval $(thefuck --alias f)
-[ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
+
+# autojump
+[ -f /opt/homebrew/etc/profile.d/autojump.sh ] && . /opt/homebrew/etc/profile.d/autojump.sh
 
 [ -z "$PS1" ] && return # make the following only bind in interactive mode ie prompt
 function cd {
