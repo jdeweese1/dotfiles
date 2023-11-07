@@ -6,7 +6,7 @@
 	name = Jarod DeWeese
 	email = 'jaroddeweese@gmail.com'
 [core]
-    editor = code --wait
+	editor = nano
     excludesfile = ~/.gitignore
 [alias]
     st = status
@@ -31,6 +31,7 @@
     gitnub-path = /usr/local/bin/git
 [push]
 	default = simple
+	autoSetupRemote = true
 [merge]
 	ff = only
 [pager]
