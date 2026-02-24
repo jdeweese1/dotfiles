@@ -33,7 +33,7 @@ Installation
 
 5. Install all the things
 
-        $ git clone https://github.com/epicserve/dotfiles.git .dotfiles && cd ~/.dotfiles && make install
+        $ git clone https://github.com/jdeweese1/dotfiles.git .dotfiles && cd ~/.dotfiles && make install
 
 6. Change your default shell
 
